@@ -24688,7 +24688,7 @@ B.HYE10641,20.585302,106.231742,Hung Ha,Thái Bình,Xã Hưng Hà,Tỉnh Hưng Y
 B.CTH00032,10.84349,106.8423,Quan 9,Ho Chi Minh,Phường Long Bình,Thành phố Hồ Chí Minh,,
 B.PTH13421,20.48766,105.4478,Lac Son,Hòa Bình,Xã Yên Phú,Tỉnh Phú Thọ,,
 B.LSO00023,21.626797,106.560188,Chi Lang,Lạng Sơn,Xã Chi Lăng,Tỉnh Lạng Sơn,,
-B.BTR00059,10.263796,106.350958,Ben Tre,Bến Tre,Phường Sơn Đông,Tỉnh Vĩnh Long,,
+B.BTR00059,10.263796,106.350958,Ben Tre,Bến Tre,Phường Sơn Đông,Tỉnh Vĩnh Long, MTay, Lê Minh Tiến
 B.QNI10653,20.582879,106.55483,Thai Thuy,Thái Bình,Xã Thái Thuỵ,Tỉnh Hưng Yên,,
 B.GLA10020,13.953837,108.01379,Pleiku,Gia Lai,Phường Hội Phú,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 B.TNG10526,21.614528,105.642694,Dai Tu,Thái Nguyên,Xã Đại Từ,Tỉnh Thái Nguyên,,
@@ -27224,7 +27224,7 @@ B.NAN10736,18.689804,105.624165,Hung Nguyen,Nghệ An,Xã Hưng Nguyên,Tỉnh N
 B.PTH11317,21.258419,105.292151,Tam Nong,Phú Thọ,Xã Tam Nông,Tỉnh Phú Thọ,,
 B.HCM12781,10.74444,106.617745,Binh Tan,Ho Chi Minh,Phường An Lạc,Thành phố Hồ Chí Minh,HCM,Lư Diệu Thuận
 B.HNO14644,21.040781,105.824427,Ba Dinh,Hà Nội	,Phường Ngọc Hà,Thành phố Hà Nội,,
-B.DLA10695,13.000205,109.328529,Dong Hoa,Phú Yên,Phường Đông Hoà,Tỉnh Đắk Lắk,,
+B.DLA10695,13.000205,109.328529,Dong Hoa,Phú Yên,Phường Đông Hoà,Tỉnh Đắk Lắk,KV không quản lý, Khánh Hòa
 B.HCM14658,11.072694,106.682913,Thu Dau Mot,Bình Dương,Phường Bình Dương,Thành phố Hồ Chí Minh,KV không quản lý,Bình Dương
 B.PYE00105,13.085671,108.954,Son Hoa,Phú Yên,Xã Sơn Hoà,Tỉnh Đắk Lắk,Tây Nguyên,Phú Yên
 B.HPH12364,20.975533,106.148758,Cam Giang,Hưng Yên,Xã Cẩm Giàng,Thành phố Hải Phòng,,
@@ -35825,7 +35825,7 @@ B.HYE00219,20.844486,105.983589,Khoai Chau,Hưng Yên,Xã Triệu Việt Vương
 B.THO12073,19.723396,105.729345,Quang Xuong,Thanh Hóa,Xã Quảng Yên,Tỉnh Thanh Hoá,,
 B.HCM01418,10.760164,106.680901,Quan 5,Ho Chi Minh,Phường Chợ Quán,Thành phố Hồ Chí Minh,HCM,Lư Diệu Thuận
 B.DTH11225,10.820933,105.515342,Tan Hong,Đồng Tháp,Xã An Phước,Tỉnh Đồng Tháp,KV không quản lý,Nguyễn Hoàng Độ
-B.VLO10687,10.2051844,106.3261492,Mo Cay Bac,Bến Tre,Xã Tân Thành Bình,Tỉnh Vĩnh Long,,
+B.VLO10687,10.2051844,106.3261492,Mo Cay Bac,Bến Tre,Xã Tân Thành Bình,Tỉnh Vĩnh Long, MTay, Lê Minh Tiến
 B.VLO10018,9.880776,106.610359,Thanh Phu,Bến Tre,Xã Thạnh Phong,Tỉnh Vĩnh Long,Mtay,Lê Minh Tiến
 B.QNI10907,21.036793,106.993457,Hoanh Bo,Quảng Ninh,Phường Hoành Bồ,Tỉnh Quảng Ninh,,
 B.HPH11291,21.03113,106.530211,Kinh Mon,Hải Dương,Phường Nhị Chiểu,Thành phố Hải Phòng,,
@@ -44466,7 +44466,7 @@ B.LDO11085,11.501638,107.74461,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉ
 B.HNO15538,21.03352,105.413132,Ba Vi,Hà Nội	,Xã Yên Bài,Thành phố Hà Nội,,
 B.PTH13369,21.38666,105.610165,Tam Dao,Vĩnh Phúc,Xã Tam Đảo,Tỉnh Phú Thọ,,
 B.DLA11452,12.635986,108.11929,Cu Kuin,Đắk Lắk,Xã Ea Ktur,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Lắk
-B.DNI00598,10.980964,106.9599319,Trang Bom,Đồng Nai,Xã Bình Minh,Thành phố Đồng Nai,,
+B.DNI00598,10.980964,106.9599319,Trang Bom,Đồng Nai,Xã Bình Minh,Thành phố Đồng Nai,DNI-BPH, Ngô Văn Cảnh
 B.QNI10851,21.103795,106.643618,Dong Trieu,Quảng Ninh,Phường Bình Khê,Tỉnh Quảng Ninh,,
 B.PTH11627,21.136691,105.21522,Thanh Son,Phú Thọ,Xã Võ Miếu,Tỉnh Phú Thọ,,
 B.LDO00033,11.495114,107.488365,Da Teh,Lâm Đồng,Xã Đạ Tẻh 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -49191,7 +49191,7 @@ C.DNA0054,16.126768,108.013687,Hoa Vang,Đà Nẵng,Phường Hải Vân,Thành 
 C.QNA0061,15.70342,107.784401,Nam Giang,Quảng Nam,Xã Bến Giằng,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
 C.QNA0073,15.669604,108.211021,Que Son,Quảng Nam,Xã Quế Sơn,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
 C.QNA0070,15.578069,108.481094,Tam Ky,Quảng Nam,Phường Bàn Thạch,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
-C.QNA0072,15.507952,108.324005,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
+C.QNA0072,15.507952,108.324005,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,NBùi Tấn Sơn
 C.DNA0059,16.025291,108.22039,Hai Chau,Đà Nẵng,Phường Hoà Cường,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 C.DNA0060,16.094189,108.242477,Son Tra,Đà Nẵng,Phường Sơn Trà,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
 C.DNA0058,16.071648,108.20932,Thanh Khe,Đà Nẵng,Phường Thanh Khê,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
@@ -49199,11 +49199,11 @@ C.QNA0076,15.557378,108.483925,Tam Ky,Quảng Nam,Phường Tam Kỳ,Thành ph�
 C.QNA0075,15.566591,108.470024,Tam Ky,Quảng Nam,Phường Tam Kỳ,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 C.DNA0057,16.056631,108.173103,Cam Le,Đà Nẵng,Phường An Khê,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 C.DNA0061,16.020994,108.198524,Cam Le,Đà Nẵng,Phường Cẩm Lệ,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
-C.QNA0077,15.482711,108.314262,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
+C.QNA0077,15.482711,108.314262,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 C.DNA0062,16.089363,108.244736,Son Tra,Đà Nẵng,Phường Sơn Trà,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
 C.DNA0065,16.04133,108.215012,Hai Chau,Đà Nẵng,Phường Hoà Cường,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 C.DNA0064,16.020571,108.199783,Cam Le,Đà Nẵng,Phường Cẩm Lệ,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
-C.QNA0078,15.488885,108.304855,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
+C.QNA0078,15.488885,108.304855,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 C.DNA0072,16.086872,108.145508,Lien Chieu,Đà Nẵng,Phường Liên Chiểu,Thành phố Đà Nẵng,,
 C.DNA0071,16.086277,108.141357,Lien Chieu,Đà Nẵng,Phường Liên Chiểu,Thành phố Đà Nẵng,,
 C.DNA0068,16.004465,108.12175,Hoa Vang,Đà Nẵng,Xã Bà Nà,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
@@ -49225,9 +49225,9 @@ C.DNA0073,16.033751,108.213585,Cam Le,Đà Nẵng,Phường Cẩm Lệ,Thành ph
 C.DNA0087,16.042418,108.247948,Ngu Hanh Son,Đà Nẵng,Phường Ngũ Hành Sơn,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
 C.QNA0094,15.589289,108.466469,Tam Ky,Quảng Nam,Phường Bàn Thạch,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 C.DNA0086,16.021328,108.24585,Ngu Hanh Son,Đà Nẵng,Phường Ngũ Hành Sơn,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
-C.QNA0093,15.487077,108.310951,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
+C.QNA0093,15.487077,108.310951,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 C.QNA0090,15.444333,108.653328,Nui Thanh,Quảng Nam,Xã Núi Thành,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
-C.QNA0091,15.52092,108.367508,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
+C.QNA0091,15.52092,108.367508,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 C.QNA0088,15.830932,108.272881,Duy Xuyen,Quảng Nam,Xã Nam Phước,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
 C.QNA0096,15.568749,108.469055,Tam Ky,Quảng Nam,Phường Bàn Thạch,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 C.DNA0067,16.057264,108.240158,Son Tra,Đà Nẵng,Phường An Hải,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
@@ -49239,7 +49239,7 @@ C.DNA0091,16.005747,108.223,Cam Le,Đà Nẵng,Phường Hoà Xuân,Thành phố
 C.DNA0093,16.053089,108.165665,Lien Chieu,Đà Nẵng,Phường Hoà Khánh,Thành phố Đà Nẵng,,
 C.DNA0090,16.014675,108.201569,Cam Le,Đà Nẵng,Phường Cẩm Lệ,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
 C.HPH0191,15.15352,108.109062,Nam Tra My,Quảng Nam,Xã Trà Tập,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
-C.QNA0100,15.486973,108.310997,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
+C.QNA0100,15.486973,108.310997,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 C.DNA0089,15.882429,108.120804,Dai Loc,Quảng Nam,Xã Đại Lộc,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
 C.QNA0097,15.843703,108.280449,Duy Xuyen,Quảng Nam,Xã Nam Phước,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
 C.QNA0099,15.430548,108.61586,Nui Thanh,Quảng Nam,Xã Núi Thành,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
@@ -49303,7 +49303,7 @@ C.DNA0157,16.073019,108.161865,Lien Chieu,Đà Nẵng,Phường Hoà Khánh,Thà
 C.DNA0141,15.997241,108.133003,Hoa Vang,Đà Nẵng,Xã Hoà Vang,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 C.DNA0147,16.014578,108.254189,Ngu Hanh Son,Đà Nẵng,Phường Ngũ Hành Sơn,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
 C.DNA0152,16.081015,108.213989,Hai Chau,Đà Nẵng,Phường Hải Châu,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
-C.DNA0101,16.103186,108.120163,Lien Chieu,Đà Nẵng,Phường Hải Vân,Thành phố Đà Nẵng,,
+C.DNA0101,16.103186,108.120163,Lien Chieu,Đà Nẵng,Phường Hải Vân,Thành phố Đà Nẵng,KV không quản lý,ITS
 C.DNA0166,16.053949,108.218124,Hai Chau,Đà Nẵng,Phường Hoà Cường,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 C.DNA0123,16.048859,108.221069,Hai Chau,Đà Nẵng,Phường Hoà Cường,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 C.QNA0124,15.546941,108.482018,Tam Ky,Quảng Nam,Phường Tam Kỳ,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
@@ -49347,7 +49347,7 @@ C.DNA0193,16.049391,108.235062,Ngu Hanh Son,Đà Nẵng,Phường Ngũ Hành Sơ
 C.DNA0194,16.081676,108.235474,Son Tra,Đà Nẵng,Phường An Hải,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
 C.DNA0111,16.05385,108.173775,Cam Le,Đà Nẵng,Phường An Khê,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 C.DNA0174,16.017126,108.22934,Cam Le,Đà Nẵng,Phường Hoà Xuân,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
-C.DNA0191,15.485889,108.362167,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
+C.DNA0191,15.485889,108.362167,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 C.DNA0104,16.070444,108.188202,Thanh Khe,Đà Nẵng,Phường Thanh Khê,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 C.QNA0122,15.849073,108.228378,Dien Ban,Quảng Nam,Xã Gò Nổi,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
 C.DNA0181,16.081791,108.159737,Lien Chieu,Đà Nẵng,Phường Hoà Khánh,Thành phố Đà Nẵng,KV không quản lý,ITS
@@ -49473,8 +49473,8 @@ C.DNA10246,15.426959,108.664253,Nui Thanh,Quảng Nam,Xã Núi Thành,Thành ph�
 C.DNA10247,16.071281,108.222679,Hai Chau,Đà Nẵng,Phường Hải Châu,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 C.DNA10248,15.886325,108.321617,Hoi An,Quảng Nam,Phường Hội An Tây,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
 C.AC000405,16.114904,108.130219,Lien Chieu,Đà Nẵng,Phường Hải Vân,Thành phố Đà Nẵng,,
-C.AC000404,16.065554,108.158142,Lien Chieu,Đà Nẵng,Phường Hoà Khánh,Thành phố Đà Nẵng,,
-C.DNA10192,15.480591,108.31897,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
+C.AC000404,16.065554,108.158142,Lien Chieu,Đà Nẵng,Phường Hoà Khánh,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
+C.DNA10192,15.480591,108.31897,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 C.DNA10059,16.024139,108.23349,Cam Le,Đà Nẵng,Phường Hoà Xuân,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
 C.DNA10138,16.021496,108.21077,Cam Le,Đà Nẵng,Phường Cẩm Lệ,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
 C.DNA10151,16.018091,108.198723,Cam Le,Đà Nẵng,Phường Cẩm Lệ,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
@@ -49486,7 +49486,7 @@ C.DNA10156,16.02224,108.143097,Hoa Vang,Đà Nẵng,Xã Bà Nà,Thành phố Đ�
 C.DNA10157,16.00635,108.173141,Cam Le,Đà Nẵng,Phường Cẩm Lệ,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
 C.DNA10069,16.07585,108.215164,Hai Chau,Đà Nẵng,Phường Hải Châu,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 C.DNA10058,16.044678,108.148315,Lien Chieu,Đà Nẵng,Phường Hoà Khánh,Thành phố Đà Nẵng,,
-C.DNA10061,15.490474,108.304146,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
+C.DNA10061,15.490474,108.304146,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 C.DNA10170,16.022505,108.224045,Cam Le,Đà Nẵng,Phường Hoà Xuân,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
 C.DNA10080,16.072315,108.232979,Son Tra,Đà Nẵng,Phường An Hải,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
 C.DNA10159,16.034353,108.218163,Hai Chau,Đà Nẵng,Phường Hoà Cường,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
@@ -49539,7 +49539,7 @@ C.DNA10095,16.089827,108.083809,Hoa Vang,Đà Nẵng,Phường Liên Chiểu,Th�
 C.DNA10391,15.98582,108.228531,Ngu Hanh Son,Đà Nẵng,Phường Ngũ Hành Sơn,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
 C.DNA10364,15.980342,108.219696,Cam Le,Đà Nẵng,Phường Hoà Xuân,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
 C.DNA10338,15.98582,108.228531,Ngu Hanh Son,Đà Nẵng,Phường Ngũ Hành Sơn,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
-C.DNA00288,16.052118,108.102379,Hoa Vang,Đà Nẵng,Phường Hoà Khánh,Thành phố Đà Nẵng,,
+C.DNA00288,16.052118,108.102379,Hoa Vang,Đà Nẵng,Phường Hoà Khánh,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 C.DNA10137,15.554843,108.499924,Tam Ky,Quảng Nam,Phường Hương Trà,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 C.DNA10374,15.95804,108.221016,Hoa Vang,Đà Nẵng,Phường Hoà Xuân,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
 C.DNA10368,16.0208,108.207085,Cam Le,Đà Nẵng,Phường Cẩm Lệ,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
@@ -49584,7 +49584,7 @@ C.DNA10481,16.049234,108.245499,Ngu Hanh Son,Đà Nẵng,Phường Ngũ Hành S�
 C.DNA10559,16.018068,108.227547,Cam Le,Đà Nẵng,Phường Hoà Xuân,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
 C.DNA10484,16.070419,108.159286,Lien Chieu,Đà Nẵng,Phường Hoà Khánh,Thành phố Đà Nẵng,,
 C.DNA10534,15.77219,108.335648,Que Son,Quảng Nam,Xã Xuân Phú,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
-C.DNA10425,15.480578,108.318993,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
+C.DNA10425,15.480578,108.318993,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 C.DNA10537,16.02733,108.213158,Cam Le,Đà Nẵng,Phường Cẩm Lệ,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
 C.DNA10538,15.889299,108.247459,Dien Ban,Quảng Nam,Phường Điện Bàn,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
 C.DNA10535,16.03657,108.175102,Cam Le,Đà Nẵng,Phường An Khê,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
@@ -49709,7 +49709,7 @@ B.DNA10245,16.035856,108.230242,Hai Chau,Đà Nẵng,Phường Hoà Cường,Th�
 B.DNA10324,15.584273,108.467691,Tam Ky,Quảng Nam,Phường Bàn Thạch,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 B.DNA10094,16.098277,108.141503,Lien Chieu,Đà Nẵng,Phường Hải Vân,Thành phố Đà Nẵng,,
 B.QNA00124,15.546941,108.482018,Tam Ky,Quảng Nam,Phường Tam Kỳ,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
-B.QNA00091,15.52092,108.367508,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
+B.QNA00091,15.52092,108.367508,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 B.DNA10224,16.104844,108.119569,Lien Chieu,Đà Nẵng,Phường Hải Vân,Thành phố Đà Nẵng,,
 B.QNA00052,15.586691,108.125694,Hiep Duc,Quảng Nam,Xã Hiệp Đức,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
 B.DNA00136,16.064829,108.195168,Thanh Khe,Đà Nẵng,Phường Thanh Khê,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
@@ -49741,7 +49741,7 @@ B.DNA10394,16.020948,108.210507,Cam Le,Đà Nẵng,Phường Cẩm Lệ,Thành p
 B.DNA00268,15.982781,108.208075,Hoa Vang,Đà Nẵng,Phường Hoà Xuân,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
 B.DNA00163,16.062574,108.157478,Lien Chieu,Đà Nẵng,Phường Hoà Khánh,Thành phố Đà Nẵng,KV không quản lý,ITS
 B.QNA00037,15.785498,108.408577,Thang Binh,Quảng Nam,Xã Thăng An,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
-B.QNA00072,15.507952,108.324005,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
+B.QNA00072,15.507952,108.324005,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 B.DNA00204,16.035824,108.231697,Hai Chau,Đà Nẵng,Phường Hoà Cường,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 B.DNA10181,16.073325,108.241138,Son Tra,Đà Nẵng,Phường An Hải,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
 B.DNA10018,15.582334,108.10774,Hiep Duc,Quảng Nam,Xã Hiệp Đức,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
@@ -49751,8 +49751,8 @@ B.DNA00041,16.01915,108.253197,Ngu Hanh Son,Đà Nẵng,Phường Ngũ Hành Sơ
 B.DNA00169,16.076138,108.177139,Thanh Khe,Đà Nẵng,Phường Thanh Khê,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 B.DNA10165,15.567201,108.491529,Tam Ky,Quảng Nam,Phường Tam Kỳ,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 B.DNA10150,16.133395,108.117812,Lien Chieu,Đà Nẵng,Phường Hải Vân,Thành phố Đà Nẵng,,
-B.DNA10026,15.486078,108.362637,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
-B.DNA10474,15.490285,108.365122,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
+B.DNA10026,15.486078,108.362637,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
+B.DNA10474,15.490285,108.365122,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 B.QNA00135,15.569664,108.4645,Tam Ky,Quảng Nam,Phường Bàn Thạch,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 B.QNA00036,15.785498,108.408577,Thang Binh,Quảng Nam,Xã Thăng An,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
 B.QNA00071,15.927159,108.050476,Dai Loc,Đà Nẵng,Xã Đại Lộc,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
@@ -49788,7 +49788,7 @@ B.DNA10057,15.885202,108.184555,Dien Ban,Quảng Nam,Xã Điện Bàn Tây,Thàn
 B.DNA10273,16.013247,108.25597,Ngu Hanh Son,Đà Nẵng,Phường Ngũ Hành Sơn,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
 B.DNA00297,16.015495,108.222656,Cam Le,Đà Nẵng,Phường Hoà Xuân,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
 B.DNA00186,16.06767,108.240019,Son Tra,Đà Nẵng,Phường An Hải,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
-B.DNA10475,15.486247,108.311262,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
+B.DNA10475,15.486247,108.311262,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 B.DNA00047,15.993195,108.269356,Ngu Hanh Son,Đà Nẵng,Phường Ngũ Hành Sơn,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
 B.DNA10267,16.09176,108.106698,Hoa Vang,Đà Nẵng,Phường Liên Chiểu,Thành phố Đà Nẵng,,
 B.DNA00174,16.017126,108.22934,Cam Le,Đà Nẵng,Phường Hoà Xuân,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
@@ -49842,7 +49842,7 @@ B.DNA10065,16.03535,108.2329,Hai Chau,Đà Nẵng,Phường Hoà Cường,Thành
 B.DNA00032,16.006195,108.265701,Ngu Hanh Son,Đà Nẵng,Phường Ngũ Hành Sơn,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
 B.DNA10268,15.982781,108.208075,Hoa Vang,Đà Nẵng,Phường Hoà Xuân,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
 B.DNA00007,16.005541,108.266151,Ngu Hanh Son,Đà Nẵng,Phường Ngũ Hành Sơn,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
-B.DNA10255,15.520903,108.367538,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
+B.DNA10255,15.520903,108.367538,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 B.QNA00027,15.846122,107.988052,Dai Loc,Quảng Nam,Xã Hà Nha,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
 B.QNA00041,15.756846,108.347389,Thang Binh,Quảng Nam,Xã Thăng Bình,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
 B.DNA00246,15.426782,108.6643,Nui Thanh,Quảng Nam,Xã Núi Thành,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
@@ -49873,7 +49873,7 @@ B.DNA10076,16.040803,108.239972,Ngu Hanh Son,Đà Nẵng,Phường Ngũ Hành S�
 B.DNA10246,16.033,108.22,Hai Chau,Đà Nẵng,Phường Hoà Cường,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 B.QNA00013,15.86058,108.121185,Dai Loc,Quảng Nam,Xã Đại Lộc,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
 B.DNA10171,16.066987,108.240399,Son Tra,Đà Nẵng,Phường An Hải,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
-B.DNA00192,15.4806,108.319,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
+B.DNA00192,15.4806,108.319,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 B.KHO00040,16.071417,108.230171,Son Tra,Đà Nẵng,Phường An Hải,Thành phố Đà Nẵng,,
 B.QNA00017,15.886985,108.3675,Hoi An,Quảng Nam,Phường Hội An Đông,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
 B.QNA00038,15.880931,108.039886,Dai Loc,Quảng Nam,Xã Hà Nha,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
@@ -49887,7 +49887,7 @@ B.DNA10027,15.342541,108.22194,Bac Tra My,Quảng Nam,Xã Trà My,Thành phố �
 B.DNA00143,15.955673,108.213219,Hoa Vang,Đà Nẵng,Phường Hoà Xuân,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
 B.DNA10022,15.856686,108.37871,Duy Xuyen,Quảng Nam,Xã Duy Nghĩa,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
 B.DNA10024,15.687201,108.252123,Que Son,Quảng Nam,Xã Quế Sơn Trung,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
-B.DNA10242,15.480556,108.318972,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
+B.DNA10242,15.480556,108.318972,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 B.DNA10039,15.525337,108.42267,Phu Ninh,Quảng Nam,Xã Phú Ninh,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
 B.DNA10549,15.58916,108.36261,Phu Ninh,Quảng Nam,Xã Tây Hồ,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
 B.DNA10164,16.055599,108.236,Son Tra,Đà Nẵng,Phường An Hải,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
@@ -49896,7 +49896,7 @@ B.DNA10566,16.017152,108.226753,Cam Le,Đà Nẵng,Phường Hoà Xuân,Thành p
 B.DNA00249,16.005753,108.241,Ngu Hanh Son,Đà Nẵng,Phường Ngũ Hành Sơn,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
 B.DLA10339,16.071417,108.230171,Son Tra,Đà Nẵng,Phường An Hải,Thành phố Đà Nẵng,Tây Nguyên,Đắk Lắk
 B.DNA00096,16.025146,108.209236,Cam Le,Đà Nẵng,Phường Cẩm Lệ,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
-B.DNA10061,15.490417,108.304011,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
+B.DNA10061,15.490417,108.304011,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 B.DNA00026,15.982575,108.205559,Hoa Vang,Đà Nẵng,Phường Hoà Xuân,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
 B.DNA00200,16.051072,108.237834,Ngu Hanh Son,Đà Nẵng,Phường Ngũ Hành Sơn,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
 B.DNA10463,15.58304,108.413204,Phu Ninh,Quảng Nam,Xã Tây Hồ,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
@@ -49911,7 +49911,7 @@ B.DNA00306,15.148272,108.12264,Nam Tra My,Quảng Nam,Xã Nam Trà My,Thành ph�
 B.DNA10050,15.638578,108.430581,Thang Binh,Quảng Nam,Xã Thăng Điền,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
 B.DNA00266,16.06872,108.107073,Hoa Vang,Đà Nẵng,Phường Hoà Khánh,Thành phố Đà Nẵng,,
 B.DNA00199,16.030956,108.212563,Cam Le,Đà Nẵng,Phường Cẩm Lệ,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
-B.DNA10192,15.4806,108.319,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
+B.DNA10192,15.4806,108.319,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 B.DNA10034,15.719382,108.059844,Nong Son,Quảng Nam,Xã Nông Sơn,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
 B.DNA10271,16.060341,108.213959,Hai Chau,Đà Nẵng,Phường Hải Châu,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 B.DNA00228,16.07065,108.237225,Son Tra,Đà Nẵng,Phường An Hải,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
@@ -49923,7 +49923,7 @@ B.DNA10437,16.018209,108.251796,Ngu Hanh Son,Đà Nẵng,Phường Ngũ Hành S�
 B.DNA10227,15.558112,108.487791,Tam Ky,Quảng Nam,Phường Tam Kỳ,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 B.DNA10254,15.887,108.290742,Hoi An,Quảng Nam,Phường Hội An Tây,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
 B.QNA00097,15.84354,108.2793,Duy Xuyen,Quảng Nam,Xã Nam Phước,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
-B.DNA10561,16.030956,108.212563,Cam Le,Đà Nẵng,Phường Cẩm Lệ,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
+B.DNA10561,16.030956,108.212563,Cam Le,Đà Nẵng,Phường Cẩm Lệ,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 B.DNA00123,16.048859,108.221069,Hai Chau,Đà Nẵng,Phường Hoà Cường,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 B.DNA00035,16.038834,108.211327,Hai Chau,Đà Nẵng,Phường Hoà Cường,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 B.DNA00039,16.085051,108.238701,Son Tra,Đà Nẵng,Phường An Hải,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
@@ -49941,14 +49941,14 @@ B.DNA10207,15.550564,108.49257,Tam Ky,Quảng Nam,Phường Hương Trà,Thành 
 B.QNA00016,15.903842,108.329613,Hoi An,Quảng Nam,Phường Hội An Tây,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
 B.DNA10544,15.588335,108.418436,Phu Ninh,Quảng Nam,Xã Tây Hồ,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
 B.DLA10078,16.071417,108.230171,Son Tra,Đà Nẵng,Phường An Hải,Thành phố Đà Nẵng,Tây Nguyên,Đắk Lắk
-B.DNA00091,15.52092,108.367508,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
+B.DNA00091,15.52092,108.367508,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 B.DNA10085,15.679667,108.243225,Que Son,Quảng Nam,Xã Quế Sơn Trung,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
 B.DNA00175,16.009647,108.221062,Cam Le,Đà Nẵng,Phường Hoà Xuân,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
 B.DNA00045,16.00432,108.207161,Hoa Vang,Đà Nẵng,Phường Hoà Xuân,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
 B.DNA10185,16.06758,108.244296,Son Tra,Đà Nẵng,Phường An Hải,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
 B.DNA00059,16.025291,108.22039,Hai Chau,Đà Nẵng,Phường Hoà Cường,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 B.QTR10070,16.071417,108.230171,Son Tra,Đà Nẵng,Phường An Hải,Thành phố Đà Nẵng,,
-B.DNA00191,15.485973,108.362204,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
+B.DNA00191,15.485973,108.362204,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 B.DNA00111,16.05385,108.173775,Cam Le,Đà Nẵng,Phường An Khê,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 B.QTR10114,16.071417,108.230171,Son Tra,Đà Nẵng,Phường An Hải,Thành phố Đà Nẵng,,
 B.QNA00043,15.546973,108.520065,Nui Thanh,Quảng Nam,Xã Tam Xuân,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
@@ -50032,7 +50032,7 @@ B.DNA10312,16.00354,108.22577,Cam Le,Đà Nẵng,Phường Hoà Xuân,Thành ph�
 B.QNA00055,15.931854,108.224922,Dien Ban,Quảng Nam,Phường An Thắng,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
 B.QNA00024,15.935318,108.255013,Dien Ban,Quảng Nam,Phường Điện Bàn Đông,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
 B.QNA00050,15.92597,108.303398,Dien Ban,Quảng Nam,Phường Điện Bàn Đông,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
-B.DNA10325,16.033638,108.213623,Cam Le,Đà Nẵng,Phường Cẩm Lệ,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
+B.DNA10325,16.033638,108.213623,Cam Le,Đà Nẵng,Phường Cẩm Lệ,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 B.DNA10253,15.842538,108.279356,Duy Xuyen,Quảng Nam,Xã Nam Phước,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
 B.DNA10056,15.485961,108.30356,Tien Phuoc,Quảng Nam,Xã Thạnh Bình,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
 B.DNA00236,15.58483,108.46441,Tam Ky,Quảng Nam,Phường Bàn Thạch,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
