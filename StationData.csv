@@ -48970,7 +48970,7 @@ B.LDO13139,107.764687,11.530812,Muong Te,Lai Châu,Xã Thu Lũm,Tỉnh Lai Châu
 B.LDO13138,107.765999,11.532084,Muong Te,Lai Châu,Xã Thu Lũm,Tỉnh Lai Châu,,
 B.LDO13143,107.769279,11.540442,Muong Te,Lai Châu,Xã Thu Lũm,Tỉnh Lai Châu,,
 B.LDO13147,107.773941,11.513976,Muong Te,Lai Châu,Xã Thu Lũm,Tỉnh Lai Châu,,
-B.LDO12544,107.786814,11.547055,Muong Te,Lai Châu,Xã Thu Lũm,Tỉnh Lai Châu,,
+B.LDO12544,107.786814,11.547055,Muong Te,Lai Châu,Xã Thu Lũm,Tỉnh Lai Châu,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO13140,107.787062,11.545812,Muong Te,Lai Châu,Xã Thu Lũm,Tỉnh Lai Châu,,
 B.LDO13150,107.797916,11.557305,Muong Te,Lai Châu,Xã Thu Lũm,Tỉnh Lai Châu,,
 B.LDO12488,107.798353,11.540424,Muong Te,Lai Châu,Xã Thu Lũm,Tỉnh Lai Châu,,
@@ -50110,7 +50110,7 @@ DNA11047,15.471508,108.594218,Nui Thanh,Quảng Nam,Xã Tam Anh,Thành phố Đ�
 B.DNA10458,15.88236,108.3055,Hoi An,Quảng Nam,Phường Hội An Tây,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
 B.DNA10459,15.87654,108.3728,Hoi An,Quảng Nam,Phường Hội An Đông,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
 B.DNA10457,15.8762902,108.3391386,Hoi An,Quảng Nam,Phường Hội An,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
-B.DNA10596,16.0419672,108.193976,Hai Chau,Đà Nẵng,Phường Hoà Cường,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
+B.DNA10596,16.041073,108.238702,Hai Chau,Đà Nẵng,Phường Ngũ Hành Sơn,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
 B.DNA11067,15.442252,108.628686,Hai Chau,Đà Nẵng,Phường Hoà Cường,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 B.DNA10988,15.6788829,108.2723322,Que Son,Quảng Nam,Xã Quế Sơn Trung,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
 AC000003,,,,,,,HCM,Võ Anh Ngọc
@@ -50177,12 +50177,17 @@ LDO12785,,,,,,,LDO-BTH,Hứa Văn Thiện
 LDO12794,,,,,,,LDO-BTH,Hứa Văn Thiện
 LDO12796,,,,,,,LDO-BTH,Hứa Văn Thiện
 LDO12590,,,,,,,LDO-BTH,Hứa Văn Thiện
+LDO14324,,,,,,,LDO-BTH,Hứa Văn Thiện
+LDO14329,,,,,,,LDO-BTH,Hứa Văn Thiện
+LDO11681,,,,,,,LDO-BTH,Hứa Văn Thiện
 LDO1068,,,,,,,LDO-BTH,Nguyễn Quốc Phi
 LDO0269,,,,,,,LDO-BTH,Nguyễn Quốc Phi
 DO11494,,,,,,,LDO-BTH,Nguyễn Quốc Phi
+LDO11279,10.7542148,107.7929051,,,,,LDO-BTH,Nguyễn Quốc Phi
 CLDO0160,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
 LDO0274,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
+LDO14309,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
 LDO13365,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
 LDO12532,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
 LDO12867,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
