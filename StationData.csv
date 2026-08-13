@@ -32254,7 +32254,7 @@ B.LSO10270,21.892776,106.234551,Bac Son,Lạng Sơn,Xã Tân Tri,Tỉnh Lạng S
 B.DNI11671,10.913141,107.422569,Xuan Loc,Đồng Nai,Xã Xuân Hoà,Thành phố Đồng Nai,DNI-BPH,Đoàn Quốc Khánh
 B.HNO12268,21.025087,105.850392,Hoan Kiem,Hà Nội	,Phường Cửa Nam,Thành phố Hà Nội,,
 B.LDO11487,11.743249,108.193463,Lam Ha,Lâm Đồng,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO00237,10.725111,107.87,La Gi,Bình Thuận,Xã Tân Hải,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO00237,10.725111,107.87,La Gi,Bình Thuận,Xã Tân Hải,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.DNI00637,106.8423,10.84349,Muong Te,Lai Châu,Xã Thu Lũm,Tỉnh Lai Châu,DNI-BPH,Võ Hồng Khanh
 B.CMA10644,9.044201,104.839607,Tran Van Thoi,Cà Mau,Xã Sông Đốc,Tỉnh Cà Mau,,
 B.HCM11986,10.78797,106.612345,Binh Tan,Ho Chi Minh,Phường Bình Hưng Hoà,Thành phố Hồ Chí Minh,HCM,Lư Diệu Thuận
@@ -41735,7 +41735,7 @@ B.CBA10159,22.66504,106.25768,Cao Bang,Cao Bằng,Phường Thục Phán,Tỉnh 
 B.DNI10016,11.91896,107.072792,Bu Gia Map,Bình Phước,Xã Phú Nghĩa,Thành phố Đồng Nai,DNI-BPH,Võ Hồng Khanh
 B.LCA11072,22.371024,104.016785,Lao Cai,Lào Cai,Xã Hợp Thành,Tỉnh Lào Cai,,
 B.HCM14230,11.034111,106.62625,Thu Dau Mot,Bình Dương,Phường Phú An,Thành phố Hồ Chí Minh,KV không quản lý,Bình Dương
-B.LDO00236,10.663627,107.7682,La Gi,Bình Thuận,Phường La Gi,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO00236,10.663627,107.7682,La Gi,Bình Thuận,Phường La Gi,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.QTR10188,17.020797,106.9,Vinh Linh,Quảng Trị,Xã Bến Quan,Tỉnh Quảng Trị,,
 B.LDO00142,105.982,10.177204,Muong Te,Lai Châu,Xã Thu Lũm,Tỉnh Lai Châu,Tây Nguyên,Đắk Nông
 B.HPH11178,20.714322,106.312851,Ninh Giang,Hải Dương,Xã Khúc Thừa Dụ,Thành phố Hải Phòng,,
@@ -48290,8 +48290,8 @@ C.LDO00136,11.531522,107.786346,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,T�
 C.LDO00168,10.678653,107.753659,La Gi,Bình Thuận,Phường La Gi,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 C.LDO00192,12.178415,108.135535,Dam Rong,Đắk Lắk,Xã Đam Rông 3,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Lắk
 C.LDO00235,10.66236,107.77428,La Gi,Bình Thuận,Phường Phước Hội,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO00236,10.663627,107.7682,La Gi,Bình Thuận,Phường La Gi,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO00237,10.725111,107.87,La Gi,Bình Thuận,Xã Tân Hải,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO00236,10.663627,107.7682,La Gi,Bình Thuận,Phường La Gi,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
+C.LDO00237,10.725111,107.87,La Gi,Bình Thuận,Xã Tân Hải,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 C.LDO00238,10.684136,107.749932,La Gi,Bình Thuận,Phường La Gi,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 C.LDO00239,10.764803,107.712479,Ham Tan,Bình Thuận,Xã Hàm Tân,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO00240,10.843112,107.819494,Ham Thuan Nam,Bình Thuận,Xã Tân Lập,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
@@ -50221,4 +50221,4 @@ TNI4765,,,,,,,KV không quản lý,Võ Kim Lân
 TNI4770,,,,,,,KV không quản lý,Võ Kim Lân
 TNI4789,,,,,,,KV không quản lý,Võ Kim Lân
 TNI4815,,,,,,,KV không quản lý,Võ Kim Lân
-B.DNA11040,,,Phu Ninh,Quảng Nam,Xã Chiên Đàn,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
+B.DNA11040,15.5458364,108.4095454,Phu Ninh,Quảng Nam,Xã Chiên Đàn,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
