@@ -10362,7 +10362,7 @@ C.BGI3152,21.266609,106.229187,Yen Dung,Bắc Giang,Phường Tân Tiến,Tỉnh
 C.BGI3156,21.266613,106.229744,Yen Dung,Bắc Giang,Phường Tân Tiến,Tỉnh Bắc Ninh,,
 C.BGI3157,21.266615,106.229881,Yen Dung,Bắc Giang,Phường Tân Tiến,Tỉnh Bắc Ninh,,
 C.BGI3158,21.266615,106.230026,Yen Dung,Bắc Giang,Phường Tân Tiến,Tỉnh Bắc Ninh,,
-C.BGI3160,11.547263,106.901314,Dong Xoai,Bình Phước,Phường Bình Phước,Thành phố Đồng Nai,DNI-BPH,Huỳnh Thanh Long
+C.BGI3160,11.547263,106.901314,Dong Xoai,Bình Phước,Phường Bình Phước,Thành phố Đồng Nai,,
 C.BGI3161,21.266619,106.230438,Yen Dung,Bắc Giang,Phường Tân Tiến,Tỉnh Bắc Ninh,,
 C.BGI3164,21.266621,106.230858,Yen Dung,Bắc Giang,Phường Tân Tiến,Tỉnh Bắc Ninh,,
 C.BGI3186,21.266644,106.233917,Yen Dung,Bắc Giang,Phường Tân Tiến,Tỉnh Bắc Ninh,,
@@ -10401,7 +10401,7 @@ C.BGI3328,21.266785,106.253654,Yen Dung,Bắc Giang,Phường Tân An,Tỉnh B�
 C.BGI3330,21.266787,106.253929,Yen Dung,Bắc Giang,Phường Tân An,Tỉnh Bắc Ninh,,
 C.BGI3332,21.266788,106.254211,Yen Dung,Bắc Giang,Phường Tân An,Tỉnh Bắc Ninh,,
 C.BGI3336,21.266792,106.254768,Yen Dung,Bắc Giang,Phường Tân An,Tỉnh Bắc Ninh,,
-C.BGI3338,11.591914,106.885986,Dong Phu,Bình Phước,Xã Thuận Lợi,Thành phố Đồng Nai,DNI-BPH,Huỳnh Thanh Long
+C.BGI3338,11.591914,106.885986,Dong Phu,Bình Phước,Xã Thuận Lợi,Thành phố Đồng Nai,,
 C.BGI3345,21.266802,106.25602,Yen Dung,Bắc Giang,Phường Tân An,Tỉnh Bắc Ninh,,
 C.BGI3354,10.388548,107.109886,Vung Tau,Bà Rịa–Vũng Tàu,Phường Rạch Dừa,Thành phố Hồ Chí Minh,HCM,Thái Minh Hải
 C.BGI3357,21.266813,106.257683,Yen Dung,Bắc Giang,Phường Tân An,Tỉnh Bắc Ninh,,
@@ -35975,7 +35975,7 @@ B.HYE11954,20.630769,106.301023,Quynh Phu,Thái Bình,Xã Nguyễn Du,Tỉnh Hư
 B.DNI12286,11.342275,107.400704,Tan Phu,Đồng Nai,Xã Tà Lài,Thành phố Đồng Nai,DNI-BPH,Đoàn Quốc Khánh
 B.HTI11278,18.337214,105.860268,Thach Ha,Hà Tĩnh,Phường Hà Huy Tập,Tỉnh Hà Tĩnh,,
 B.LDO10452,12.20723,107.4623,Tuy Duc,Đắk Nông,Xã Tuy Đức,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
-B.DNI13016,11.589234,107.295451,Bu Dang,Lâm Đồng,Xã Phước Sơn,Thành phố Đồng Nai,LDO-BTH,Huỳnh Thanh Long
+B.DNI13016,11.589234,107.295451,Bu Dang,Lâm Đồng,Xã Phước Sơn,Thành phố Đồng Nai,DNI-BPH,Huỳnh Thanh Long
 B.HNO12051,20.975682,105.765254,Ha Dong,Hà Nội	,Phường Hà Đông,Thành phố Hà Nội,,
 B.LDO11037,10.842187,107.866032,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.BNI12274,21.214654,106.108966,Viet Yen,Bắc Ninh,Phường Nếnh,Tỉnh Bắc Ninh,,
@@ -50236,4 +50236,3 @@ UBNN_Xã Châu Phú_An Giang,10.457,105.123,,,,,Mtay,Huỳnh Đặng Tứ Khá
 CTH00084,10.147,105.601,,,,,Mtay, Nguyễn Quốc Cường
 CTH11223,10.165,105.625,,,,,Mtay, Nguyễn Quốc Cường
 B.DNI11336,11.0715,107.0275,,,,,DNI-BPH,Ngô Văn Cảnh
-
