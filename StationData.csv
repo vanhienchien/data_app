@@ -35975,7 +35975,7 @@ B.HYE11954,20.630769,106.301023,Quynh Phu,Thái Bình,Xã Nguyễn Du,Tỉnh Hư
 B.DNI12286,11.342275,107.400704,Tan Phu,Đồng Nai,Xã Tà Lài,Thành phố Đồng Nai,DNI-BPH,Đoàn Quốc Khánh
 B.HTI11278,18.337214,105.860268,Thach Ha,Hà Tĩnh,Phường Hà Huy Tập,Tỉnh Hà Tĩnh,,
 B.LDO10452,12.20723,107.4623,Tuy Duc,Đắk Nông,Xã Tuy Đức,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
-B.DNI13016,11.589234,107.295451,Bu Dang,Lâm Đồng,Xã Phước Sơn,Thành phố Đồng Nai,LDO-BTH,Nguyễn Hải Nguyên
+B.DNI13016,11.589234,107.295451,Bu Dang,Lâm Đồng,Xã Phước Sơn,Thành phố Đồng Nai,LDO-BTH,Huỳnh Thanh Long
 B.HNO12051,20.975682,105.765254,Ha Dong,Hà Nội	,Phường Hà Đông,Thành phố Hà Nội,,
 B.LDO11037,10.842187,107.866032,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.BNI12274,21.214654,106.108966,Viet Yen,Bắc Ninh,Phường Nếnh,Tỉnh Bắc Ninh,,
@@ -49909,7 +49909,7 @@ B.DNA10035,15.924666,107.649618,Dong Giang,Quảng Nam,Xã Đông Giang,Thành p
 B.DNA00306,15.148272,108.12264,Nam Tra My,Quảng Nam,Xã Nam Trà My,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 B.DNA10050,15.638578,108.430581,Thang Binh,Quảng Nam,Xã Thăng Điền,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
 B.DNA00266,16.06872,108.107073,Hoa Vang,Đà Nẵng,Phường Hoà Khánh,Thành phố Đà Nẵng,,
-B.DNA00199,16.030956,108.212563,Cam Le,Đà Nẵng,Phường Cẩm Lệ,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
+B.DNA00199,16.030956,108.212563,Cam Le,Đà Nẵng,Phường Cẩm Lệ,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
 B.DNA10192,15.4806,108.319,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 B.DNA10034,15.719382,108.059844,Nong Son,Quảng Nam,Xã Nông Sơn,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
 B.DNA10271,16.060341,108.213959,Hai Chau,Đà Nẵng,Phường Hải Châu,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
@@ -50178,7 +50178,10 @@ LDO12796,,,,,,,LDO-BTH,Hứa Văn Thiện
 LDO12590,,,,,,,LDO-BTH,Hứa Văn Thiện
 LDO14324,,,,,,,LDO-BTH,Hứa Văn Thiện
 LDO14329,,,,,,,LDO-BTH,Hứa Văn Thiện
-LDO11681,,,,,,,LDO-BTH,Hứa Văn Thiện
+LDO14233,,,,,,,LDO-BTH,Hứa Văn Thiện
+KHO10978,,,,,,,LDO-BTH,Nguyễn Thanh Tuấn
+LDO14325,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
+LDO11681,10.7347255,107.8731121,,,,,LDO-BTH,Hứa Văn Thiện
 LDO1068,,,,,,,LDO-BTH,Nguyễn Quốc Phi
 LDO0269,,,,,,,LDO-BTH,Nguyễn Quốc Phi
 DO11494,,,,,,,LDO-BTH,Nguyễn Quốc Phi
@@ -50228,7 +50231,7 @@ B.VLO11082,10.1942,105.9755,,,,,,
 B.AGI11039,10.306,105.405,,,,,,
 B.AGI11048,10.306028,105.197972,,,,,,
 B.AGI10419,10.35,105.05,,,,,,
-B.DLA11243,12.009088,108.148007,,,,,,
+B.DLA11243,12.009088,108.148007,,,,,Tây Nguyên, Đắk Nông
 UBNN_Xã Châu Phú_An Giang,10.457,105.123,,,,,,
 CTH00084,10.147,105.601,,,,,,
 CTH11223,10.165,105.625,,,,,,
