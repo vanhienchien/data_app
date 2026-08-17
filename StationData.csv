@@ -13971,7 +13971,7 @@ C.LDO10128,11.118822,108.046158,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,T�
 C.HCM00355,10.853766,106.722954,Thu Duc,Ho Chi Minh,Phường Hiệp Bình,Thành phố Hồ Chí Minh,HCM,Lư Diệu Thuận
 C.HTI10240,18.353336,105.919441,Ha Tinh,Hà Tĩnh,Phường Thành Sen,Tỉnh Hà Tĩnh,,
 C.CBA10006,22.507374,106.25856,Thach An,Cao Bằng,Xã Canh Tân,Tỉnh Cao Bằng,,
-C.BNI00338,21.354694,105.97892,Hiep Hoa,Bắc Giang,Xã Hiệp Hoà,Tỉnh Bắc Ninh,,
+C.BNI00338,21.354694,105.97892,Hiep Hoa,Bắc GiaLDO11279ng,Xã Hiệp Hoà,Tỉnh Bắc Ninh,,
 C.CTH10475,9.68878,105.571716,Long My,Hậu Giang,Phường Long Bình,Thành phố Cần Thơ,Mtay,Huỳnh Minh Triều
 C.LCA10147,21.715282,104.898529,Yen Bai,Yên Bái,Phường Yên Bái,Tỉnh Lào Cai,,
 C.THO10544,19.937258,105.449692,Tho Xuan,Thanh Hóa,Xã Thọ Lập,Tỉnh Thanh Hoá,,
@@ -50187,7 +50187,7 @@ LDO1068,,,,,,,LDO-BTH,Nguyễn Quốc Phi
 LDO0269,,,,,,,LDO-BTH,Nguyễn Quốc Phi
 DO11494,,,,,,,LDO-BTH,Nguyễn Quốc Phi
 LDO12790,,,,,,,LDO-BTH,Nguyễn Quốc Phi
-LDO11279,10.7542148,107.7929051,,,,,LDO-BTH,Nguyễn Quốc Phi
+LDO11279,10.7331045,107.8703028,,,,,LDO-BTH,Hứa Văn Thiện
 CLDO0160,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
 LDO0274,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
