@@ -49191,7 +49191,7 @@ C.QNA0061,15.70342,107.784401,Nam Giang,Quảng Nam,Xã Bến Giằng,Thành ph�
 C.QNA0073,15.669604,108.211021,Que Son,Quảng Nam,Xã Quế Sơn,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
 C.QNA0070,15.578069,108.481094,Tam Ky,Quảng Nam,Phường Bàn Thạch,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 C.QNA0072,15.507952,108.324005,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
-C.DNA0059,16.025291,108.22039,Hai Chau,Đà Nẵng,Phường Hoà Cường,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
+C.DNA0059,16.025291,108.22039,Hai Chau,Đà Nẵng,Phường Hoà Cường,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 C.DNA0060,16.094189,108.242477,Son Tra,Đà Nẵng,Phường Sơn Trà,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
 C.DNA0058,16.071648,108.20932,Thanh Khe,Đà Nẵng,Phường Thanh Khê,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 C.QNA0076,15.557378,108.483925,Tam Ky,Quảng Nam,Phường Tam Kỳ,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
@@ -50179,12 +50179,14 @@ LDO12590,,,,,,,LDO-BTH,Hứa Văn Thiện
 LDO14324,,,,,,,LDO-BTH,Hứa Văn Thiện
 LDO14329,,,,,,,LDO-BTH,Hứa Văn Thiện
 LDO14233,,,,,,,LDO-BTH,Hứa Văn Thiện
+LDO12389,,,,,,,LDO-BTH,Hứa Văn Thiện
 KHO10978,,,,,,,LDO-BTH,Nguyễn Thanh Tuấn
 LDO14325,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
 LDO11681,10.7347255,107.8731121,,,,,LDO-BTH,Hứa Văn Thiện
 LDO1068,,,,,,,LDO-BTH,Nguyễn Quốc Phi
 LDO0269,,,,,,,LDO-BTH,Nguyễn Quốc Phi
 DO11494,,,,,,,LDO-BTH,Nguyễn Quốc Phi
+LDO12790,,,,,,,LDO-BTH,Nguyễn Quốc Phi
 LDO11279,10.7542148,107.7929051,,,,,LDO-BTH,Nguyễn Quốc Phi
 CLDO0160,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
@@ -50195,6 +50197,8 @@ LDO12532,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
 LDO12867,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
 LDO13341,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
 LDO13245,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
+LDO12823,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
+LDO12783,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
 KHO10987,,,,,,,LDO-BTH,Nguyễn Thanh Tuấn
 KHO11315,,,,,,,LDO-BTH,Nguyễn Thanh Tuấn
 KHO10972,,,,,,,LDO-BTH,Nguyễn Thanh Tuấn
