@@ -2759,6 +2759,7 @@ B.AGI10663,9.541775,104.991803,An Minh,Cà Mau,Xã An Minh,Tỉnh An Giang,Mtay,
 C.CMA0077,9.046759,105.067757,Cai Nuoc,Cà Mau,Xã Lương Thế Trân,Tỉnh Cà Mau,Mtay,Chí Nguyện
 C.CMA0085,9.285886,105.203339,Thoi Binh,Cà Mau,Xã Tân Lộc,Tỉnh Cà Mau,Mtay,Chí Nguyện
 C.CMA0086,9.18725,104.820953,Tran Van Thoi,Cà Mau,Xã Đá Bạc,Tỉnh Cà Mau,Mtay,Chí Nguyện
+C.CMA10964,,,Tran Van Thoi,Cà Mau,Xã Đá Bạc,Tỉnh Cà Mau,Mtay,Chí Nguyện
 C.CMA0084,9.043819,104.835159,Tran Van Thoi,Cà Mau,Xã Sông Đốc,Tỉnh Cà Mau,Mtay,Chí Nguyện
 C.CMA0073,9.044159,104.839783,Tran Van Thoi,Cà Mau,Xã Sông Đốc,Tỉnh Cà Mau,Mtay,Chí Nguyện
 C.CMA0093,9.019018,105.287994,Dam Doi,Cà Mau,Xã Tân Thuận,Tỉnh Cà Mau,Mtay,Chí Nguyện
@@ -3679,6 +3680,7 @@ B.DLA11867,,,,,,,Tây Nguyên,Đắk Lắk
 B.DLA11093,,,,,,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Lắk
 B.DLA11451,,,Krong A Na,Đắk Lắk,Xã Ea Na,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Lắk
 B.DLA11243,12.009088,108.148007,,,,,Tây Nguyên,Đắk Nông
+B.LDO12584,,,,,,,Tây Nguyên,Đắk Nông
 C.DNO0005,11.99691,107.512642,Dak Rlap,Đắk Nông,Xã Kiến Đức,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 C.DLA0019,12.621908,107.956146,Buon Ma Thuot,Đắk Nông,Xã Hoà Phú,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Nông
 C.DNO0013,12.606372,107.914902,Cu Jut,Đắk Nông,Xã Cư Jút,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
@@ -4044,6 +4046,7 @@ C.DNI0112,11.081416,107.170753,Dinh Quan,Đồng Nai,Xã Thống Nhất,Thành p
 C.DNI0115,11.204658,107.336998,Dinh Quan,Đồng Nai,Xã Định Quán,Thành phố Đồng Nai,DNI-BPH,Đoàn Quốc Khánh
 C.DNI0116,11.172906,107.393051,Dinh Quan,Đồng Nai,Xã Định Quán,Thành phố Đồng Nai,DNI-BPH,Đoàn Quốc Khánh
 C.DNI0118,11.142756,107.228394,Dinh Quan,Đồng Nai,Xã La Ngà,Thành phố Đồng Nai,DNI-BPH,Đoàn Quốc Khánh
+C.DNI12269,,,Dinh Quan,Đồng Nai,Xã La Ngà,Thành phố Đồng Nai,DNI-BPH,Đoàn Quốc Khánh
 C.DNI0119,11.273157,107.375549,Dinh Quan,Đồng Nai,Xã Phú Vinh,Thành phố Đồng Nai,DNI-BPH,Đoàn Quốc Khánh
 C.DNI0120,11.348978,107.521484,Tan Phu,Đồng Nai,Xã Phú Lâm,Thành phố Đồng Nai,DNI-BPH,Đoàn Quốc Khánh
 C.DNI0132,10.906751,107.377754,Xuan Loc,Đồng Nai,Phường Xuân Lộc,Thành phố Đồng Nai,DNI-BPH,Đoàn Quốc Khánh
@@ -4446,12 +4449,16 @@ C.GLA0008,13.976425,108.479721,Dak Po,Gia Lai,Xã Đak Pơ,Tỉnh Gia Lai,Tây N
 C.GLA0015,14.166011,107.956253,Chu Pah,Gia Lai,Xã Chư Păh,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.GLA0012,13.577127,108.099808,Chu Puh,Gia Lai,Xã Ia Hrú,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.GLA0010,13.662765,108.11937,Chu Se,Gia Lai,Xã Chư Sê,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
+C.GLA11629,,,Chu Se,Gia Lai,Xã Chư Sê,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.GLA0013,13.759936,108.02832,Chu Se,Gia Lai,Xã Chư Sê,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.GLA0011,13.974888,108.734383,An Khe,Gia Lai,Xã Cửu An,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.GLA0019,13.391228,108.422989,Ayun Pa,Gia Lai,Xã Ia Rbol,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.GLA0021,14.085128,108.038696,Chu Pah,Gia Lai,Xã Biển Hồ,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.GLA0030,13.456178,108.092201,Chu Puh,Gia Lai,Xã Ia Le,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 B.GLA11136,,,Chu Prong,Gia Lai,Xã Bàu Cạn,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
+B.GLA11087,,,Chu Prong,Gia Lai,Xã Bàu Cạn,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
+B.GLA11084,,,Chu Prong,Gia Lai,Xã Bàu Cạn,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
+B.GLA11087,,,Chu Prong,Gia Lai,Xã Bàu Cạn,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.GLA0041,13.85776,107.928162,Chu Prong,Gia Lai,Xã Bàu Cạn,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.GLA0036,13.745993,107.860374,Chu Prong,Gia Lai,Xã Chư Prông,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.GLA0045,13.906575,108.015862,Pleiku,Gia Lai,Phường Hội Phú,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
@@ -4460,6 +4467,7 @@ C.GLA0047,14.044963,108.249504,Mang Yang,Gia Lai,Xã Mang Yang,Tỉnh Gia Lai,T�
 C.GLA0048,13.949191,107.82254,Ia Grai,Gia Lai,Xã Ia Grai,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.GLA0042,13.976274,108.056229,Pleiku,Gia Lai,Phường An Phú,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.GLA0043,13.926697,108.091789,Dak Doa,Gia Lai,Xã Ia Băng,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
+B.GLA11549,,,Dak Doa,Gia Lai,Xã Ia Băng,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.GLA0031,14.02408,107.866997,Ia Grai,Gia Lai,Xã Ia Hrung,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.GLA0038,14.12253,108.126297,Dak Doa,Gia Lai,Xã Kon Gang,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.GLA0049,13.72293,107.600403,Duc Co,Gia Lai,Xã Ia Nan,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
@@ -5283,6 +5291,7 @@ C.CMA0020,9.207212,105.071289,U Minh,Cà Mau,Xã Khánh An,Tỉnh Cà Mau,Mtay,H
 C.CMA0008,9.189178,105.139938,Ca Mau,Cà Mau,Phường An Xuyên,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 C.CMA0021,8.634889,105.013184,Ngoc Hien,Cà Mau,Xã Phan Ngọc Hiển,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 C.CMA0022,9.363014,105.097733,Thoi Binh,Cà Mau,Xã Thới Bình,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
+B.CMA10836,,,Thoi Binh,Cà Mau,Xã Thới Bình,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 C.CMA0023,9.197833,105.149445,Ca Mau,Cà Mau,Phường An Xuyên,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 C.CMA0024,9.184329,105.171089,Ca Mau,Cà Mau,Phường Tân Thành,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 C.CMA0025,9.119507,105.037216,Tran Van Thoi,Cà Mau,Xã Khánh Bình,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
@@ -8434,7 +8443,7 @@ B.DNA00025,15.986696,108.201508,Hoa Vang,Đà Nẵng,Phường Hoà Xuân,Thành
 B.QNA00080,15.846944,107.938959,Dai Loc,Quảng Nam,Xã Thượng Đức,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
 B.DNA10005,16.004095,108.222999,Cam Le,Đà Nẵng,Phường Hoà Xuân,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
 B.DNA00276,16.021442,108.21038,Cam Le,Đà Nẵng,Phường Cẩm Lệ,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
-B.DNA00109,16.024122,108.065483,Hoa Vang,Đà Nẵng,Xã Bà Nà,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
+B.DNA00109,16.024122,108.065483,Hoa Vang,Đà Nẵng,Xã Bà Nà,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 B.DNA10028,15.84979,108.067194,Dai Loc,Quảng Nam,Xã Vu Gia,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
 C.DNA,,,,,,,DNA-QNA,Lê Văn Tâm
 DNA0108,,,,,,,DNA-QNA,Lê Văn Tâm
@@ -11571,6 +11580,7 @@ B.STR00063,,,Soc Trang,Sóc Trăng,Phường Mỹ Xuyên,Thành phố Cần Thơ
 B.STR00011,,,,,,,Mtay,Lưu Văn Tề
 B.DNI00598,10.980964,106.9599319,Trang Bom,Đồng Nai,Xã Bình Minh,Thành phố Đồng Nai,DNI-BPH,Ngô Văn Cảnh
 C.DNI0003,11.007122,107.168144,Thong Nhat,Đồng Nai,Xã Gia Kiệm,Thành phố Đồng Nai,DNI-BPH,Ngô Văn Cảnh
+B.DNI12930,10.941331,106.877779,,,,Thành phố Đồng Nai,DNI-BPH,Ngô Văn Cảnh
 C.DNI12272,,,Thong Nhat,Đồng Nai,Phường Dầu Giây,Thành phố Đồng Nai,DNI-BPH,Ngô Văn Cảnh
 C.DNI0001,10.943451,107.153809,Thong Nhat,Đồng Nai,Phường Dầu Giây,Thành phố Đồng Nai,DNI-BPH,Ngô Văn Cảnh
 C.DNI0041,10.961346,107.013634,Trang Bom,Đồng Nai,Phường Trảng Bom,Thành phố Đồng Nai,DNI-BPH,Ngô Văn Cảnh
@@ -12114,6 +12124,7 @@ C.LDO0025,12.158885,108.137115,Dam Rong,Lâm Đồng,Xã Đam Rông 3,Tỉnh Lâ
 C.LDO0026,11.68023,107.9804,Di Linh,Lâm Đồng,Xã Đinh Trang Thượng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0027,11.54859,108.348297,Duc Trong,Lâm Đồng,Xã Tà Hine,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0030,11.80672,108.225304,Lam Ha,Lâm Đồng,Xã Phú Sơn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO13880,,,Lam Ha,Lâm Đồng,Xã Phú Sơn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO13195,,,Lam Ha,Lâm Đồng,Xã Phú Sơn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO13188,,,Lam Ha,Lâm Đồng,Xã Phú Sơn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0029,11.543856,107.893494,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -16128,6 +16139,7 @@ C.BTH0091,10.975449,108.149895,Ham Thuan Bac,Bình Thuận,Phường Hàm Thắn
 C.BTH0094,10.9299,108.284241,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH0097,10.945,108.107994,Phan Thiet,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH0099,10.99628,108.118935,Ham Thuan Bac,Bình Thuận,Xã Hàm Liêm,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO10722,,,Ham Thuan Bac,Bình Thuận,Xã Hàm Liêm,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH0098,10.917171,108.087372,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH0100,10.710924,107.727798,Ham Tan,Bình Thuận,Xã Hàm Tân,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH0101,10.945132,108.094528,Phan Thiet,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
@@ -17069,6 +17081,7 @@ C.NTH0037,11.525472,108.915558,Ninh Phuoc,Ninh Thuận,Xã Ninh Phước,Tỉnh 
 C.NTH0040,11.563024,109.023918,Phan Rang-Thap Cham,Ninh Thuận,Phường Đông Hải,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
 C.NTH0042,11.583719,108.971497,Phan Rang-Thap Cham,Ninh Thuận,Phường Bảo An,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
 C.NTH0036,11.608304,108.93013,Ninh Son,Ninh Thuận,Phường Đô Vinh,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
+B.KHO11317,,,Ninh Son,Ninh Thuận,Phường Đô Vinh,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
 C.NTH0059,11.575505,108.989326,Phan Rang-Thap Cham,Ninh Thuận,Phường Phan Rang,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
 C.NTH0058,11.594768,108.99131,Phan Rang-Thap Cham,Ninh Thuận,Phường Bảo An,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
 C.NTH0043,11.557551,108.992477,Phan Rang-Thap Cham,Ninh Thuận,Phường Phan Rang,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
@@ -17663,6 +17676,7 @@ C.HCM11742,10.731998,106.73175,Quan 7,Ho Chi Minh,Phường Phú Thuận,Thành 
 C.HCM12772,10.72799,106.733127,Quan 7,Ho Chi Minh,Phường Phú Thuận,Thành phố Hồ Chí Minh,HCM,Phạm Gia Khiêm
 C.HCM18988,10.783997,106.803742,Quan 9,Ho Chi Minh,Phường Long Trường,Thành phố Hồ Chí Minh,HCM,Phạm Gia Khiêm
 C.DNI0008,10.957812,106.843346,Bien Hoa,Đồng Nai,Phường Tam Hiệp,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
+B.DNI13837,,,Bien Hoa,Đồng Nai,Phường Tam Hiệp,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
 C.DNI0015,10.96635,106.854591,Bien Hoa,Đồng Nai,Phường Tam Hiệp,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
 C.DNI0014,10.90613,106.850075,Bien Hoa,Đồng Nai,Phường Long Hưng,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
 C.DNI0022,10.89921,106.885048,Bien Hoa,Đồng Nai,Phường Long Hưng,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
@@ -17828,6 +17842,7 @@ C.HCM9716,10.940518,106.805031,Bien Hoa,Đồng Nai,Phường Biên Hoà,Thành 
 C.HCM9836,10.983876,106.853539,Bien Hoa,Đồng Nai,Phường Trảng Dài,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
 C.HCM9883,10.99894,106.86586,Bien Hoa,Đồng Nai,Phường Trảng Dài,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
 C.HCM9895,10.960404,106.910957,Bien Hoa,Đồng Nai,Phường Long Bình,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
+B.DNI12930,,,Bien Hoa,Đồng Nai,Phường Long Bình,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
 C.HCM9917,10.951611,106.786003,Bien Hoa,Đồng Nai,Phường Biên Hoà,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
 C.BGI3267,10.9401,106.835403,Bien Hoa,Đồng Nai,Phường Trấn Biên,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
 C.DNI0522,11.093601,107.042969,Vinh Cuu,Đồng Nai,Phường Trị An,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
@@ -20288,6 +20303,7 @@ C.VLO0006,10.254898,105.972725,Vinh Long,Vĩnh Long,Phường Long Châu,Tỉnh 
 C.VLO0011,9.992358,105.943016,Tam Binh,Vĩnh Long,Xã Ngãi Tứ,Tỉnh Vĩnh Long,Mtay,Trường Giang
 C.VLO0014,10.17126,106.162552,Mang Thit,Vĩnh Long,Xã Cái Nhum,Tỉnh Vĩnh Long,Mtay,Trường Giang
 C.VLO0016,10.145463,106.024292,Long Ho,Vĩnh Long,Xã Long Hồ,Tỉnh Vĩnh Long,Mtay,Trường Giang
+B.VLO11191,,,Long Ho,Vĩnh Long,Xã Long Hồ,Tỉnh Vĩnh Long,Mtay,Trường Giang
 C.VLO0017,10.262947,105.93515,Vinh Long,Vĩnh Long,Phường Long Châu,Tỉnh Vĩnh Long,Mtay,Trường Giang
 C.VLO0018,10.187366,106.000877,Long Ho,Vĩnh Long,Xã Long Hồ,Tỉnh Vĩnh Long,Mtay,Trường Giang
 C.VLO0019,10.119707,105.965279,Tam Binh,Vĩnh Long,Xã Cái Ngang,Tỉnh Vĩnh Long,Mtay,Trường Giang
@@ -20410,6 +20426,7 @@ B.VLO10332,10.109054,106.127701,Vung Liem,Vĩnh Long,Xã Trung Hiệp,Tỉnh Vĩ
 B.VLO00026,10.216444,105.948975,Long Ho,Vĩnh Long,Phường Tân Hạnh,Tỉnh Vĩnh Long,Mtay,Trường Giang
 B.VLO10344,10.059951,105.826802,Binh Minh,Vĩnh Long,Phường Đông Thành,Tỉnh Vĩnh Long,Mtay,Trường Giang
 B.VLO10346,10.253486,106.39474,Ben Tre,Bến Tre,Phường Phú Khương,Tỉnh Vĩnh Long,Mtay,Trường Giang
+C.VLO11683,,,,,,Tỉnh Vĩnh Long,Mtay,Trường Giang
 B.VLO10786,10.11674,106.13194,Vung Liem,Vĩnh Long,Xã Trung Hiệp,Tỉnh Vĩnh Long,Mtay,Trường Giang
 B.VLO10126,10.3075,105.998528,Long Ho,Vĩnh Long,Xã An Bình,Tỉnh Vĩnh Long,Mtay,Trường Giang
 B.VLO10532,10.137467,106.141555,Vung Liem,Vĩnh Long,Xã Quới An,Tỉnh Vĩnh Long,Mtay,Trường Giang
@@ -20800,6 +20817,7 @@ C.HCM12780,10.983198,106.58616,Cu Chi,Ho Chi Minh,Xã Bình Mỹ,Thành phố H�
 AC000003,,,,,,,HCM,Võ Anh Ngọc
 C.BPH0002,11.532167,106.615601,Hon Quan,Bình Phước,Phường Tân Khai,Thành phố Đồng Nai,DNI-BPH,Võ Hồng Khanh
 C.BPH0010,11.386721,106.616112,Chon Thanh,Bình Phước,Phường Chơn Thành,Thành phố Đồng Nai,DNI-BPH,Võ Hồng Khanh
+B.DNI13190,,,Chon Thanh,Bình Phước,Phường Chơn Thành,Thành phố Đồng Nai,DNI-BPH,Võ Hồng Khanh
 B.DNI13775,,,Loc Ninh,Bình Phước,Xã Lộc Hưng,Thành phố Đồng Nai,DNI-BPH,Võ Hồng Khanh
 C.BPH0005,11.776531,106.580559,Loc Ninh,Bình Phước,Xã Lộc Hưng,Thành phố Đồng Nai,DNI-BPH,Võ Hồng Khanh
 C.BDU0026,11.360976,106.832901,Phu Giao,Bình Phước,Xã Phú Giáo,Thành phố Hồ Chí Minh,DNI-BPH,Võ Hồng Khanh
