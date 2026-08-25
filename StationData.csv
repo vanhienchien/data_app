@@ -2335,6 +2335,7 @@ C.KGI0093,9.520853,105.247681,Vinh Thuan,Kiên Giang,Xã Vĩnh Phong,Tỉnh An G
 C.KGI0080,9.976088,105.094551,Rach Gia,Kiên Giang,Phường Rạch Giá,Tỉnh An Giang,Mtay,Cao Văn Lộc
 B.AGI11049,,,Chau Thanh,Kiên Giang,Xã Châu Thành,Tỉnh An Giang,Mtay,Cao Văn Lộc
 C.KGI0096,9.956286,105.155182,Chau Thanh,Kiên Giang,Xã Châu Thành,Tỉnh An Giang,Mtay,Cao Văn Lộc
+B.AGI11047,,,Chau Thanh,Kiên Giang,Xã Châu Thành,Tỉnh An Giang,Mtay,Cao Văn Lộc
 C.KGI0104,9.995237,105.085625,Rach Gia,Kiên Giang,Phường Rạch Giá,Tỉnh An Giang,Mtay,Cao Văn Lộc
 C.KGI0083,9.731133,105.278679,Go Quao,Kiên Giang,Xã Gò Quao,Tỉnh An Giang,Mtay,Cao Văn Lộc
 C.KGI0106,10.248541,104.595261,Kien Luong,Kiên Giang,Xã Kiên Lương,Tỉnh An Giang,Mtay,Cao Văn Lộc
@@ -5890,6 +5891,7 @@ C.AGI10239,10.574161,105.241158,Chau Phu,An Giang,Xã Châu Phú,Tỉnh An Giang
 C.AGI10465,10.671845,105.226959,Phu Tan,An Giang,Xã Hoà Lạc,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
 C.AGI10352,10.601034,105.220222,Chau Phu,An Giang,Xã Vĩnh Thạnh Trung,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
 C.AGI10384,10.348427,105.493454,Cho Moi,An Giang,Xã Hội An,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
+B.AGI10036,,,Cho Moi,An Giang,Xã Hội An,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
 C.AGI10425,10.4138,104.90818,Tri Ton,An Giang,Xã Vĩnh Gia,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
 C.AGI10369,10.908164,105.178596,Tan Chau,An Giang,Xã Vĩnh Xương,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
 C.AGI10367,10.795436,105.241081,Tan Chau,An Giang,Phường Tân Châu,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
@@ -7919,6 +7921,7 @@ C.HCM1346,10.7730805,106.653526,Quan 11,Ho Chi Minh,Phường Phú Thọ,Thành 
 C.TNI00212,10.69839,106.65465,Binh Chanh,Ho Chi Minh,Xã Bình Hưng,Thành phố Hồ Chí Minh,HCM,Lê Gia Kiệt
 B.HCM01684,,,,,,,HCM,Lê Gia Kiệt
 B.BTR00059,10.263796,106.350958,Ben Tre,Bến Tre,Phường Sơn Đông,Tỉnh Vĩnh Long,Mtay,Lê Minh Tiến
+B.BTR00039,,,,,,,Mtay,Lê Minh Tiến
 C.BTR0004,10.254048,106.359207,Ben Tre,Bến Tre,Phường Sơn Đông,Tỉnh Vĩnh Long,Mtay,Lê Minh Tiến
 C.BTR0003,10.045372,106.595116,Ba Tri,Bến Tre,Xã Ba Tri,Tỉnh Vĩnh Long,Mtay,Lê Minh Tiến
 C.BTR0006,10.310069,106.348785,Chau Thanh,Bến Tre,Xã Phú Túc,Tỉnh Vĩnh Long,Mtay,Lê Minh Tiến
@@ -16091,7 +16094,7 @@ B.CTH11450,,,,,,,Mtay,Nguyễn Quốc Cường
 C.CTH11332,,,Ninh Kieu,Cần Thơ,Phường Cái Khế,Thành phố Cần Thơ,Mtay,Nguyễn Quốc Cường
 B.CTH11422,,,Cai Rang,Cần Thơ,Phường Hưng Phú,Thành phố Cần Thơ,Mtay,Nguyễn Quốc Cường
 B.CTH11823,,,Chau Thanh,Cần Thơ,Xã Châu Thành,Thành phố Cần Thơ,Mtay,Nguyễn Quốc Cường
-C.CTH11330,9.91678,105.710075,,,Phường Thạnh Hòa,Thành phố Cần Thơ,Mtay,Nguyễn Quốc Cường
+C.CTH11330,9.91678,105.710075,,,Phường Thạnh Hòa,Thành phố Cần Thơ,Mtay,Huỳnh Minh Triều
 C.BTH0005,11.18533,108.55632,Bac Binh,Bình Thuận,Xã Bắc Bình,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH0009,11.220323,108.48661,Bac Binh,Bình Thuận,Xã Hồng Thái,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH0010,11.247298,108.506607,Bac Binh,Bình Thuận,Xã Hải Ninh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
@@ -21913,7 +21916,6 @@ C.DTH10117,10.485404,106.369191,Chau Thanh,Long An,Xã Tân Hương,Tỉnh Đồ
 C.DTH10150,10.538831,106.334246,Tan Phuoc,Long An,Xã Hưng Thạnh,Tỉnh Đồng Tháp,KV không quản lý,Vũ Thế Nguyên
 C.HCM00483,10.82891,106.523453,Duc Hoa,Long An,Xã Tân Vĩnh Lộc,Thành phố Hồ Chí Minh,KV không quản lý,Vũ Thế Nguyên
 LAN,,,,,,,KV không quản lý,Vũ Thế Nguyên
-B.AGI10036,10.432833,105.55012,Cho Moi,Đồng Tháp,Xã Hội An,Tỉnh An Giang,,
 C.AGI10036,10.432833,105.55012,Cho Moi,Đồng Tháp,Xã Hội An,Tỉnh An Giang,,
 C.HNO0009,21.062571,105.913567,Long Bien,Hà Nội	,Phường Việt Hưng,Thành phố Hà Nội,,
 C.QBI0010,17.448799,106.631927,Dong Hoi,Quảng Bình,Phường Đồng Hới,Tỉnh Quảng Trị,,
@@ -37163,7 +37165,7 @@ B.THO10966,19.92789,105.52239,Tho Xuan,Thanh Hóa,Xã Thọ Xuân,Tỉnh Thanh H
 B.TNG10380,21.70296,106.924341,Loc Binh,Lạng Sơn,Xã Na Dương,Tỉnh Lạng Sơn,,
 B.BNI12261,21.210347,106.103409,Viet Yen,Bắc Ninh,Phường Nếnh,Tỉnh Bắc Ninh,,
 B.LCA11047,22.45568,103.9867,Lao Cai,Lào Cai,Phường Cam Đường,Tỉnh Lào Cai,,
-B.LDO00296,,,,,,,,
+B.LDO00296,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
 B.LCA11132,21.851155,104.087977,Mu Cang Chai,Yên Bái,Xã Mù Cang Chải,Tỉnh Lào Cai,,
 B.HTI10848,18.29756,105.67806,Huong Khe,Hà Tĩnh,Xã Hà Linh,Tỉnh Hà Tĩnh,,
 B.LCH10190,22.17767,103.753952,Tan Uyen,Lai Châu,Xã Tân Uyên,Tỉnh Lai Châu,,
@@ -47165,7 +47167,7 @@ B.HNO14246,20.971491,105.641916,Quoc Oai,Hà Nội	,Xã Hưng Đạo,Thành ph�
 B.BNI11456,21.41752,106.80129,Son Dong,Bắc Giang,Xã Đại Sơn,Tỉnh Bắc Ninh,,
 B.HDU00047,20.90103,106.511604,Kim Thanh,Hải Dương,Xã Kim Thành,Thành phố Hải Phòng,,
 B.LSO10329,21.511,106.460889,Huu Lung,Lạng Sơn,Xã Tân Thành,Tỉnh Lạng Sơn,,
-B.LDO00277,,,,,,,,
+B.LDO00277,,,,,,,Tây Nguyên,Đắk Nông
 B.HNO16851,21.133652,105.846633,Dong Anh,Hà Nội	,Xã Đông Anh,Thành phố Hà Nội,,
 B.NBI11738,20.1588,106.0803,Yen Khanh,Ninh Bình,Xã Khánh Nhạc,Tỉnh Ninh Bình,,
 B.BNI11352,21.3522,106.28286,Lang Giang,Bắc Giang,Xã Lạng Giang,Tỉnh Bắc Ninh,,
@@ -47228,7 +47230,7 @@ B.NBI12158,20.3171,106.1304,Vu Ban,Nam Định,Xã Liên Minh,Tỉnh Ninh Bình,
 B.CBA10159,22.66504,106.25768,Cao Bang,Cao Bằng,Phường Thục Phán,Tỉnh Cao Bằng,,
 B.LCA11072,22.371024,104.016785,Lao Cai,Lào Cai,Xã Hợp Thành,Tỉnh Lào Cai,,
 B.QTR10188,17.020797,106.9,Vinh Linh,Quảng Trị,Xã Bến Quan,Tỉnh Quảng Trị,,
-B.LDO00142,,,,,,,,
+B.LDO00142,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
 B.HPH11178,20.714322,106.312851,Ninh Giang,Hải Dương,Xã Khúc Thừa Dụ,Thành phố Hải Phòng,,
 B.NBI10976,20.62345,105.94326,Duy Tien,Hà Nam,Phường Tiên Sơn,Tỉnh Ninh Bình,,
 B.LCA11314,21.726164,104.891729,Yen Bai,Yên Bái,Phường Yên Bái,Tỉnh Lào Cai,,
@@ -49908,7 +49910,7 @@ B.LDO12518,,,,,,,,
 B.LDO13132,,,,,,,,
 B.LDO13137,,,,,,,,
 B.LDO13134,,,,,,,,
-B.LDO13128,,,,,,,,
+B.LDO13128,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO13130,,,,,,,,
 B.DLA11631,,,,,,,,
 B.DLA11630,,,,,,,,
