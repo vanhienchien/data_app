@@ -134,7 +134,7 @@ C.GLA10979,13.899506,109.062996,An Nhon,Bình Định,Phường Bình Định,T�
 C.GLA10977,13.797643,109.134888,Tuy Phuoc,Bình Định,Xã Tuy Phước Tây,Tỉnh Gia Lai,Tây Nguyên,Bình Định
 C.GLA10992,13.78677,109.179741,Quy Nhon,Bình Định,Phường Quy Nhơn Bắc,Tỉnh Gia Lai,Tây Nguyên,Bình Định
 C.GLA11633,13.86777,109.128944,An Nhon,Bình Định,Phường An Nhơn Nam,Tỉnh Gia Lai,Tây Nguyên,Bình Định
-C.QNG10457,,,,,,,Tây Nguyên,Bình Định
+C.QNG10457,,,,,,,Tây Nguyên,Quảng Ngãi
 C.GLA11541,13.77086,109.223442,Quy Nhon,Bình Định,Phường Quy Nhơn,Tỉnh Gia Lai,Tây Nguyên,Bình Định
 C.GLA10884,13.896881,109.061996,An Nhon,Bình Định,Phường Bình Định,Tỉnh Gia Lai,Tây Nguyên,Bình Định
 C.GLA10997,13.791832,109.219521,Quy Nhon,Bình Định,Phường Quy Nhơn,Tỉnh Gia Lai,Tây Nguyên,Bình Định
@@ -197,6 +197,7 @@ B.GLA10855,14.12393,109.19998,Phu Cat,Bình Định,Xã Đề Gi,Tỉnh Gia Lai,
 B.GLA10536,14.533553,109.009852,Hoai Nhon,Bình Định,Phường Hoài Nhơn Tây,Tỉnh Gia Lai,Tây Nguyên,Bình Định
 B.GLA10868,14.12578,109.0833,Phu My,Bình Định,Xã Phù Mỹ Nam,Tỉnh Gia Lai,Tây Nguyên,Bình Định
 B.GLA10181,13.755347,109.217303,Quy Nhon,Bình Định,Phường Quy Nhơn Nam,Tỉnh Gia Lai,Tây Nguyên,Bình Định
+C.GLA11627,,,Quy Nhon,Bình Định,Phường Quy Nhơn Nam,Tỉnh Gia Lai,Tây Nguyên,Bình Định
 B.BDI00030,13.624424,108.99691,Van Canh,Bình Định,Xã Vân Canh,Tỉnh Gia Lai,Tây Nguyên,Bình Định
 B.GLA10846,13.769756,109.228385,Quy Nhon,Bình Định,Phường Quy Nhơn,Tỉnh Gia Lai,Tây Nguyên,Bình Định
 B.GLA10870,14.3187,108.95518,Hoai An,Bình Định,Xã Ân Tường,Tỉnh Gia Lai,Tây Nguyên,Bình Định
@@ -211,7 +212,7 @@ B.GLA10220,13.830777,109.158536,Tuy Phuoc,Bình Định,Xã Tuy Phước,Tỉnh 
 B.BDI00067,13.73571,109.137123,Quy Nhon,Bình Định,Phường Quy Nhơn Tây,Tỉnh Gia Lai,Tây Nguyên,Bình Định
 B.GLA10580,14.535876,109.044928,Hoai Nhon,Bình Định,Phường Hoài Nhơn,Tỉnh Gia Lai,Tây Nguyên,Bình Định
 B.BDI00078,14.514158,109.079178,Hoai Nhon,Bình Định,Phường Hoài Nhơn,Tỉnh Gia Lai,Tây Nguyên,Bình Định
-B.QNG10145,14.654379,109.064234,Duc Pho,Bình Định,Phường Sa Huỳnh,Tỉnh Quảng Ngãi,Tây Nguyên,Bình Định
+B.QNG10145,14.654379,109.064234,Duc Pho,Bình Định,Phường Sa Huỳnh,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.GLA10848,13.73729,109.15327,Quy Nhon,Bình Định,Phường Quy Nhơn Tây,Tỉnh Gia Lai,Tây Nguyên,Bình Định
 B.BDI00006,13.754282,109.207794,Quy Nhon,Bình Định,Phường Quy Nhơn Nam,Tỉnh Gia Lai,Tây Nguyên,Bình Định
 B.GLA10790,14.42954,109.01723,Hoai Nhon,Bình Định,Phường Bồng Sơn,Tỉnh Gia Lai,Tây Nguyên,Bình Định
@@ -371,7 +372,7 @@ C.GLA10241,13.9245,109.087956,An Nhon,Bình Định,Phường An Nhơn,Tỉnh Gi
 C.GLA10242,13.790455,109.161171,Quy Nhon,Bình Định,Phường Quy Nhơn Bắc,Tỉnh Gia Lai,Tây Nguyên,Bình Định
 C.GLA10243,13.851769,109.099457,An Nhon,Bình Định,Phường An Nhơn Nam,Tỉnh Gia Lai,Tây Nguyên,Bình Định
 C.GLA10263,13.79314,109.169441,Quy Nhon,Bình Định,Phường Quy Nhơn Bắc,Tỉnh Gia Lai,Tây Nguyên,Bình Định
-C.QNG10145,14.654379,109.064234,Duc Pho,Bình Định,Phường Sa Huỳnh,Tỉnh Quảng Ngãi,Tây Nguyên,Bình Định
+C.QNG10145,14.654379,109.064234,Duc Pho,Bình Định,Phường Sa Huỳnh,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.BDU0004,10.908707,106.74173,Di An,Bình Dương,Phường Dĩ An,Thành phố Hồ Chí Minh,KV không quản lý,Bình Dương
 C.BDU0014,10.974251,106.678024,Thu Dau Mot,Bình Dương,Phường Phú Lợi,Thành phố Hồ Chí Minh,KV không quản lý,Bình Dương
 C.BDU0012,10.984518,106.667641,Thu Dau Mot,Bình Dương,Phường Phú Lợi,Thành phố Hồ Chí Minh,KV không quản lý,Bình Dương
@@ -3032,6 +3033,8 @@ C.DLA10318,12.752073,108.739609,Mdrak District,Đắk Lắk,Xã M'Drắk,Tỉnh 
 C.DLA10226,13.089987,107.886559,Ea Sup,Đắk Lắk,Xã Ea Súp,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Lắk
 C.DLA10132,12.70422,108.305603,Krong Pac,Đắk Lắk,Xã Krông Pắc,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Lắk
 C.DLA10159,13.067642,107.88446,Ea Sup,Đắk Lắk,Xã Ea Súp,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Lắk
+B.DLA11215,,,,,,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Lắk
+B.DLA11227,,,,,,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Lắk
 C.DLA10220,13.062537,109.332443,Tuy Hoa,Phú Yên,Phường Phú Yên,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Lắk
 C.DLA10215,12.812193,108.463341,Ea Kar,Đắk Lắk,Xã Ea Kar,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Lắk
 C.DLA10179,13.069671,107.882866,Ea Sup,Đắk Lắk,Xã Ea Súp,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Lắk
@@ -3137,6 +3140,7 @@ C.DLA11273,12.662039,108.039879,Buon Ma Thuot,Đắk Lắk,Phường Ea Kao,Tỉ
 C.DLA11271,12.709766,108.065414,Buon Ma Thuot,Đắk Lắk,Phường Buôn Ma Thuột,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Lắk
 C.DLA11279,12.686625,108.032349,Buon Ma Thuot,Đắk Lắk,Phường Buôn Ma Thuột,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Lắk
 C.DLA11296,12.919553,108.454628,Ea Kar,Đắk Lắk,Xã Ea Knốp,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Lắk
+B.DLA11185,,,,,,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Lắk
 C.DLA11319,12.684583,108.062416,Buon Ma Thuot,Đắk Lắk,Phường Tân Lập,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Lắk
 C.DLA11326,12.787924,108.078354,Cu Mgar,Đắk Lắk,Xã Quảng Phú,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Lắk
 C.DLA11340,12.702006,108.063484,Buon Ma Thuot,Đắk Lắk,Phường Tân An,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Lắk
@@ -3953,7 +3957,7 @@ B.DNO00092,11.884482,107.915947,Dak Glong,Đắk Nông,Xã Tà Đùng,Tỉnh Lâ
 B.LDO10257,11.449925,107.834376,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.LDO10035,12.210174,107.46251,Tuy Duc,Đắk Nông,Xã Tuy Đức,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.LDO10039,12.585276,107.884125,Cu Jut,Đắk Nông,Xã Cư Jút,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
-B.PYE00087,,,,,,,Tây Nguyên,Đắk Nông
+B.PYE00087,,,,,,,Tây Nguyên,Phú Yên
 B.LDO10296,12.657804,107.865613,Cu Jut,Đắk Nông,Xã Nam Dong,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.DNO00143,12.004888,107.694023,Gia Nghia,Đắk Nông,Phường Bắc Gia Nghĩa,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.LDO00362,12.011255,107.68537,Gia Nghia,Đắk Nông,Phường Bắc Gia Nghĩa,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
@@ -3969,7 +3973,7 @@ B.LDO10326,12.00571,107.683716,Gia Nghia,Đắk Nông,Phường Bắc Gia Nghĩa
 B.DNO00029,12.186622,107.637947,Dak Song,Đắk Nông,Xã Trường Xuân,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.LDO10203,12.605736,107.89904,Cu Jut,Đắk Nông,Xã Cư Jút,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.LDO10471,11.979063,107.623949,Dak Rlap,Đắk Nông,Xã Nhân Cơ,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
-B.PYE00019,,,,,,,Tây Nguyên,Đắk Nông
+B.PYE00019,,,,,,,Tây Nguyên,Phú Yên
 B.DLA10004,12.616335,107.938056,Buon Ma Thuot,Đắk Nông,Xã Hoà Phú,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Nông
 B.DNO00012,11.984427,107.671005,Gia Nghia,Đắk Nông,Phường Nam Gia Nghĩa,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.LDO10292,12.271571,107.99738,Krong No,Đắk Nông,Xã Quảng Phú,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
@@ -4031,8 +4035,8 @@ C.LDO10159,12.39905,107.88766,Krong No,Đắk Nông,Xã Nâm Nung,Tỉnh Lâm Đ
 C.LDO10191,11.993868,107.51097,Dak Rlap,Đắk Nông,Xã Kiến Đức,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 C.LDO10296,12.657804,107.865613,Cu Jut,Đắk Nông,Xã Nam Dong,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 C.LDO10452,12.20723,107.4623,Tuy Duc,Đắk Nông,Xã Tuy Đức,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
-C.PYE00019,,,,,,,Tây Nguyên,Đắk Nông
-C.PYE00087,,,,,,,Tây Nguyên,Đắk Nông
+C.PYE00019,,,,,,,Tây Nguyên,Phú Yên
+C.PYE00087,,,,,,,Tây Nguyên,Phú Yên
 DNO00114,,,,,,,Tây Nguyên,Đắk Nông
 LDO12417,,,,,,,Tây Nguyên,Đắk Nông
 C.DNI0018,11.27082,107.437141,Tan Phu,Đồng Nai,Phường Tân Phú,Thành phố Đồng Nai,DNI-BPH,Đoàn Quốc Khánh
@@ -4459,7 +4463,7 @@ C.HCM00264,10.53306,106.767769,Can Gio,Ho Chi Minh,Xã An Thới Đông,Thành p
 C.HCM00419,10.6613,106.778603,Can Gio,Đồng Nai,Xã Bình Khánh,Thành phố Hồ Chí Minh,DNI-BPH,Đoàn Quốc Khánh
 C.HCM00581,10.61291,106.85786,Can Gio,Đồng Nai,Xã Bình Khánh,Thành phố Hồ Chí Minh,DNI-BPH,Đoàn Quốc Khánh
 C.HCM10213,10.664586,106.776462,Can Gio,Đồng Nai,Xã Bình Khánh,Thành phố Hồ Chí Minh,DNI-BPH,Đoàn Quốc Khánh
-KHO11256,,,,,,,DNI-BPH,Đoàn Quốc Khánh
+KHO11256,,,,,,,,
 C.DNI13438,,,Tan Phu,Đồng Nai,Phường Tân Phú,Thành phố Đồng Nai,DNI-BPH,Đoàn Quốc Khánh
 B.DNI14180,,,Dinh Quan,Đồng Nai,Xã Định Quán,Thành phố Đồng Nai,DNI-BPH,Đoàn Quốc Khánh
 B.DNI11641,,,Tan Phu,Đồng Nai,Xã Phú Lâm,Thành phố Đồng Nai,DNI-BPH,Đoàn Quốc Khánh
@@ -4504,7 +4508,7 @@ C.GLA0052,13.472674,108.381241,Phu Thien,Gia Lai,Xã Ia Hiao,Tỉnh Gia Lai,Tây
 C.GLA0055,13.384719,108.41935,Ayun Pa,Gia Lai,Xã Ia Rbol,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.GLA0060,14.259457,108.092834,Chu Pah,Gia Lai,Xã Ia Khươl,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.GLA0061,14.168291,108.133598,Dak Doa,Gia Lai,Xã Đak Sơmei,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
-C.KTU0026,14.260048,107.989059,Kon Tum,Gia Lai,Xã Đăk Rơ Wa,Tỉnh Quảng Ngãi,Tây Nguyên,Gia Lai
+C.KTU0026,14.260048,107.989059,Kon Tum,Gia Lai,Xã Đăk Rơ Wa,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
 C.GLA0062,13.998881,108.045959,Pleiku,Gia Lai,Phường Pleiku,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.GLA0063,13.9533,108.022583,Pleiku,Gia Lai,Phường Hội Phú,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.GLA0064,13.972753,107.962463,Ia Grai,Gia Lai,Xã Ia Hrung,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
@@ -4691,7 +4695,7 @@ C.GLA10896,13.996275,108.0448,Pleiku,Gia Lai,Phường Pleiku,Tỉnh Gia Lai,Tâ
 C.GLA10932,14.043649,108.251244,Mang Yang,Gia Lai,Xã Mang Yang,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.GLA10927,13.967167,107.987869,Pleiku,Gia Lai,Phường Diên Hồng,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.GLA10934,13.772743,108.562607,Kong Chro,Gia Lai,Xã Ya Ma,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
-C.QNG10431,,,,,,,Tây Nguyên,Gia Lai
+C.QNG10431,,,,,,,Tây Nguyên,Quảng Ngãi
 C.GLA10946,13.397113,108.433052,Ayun Pa,Gia Lai,Phường Ayun Pa,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.GLA11540,14.1443,108.600807,KBang,Gia Lai,Xã Kbang,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.GLA10978,14.000973,108.174667,Dak Doa,Gia Lai,Xã KDang,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
@@ -4914,7 +4918,7 @@ B.GLA10415,14.010748,108.193329,Dak Doa,Gia Lai,Xã KDang,Tỉnh Gia Lai,Tây Ng
 B.GLA00057,13.995824,108.527771,Dak Po,Gia Lai,Xã Đak Pơ,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 B.GLA10353,13.886125,108.165684,Dak Doa,Gia Lai,Xã KDang,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 B.GLA00030,13.456178,108.092201,Chu Puh,Gia Lai,Xã Ia Le,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
-B.QNG10172,14.260175,107.988978,Kon Tum,Gia Lai,Xã Đăk Rơ Wa,Tỉnh Quảng Ngãi,Tây Nguyên,Gia Lai
+B.QNG10172,14.260175,107.988978,Kon Tum,Gia Lai,Xã Đăk Rơ Wa,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.GLA10025,13.962087,107.8406,Ia Grai,Gia Lai,Xã Ia Grai,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 B.GLA10354,13.87519,108.161258,Dak Doa,Gia Lai,Xã KDang,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 B.GLA00045,13.906575,108.015862,Pleiku,Gia Lai,Phường Hội Phú,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
@@ -4941,7 +4945,7 @@ B.GLA00080,13.962223,107.839005,Ia Grai,Gia Lai,Xã Ia Grai,Tỉnh Gia Lai,Tây 
 B.GLA10369,13.895069,108.179287,Dak Doa,Gia Lai,Xã KDang,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 B.GLA10392,13.999047,108.174131,Dak Doa,Gia Lai,Xã KDang,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 B.GLA00046,13.435787,108.418831,Phu Thien,Gia Lai,Xã Ia Hiao,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
-B.KTU00026,14.260048,107.989059,Kon Tum,Gia Lai,Xã Đăk Rơ Wa,Tỉnh Quảng Ngãi,Tây Nguyên,Gia Lai
+B.KTU00026,14.260048,107.989059,Kon Tum,Gia Lai,Xã Đăk Rơ Wa,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
 B.GLA00250,13.9685,108.6716,An Khe,Gia Lai,Phường An Khê,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.DLA10321,13.876417,108.49246,Kong Chro,Gia Lai,Xã Chư Krey,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.GLA00010,13.662765,108.11937,Chu Se,Gia Lai,Xã Chư Sê,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
@@ -5329,6 +5333,7 @@ C.CMA0030,9.185621,105.16964,Ca Mau,Cà Mau,Phường Tân Thành,Tỉnh Cà Mau
 C.CMA0031,9.197123,105.128471,Ca Mau,Cà Mau,Phường An Xuyên,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 C.CMA0034,9.187475,105.168083,Ca Mau,Cà Mau,Phường Tân Thành,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 C.CMA0036,9.158834,105.140717,Ca Mau,Cà Mau,Phường Lý Văn Lâm,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
+B.CMA00118,,,Ca Mau,Cà Mau,Phường Lý Văn Lâm,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 C.CMA0040,9.346725,104.838112,U Minh,Cà Mau,Xã Khánh Lâm,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 C.CMA0041,9.205029,105.172981,Ca Mau,Cà Mau,Phường An Xuyên,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 C.CMA0046,9.191863,105.177238,Ca Mau,Cà Mau,Phường Tân Thành,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
@@ -6357,6 +6362,7 @@ B.AGI10021,10.713943,105.34455,Phu Tan,An Giang,Xã Chợ Vàm,Tỉnh An Giang,M
 B.AGI10470,10.294067,105.108019,Tri Ton,An Giang,Xã Cô Tô,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
 B.AGI10364,10.813216,105.089,An Phu,An Giang,Xã An Phú,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
 C.HUG0004,9.783597,105.469521,Vi Thanh,Hậu Giang,Phường Vị Tân,Thành phố Cần Thơ,Mtay,Huỳnh Minh Triều
+C.HNO5048,,,Vi Thanh,Hậu Giang,Phường Vị Tân,Thành phố Cần Thơ,Mtay,Huỳnh Minh Triều
 C.HUG0001,9.828288,105.810966,Nga Bay,Hậu Giang,Phường Ngã Bảy,Thành phố Cần Thơ,Mtay,Huỳnh Minh Triều
 C.HUG0011,9.768003,105.507843,Vi Thuy,Hậu Giang,Xã Vị Thuỷ,Thành phố Cần Thơ,Mtay,Huỳnh Minh Triều
 C.HUG0017,9.768181,105.444153,Vi Thanh,Hậu Giang,Phường Vị Thanh,Thành phố Cần Thơ,Mtay,Huỳnh Minh Triều
@@ -6489,6 +6495,7 @@ B.CTH11436,,,Phung Hiep,Hậu Giang,Xã Phương Bình,Thành phố Cần Thơ,M
 B.DNI13418,11.5414386,106.8941798,Dong Xoai,Bình Phước,Phường Bình Phước,Thành phố Đồng Nai,DNI-BPH,Huỳnh Thanh Long
 C.DNI13549,,,Dong Xoai,Bình Phước,Phường Bình Phước,Thành phố Đồng Nai,DNI-BPH,Huỳnh Thanh Long
 B.DNI13328,,,Dong Xoai,Bình Phước,Phường Bình Phước,Thành phố Đồng Nai,DNI-BPH,Huỳnh Thanh Long
+B.DNI13026,11.541715,106.8966487,Dong Xoai,Bình Phước,Phường Bình Phước,Thành phố Đồng Nai,DNI-BPH,Huỳnh Thanh Long
 C.BPH0006,11.537632,106.900635,Dong Xoai,Bình Phước,Phường Bình Phước,Thành phố Đồng Nai,DNI-BPH,Huỳnh Thanh Long
 C.BPH0009,11.410864,106.849586,Dong Phu,Bình Phước,Phường Đồng Phú,Thành phố Đồng Nai,DNI-BPH,Huỳnh Thanh Long
 B.DNI14454,,,Dong Xoai,Bình Phước,Phường Đồng Xoài,Thành phố Đồng Nai,DNI-BPH,Huỳnh Thanh Long
@@ -7605,7 +7612,7 @@ KHO11365,,,,,,,Tây Nguyên,Khánh Hòa
 KHO11434,,,,,,,Tây Nguyên,Khánh Hòa
 KHO0098,,,,,,Tỉnh Khánh Hòa,Tây Nguyên,Khánh Hòa
 C.KTU0003,14.348725,108.000664,Kon Tum,Kon Tum,Phường Kon Tum,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
-C.QNG0020,15.11368,108.810097,Quang Ngai,Quảng Ngãi,Phường Cẩm Thành,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
+C.QNG0020,15.11368,108.810097,Quang Ngai,Quảng Ngãi,Phường Cẩm Thành,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.KTU0008,14.547782,107.921188,Dak Ha,Kon Tum,Xã Đăk Mar,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
 C.KTU0011,14.348951,108.000702,Kon Tum,Kon Tum,Phường Kon Tum,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
 C.KTU0013,14.377752,107.963432,Kon Tum,Kon Tum,Phường Đăk Cấm,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
@@ -7718,7 +7725,7 @@ B.KTU00022,14.588079,108.282089,Kon Plong,Kon Tum,Xã Măng Đen,Tỉnh Quảng 
 B.QNG10109,14.515376,107.92021,Dak Ha,Kon Tum,Xã Đăk Hà,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
 B.KTU00024,15.083069,107.737488,Dak Glei,Kon Tum,Xã Đăk Pék,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
 B.QNG10356,14.374221,107.987231,Kon Tum,Kon Tum,Phường Đăk Cấm,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
-B.GLA00252,13.994,108.00069,Pleiku,Gia Lai,Phường Thống Nhất,Tỉnh Gia Lai,Tây Nguyên,Kom Tum
+B.GLA00252,13.994,108.00069,Pleiku,Gia Lai,Phường Thống Nhất,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 B.QNG10144,14.50666,108.24549,Kon Ray,Kon Tum,Xã Đăk Rve,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
 B.QNG10002,14.349551,108.00179,Kon Tum,Kon Tum,Phường Kon Tum,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
 B.QNG10009,14.311836,107.927928,Kon Tum,Kon Tum,Xã Ia Chim,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
@@ -7740,7 +7747,7 @@ B.KTU00025,14.616617,108.292839,Kon Plong,Kon Tum,Xã Măng Đen,Tỉnh Quảng 
 B.QNG10420,14.668784,107.605184,Ngoc Hoi,Kon Tum,Xã Bờ Y,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
 B.QNG10004,14.603454,108.288585,Kon Plong,Kon Tum,Xã Măng Đen,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
 B.QNG10361,14.628952,107.845361,Dak To,Kon Tum,Xã Đăk Tô,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
-B.QNG00049,15.124034,108.745644,Tu Nghia,Quảng Ngãi,Xã Nghĩa Giang,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
+B.QNG00049,15.124034,108.745644,Tu Nghia,Quảng Ngãi,Xã Nghĩa Giang,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.QNG10155,14.672251,107.835962,Dak To,Kon Tum,Xã Đăk Tô,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
 B.KTU00017,14.737176,107.688782,Ngoc Hoi,Kon Tum,Xã Bờ Y,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
 B.QNG10110,14.354678,107.99435,Kon Tum,Kon Tum,Phường Kon Tum,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
@@ -7753,7 +7760,7 @@ B.QNG10174,14.661472,107.775797,Dak To,Kon Tum,Xã Đăk Tô,Tỉnh Quảng Ngã
 B.QNG10013,14.40454,107.80062,Sa Thay,Kon Tum,Xã Sa Thầy,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
 B.QNG10369,14.57273,107.92191,Dak Ha,Kon Tum,Xã Đăk Mar,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
 B.KTU00016,14.676794,107.627846,Ngoc Hoi,Kon Tum,Xã Bờ Y,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
-C.GLA00252,13.994002,105.678,Sa Thay,Kon Tum,Xã Ia Đal,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
+C.GLA00252,13.994002,105.678,Sa Thay,Kon Tum,Xã Ia Đal,Tỉnh Quảng Ngãi,Tây Nguyên,Gia Lai
 C.KTU00003,14.348725,108.000664,Kon Tum,Kon Tum,Phường Kon Tum,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
 C.KTU00008,14.547782,107.921188,Dak Ha,Kon Tum,Xã Đăk Mar,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
 C.KTU00011,14.348951,108.000702,Kon Tum,Kon Tum,Phường Kon Tum,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
@@ -7764,7 +7771,7 @@ C.KTU00017,14.737176,107.688782,Ngoc Hoi,Kon Tum,Xã Bờ Y,Tỉnh Quảng Ngãi
 C.KTU00018,14.696959,107.702888,Ngoc Hoi,Kon Tum,Xã Bờ Y,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
 C.KTU00022,14.588079,108.282089,Kon Plong,Kon Tum,Xã Măng Đen,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
 C.KTU00024,15.083069,107.737488,Dak Glei,Kon Tum,Xã Đăk Pék,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
-C.QNG00049,15.124034,108.745644,Tu Nghia,Quảng Ngãi,Xã Nghĩa Giang,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
+C.QNG00049,15.124034,108.745644,Tu Nghia,Quảng Ngãi,Xã Nghĩa Giang,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.QNG00087,14.496723,107.922798,Dak Ha,Kon Tum,Xã Đăk Hà,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
 C.QNG10002,14.349551,108.00179,Kon Tum,Kon Tum,Phường Kon Tum,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
 C.QNG10003,14.464693,108.169688,Kon Ray,Kon Tum,Xã Kon Braih,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
@@ -8581,7 +8588,7 @@ C.DNA10886,15.885474,108.328346,Hoi An,Quảng Nam,Phường Hội An Tây,Thàn
 C.DNA10739,15.844889,108.269608,Duy Xuyen,Quảng Nam,Xã Nam Phước,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
 C.DNA10992,15.88791,108.152298,Dien Ban,Quảng Nam,Xã Điện Bàn Tây,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
 B.DNA10046,15.891529,108.24797,Dien Ban,Quảng Nam,Phường Điện Bàn,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
-B.DNA10040,15.781259,108.32893,Que Son,Quảng Nam,Xã Xuân Phú,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
+B.DNA10040,15.781259,108.32893,Que Son,Quảng Nam,Xã Xuân Phú,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
 B.DNA10072,15.84388,108.280698,Duy Xuyen,Quảng Nam,Xã Nam Phước,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
 B.DNA00238,15.899415,108.322464,Hoi An,Quảng Nam,Phường Hội An Tây,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
 B.DNA10044,15.936128,108.25478,Dien Ban,Quảng Nam,Phường Điện Bàn Đông,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
@@ -11728,6 +11735,7 @@ C.DNI10275,11.058216,107.065163,Trang Bom,Đồng Nai,Xã Bàu Hàm,Thành phố
 C.DNI10374,10.874433,106.973701,Trang Bom,Đồng Nai,Phường Tam Phước,Thành phố Đồng Nai,DNI-BPH,Ngô Văn Cảnh
 B.DNI12089,,,Trang Bom,Đồng Nai,Phường Tam Phước,Thành phố Đồng Nai,DNI-BPH,Ngô Văn Cảnh
 B.DNI13395,,,Trang Bom,Đồng Nai,Phường Tam Phước,Thành phố Đồng Nai,DNI-BPH,Ngô Văn Cảnh
+B.DNI13483,,,Trang Bom,Đồng Nai,Phường Tam Phước,Thành phố Đồng Nai,DNI-BPH,Ngô Văn Cảnh
 C.DNI10376,11.033385,107.237251,Thong Nhat,Đồng Nai,Phường Bình Lộc,Thành phố Đồng Nai,DNI-BPH,Ngô Văn Cảnh
 C.DNI10455,10.930438,107.120354,Thong Nhat,Đồng Nai,Phường Dầu Giây,Thành phố Đồng Nai,DNI-BPH,Ngô Văn Cảnh
 C.DNI10585,10.997814,106.915054,Trang Bom,Đồng Nai,Phường Hố Nai,Thành phố Đồng Nai,DNI-BPH,Ngô Văn Cảnh
@@ -14908,7 +14916,7 @@ C.HNO07081,16.071968,108.179344,Thanh Khe,Đà Nẵng,Phường Thanh Khê,Thàn
 C.DNA00247,16.071281,108.222679,Hai Chau,Đà Nẵng,Phường Hải Châu,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 C.DNA10441,16.046276,108.177773,Cam Le,Đà Nẵng,Phường An Khê,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 C.DNA10006,16.05979,108.210419,Thanh Khe,Đà Nẵng,Phường Thanh Khê,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
-C.DNA10015,16.040016,108.210342,Hai Chau,Đà Nẵng,Phường Hoà Cường,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
+C.DNA10015,16.040016,108.210342,Hai Chau,Đà Nẵng,Phường Hoà Cường,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Thanh Bình
 C.DNA10451,16.047636,108.181717,Cam Le,Đà Nẵng,Phường An Khê,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 C.DNA10535,16.03657,108.175102,Cam Le,Đà Nẵng,Phường An Khê,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 C.DNA10620,16.031254,108.224777,Hai Chau,Đà Nẵng,Phường Hoà Cường,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
@@ -17417,7 +17425,7 @@ B.KHO10554,11.592091,109.033605,Ninh Hai,Ninh Thuận,Phường Ninh Chử,Tỉn
 B.KHO10559,11.589222,109.034248,Ninh Hai,Ninh Thuận,Phường Ninh Chử,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
 B.KHO10621,11.57532,108.988948,Phan Rang-Thap Cham,Ninh Thuận,Phường Phan Rang,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
 B.KHO10030,11.548763,109.018853,Phan Rang-Thap Cham,Ninh Thuận,Phường Đông Hải,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
-B.DNI11626,,,,,,,LDO-BTH,Nguyễn Thanh Tuấn
+B.DNI11626,,,,,,,DNI,Nguyễn Thanh Tuấn
 B.NTH00023,11.782303,108.799591,Ninh Son,Ninh Thuận,Xã Ninh Sơn,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
 B.KHO00219,11.567943,108.990972,Phan Rang-Thap Cham,Ninh Thuận,Phường Phan Rang,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
 B.KHO10874,11.67144,108.864088,Ninh Son,Ninh Thuận,Xã Mỹ Sơn,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
@@ -20914,6 +20922,7 @@ C.BPH0019,11.964507,106.796051,Bu Dop,Bình Phước,Xã Thiện Hưng,Thành ph
 C.BPH0020,11.86117,106.589912,Loc Ninh,Bình Phước,Xã Lộc Tấn,Thành phố Đồng Nai,DNI-BPH,Võ Hồng Khanh
 C.BPH0021,11.829373,106.582466,Loc Ninh,Bình Phước,Phường Lộc Ninh,Thành phố Đồng Nai,DNI-BPH,Võ Hồng Khanh
 B.DNI12343,,,Loc Ninh,Bình Phước,Phường Lộc Ninh,Thành phố Đồng Nai,DNI-BPH,Võ Hồng Khanh
+C.DNI14196,11.830194,106.591476,Loc Ninh,Bình Phước,Phường Lộc Ninh,Thành phố Đồng Nai,DNI-BPH,Võ Hồng Khanh
 C.BPH0022,11.953093,106.803185,Bu Dop,Bình Phước,Xã Thiện Hưng,Thành phố Đồng Nai,DNI-BPH,Võ Hồng Khanh
 C.BPH0026,11.673685,106.612579,Binh Long,Bình Phước,Phường An Lộc,Thành phố Đồng Nai,DNI-BPH,Võ Hồng Khanh
 C.BPH0029,11.437048,106.615768,Chon Thanh,Bình Phước,Phường Chơn Thành,Thành phố Đồng Nai,DNI-BPH,Võ Hồng Khanh
@@ -22253,7 +22262,7 @@ C.HNO0163,20.96417,105.822052,Hoang Mai,Hà Nội	,Phường Hoàng Liệt,Thàn
 C.VPH0012,21.240749,105.712776,Phuc Yen,Vĩnh Phúc,Phường Phúc Yên,Tỉnh Phú Thọ,,
 C.HNO0117,20.972294,105.876785,Hoang Mai,Hà Nội	,Phường Hoàng Mai,Thành phố Hà Nội,,
 C.HDU0005,21.110424,106.389839,Chi Linh,Bắc Ninh,Phường Chu Văn An,Thành phố Hải Phòng,,
-C.QNG0006,15.127738,108.834831,Quang Ngai,Quảng Ngãi,Xã An Phú,Tỉnh Quảng Ngãi,,
+C.QNG0006,15.127738,108.834831,Quang Ngai,Quảng Ngãi,Xã An Phú,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.VPH0018,21.33543,105.68647,Binh Xuyen,Vĩnh Phúc,Xã Bình Tuyền,Tỉnh Phú Thọ,,
 C.VPH0007,21.315327,105.614494,Vinh Yen,Vĩnh Phúc,Phường Vĩnh Phúc,Tỉnh Phú Thọ,,
 C.VPH0019,21.4538,105.644569,Tam Dao,Vĩnh Phúc,Xã Tam Đảo,Tỉnh Phú Thọ,,
@@ -22448,21 +22457,22 @@ C.THO0063,20.153917,105.513771,Cam Thuy,Thanh Hóa,Xã Cẩm Thuỷ,Tỉnh Thanh
 C.THO0056,19.829168,105.672333,Dong Son,Thanh Hóa,Phường Đông Sơn,Tỉnh Thanh Hoá,,
 C.HNO0377,21.051027,105.916817,Long Bien,Hà Nội	,Phường Phúc Lợi,Thành phố Hà Nội,,
 C.HNO0401,21.049496,105.916801,Long Bien,Hà Nội	,Phường Phúc Lợi,Thành phố Hà Nội,,
-C.QNG0017,14.948828,108.890244,Mo Duc,Quảng Ngãi,Xã Mộ Đức,Tỉnh Quảng Ngãi,,
+C.QNG0017,14.948828,108.890244,Mo Duc,Quảng Ngãi,Xã Mộ Đức,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.THO0047,19.813646,105.755196,Thanh Hoa,Thanh Hóa,Phường Đông Sơn,Tỉnh Thanh Hoá,,
 C.HNO0295,21.009256,105.738785,Nam Tu Liem,Hà Nội	,Phường Tây Mỗ,Thành phố Hà Nội,,
 C.HNO0301,21.008627,105.742599,Nam Tu Liem,Hà Nội	,Phường Tây Mỗ,Thành phố Hà Nội,,
 C.THO0051,19.930279,105.816101,Hau Loc,Thanh Hóa,Xã Triệu Lộc,Tỉnh Thanh Hoá,,
 C.HNO0302,20.997608,105.737976,Nam Tu Liem,Hà Nội	,Phường Tây Mỗ,Thành phố Hà Nội,,
-C.QNG0018,15.020028,108.834656,Nghia Hanh,Quảng Ngãi,Xã Đình Cương,Tỉnh Quảng Ngãi,,
+C.QNG0018,15.020028,108.834656,Nghia Hanh,Quảng Ngãi,Xã Đình Cương,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.THO0052,19.771523,105.827797,Thanh Hoa,Thanh Hóa,Phường Quảng Phú,Tỉnh Thanh Hoá,,
 C.HNO0330,21.000521,105.791313,Nam Tu Liem,Hà Nội	,Phường Đại Mỗ,Thành phố Hà Nội,,
-C.QNG0014,15.128484,108.788132,Quang Ngai,Quảng Ngãi,Phường Nghĩa Lộ,Tỉnh Quảng Ngãi,,
-C.QNG0015,15.128077,108.810677,Quang Ngai,Quảng Ngãi,Phường Cẩm Thành,Tỉnh Quảng Ngãi,,
-C.QNG0019,15.142713,108.811745,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,,
-C.QNG0016,15.085343,108.826584,Tu Nghia,Quảng Ngãi,Xã Tư Nghĩa,Tỉnh Quảng Ngãi,,
+C.QNG0014,15.128484,108.788132,Quang Ngai,Quảng Ngãi,Phường Nghĩa Lộ,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
+B.QNG10285,15.128484,108.788132,Quang Ngai,Quảng Ngãi,Phường Nghĩa Lộ,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
+C.QNG0015,15.128077,108.810677,Quang Ngai,Quảng Ngãi,Phường Cẩm Thành,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
+C.QNG0019,15.142713,108.811745,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
+C.QNG0016,15.085343,108.826584,Tu Nghia,Quảng Ngãi,Xã Tư Nghĩa,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.HNO0275,20.684855,105.911743,Phu Xuyen,Hà Nội	,Xã Chuyên Mỹ,Thành phố Hà Nội,,
-C.QNG0021,14.767908,108.739067,Ba To,Quảng Ngãi,Xã Ba Tơ,Tỉnh Quảng Ngãi,,
+C.QNG0021,14.767908,108.739067,Ba To,Quảng Ngãi,Xã Ba Tơ,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.HDU0023,21.007311,106.531425,Kinh Mon,Hải Dương,Phường Phạm Sư Mạnh,Thành phố Hải Phòng,,
 C.HDU0024,20.981407,106.355049,Nam Sach,Hải Dương,Xã Nam Sách,Thành phố Hải Phòng,,
 C.HDU0025,21.040003,106.354713,Nam Sach,Bắc Ninh,Xã Trần Phú,Thành phố Hải Phòng,,
@@ -22707,12 +22717,12 @@ C.TBI0025,20.392185,106.447906,Kien Xuong,Thái Bình,Xã Kiến Xương,Tỉnh 
 C.QBI0024,17.448074,106.631004,Dong Hoi,Quảng Bình,Phường Đồng Hới,Tỉnh Quảng Trị,,
 C.NDI0022,20.452564,106.180061,Nam Định,Nam Định,Phường Thiên Trường,Tỉnh Ninh Bình,,
 C.NDI0023,20.268488,106.32901,Xuan Truong,Nam Định,Xã Xuân Trường,Tỉnh Ninh Bình,,
-C.QNG0032,15.270925,108.774475,Binh Son,Quảng Ngãi,Xã Bình Sơn,Tỉnh Quảng Ngãi,,
-C.QNG0025,15.169682,108.860649,Son Tinh,Quảng Ngãi,Xã Tịnh Khê,Tỉnh Quảng Ngãi,,
-C.QNG0027,15.363156,108.785988,Binh Son,Quảng Ngãi,Xã Vạn Tường,Tỉnh Quảng Ngãi,,
-C.QNG0028,14.992076,108.883484,Mo Duc,Quảng Ngãi,Xã Mỏ Cày,Tỉnh Quảng Ngãi,,
-C.QNG0029,14.709526,109.045197,Duc Pho,Quảng Ngãi,Xã Khánh Cường,Tỉnh Quảng Ngãi,,
-C.QNG0030,14.711916,109.041847,Duc Pho,Quảng Ngãi,Xã Khánh Cường,Tỉnh Quảng Ngãi,,
+C.QNG0032,15.270925,108.774475,Binh Son,Quảng Ngãi,Xã Bình Sơn,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
+C.QNG0025,15.169682,108.860649,Son Tinh,Quảng Ngãi,Xã Tịnh Khê,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
+C.QNG0027,15.363156,108.785988,Binh Son,Quảng Ngãi,Xã Vạn Tường,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
+C.QNG0028,14.992076,108.883484,Mo Duc,Quảng Ngãi,Xã Mỏ Cày,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
+C.QNG0029,14.709526,109.045197,Duc Pho,Quảng Ngãi,Xã Khánh Cường,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
+C.QNG0030,14.711916,109.041847,Duc Pho,Quảng Ngãi,Xã Khánh Cường,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.QTR0017,17.024103,106.901199,Vinh Linh,Quảng Trị,Xã Bến Quan,Tỉnh Quảng Trị,,
 C.TTH0021,16.460539,107.624802,Hue,Thừa Thiên Huế,Phường An Cựu,Thành phố Huế,,
 C.TTH0022,16.453535,107.564438,Hue,Thừa Thiên Huế,Phường Thuận Hoá,Thành phố Huế,,
@@ -23242,8 +23252,8 @@ C.LCA0038,22.515779,103.930634,Lao Cai,Lào Cai,Xã Cốc San,Tỉnh Lào Cai,,
 C.LCA0039,22.088594,104.246841,Van Ban,Lào Cai,Xã Văn Bàn,Tỉnh Lào Cai,,
 C.NBI0016,20.316139,105.943321,Hoa Lu,Ninh Bình,Phường Tây Hoa Lư,Tỉnh Ninh Bình,,
 C.NBI0034,20.307909,105.750435,Nho Quan,Ninh Bình,Xã Nho Quan,Tỉnh Ninh Bình,,
-C.QNG0046,15.254472,108.519722,Tra Bong,Quảng Ngãi,Xã Trà Bồng,Tỉnh Quảng Ngãi,,
-C.QNG0047,15.042363,108.465683,Son Ha,Quảng Ngãi,Xã Sơn Hà,Tỉnh Quảng Ngãi,,
+C.QNG0046,15.254472,108.519722,Tra Bong,Quảng Ngãi,Xã Trà Bồng,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
+C.QNG0047,15.042363,108.465683,Son Ha,Quảng Ngãi,Xã Sơn Hà,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.TNG0063,21.696415,105.868912,Dong Hy,Thái Nguyên,Xã Quang Sơn,Tỉnh Thái Nguyên,,
 C.HNA0029,20.525681,106.029602,Binh Luc,Hà Nam,Xã Bình Lục,Tỉnh Ninh Bình,,
 C.DBI0023,21.826683,102.758484,Nam Po,Điện Biên,Xã Nà Hỳ,Tỉnh Điện Biên,,
@@ -23462,7 +23472,7 @@ C.LSO0037,21.855694,106.768852,Lang Son,Lạng Sơn,Phường Đông Kinh,Tỉnh
 C.HDU0066,20.947252,106.329964,Hai Duong,Hải Dương,Phường Hải Dương,Thành phố Hải Phòng,,
 C.QTR0060,16.811249,107.111824,Dong Ha,Quảng Trị,Phường Nam Đông Hà,Tỉnh Quảng Trị,,
 C.QBI0070,17.468859,106.599625,Dong Hoi,Quảng Bình,Phường Đồng Hới,Tỉnh Quảng Trị,,
-C.QNG0050,15.120924,108.781631,Quang Ngai,Quảng Ngãi,Phường Nghĩa Lộ,Tỉnh Quảng Ngãi,,
+C.QNG0050,15.120924,108.781631,Quang Ngai,Quảng Ngãi,Phường Nghĩa Lộ,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.HNO0612,21.024252,105.841026,Hoan Kiem,Hà Nội	,Phường Văn Miếu - Quốc Tử Giám,Thành phố Hà Nội,,
 C.NBI0039,20.2421,105.974525,Ninh Bình,Ninh Bình,Phường Hoa Lư,Tỉnh Ninh Bình,,
 C.NAN0097,18.688156,105.664032,Vinh,Nghệ An,Phường Vinh Hưng,Tỉnh Nghệ An,,
@@ -24889,7 +24899,7 @@ C.LCH0035,22.174355,103.751122,Tan Uyen,Lai Châu,Xã Tân Uyên,Tỉnh Lai Châ
 C.HNA0066,20.399584,105.928696,Thanh Liem,Hà Nam,Xã Thanh Liêm,Tỉnh Ninh Bình,,
 C.BGI0102,21.297525,106.346703,Luc Nam,Bắc Giang,Xã Lục Nam,Tỉnh Bắc Ninh,,
 C.NBI0042,20.148083,106.020935,Yen Mo,Ninh Bình,Xã Yên Mô,Tỉnh Ninh Bình,,
-C.QNG0061,15.106049,108.811852,Quang Ngai,Quảng Ngãi,Phường Cẩm Thành,Tỉnh Quảng Ngãi,,
+C.QNG0061,15.106049,108.811852,Quang Ngai,Quảng Ngãi,Phường Cẩm Thành,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.TTH0082,16.464655,107.562439,Hue,Thừa Thiên Huế,Phường Kim Long,Thành phố Huế,,
 C.TTH0065,16.486052,107.546288,Hue,Thừa Thiên Huế,Phường Hương An,Thành phố Huế,,
 C.HNO1206,20.974014,105.833572,Hoang Mai,Hà Nội	,Phường Định Công,Thành phố Hà Nội,,
@@ -24902,7 +24912,7 @@ C.DBI0035,21.387865,103.00843,Dien Bien Phu,Điện Biên,Phường Điện Biê
 C.TTH0090,16.519411,107.326797,Phong Dien,Thừa Thiên Huế,Phường Phong Điền,Thành phố Huế,,
 C.HNO1080,21.079102,105.687805,Hoai Duc,Hà Nội	,Xã Hoài Đức,Thành phố Hà Nội,,
 C.TTH0091,16.203222,107.724007,Nam Dong,Thừa Thiên Huế,Xã Khe Tre,Thành phố Huế,,
-C.QNG0076,15.151009,108.782822,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,,
+C.QNG0076,15.151009,108.782822,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.NAN0166,18.661417,105.688522,Vinh,Nghệ An,Phường Trường Vinh,Tỉnh Nghệ An,,
 C.YBI0054,21.583469,104.526268,Van Chan,Yên Bái,Phường Trung Tâm,Tỉnh Lào Cai,,
 C.VPH0163,21.291946,105.463417,Vinh Tuong,Hà Nội	,Xã Vĩnh Thành,Tỉnh Phú Thọ,,
@@ -25352,7 +25362,7 @@ C.THO0327,19.822401,105.776955,Thanh Hoa,Thanh Hóa,Phường Hàm Rồng,Tỉnh
 C.THO0358,21.215141,105.865685,Soc Son,Hà Nội	,Xã Sóc Sơn,Thành phố Hà Nội,,
 C.THO0357,19.85371,105.634979,Trieu Son,Thanh Hóa,Xã Triệu Sơn,Tỉnh Thanh Hoá,,
 C.THO0329,19.8069,105.766991,Thanh Hoa,Thanh Hóa,Phường Hạc Thành,Tỉnh Thanh Hoá,,
-C.QNG0079,15.105405,108.802994,Quang Ngai,Quảng Ngãi,Phường Nghĩa Lộ,Tỉnh Quảng Ngãi,,
+C.QNG0079,15.105405,108.802994,Quang Ngai,Quảng Ngãi,Phường Nghĩa Lộ,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.THO0379,19.724909,105.800789,Quang Xuong,Thanh Hóa,Xã Lưu Vệ,Tỉnh Thanh Hoá,,
 C.HNO1436,20.75514,105.700188,My Duc,Hà Nội	,Xã Hồng Sơn,Thành phố Hà Nội,,
 C.HNO1400,20.872225,105.806526,Thanh Oai,Hà Nội	,Xã Tam Hưng,Thành phố Hà Nội,,
@@ -27440,43 +27450,43 @@ C.HPH4409,21.848326,106.770386,Lang Son,Lạng Sơn,Phường Đông Kinh,Tỉnh
 C.HPH4419,18.61603,105.815521,Nghi Xuan,Hà Tĩnh,Xã Cổ Đạm,Tỉnh Hà Tĩnh,,
 C.HPH4484,20.984484,106.616486,Thuy Nguyen,Hải Dương,Xã Việt Khê,Thành phố Hải Phòng,,
 C.PTH0202,21.18853,105.563911,Yen Lac,Vĩnh Phúc,Xã Liên Châu,Tỉnh Phú Thọ,,
-C.BDU4043,20.736382,106.39045,Ninh Giang,Hải Dương,Xã Ninh Giang,Thành phố Hải Phòng,,
-C.BDU4050,21.234776,106.107666,Viet Yen,Bắc Ninh,Phường Nếnh,Tỉnh Bắc Ninh,,
-C.BDU4054,17.310722,106.615311,Quang Ninh,Quảng Bình,Xã Trường Sơn,Tỉnh Quảng Trị,,
-C.BDU4061,20.984524,105.757347,Ha Dong,Hà Nội	,Phường Đại Mỗ,Thành phố Hà Nội,,
-C.BDU4063,20.82082,106.572624,An Lao,Hải Dương,Xã An Lão,Thành phố Hải Phòng,,
-C.BDU4064,20.943085,105.928185,Van Giang,Hà Nội	,Xã Văn Giang,Tỉnh Hưng Yên,,
-C.BDU3200,20.675571,106.599152,Tien Lang,Hải Phòng,Xã Tiên Minh,Thành phố Hải Phòng,,
-C.BDU3201,19.305105,105.569016,Quynh Luu,Nghệ An,Xã Quỳnh Thắng,Tỉnh Nghệ An,,
-C.BDU3202,21.205065,105.853996,Soc Son,Vĩnh Phúc,Xã Sóc Sơn,Thành phố Hà Nội,,
-C.BDU3203,21.384401,106.147285,Tan Yen,Bắc Giang,Xã Tân Yên,Tỉnh Bắc Ninh,,
-C.BDU3204,21.302216,106.030136,Viet Yen,Bắc Giang,Phường Tự Lạn,Tỉnh Bắc Ninh,,
-C.BDU3206,21.761011,102.945107,Nam Po,Điện Biên,Xã Si Pa Phìn,Tỉnh Điện Biên,,
-C.BDU3216,22.669334,106.25898,Cao Bang,Cao Bằng,Phường Thục Phán,Tỉnh Cao Bằng,,
-C.BDU3239,18.347942,105.91861,Ha Tinh,Hà Tĩnh,Phường Thành Sen,Tỉnh Hà Tĩnh,,
-C.BDU3240,20.392372,106.545662,Tien Hai,Thái Bình,Xã Đồng Châu,Tỉnh Hưng Yên,,
-C.BDU3247,20.83086,106.706779,Hai An,Hải Phòng,Phường Hải An,Thành phố Hải Phòng,,
-C.BDU3261,18.520752,105.667816,Duc Tho,Hà Tĩnh,Xã Đức Thịnh,Tỉnh Hà Tĩnh,,
-C.BDU3262,20.921312,105.956734,Van Giang,Hà Nội	,Xã Văn Giang,Tỉnh Hưng Yên,,
-C.BDU3264,20.799107,106.624413,Kien An,Hải Phòng,Phường Phù Liễn,Thành phố Hải Phòng,,
-C.BDU3287,21.106272,105.941292,Tu Son,Hà Nội	,Phường Từ Sơn,Tỉnh Bắc Ninh,,
-C.BDU3289,21.286003,105.869476,Soc Son,Hà Nội	,Xã Sóc Sơn,Thành phố Hà Nội,,
-C.BDU3296,23.178438,105.411942,Meo Vac,Hà Giang,Xã Mèo Vạc,Tỉnh Tuyên Quang,,
-C.BDU3315,21.529697,105.85508,Thai Nguyen,Thái Nguyên,Phường Tích Lương,Tỉnh Thái Nguyên,,
-C.BDU3319,20.939968,105.970581,Van Giang,Hưng Yên,Xã Nghĩa Trụ,Tỉnh Hưng Yên,,
-C.BDU3323,18.341202,105.854042,Thach Ha,Hà Tĩnh,Xã Toàn Lưu,Tỉnh Hà Tĩnh,,
-C.BDU3324,20.738043,106.494728,Vinh Bao,Hải Phòng,Xã Vĩnh Thuận,Thành phố Hải Phòng,,
-C.BDU3346,21.002832,107.302025,Cam Pha,Quảng Ninh,Phường Cửa Ông,Tỉnh Quảng Ninh,,
-C.BDU3353,21.292807,105.463814,Vinh Tuong,Hà Nội	,Xã Vĩnh Thành,Tỉnh Phú Thọ,,
-C.BDU3357,23.064062,105.006203,Quan Ba,Hà Giang,Xã Quản Bạ,Tỉnh Tuyên Quang,,
-C.BDU3410,18.308559,105.963333,Cam Xuyen,Hà Tĩnh,Xã Cẩm Bình,Tỉnh Hà Tĩnh,,
-C.BDU3457,21.199024,106.050316,Bac Ninh,Bắc Ninh,Phường Kinh Bắc,Tỉnh Bắc Ninh,,
-C.BDU3463,18.243532,105.941383,Cam Xuyen,Hà Tĩnh,Xã Cẩm Duệ,Tỉnh Hà Tĩnh,,
-C.BDU3464,21.060909,106.088654,Thuan Thanh,Bắc Ninh,Phường Thuận Thành,Tỉnh Bắc Ninh,,
-C.BDU3473,21.273022,106.184441,Bac Giang,Bắc Giang,Phường Đa Mai,Tỉnh Bắc Ninh,,
-C.BDU3480,20.981115,106.405182,Kim Thanh,Hải Dương,Xã Lai Khê,Thành phố Hải Phòng,,
-C.BDU3481,21.364542,105.482285,Lap Thach,Vĩnh Phúc,Xã Tiên Lữ,Tỉnh Phú Thọ,,
-C.BDU3484,21.165817,105.779442,Dong Anh,Vĩnh Phúc,Xã Phúc Thịnh,Thành phố Hà Nội,,
+C.BDU4043,20.736382,106.39045,Ninh Giang,Hải Dương,Xã Ninh Giang,Thành phố Hải Phòng,KV không quản lý,Bình Dương
+C.BDU4050,21.234776,106.107666,Viet Yen,Bắc Ninh,Phường Nếnh,Tỉnh Bắc Ninh,KV không quản lý,Bình Dương
+C.BDU4054,17.310722,106.615311,Quang Ninh,Quảng Bình,Xã Trường Sơn,Tỉnh Quảng Trị,KV không quản lý,Bình Dương
+C.BDU4061,20.984524,105.757347,Ha Dong,Hà Nội	,Phường Đại Mỗ,Thành phố Hà Nội,KV không quản lý,Bình Dương
+C.BDU4063,20.82082,106.572624,An Lao,Hải Dương,Xã An Lão,Thành phố Hải Phòng,KV không quản lý,Bình Dương
+C.BDU4064,20.943085,105.928185,Van Giang,Hà Nội	,Xã Văn Giang,Tỉnh Hưng Yên,KV không quản lý,Bình Dương
+C.BDU3200,20.675571,106.599152,Tien Lang,Hải Phòng,Xã Tiên Minh,Thành phố Hải Phòng,KV không quản lý,Bình Dương
+C.BDU3201,19.305105,105.569016,Quynh Luu,Nghệ An,Xã Quỳnh Thắng,Tỉnh Nghệ An,KV không quản lý,Bình Dương
+C.BDU3202,21.205065,105.853996,Soc Son,Vĩnh Phúc,Xã Sóc Sơn,Thành phố Hà Nội,KV không quản lý,Bình Dương
+C.BDU3203,21.384401,106.147285,Tan Yen,Bắc Giang,Xã Tân Yên,Tỉnh Bắc Ninh,KV không quản lý,Bình Dương
+C.BDU3204,21.302216,106.030136,Viet Yen,Bắc Giang,Phường Tự Lạn,Tỉnh Bắc Ninh,KV không quản lý,Bình Dương
+C.BDU3206,21.761011,102.945107,Nam Po,Điện Biên,Xã Si Pa Phìn,Tỉnh Điện Biên,KV không quản lý,Bình Dương
+C.BDU3216,22.669334,106.25898,Cao Bang,Cao Bằng,Phường Thục Phán,Tỉnh Cao Bằng,KV không quản lý,Bình Dương
+C.BDU3239,18.347942,105.91861,Ha Tinh,Hà Tĩnh,Phường Thành Sen,Tỉnh Hà Tĩnh,KV không quản lý,Bình Dương
+C.BDU3240,20.392372,106.545662,Tien Hai,Thái Bình,Xã Đồng Châu,Tỉnh Hưng Yên,KV không quản lý,Bình Dương
+C.BDU3247,20.83086,106.706779,Hai An,Hải Phòng,Phường Hải An,Thành phố Hải Phòng,KV không quản lý,Bình Dương
+C.BDU3261,18.520752,105.667816,Duc Tho,Hà Tĩnh,Xã Đức Thịnh,Tỉnh Hà Tĩnh,KV không quản lý,Bình Dương
+C.BDU3262,20.921312,105.956734,Van Giang,Hà Nội	,Xã Văn Giang,Tỉnh Hưng Yên,KV không quản lý,Bình Dương
+C.BDU3264,20.799107,106.624413,Kien An,Hải Phòng,Phường Phù Liễn,Thành phố Hải Phòng,KV không quản lý,Bình Dương
+C.BDU3287,21.106272,105.941292,Tu Son,Hà Nội	,Phường Từ Sơn,Tỉnh Bắc Ninh,KV không quản lý,Bình Dương
+C.BDU3289,21.286003,105.869476,Soc Son,Hà Nội	,Xã Sóc Sơn,Thành phố Hà Nội,KV không quản lý,Bình Dương
+C.BDU3296,23.178438,105.411942,Meo Vac,Hà Giang,Xã Mèo Vạc,Tỉnh Tuyên Quang,KV không quản lý,Bình Dương
+C.BDU3315,21.529697,105.85508,Thai Nguyen,Thái Nguyên,Phường Tích Lương,Tỉnh Thái Nguyên,KV không quản lý,Bình Dương
+C.BDU3319,20.939968,105.970581,Van Giang,Hưng Yên,Xã Nghĩa Trụ,Tỉnh Hưng Yên,KV không quản lý,Bình Dương
+C.BDU3323,18.341202,105.854042,Thach Ha,Hà Tĩnh,Xã Toàn Lưu,Tỉnh Hà Tĩnh,KV không quản lý,Bình Dương
+C.BDU3324,20.738043,106.494728,Vinh Bao,Hải Phòng,Xã Vĩnh Thuận,Thành phố Hải Phòng,KV không quản lý,Bình Dương
+C.BDU3346,21.002832,107.302025,Cam Pha,Quảng Ninh,Phường Cửa Ông,Tỉnh Quảng Ninh,KV không quản lý,Bình Dương
+C.BDU3353,21.292807,105.463814,Vinh Tuong,Hà Nội	,Xã Vĩnh Thành,Tỉnh Phú Thọ,KV không quản lý,Bình Dương
+C.BDU3357,23.064062,105.006203,Quan Ba,Hà Giang,Xã Quản Bạ,Tỉnh Tuyên Quang,KV không quản lý,Bình Dương
+C.BDU3410,18.308559,105.963333,Cam Xuyen,Hà Tĩnh,Xã Cẩm Bình,Tỉnh Hà Tĩnh,KV không quản lý,Bình Dương
+C.BDU3457,21.199024,106.050316,Bac Ninh,Bắc Ninh,Phường Kinh Bắc,Tỉnh Bắc Ninh,KV không quản lý,Bình Dương
+C.BDU3463,18.243532,105.941383,Cam Xuyen,Hà Tĩnh,Xã Cẩm Duệ,Tỉnh Hà Tĩnh,KV không quản lý,Bình Dương
+C.BDU3464,21.060909,106.088654,Thuan Thanh,Bắc Ninh,Phường Thuận Thành,Tỉnh Bắc Ninh,KV không quản lý,Bình Dương
+C.BDU3473,21.273022,106.184441,Bac Giang,Bắc Giang,Phường Đa Mai,Tỉnh Bắc Ninh,KV không quản lý,Bình Dương
+C.BDU3480,20.981115,106.405182,Kim Thanh,Hải Dương,Xã Lai Khê,Thành phố Hải Phòng,KV không quản lý,Bình Dương
+C.BDU3481,21.364542,105.482285,Lap Thach,Vĩnh Phúc,Xã Tiên Lữ,Tỉnh Phú Thọ,KV không quản lý,Bình Dương
+C.BDU3484,21.165817,105.779442,Dong Anh,Vĩnh Phúc,Xã Phúc Thịnh,Thành phố Hà Nội,KV không quản lý,Bình Dương
 C.QNI5650,21.044573,106.765266,Uong Bi,Hải Phòng,Phường Uông Bí,Tỉnh Quảng Ninh,,
 C.QNI5667,21.526461,107.957863,Mong Cai,Quảng Ninh,Phường Móng Cái 2,Tỉnh Quảng Ninh,,
 C.QNI5668,21.518782,107.956406,Mong Cai,Quảng Ninh,Phường Móng Cái 2,Tỉnh Quảng Ninh,,
@@ -28086,7 +28096,7 @@ C.HNO1288,21.035795,105.805252,Cau Giay,Hà Nội	,Phường Nghĩa Đô,Thành 
 C.HNO7012,21.430035,105.054123,Cam Khe,Phú Thọ,Xã Vân Bán,Tỉnh Phú Thọ,,
 C.HYE0202,20.8755,106.038559,Yen My,Hưng Yên,Xã Yên Mỹ,Tỉnh Hưng Yên,,
 C.BNI0315,21.122461,105.980042,Tu Son,Bắc Ninh,Phường Đồng Nguyên,Tỉnh Bắc Ninh,,
-C.QNG0096,15.162237,108.781677,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,,
+C.QNG0096,15.162237,108.781677,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.HPH0353,20.713196,106.72879,Kien Thuy,Hải Phòng,Xã Kiến Hải,Thành phố Hải Phòng,,
 C.PTH7007,21.217829,105.503502,Vinh Tuong,Hà Nội	,Xã Vĩnh Tường,Tỉnh Phú Thọ,,
 C.PTH0211,21.213896,105.517807,Vinh Tuong,Vĩnh Phúc,Xã Vĩnh Tường,Tỉnh Phú Thọ,,
@@ -28146,7 +28156,7 @@ C.QNI0328,21.032215,106.76712,Uong Bi,Hải Phòng,Phường Uông Bí,Tỉnh Qu
 C.SLA0086,21.280027,103.939278,Son La,Sơn La,Phường Chiềng Cơi,Tỉnh Sơn La,,
 C.HNO1909,21.138445,105.86039,Dong Anh,Hà Nội	,Xã Đông Anh,Thành phố Hà Nội,,
 C.QBI0095,17.762352,106.394905,Ba Don,Quảng Bình,Phường Ba Đồn,Tỉnh Quảng Trị,,
-C.QNG0095,15.360388,108.7285,Binh Son,Quảng Ngãi,Xã Bình Sơn,Tỉnh Quảng Ngãi,,
+C.QNG0095,15.360388,108.7285,Binh Son,Quảng Ngãi,Xã Bình Sơn,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.BNI0320,21.148836,106.111778,Bac Ninh,Bắc Ninh,Phường Nam Sơn,Tỉnh Bắc Ninh,,
 C.BNI0324,21.156763,106.132515,Que Vo,Bắc Ninh,Phường Phương Liễu,Tỉnh Bắc Ninh,,
 C.BNI5046,21.020636,106.031738,Thuan Thanh,Hà Nội	,Phường Song Liễu,Tỉnh Bắc Ninh,,
@@ -28222,7 +28232,7 @@ C.HPH0376,20.9231,106.318504,Hai Duong,Hải Dương,Phường Lê Thanh Nghị,
 C.HYE0291,20.665436,106.32563,Quynh Phu,Thái Bình,Xã Quỳnh Phụ,Tỉnh Hưng Yên,,
 C.LCA0203,22.452925,103.951912,Bat Xat,Lào Cai,Xã Cốc San,Tỉnh Lào Cai,,
 C.NBI0141,20.532635,105.919586,Phu Ly,Hà Nam,Phường Phủ Lý,Tỉnh Ninh Bình,,
-C.QNG0099,15.101366,108.809586,Quang Ngai,Quảng Ngãi,Phường Cẩm Thành,Tỉnh Quảng Ngãi,,
+C.QNG0099,15.101366,108.809586,Quang Ngai,Quảng Ngãi,Phường Cẩm Thành,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.BGI0169,21.162766,106.308212,Yen Dung,Bắc Ninh,Xã Đồng Việt,Tỉnh Bắc Ninh,,
 C.BGI3005,20.283424,106.490784,Giao Thuy,Nam Định,Xã Giao Hoà,Tỉnh Ninh Bình,,
 C.BGI3007,21.266464,106.209038,Bac Giang,Bắc Giang,Phường Tân Tiến,Tỉnh Bắc Ninh,,
@@ -28748,14 +28758,14 @@ C.PTH3024,21.353373,105.176857,Cam Khe,Phú Thọ,Xã Hùng Việt,Tỉnh Phú T
 C.PTH3025,21.290665,105.204567,Tam Nong,Phú Thọ,Xã Vạn Xuân,Tỉnh Phú Thọ,,
 C.PTH3026,21.384068,105.077263,Cam Khe,Phú Thọ,Xã Phú Khê,Tỉnh Phú Thọ,,
 C.PTH3028,21.274015,105.492966,Vinh Tuong,Hà Nội	,Xã Vĩnh Hưng,Tỉnh Phú Thọ,,
-C.QNG3000,15.160235,108.794899,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,,
-C.QNG3001,14.758123,109.033806,Duc Pho,Quảng Ngãi,Xã Khánh Cường,Tỉnh Quảng Ngãi,,
-C.QNG3010,14.787862,108.964638,Duc Pho,Quảng Ngãi,Phường Đức Phổ,Tỉnh Quảng Ngãi,,
-C.QNG3011,15.116195,108.763306,Quang Ngai,Quảng Ngãi,Phường Nghĩa Lộ,Tỉnh Quảng Ngãi,,
-C.QNG3012,14.929209,108.698502,Minh Long,Quảng Ngãi,Xã Minh Long,Tỉnh Quảng Ngãi,,
+C.QNG3000,15.160235,108.794899,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
+C.QNG3001,14.758123,109.033806,Duc Pho,Quảng Ngãi,Xã Khánh Cường,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
+C.QNG3010,14.787862,108.964638,Duc Pho,Quảng Ngãi,Phường Đức Phổ,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
+C.QNG3011,15.116195,108.763306,Quang Ngai,Quảng Ngãi,Phường Nghĩa Lộ,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
+C.QNG3012,14.929209,108.698502,Minh Long,Quảng Ngãi,Xã Minh Long,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.QNG3014,15.032521,108.782249,Nghia Hanh,Quảng Ngãi,Xã Phước Giang,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
-C.QNG3016,14.88668,108.919914,Mo Duc,Quảng Ngãi,Xã Lân Phong,Tỉnh Quảng Ngãi,,
-C.QNG3017,15.152222,108.801598,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,,
+C.QNG3016,14.88668,108.919914,Mo Duc,Quảng Ngãi,Xã Lân Phong,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
+C.QNG3017,15.152222,108.801598,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.QNI0085,21.035528,106.744194,Uong Bi,Hải Phòng,Phường Uông Bí,Tỉnh Quảng Ninh,,
 C.QNI0086,21.540689,107.893532,Mong Cai,Quảng Ninh,Phường Móng Cái 3,Tỉnh Quảng Ninh,,
 C.QNI0094,20.963491,107.050499,Ha Long,Quảng Ninh,Phường Bãi Cháy,Tỉnh Quảng Ninh,,
@@ -29240,7 +29250,7 @@ C.PTH0342,21.327461,105.597855,Vinh Yen,Vĩnh Phúc,Phường Vĩnh Phúc,Tỉnh
 C.QNI0313,20.951666,107.102364,Ha Long,Quảng Ninh,Phường Hạ Long,Tỉnh Quảng Ninh,,
 C.HNO2186,20.98175,105.620308,Quoc Oai,Hà Nội	,Xã Kiều Phú,Thành phố Hà Nội,,
 C.HYE0405,20.526014,106.400536,Dong Hung,Thái Bình,Xã Bắc Đông Quan,Tỉnh Hưng Yên,,
-C.QNG0094,15.106049,108.811852,Quang Ngai,Quảng Ngãi,Phường Cẩm Thành,Tỉnh Quảng Ngãi,,
+C.QNG0094,15.106049,108.811852,Quang Ngai,Quảng Ngãi,Phường Cẩm Thành,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.HNO2203,21.142492,105.529869,Phuc Tho,Hà Nội	,Xã Phúc Lộc,Thành phố Hà Nội,,
 C.SLA0085,20.829124,104.674637,Moc Chau,Sơn La,Phường Vân Sơn,Tỉnh Sơn La,,
 C.HNO2151,20.695843,105.941071,Phu Xuyen,Hà Nội	,Xã Đại Xuyên,Thành phố Hà Nội,,
@@ -29425,7 +29435,7 @@ C.HPH0243,20.861485,106.680359,Hong Bang,Hải Phòng,Phường Hồng Bàng,Th�
 C.HNO2200,20.984077,105.747856,Ha Dong,Hà Nội	,Phường Dương Nội,Thành phố Hà Nội,,
 C.SLA0107,21.300339,104.776276,Phu Yen,Sơn La,Xã Mường Cơi,Tỉnh Sơn La,,
 C.TQU0123,21.868187,105.205521,Yen Son,Tuyên Quang,Xã Tân Long,Tỉnh Tuyên Quang,,
-C.QNG0101,14.832664,108.992393,Duc Pho,Quảng Ngãi,Phường Trà Câu,Tỉnh Quảng Ngãi,,
+C.QNG0101,14.832664,108.992393,Duc Pho,Quảng Ngãi,Phường Trà Câu,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.SLA0104,21.139664,104.776512,Phu Yen,Sơn La,Xã Mường Bang,Tỉnh Sơn La,,
 C.DBI0075,22.19182,102.456848,Muong Nhe,Điện Biên,Xã Mường Nhé,Tỉnh Điện Biên,,
 C.LCH0061,22.39394,103.47937,Tam Duong,Lai Châu,Phường Tân Phong,Tỉnh Lai Châu,,
@@ -29780,7 +29790,7 @@ C.HPH0481,20.789104,106.668388,Duong Kinh,Hải Phòng,Phường Hưng Đạo,Th
 C.VPH0235,21.327211,105.522758,Tam Duong,Vĩnh Phúc,Xã Hoàng An,Tỉnh Phú Thọ,,
 C.LCA0304,21.728594,104.917389,Yen Bai,Yên Bái,Phường Văn Phú,Tỉnh Lào Cai,,
 C.THO0567,19.726906,105.850586,Quang Xuong,Thanh Hóa,Phường Nam Sầm Sơn,Tỉnh Thanh Hoá,,
-C.QNG0107,15.298335,108.763756,Binh Son,Quảng Ngãi,Xã Bình Sơn,Tỉnh Quảng Ngãi,,
+C.QNG0107,15.298335,108.763756,Binh Son,Quảng Ngãi,Xã Bình Sơn,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.CBA0068,22.694193,106.201332,Cao Bang,Cao Bằng,Phường Thục Phán,Tỉnh Cao Bằng,,
 C.CBA0002,22.675228,106.250534,Cao Bang,Cao Bằng,Phường Nùng Trí Cao,Tỉnh Cao Bằng,,
 C.TQU0156,21.829599,105.201416,Tuyen Quang,Tuyên Quang,Phường Minh Xuân,Tỉnh Tuyên Quang,,
@@ -30342,7 +30352,7 @@ C.HTI10137,18.274824,105.626793,Huong Khe,Hà Tĩnh,Xã Hương Bình,Tỉnh Hà
 C.PTH10385,21.397038,105.208435,Phu Tho,Phú Thọ,Phường Âu Cơ,Tỉnh Phú Thọ,,
 C.HYE10228,20.543543,106.25502,Dong Hung,Thái Bình,Xã Tiên Hưng,Tỉnh Hưng Yên,,
 C.HNO10482,20.941814,105.825981,Thanh Tri,Hà Nội	,Xã Đại Thanh,Thành phố Hà Nội,,
-C.DLA10064,,,,,,,,
+C.DLA10064,,,,,,,Tây Nguyên,Đắk Lắk
 C.PTH10419,21.409567,104.986076,Yen Lap,Phú Thọ,Xã Xuân Viên,Tỉnh Phú Thọ,,
 C.PTH10405,21.420374,105.4618,Lap Thach,Vĩnh Phúc,Xã Lập Thạch,Tỉnh Phú Thọ,,
 C.NAN10280,19.80818,105.763435,Thanh Hoa,Thanh Hóa,Phường Hạc Thành,Tỉnh Thanh Hoá,,
@@ -30435,7 +30445,7 @@ C.HTI0236,18.277624,106.094421,Cam Xuyen,Hà Tĩnh,Xã Thiên Cầm,Tỉnh Hà T
 C.NAN10272,18.708479,105.598106,Nam Dan,Nghệ An,Xã Kim Liên,Tỉnh Nghệ An,,
 C.HNO10400,21.083086,105.619438,Phuc Tho,Hà Nội	,Xã Hát Môn,Thành phố Hà Nội,,
 C.NAN10027,19.053421,105.278511,Tan Ky,Nghệ An,Xã Tân Kỳ,Tỉnh Nghệ An,,
-C.QNG10034,15.233107,108.758499,Son Tinh,Quảng Ngãi,Xã Thọ Phong,Tỉnh Quảng Ngãi,,
+C.QNG10034,15.233107,108.758499,Son Tinh,Quảng Ngãi,Xã Thọ Phong,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.HYE10144,20.442215,106.349861,Thai Binh,Thái Bình,Phường Trần Lãm,Tỉnh Hưng Yên,,
 C.HTI10135,18.361664,105.706619,Can Loc,Hà Tĩnh,Xã Đồng Lộc,Tỉnh Hà Tĩnh,,
 C.TQU10215,22.739775,105.324829,Bac Me,Hà Giang,Xã Bắc Mê,Tỉnh Tuyên Quang,,
@@ -30470,7 +30480,7 @@ C.HNO10579,21.007721,105.949852,Gia Lam,Hà Nội	,Xã Gia Lâm,Thành phố Hà
 C.HNO0161,20.82073,105.704781,My Duc,Hà Nội	,Xã Phúc Sơn,Thành phố Hà Nội,,
 C.HPH10243,20.762838,106.586823,An Lao,Hải Phòng,Xã An Khánh,Thành phố Hải Phòng,,
 C.BNI10206,21.402514,106.052193,Tan Yen,Bắc Giang,Xã Quang Trung,Tỉnh Bắc Ninh,,
-C.QNG10130,15.132915,108.729141,Tu Nghia,Quảng Ngãi,Xã Nghĩa Giang,Tỉnh Quảng Ngãi,,
+C.QNG10130,15.132915,108.729141,Tu Nghia,Quảng Ngãi,Xã Nghĩa Giang,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.HNO10532,21.083561,105.772377,Bac Tu Liem,Hà Nội	,Phường Đông Ngạc,Thành phố Hà Nội,,
 C.HTI10200,18.408312,105.9711,Thach Ha,Hà Tĩnh,Xã Thạch Khê,Tỉnh Hà Tĩnh,,
 C.HTI10133,18.507416,105.465492,Huong Son,Hà Tĩnh,Xã Kim Hoa,Tỉnh Hà Tĩnh,,
@@ -30775,7 +30785,7 @@ C.DNI10373,,,,,,,,
 C.QNI10142,20.920517,106.985512,Ha Long,Hải Phòng,Phường Tuần Châu,Tỉnh Quảng Ninh,,
 C.NBI10272,20.025078,106.169884,Nghia Hung,Nam Định,Xã Quỹ Nhất,Tỉnh Ninh Bình,,
 C.NBI10258,20.173662,106.34417,Hai Hau,Nam Định,Xã Hải Hưng,Tỉnh Ninh Bình,,
-C.QNG10136,15.19003,108.792847,Son Tinh,Quảng Ngãi,Xã Thọ Phong,Tỉnh Quảng Ngãi,,
+C.QNG10136,15.19003,108.792847,Son Tinh,Quảng Ngãi,Xã Thọ Phong,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.HPH10161,20.839966,106.703926,Ngo Quyen,Hải Phòng,Phường Gia Viên,Thành phố Hải Phòng,,
 C.PTH10309,21.965542,106.709236,Cao Loc,Lạng Sơn,Xã Đồng Đăng,Tỉnh Lạng Sơn,,
 C.PTH10407,21.334949,105.375938,Viet Tri,Phú Thọ,Phường Nông Trang,Tỉnh Phú Thọ,,
@@ -30961,7 +30971,7 @@ C.HTI10237,18.0107,106.186295,Ky Anh,Hà Tĩnh,Xã Kỳ Lạc,Tỉnh Hà Tĩnh,,
 C.SLA10077,21.537638,103.629593,Thuan Chau,Sơn La,Xã Bình Thuận,Tỉnh Sơn La,,
 C.HPH10284,20.998354,106.327248,Nam Sach,Hải Dương,Xã Nam Sách,Thành phố Hải Phòng,,
 C.HNO10747,21.080624,105.424652,Ba Vi,Hà Nội	,Xã Yên Bài,Thành phố Hà Nội,,
-C.QNG10139,15.136218,108.620544,Tu Nghia,Quảng Ngãi,Xã Trà Giang,Tỉnh Quảng Ngãi,,
+C.QNG10139,15.136218,108.620544,Tu Nghia,Quảng Ngãi,Xã Trà Giang,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.HPH10245,20.642902,106.542358,Vinh Bao,Thái Bình,Xã Vĩnh Am,Thành phố Hải Phòng,,
 C.HYE10207,20.658773,106.439468,Quynh Phu,Thái Bình,Xã Vĩnh Hải,Thành phố Hải Phòng,,
 C.HNO10454,21.122356,105.899406,Dong Anh,Hà Nội	,Xã Đông Anh,Thành phố Hà Nội,,
@@ -31018,7 +31028,7 @@ C.QNI10226,21.015017,107.262657,Cam Pha,Quảng Ninh,Phường Quang Hanh,Tỉnh
 C.HNO11015,20.996189,105.947365,Gia Lam,Hà Nội	,Xã Gia Lâm,Thành phố Hà Nội,,
 C.HNO10538,21.113008,105.875107,Dong Anh,Hà Nội	,Xã Đông Anh,Thành phố Hà Nội,,
 C.HNO10791,21.151396,105.878845,Dong Anh,Hà Nội	,Xã Thư Lâm,Thành phố Hà Nội,,
-C.QNG10084,15.12974,108.864128,Tu Nghia,Quảng Ngãi,Xã An Phú,Tỉnh Quảng Ngãi,,
+C.QNG10084,15.12974,108.864128,Tu Nghia,Quảng Ngãi,Xã An Phú,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.PTH10394,20.38339,105.649002,Yen Thuy,Hòa Bình,Xã Yên Thuỷ,Tỉnh Phú Thọ,,
 C.TNG10188,21.82329,106.026855,Vo Nhai,Thái Nguyên,Xã Nghinh Tường,Tỉnh Thái Nguyên,,
 C.TQU10247,21.657042,105.370056,Son Duong,Tuyên Quang,Xã Sơn Dương,Tỉnh Tuyên Quang,,
@@ -31384,7 +31394,7 @@ C.PTH10395,21.424883,105.33831,Phu Ninh,Phú Thọ,Xã Bình Phú,Tỉnh Phú Th
 C.HNO11680,20.98229,105.916573,Gia Lam,Hà Nội	,Xã Bát Tràng,Thành phố Hà Nội,,
 C.PTH11447,21.412045,105.542473,Tam Duong,Vĩnh Phúc,Xã Tam Dương Bắc,Tỉnh Phú Thọ,,
 C.PTH11433,21.304104,105.402199,Viet Tri,Phú Thọ,Phường Thanh Miếu,Tỉnh Phú Thọ,,
-C.QNG10115,14.800369,108.964287,Duc Pho,Quảng Ngãi,Phường Đức Phổ,Tỉnh Quảng Ngãi,,
+C.QNG10115,14.800369,108.964287,Duc Pho,Quảng Ngãi,Phường Đức Phổ,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.BNI10420,21.392975,106.620407,Luc Ngan,Bắc Giang,Phường Chũ,Tỉnh Bắc Ninh,,
 C.HPH10269,20.907446,106.400375,Thanh Ha,Hải Dương,Xã Hà Tây,Thành phố Hải Phòng,,
 C.BNI10325,21.407368,106.204498,Lang Giang,Bắc Giang,Xã Tiên Lục,Tỉnh Bắc Ninh,,
@@ -31429,7 +31439,7 @@ C.HYE10330,20.813011,105.948891,Khoai Chau,Hà Nội	,Xã Khoái Châu,Tỉnh H�
 C.HNO10930,21.183414,105.875237,Dong Anh,Hà Nội	,Xã Thư Lâm,Thành phố Hà Nội,,
 C.TBI0133,20.448763,106.333641,Thai Binh,Thái Bình,Phường Trần Hưng Đạo,Tỉnh Hưng Yên,,
 C.HNO10570,20.963055,105.53714,Quoc Oai,Hòa Bình,Xã Phú Cát,Thành phố Hà Nội,,
-C.QNG10147,14.820674,108.963066,Duc Pho,Quảng Ngãi,Phường Đức Phổ,Tỉnh Quảng Ngãi,,
+C.QNG10147,14.820674,108.963066,Duc Pho,Quảng Ngãi,Phường Đức Phổ,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.HTI0189,18.346945,105.981361,Thach Ha,Hà Tĩnh,Xã Đồng Tiến,Tỉnh Hà Tĩnh,,
 C.HNO10562,21.100346,105.908073,Gia Lam,Hà Nội	,Xã Phù Đổng,Thành phố Hà Nội,,
 C.HNO02961,21.094545,105.584831,Phuc Tho,Hà Nội	,Xã Phúc Thọ,Thành phố Hà Nội,,
@@ -31486,7 +31496,7 @@ C.HTI10341,18.272818,105.969818,Cam Xuyen,Hà Tĩnh,Xã Cẩm Xuyên,Tỉnh Hà 
 C.PTH10583,21.047478,105.127792,Thanh Son,Phú Thọ,Xã Khả Cửu,Tỉnh Phú Thọ,,
 C.QNI10245,21.006147,106.881027,Quang Yen,Hải Phòng,Phường Đông Mai,Tỉnh Quảng Ninh,,
 C.LCA10218,21.558723,104.608322,Van Chan,Yên Bái,Xã Văn Chấn,Tỉnh Lào Cai,,
-C.QNG10154,15.24476,108.697647,Son Tinh,Quảng Ngãi,Xã Ba Gia,Tỉnh Quảng Ngãi,,
+C.QNG10154,15.24476,108.697647,Son Tinh,Quảng Ngãi,Xã Ba Gia,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.THO11283,20.395098,105.088371,Quan Hoa,Thanh Hóa,Xã Hồi Xuân,Tỉnh Thanh Hoá,,
 C.HNO12060,20.734989,105.802338,Ung Hoa,Hà Nội	,Xã Vân Đình,Thành phố Hà Nội,,
 C.HNO12061,21.192495,105.845604,Soc Son,Vĩnh Phúc,Xã Sóc Sơn,Thành phố Hà Nội,,
@@ -31813,7 +31823,7 @@ C.HYE10661,20.705812,106.033455,Kim Dong,Hà Nội	,Phường Sơn Nam,Tỉnh H�
 C.HNO13417,21.022818,105.550797,Thach That,Hà Nội	,Xã Hạ Bằng,Thành phố Hà Nội,,
 C.QNI10471,20.999327,107.277283,Cam Pha,Quảng Ninh,Phường Cẩm Phả,Tỉnh Quảng Ninh,,
 C.HNO13416,21.116547,105.492943,Son Tay,Hà Nội	,Phường Tùng Thiện,Thành phố Hà Nội,,
-C.QNG00115,14.80042,108.964088,Duc Pho,Quảng Ngãi,Phường Đức Phổ,Tỉnh Quảng Ngãi,,
+C.QNG00115,14.80042,108.964088,Duc Pho,Quảng Ngãi,Phường Đức Phổ,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.TTH10029,16.529051,107.43251,Phong Dien,Thừa Thiên Huế,Phường Phong Thái,Thành phố Huế,,
 C.TTH10030,16.31953,107.774841,Phu Loc,Thừa Thiên Huế,Xã Lộc An,Thành phố Huế,,
 C.TTH10031,16.271311,107.993759,Phu Loc,Thừa Thiên Huế,Xã Chân Mây - Lăng Cô,Thành phố Huế,,
@@ -32044,7 +32054,7 @@ C.NBI10554,20.493422,105.918808,Thanh Liem,Hà Nam,Xã Liêm Hà,Tỉnh Ninh Bì
 C.HPH10725,20.75631,106.271332,Ninh Giang,Hải Dương,Xã Hồng Châu,Thành phố Hải Phòng,,
 C.HNO12295,21.121519,105.771919,Dong Anh,Hà Nội	,Xã Thiên Lộc,Thành phố Hà Nội,,
 C.HYE10468,20.705208,106.188057,Phu Cu,Hưng Yên,Xã Tiên Tiến,Tỉnh Hưng Yên,,
-C.QNG10148,14.923246,108.936722,Mo Duc,Quảng Ngãi,Xã Lân Phong,Tỉnh Quảng Ngãi,,
+C.QNG10148,14.923246,108.936722,Mo Duc,Quảng Ngãi,Xã Lân Phong,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.HYE03313,20.896175,105.98391,Yen My,Hưng Yên,Xã Việt Yên,Tỉnh Hưng Yên,,
 C.NBI05227,20.495787,106.373741,Thai Binh,Thái Bình,Phường Trà Lý,Tỉnh Hưng Yên,,
 C.NBI05379,20.192703,106.310387,Hai Hau,Nam Định,Xã Hải Hưng,Tỉnh Ninh Bình,,
@@ -33236,7 +33246,7 @@ C.BNI11163,21.341949,105.889595,Hiep Hoa,Hà Nội	,Xã Hợp Thịnh,Tỉnh B�
 C.BNI11141,21.189447,105.963783,Yen Phong,Hà Nội	,Xã Yên Phong,Tỉnh Bắc Ninh,,
 C.QTR10426,17.016014,106.987411,Vinh Linh,Quảng Trị,Xã Vĩnh Thuỷ,Tỉnh Quảng Trị,,
 C.BNI11187,21.148842,106.159111,Que Vo,Bắc Ninh,Phường Quế Võ,Tỉnh Bắc Ninh,,
-C.QNG10263,14.785101,108.740974,Ba To,Quảng Ngãi,Xã Ba Tơ,Tỉnh Quảng Ngãi,,
+C.QNG10263,14.785101,108.740974,Ba To,Quảng Ngãi,Xã Ba Tơ,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.VLO10468,10.152734,106.394325,Giong Trom,Bến Tre,Xã Phước Long,Tỉnh Vĩnh Long,,
 C.QTR10149,17.439501,106.578003,Dong Hoi,Quảng Bình,Phường Đồng Sơn,Tỉnh Quảng Trị,,
 C.QTR10151,17.482738,106.580315,Dong Hoi,Quảng Bình,Phường Đồng Thuận,Tỉnh Quảng Trị,,
@@ -33261,7 +33271,7 @@ C.HPH10791,20.76767,106.4972,Tien Lang,Hải Dương,Xã Quyết Thắng,Thành 
 C.BNI10989,21.106461,106.141609,Que Vo,Bắc Ninh,Xã Chi Lăng,Tỉnh Bắc Ninh,,
 C.HPH10767,20.936979,106.182411,Cam Giang,Hưng Yên,Xã Mao Điền,Thành phố Hải Phòng,,
 C.THO11853,19.748131,105.641701,Trieu Son,Thanh Hóa,Xã Tân Ninh,Tỉnh Thanh Hoá,,
-C.QNG10224,15.16004,108.796638,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,,
+C.QNG10224,15.16004,108.796638,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.HNO13487,20.9221,105.847031,Thanh Tri,Hà Nội	,Xã Ngọc Hồi,Thành phố Hà Nội,,
 C.TQU10636,21.62549,105.424408,Son Duong,Tuyên Quang,Xã Tân Thanh,Tỉnh Tuyên Quang,,
 C.BNI11075,21.173479,105.968933,Yen Phong,Bắc Ninh,Xã Yên Phong,Tỉnh Bắc Ninh,,
@@ -33514,7 +33524,7 @@ C.HTI11620,18.63789,105.718788,Nghi Xuan,Hà Tĩnh,Xã Nghi Xuân,Tỉnh Hà Tĩ
 C.SLA10219,21.326918,103.911125,Son La,Sơn La,Phường Tô Hiệu,Tỉnh Sơn La,,
 C.NBI11663,20.605015,105.926659,Duy Tien,Hà Nam,Phường Hà Nam,Tỉnh Ninh Bình,,
 C.HPH10841,20.879517,106.307045,Gia Loc,Hải Dương,Xã Gia Lộc,Thành phố Hải Phòng,,
-C.QNG10259,14.72475,108.730301,Ba To,Quảng Ngãi,Xã Ba Tơ,Tỉnh Quảng Ngãi,,
+C.QNG10259,14.72475,108.730301,Ba To,Quảng Ngãi,Xã Ba Tơ,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.BNI11171,21.187981,106.071091,Bac Ninh,Bắc Ninh,Phường Kinh Bắc,Tỉnh Bắc Ninh,,
 C.QTR10577,17.150326,106.807533,Le Thuy,Quảng Bình,Xã Trường Phú,Tỉnh Quảng Trị,,
 C.HPH11460,20.868179,106.664345,Hong Bang,Hải Phòng,Phường Hồng Bàng,Thành phố Hải Phòng,,
@@ -33958,7 +33968,7 @@ C.QTR10820,16.812672,107.100143,Dong Ha,Quảng Trị,Phường Nam Đông Hà,T
 C.QTR10775,16.792315,107.206772,Trieu Phong,Quảng Trị,Xã Triệu Phong,Tỉnh Quảng Trị,,
 C.HNO16137,21.035416,105.879417,Long Bien,Hà Nội	,Phường Bồ Đề,Thành phố Hà Nội,,
 C.QTR10768,16.82131,107.089951,Dong Ha,Quảng Trị,Phường Đông Hà,Tỉnh Quảng Trị,,
-C.QNG10376,14.977654,108.883125,Mo Duc,Quảng Ngãi,Xã Mộ Đức,Tỉnh Quảng Ngãi,,
+C.QNG10376,14.977654,108.883125,Mo Duc,Quảng Ngãi,Xã Mộ Đức,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.HNO16590,21.302099,105.891991,Soc Son,Hà Nội	,Xã Đa Phúc,Thành phố Hà Nội,,
 C.QNI10939,20.966311,107.080032,Ha Long,Quảng Ninh,Phường Cao Xanh,Tỉnh Quảng Ninh,,
 C.CBA10621,22.674,106.26004,Cao Bang,Cao Bằng,Phường Nùng Trí Cao,Tỉnh Cao Bằng,,
@@ -33978,7 +33988,7 @@ C.TTH10516,16.32724,107.758705,Phu Loc,Thừa Thiên Huế,Xã Lộc An,Thành p
 C.QNI10895,21.054277,106.602127,Dong Trieu,Hải Dương,Phường Mạo Khê,Tỉnh Quảng Ninh,,
 C.HNO16588,21.231089,105.883705,Soc Son,Hà Nội	,Xã Đa Phúc,Thành phố Hà Nội,,
 C.HNO16170,21.140894,105.908127,Dong Anh,Hà Nội	,Xã Thư Lâm,Thành phố Hà Nội,,
-C.QNG10520,14.818864,108.954468,Duc Pho,Quảng Ngãi,Phường Đức Phổ,Tỉnh Quảng Ngãi,,
+C.QNG10520,14.818864,108.954468,Duc Pho,Quảng Ngãi,Phường Đức Phổ,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.HNO16179,21.360882,105.800697,Soc Son,Vĩnh Phúc,Xã Trung Giã,Thành phố Hà Nội,,
 C.THO12457,20.198147,105.466309,Cam Thuy,Thanh Hóa,Xã Cẩm Thuỷ,Tỉnh Thanh Hoá,,
 C.QTR10864,16.791224,107.140327,Trieu Phong,Quảng Trị,Xã Ái Tử,Tỉnh Quảng Trị,,
@@ -34231,8 +34241,8 @@ C.THO12685,19.79377,105.797722,Thanh Hoa,Thanh Hóa,Phường Hạc Thành,Tỉn
 C.NBI11654,20.276533,106.093468,Y Yen,Nam Định,Xã Yên Cường,Tỉnh Ninh Bình,,
 C.BNI12325,21.228596,106.213326,Bac Giang,Bắc Ninh,Phường Yên Dũng,Tỉnh Bắc Ninh,,
 C.QTR10058,17.186937,106.806252,Le Thuy,Quảng Bình,Xã Tân Mỹ,Tỉnh Quảng Trị,,
-C.QNG10089,15.00934,108.810165,Nghia Hanh,Quảng Ngãi,Xã Đình Cương,Tỉnh Quảng Ngãi,,
-C.QNG10090,15.01046,108.812202,Nghia Hanh,Quảng Ngãi,Xã Đình Cương,Tỉnh Quảng Ngãi,,
+C.QNG10089,15.00934,108.810165,Nghia Hanh,Quảng Ngãi,Xã Đình Cương,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
+C.QNG10090,15.01046,108.812202,Nghia Hanh,Quảng Ngãi,Xã Đình Cương,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.HTI10205,18.259041,106.002487,Cam Xuyen,Hà Tĩnh,Xã Cẩm Xuyên,Tỉnh Hà Tĩnh,,
 C.HTI10193,18.38093,105.892601,Ha Tinh,Hà Tĩnh,Phường Trần Phú,Tỉnh Hà Tĩnh,,
 C.NAN10658,18.665613,105.630264,Hung Nguyen,Nghệ An,Xã Hưng Nguyên,Tỉnh Nghệ An,,
@@ -34279,7 +34289,7 @@ C.DTH10932,21.09248,105.661171,Dan Phuong,Hà Nội	,Xã Đan Phượng,Thành p
 C.QTR10951,17.533398,106.557236,Bo Trach,Quảng Bình,Xã Nam Trạch,Tỉnh Quảng Trị,,
 C.PTH14381,21.82328,106.026855,Vo Nhai,Thái Nguyên,Xã Nghinh Tường,Tỉnh Thái Nguyên,,
 C.NBI11578,20.341101,106.371475,Xuan Truong,Nam Định,Xã Xuân Hồng,Tỉnh Ninh Bình,,
-C.QNG10494,14.846814,108.938202,Duc Pho,Quảng Ngãi,Phường Trà Câu,Tỉnh Quảng Ngãi,,
+C.QNG10494,14.846814,108.938202,Duc Pho,Quảng Ngãi,Phường Trà Câu,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.THO13024,19.81274,105.779686,Thanh Hoa,Thanh Hóa,Phường Hạc Thành,Tỉnh Thanh Hoá,,
 C.HYE11731,20.859699,106.067429,Yen My,Hưng Yên,Xã Yên Mỹ,Tỉnh Hưng Yên,,
 C.THO13062,19.92634,105.813362,Hoang Hoa,Thanh Hóa,Xã Hoằng Sơn,Tỉnh Thanh Hoá,,
@@ -34855,8 +34865,8 @@ C.PTH13521,21.518869,105.023804,Ha Hoa,Phú Thọ,Xã Văn Lang,Tỉnh Phú Th�
 C.PTH11966,21.391001,105.089996,Cam Khe,Phú Thọ,Xã Cẩm Khê,Tỉnh Phú Thọ,,
 C.PTH13493,20.480379,105.328674,Lac Son,Hòa Bình,Xã Quyết Thắng,Tỉnh Phú Thọ,,
 C.HYE12112,20.380648,106.397102,Kien Xuong,Thái Bình,Xã Hồng Vũ,Tỉnh Hưng Yên,,
-C.QNG00089,15.00934,108.810165,Nghia Hanh,Quảng Ngãi,Xã Đình Cương,Tỉnh Quảng Ngãi,,
-C.QNG00090,15.01046,108.812202,Nghia Hanh,Quảng Ngãi,Xã Đình Cương,Tỉnh Quảng Ngãi,,
+C.QNG00089,15.00934,108.810165,Nghia Hanh,Quảng Ngãi,Xã Đình Cương,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
+C.QNG00090,15.01046,108.812202,Nghia Hanh,Quảng Ngãi,Xã Đình Cương,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.HTI00272,18.176683,106.137901,Cam Xuyen,Hà Tĩnh,Xã Kỳ Xuân,Tỉnh Hà Tĩnh,,
 C.HNO16725,20.932741,105.724747,Ha Dong,Hà Nội	,Phường Chương Mỹ,Thành phố Hà Nội,,
 C.HNO14314,21.092751,105.736542,Bac Tu Liem,Hà Nội	,Phường Thượng Cát,Thành phố Hà Nội,,
@@ -34873,7 +34883,7 @@ C.HPH12172,20.692181,106.538483,Tien Lang,Hải Phòng,Xã Tân Minh,Thành ph�
 C.HNO16561,21.020929,105.810654,Dong Da,Hà Nội	,Phường Giảng Võ,Thành phố Hà Nội,,
 C.LCA11285,22.44504,104.150528,Bao Thang,Lào Cai,Xã Phong Hải,Tỉnh Lào Cai,,
 C.THO13250,19.756981,105.910347,Sam Son,Thanh Hóa,Phường Sầm Sơn,Tỉnh Thanh Hoá,,
-C.QNG10580,15.12954,108.79586,Quang Ngai,Quảng Ngãi,Phường Nghĩa Lộ,Tỉnh Quảng Ngãi,,
+C.QNG10580,15.12954,108.79586,Quang Ngai,Quảng Ngãi,Phường Nghĩa Lộ,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.THO13251,19.829491,105.672417,Dong Son,Thanh Hóa,Phường Đông Sơn,Tỉnh Thanh Hoá,,
 C.NAN11427,18.689369,105.689545,Vinh,Nghệ An,Phường Vinh Phú,Tỉnh Nghệ An,,
 C.HNO16450,21.074619,105.763451,Bac Tu Liem,Hà Nội	,Phường Thượng Cát,Thành phố Hà Nội,,
@@ -35063,7 +35073,7 @@ C.HPH11867,20.929897,106.496063,Kim Thanh,Hải Dương,Xã An Thành,Thành ph�
 C.HPH11885,21.035238,106.511276,Kinh Mon,Hải Dương,Phường Nhị Chiểu,Thành phố Hải Phòng,,
 C.HPH12041,20.925083,106.338264,Hai Duong,Hải Dương,Phường Tân Hưng,Thành phố Hải Phòng,,
 C.LSO10335,21.839294,106.752876,Lang Son,Lạng Sơn,Phường Lương Văn Tri,Tỉnh Lạng Sơn,,
-C.QNG10436,15.127119,108.808502,Quang Ngai,Quảng Ngãi,Phường Cẩm Thành,Tỉnh Quảng Ngãi,,
+C.QNG10436,15.127119,108.808502,Quang Ngai,Quảng Ngãi,Phường Cẩm Thành,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.SLA10380,20.838509,104.637917,Moc Chau,Sơn La,Phường Mộc Sơn,Tỉnh Sơn La,,
 C.HYE11651,20.551338,106.192932,Hung Ha,Hà Nam,Xã Lê Quý Đôn,Tỉnh Hưng Yên,,
 C.LCA11181,22.107079,104.122169,Van Ban,Lào Cai,Xã Nậm Chày,Tỉnh Lào Cai,,
@@ -35147,7 +35157,7 @@ C.QTR11127,17.758842,106.404823,Ba Don,Quảng Bình,Phường Ba Đồn,Tỉnh 
 C.QTR10443,16.753426,106.965744,Cam Lo,Quảng Trị,Xã Cam Lộ,Tỉnh Quảng Trị,,
 C.TTH10279,16.441704,107.713066,Phu Vang,Thừa Thiên Huế,Xã Phú Vang,Thành phố Huế,,
 C.QTR10442,17.017868,107.108139,Vinh Linh,Quảng Trị,Xã Cửa Tùng,Tỉnh Quảng Trị,,
-C.QNG10236,15.066278,108.77858,Nghia Hanh,Quảng Ngãi,Xã Nghĩa Hành,Tỉnh Quảng Ngãi,,
+C.QNG10236,15.066278,108.77858,Nghia Hanh,Quảng Ngãi,Xã Nghĩa Hành,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.THO13150,20.13196,105.860161,Ha Trung,Ninh Bình,Phường Trung Sơn,Tỉnh Ninh Bình,,
 C.HNO12065,21.26141,105.85331,Soc Son,Hà Nội	,Xã Sóc Sơn,Thành phố Hà Nội,,
 C.THO13021,20.535191,104.757042,Muong Lat,Thanh Hóa,Xã Mường Lý,Tỉnh Thanh Hoá,,
@@ -35186,7 +35196,7 @@ C.BNI12527,21.089291,106.207726,Gia Binh,Bắc Ninh,Xã Đại Lai,Tỉnh Bắc 
 C.HPH12463,20.78125,106.242958,Thanh Mien,Hải Dương,Xã Thanh Miện,Thành phố Hải Phòng,,
 C.THO13089,20.523041,104.584549,Muong Lat,Thanh Hóa,Xã Mường Lát,Tỉnh Thanh Hoá,,
 C.NAN11379,19.19944,105.493912,Quynh Luu,Nghệ An,Xã Quỳnh Tam,Tỉnh Nghệ An,,
-C.DLA11841,,,,,,,,
+C.DLA11841,,,,,,,Tây Nguyên,Đắk Lắk
 C.QTR11156,17.065939,107.008591,Vinh Linh,Quảng Trị,Xã Vĩnh Linh,Tỉnh Quảng Trị,,
 C.TNG12122,21.626793,105.840897,Dong Hy,Thái Nguyên,Phường Linh Sơn,Tỉnh Thái Nguyên,,
 C.BNI12533,21.071573,106.22184,Gia Binh,Bắc Ninh,Xã Nhân Thắng,Tỉnh Bắc Ninh,,
@@ -35405,7 +35415,7 @@ C.SLA10231,21.430847,103.70443,Thuan Chau,Sơn La,Xã Thuận Châu,Tỉnh Sơn 
 C.HTI11630,18.314192,105.711838,Huong Khe,Hà Tĩnh,Xã Hà Linh,Tỉnh Hà Tĩnh,,
 C.QNI10391,21.450691,107.747002,Hai Ha,Quảng Ninh,Xã Quảng Hà,Tỉnh Quảng Ninh,,
 C.NBI12588,20.155682,106.006287,Yen Mo,Ninh Bình,Xã Yên Mô,Tỉnh Ninh Bình,,
-C.GLA10931,,,,,,,,
+C.GLA10931,,,,,,,Tây Nguyên,Gia Lai
 C.BNI11566,21.30827,106.338074,Luc Nam,Bắc Giang,Xã Lục Nam,Tỉnh Bắc Ninh,,
 C.NAN11195,18.47566,105.321411,Huong Son,Hà Tĩnh,Xã Sơn Tây,Tỉnh Hà Tĩnh,,
 C.HYE12891,20.74931,106.038605,Kim Dong,Hưng Yên,Xã Hiệp Cường,Tỉnh Hưng Yên,,
@@ -35419,7 +35429,7 @@ C.QTR11172,17.471291,106.602539,Dong Hoi,Quảng Bình,Phường Đồng Hới,T
 C.HNO17847,21.029751,105.746086,Nam Tu Liem,Hà Nội	,Phường Xuân Phương,Thành phố Hà Nội,,
 C.NBI10474,20.528652,105.900444,Phu Ly,Hà Nam,Phường Phù Vân,Tỉnh Ninh Bình,,
 C.HYE11980,20.43495,106.316391,Thai Binh,Thái Bình,Phường Vũ Phúc,Tỉnh Hưng Yên,,
-C.QNG10521,14.7607,108.7323,Ba To,Quảng Ngãi,Xã Ba Tơ,Tỉnh Quảng Ngãi,,
+C.QNG10521,14.7607,108.7323,Ba To,Quảng Ngãi,Xã Ba Tơ,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.SLA10230,21.303953,103.936668,Son La,Sơn La,Phường Tô Hiệu,Tỉnh Sơn La,,
 C.THO11594,19.98888,105.991623,Nga Son,Thanh Hóa,Xã Nga Sơn,Tỉnh Thanh Hoá,,
 C.PTH15229,21.33132,105.470322,Lap Thach,Phú Thọ,Xã Sơn Đông,Tỉnh Phú Thọ,,
@@ -35448,7 +35458,7 @@ C.HYE12167,20.660221,106.171806,Tien Lu,Hưng Yên,Xã Tiên Hoa,Tỉnh Hưng Y�
 C.VLO11695,10.3237,106.337936,Chau Thanh,Tiền Giang,Xã Phú Túc,Tỉnh Vĩnh Long,,
 C.HPH12523,20.833633,106.593124,An Duong,Hải Dương,Phường An Dương,Thành phố Hải Phòng,,
 C.HYE11979,20.79142,105.988136,Khoai Chau,Hà Nội	,Xã Chí Minh,Tỉnh Hưng Yên,,
-C.QNG10597,15.1283,108.806381,Quang Ngai,Quảng Ngãi,Phường Nghĩa Lộ,Tỉnh Quảng Ngãi,,
+C.QNG10597,15.1283,108.806381,Quang Ngai,Quảng Ngãi,Phường Nghĩa Lộ,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.NBI12298,20.648411,105.894905,Duy Tien,Hà Nội	,Phường Duy Hà,Tỉnh Ninh Bình,,
 C.THO11789,19.58062,105.372803,Nhu Xuan,Thanh Hóa,Xã Xuân Bình,Tỉnh Thanh Hoá,,
 C.HYE11720,20.358561,106.557083,Tien Hai,Thái Bình,Xã Nam Cường,Tỉnh Hưng Yên,,
@@ -35466,7 +35476,7 @@ C.HYE12264,20.369419,106.379707,Kien Xuong,Nam Định,Xã Hồng Vũ,Tỉnh Hư
 C.LCA11398,22.43115,104.017456,Lao Cai,Lào Cai,Phường Cam Đường,Tỉnh Lào Cai,,
 C.HNO14015,20.954981,105.745552,Ha Dong,Hà Nội	,Phường Yên Nghĩa,Thành phố Hà Nội,,
 C.TTH10531,16.269592,107.233902,A Luoi,Thừa Thiên Huế,Xã A Lưới 2,Thành phố Huế,,
-C.QNG11028,14.889812,108.959259,Duc Pho,Quảng Ngãi,Phường Trà Câu,Tỉnh Quảng Ngãi,,
+C.QNG11028,14.889812,108.959259,Duc Pho,Quảng Ngãi,Phường Trà Câu,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.HPH00397,21.024014,106.341835,Nam Sach,Hải Dương,Xã Trần Phú,Thành phố Hải Phòng,,
 C.THO13246,19.63571,105.41069,Nhu Xuan,Thanh Hóa,Xã Hoá Quỳ,Tỉnh Thanh Hoá,,
 C.HPH12380,20.781401,106.462341,Tu Ky,Hải Dương,Xã Lạc Phượng,Thành phố Hải Phòng,,
@@ -35871,7 +35881,7 @@ B.LSO10271,21.669111,106.372278,Huu Lung,Lạng Sơn,Xã Hữu Liên,Tỉnh Lạ
 B.BTR00010,10.112847,106.694992,Binh Dai,Bến Tre,Xã Thạnh Phước,Tỉnh Vĩnh Long,,
 B.QNI10835,20.856787,106.833425,Quang Yen,Hải Phòng,Phường Liên Hoà,Tỉnh Quảng Ninh,,
 B.THO11878,19.3716,105.7792,Tinh Gia,Thanh Hóa,Phường Hải Bình,Tỉnh Thanh Hoá,,
-B.QNG00030,14.711916,109.041847,Duc Pho,Quảng Ngãi,Xã Khánh Cường,Tỉnh Quảng Ngãi,,
+B.QNG00030,14.711916,109.041847,Duc Pho,Quảng Ngãi,Xã Khánh Cường,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.LCA11334,21.790193,105.030018,Yen Binh,Yên Bái,Xã Thác Bà,Tỉnh Lào Cai,,
 B.TNG10388,21.420072,105.872461,Pho Yen,Thái Nguyên,Phường Phổ Yên,Tỉnh Thái Nguyên,,
 B.QNI10870,21.0871,106.502405,Dong Trieu,Hải Dương,Phường Đông Triều,Tỉnh Quảng Ninh,,
@@ -36207,7 +36217,7 @@ B.BNI12286,21.214532,106.108702,Viet Yen,Bắc Ninh,Phường Nếnh,Tỉnh Bắ
 B.BNI11275,21.01651,106.20186,Luong Tai,Bắc Ninh,Xã Lương Tài,Tỉnh Bắc Ninh,,
 B.HNO10794,21.24036,105.73764,Soc Son,Vĩnh Phúc,Xã Kim Anh,Thành phố Hà Nội,,
 B.PTH11280,20.465657,105.773952,Lac Thuy,Hòa Bình,Xã Lạc Thuỷ,Tỉnh Phú Thọ,,
-B.QNG10572,15.153355,108.85326,Son Tinh,Quảng Ngãi,Xã Tịnh Khê,Tỉnh Quảng Ngãi,,
+B.QNG10572,15.153355,108.85326,Son Tinh,Quảng Ngãi,Xã Tịnh Khê,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.HYE00069,20.96468,105.9776,Van Giang,Hưng Yên,Xã Nghĩa Trụ,Tỉnh Hưng Yên,,
 B.SLA10451,20.892644,103.617037,Sop Cop,Sơn La,Xã Sốp Cộp,Tỉnh Sơn La,,
 B.QNI10171,21.34911,107.59444,Dam Ha,Quảng Ninh,Xã Đầm Hà,Tỉnh Quảng Ninh,,
@@ -37073,7 +37083,7 @@ B.TQU00145,21.555861,105.461086,Son Duong,Tuyên Quang,Xã Sơn Thuỷ,Tỉnh Tu
 B.QTR10285,17.795195,105.906364,Minh Hoa,Quảng Bình,Xã Kim Điền,Tỉnh Quảng Trị,,
 B.PTH11294,20.634459,104.996453,Mai Chau,Hòa Bình,Xã Bao La,Tỉnh Phú Thọ,,
 B.TQU10640,21.570624,105.286744,Son Duong,Phú Thọ,Xã Hồng Sơn,Tỉnh Tuyên Quang,,
-B.QNG00025,15.169682,108.860649,Son Tinh,Quảng Ngãi,Xã Tịnh Khê,Tỉnh Quảng Ngãi,,
+B.QNG00025,15.169682,108.860649,Son Tinh,Quảng Ngãi,Xã Tịnh Khê,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.HNO02299,20.748198,105.911388,Phu Xuyen,Hà Nội	,Xã Phú Xuyên,Thành phố Hà Nội,,
 B.HNO11160,21.2319,105.8132,Soc Son,Vĩnh Phúc,Xã Sóc Sơn,Thành phố Hà Nội,,
 B.NBI00024,20.158873,105.898255,Tam Diep,Ninh Bình,Phường Tam Điệp,Tỉnh Ninh Bình,,
@@ -37578,7 +37588,7 @@ B.PTH11654,21.608207,105.037486,Ha Hoa,Phú Thọ,Xã Hạ Hoà,Tỉnh Phú Th�
 B.HTI00046,18.505913,105.62429,Duc Tho,Hà Tĩnh,Xã Đức Thịnh,Tỉnh Hà Tĩnh,,
 B.HPH00508,20.830159,106.22645,Thanh Mien,Hải Dương,Xã Nguyễn Lương Bằng,Thành phố Hải Phòng,,
 B.TQU11023,22.052516,105.033882,Ham Yen,Tuyên Quang,Xã Hàm Yên,Tỉnh Tuyên Quang,,
-B.QNG10215,15.1162,108.761,Tu Nghia,Quảng Ngãi,Xã Nghĩa Giang,Tỉnh Quảng Ngãi,,
+B.QNG10215,15.1162,108.761,Tu Nghia,Quảng Ngãi,Xã Nghĩa Giang,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.PTH11843,21.4269,105.453459,Lap Thach,Vĩnh Phúc,Xã Lập Thạch,Tỉnh Phú Thọ,,
 B.LCA11445,22.374471,103.854838,Sa Pa,Lào Cai,Phường Sa Pa,Tỉnh Lào Cai,,
 B.PTH00068,21.478729,105.075394,Cam Khe,Phú Thọ,Xã Cẩm Khê,Tỉnh Phú Thọ,,
@@ -37602,7 +37612,7 @@ B.CBA10003,22.53118,106.514274,Phuc Hoa,Cao Bằng,Xã Phục Hoà,Tỉnh Cao B�
 B.HNO11950,21.18845,105.70488,Me Linh,Vĩnh Phúc,Xã Tiến Thắng,Thành phố Hà Nội,,
 B.PTH11497,21.126389,105.270836,Thanh Thuy,Phú Thọ,Xã Thanh Thuỷ,Tỉnh Phú Thọ,,
 B.THO10697,19.626386,105.561443,Nhu Thanh,Thanh Hóa,Xã Như Thanh,Tỉnh Thanh Hoá,,
-B.QNG10344,14.98544,108.8791,Mo Duc,Quảng Ngãi,Xã Mỏ Cày,Tỉnh Quảng Ngãi,,
+B.QNG10344,14.98544,108.8791,Mo Duc,Quảng Ngãi,Xã Mỏ Cày,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.HPH10921,20.923185,106.337329,Hai Duong,Hải Dương,Phường Tân Hưng,Thành phố Hải Phòng,,
 B.HNA00003,20.5214,105.944702,Thanh Liem,Hà Nam,Phường Liêm Tuyền,Tỉnh Ninh Bình,,
 B.HNO10511,21.08673,105.79507,Tay Ho,Hà Nội	,Phường Phú Thượng,Thành phố Hà Nội,,
@@ -37864,7 +37874,7 @@ B.THO11090,19.739651,105.838287,Thanh Hoa,Thanh Hóa,Phường Quảng Phú,Tỉ
 B.THO10020,19.81173,105.7777,Thanh Hoa,Thanh Hóa,Phường Hạc Thành,Tỉnh Thanh Hoá,,
 B.THO10627,20.033092,105.535754,Yen Dinh,Thanh Hóa,Xã Yên Phú,Tỉnh Thanh Hoá,,
 B.QTR10025,16.816461,107.075415,Dong Ha,Quảng Trị,Phường Đông Hà,Tỉnh Quảng Trị,,
-B.QNG10298,15.1137,108.780938,Quang Ngai,Quảng Ngãi,Phường Nghĩa Lộ,Tỉnh Quảng Ngãi,,
+B.QNG10298,15.1137,108.780938,Quang Ngai,Quảng Ngãi,Phường Nghĩa Lộ,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.BNI11449,21.5208,106.6208,Luc Ngan,Bắc Giang,Xã Sơn Hải,Tỉnh Bắc Ninh,,
 B.PTH10980,20.747964,105.334102,Cao Phong,Hòa Bình,Xã Cao Phong,Tỉnh Phú Thọ,,
 B.HNO16544,21.277944,105.75425,Soc Son,Vĩnh Phúc,Xã Kim Anh,Thành phố Hà Nội,,
@@ -38752,7 +38762,7 @@ B.HNO14566,21.012567,105.808509,Dong Da,Hà Nội	,Phường Láng,Thành phố 
 B.THO00591,19.823824,105.61909,Trieu Son,Thanh Hóa,Xã Triệu Sơn,Tỉnh Thanh Hoá,,
 B.NBI11145,20.22271,105.84373,Nho Quan,Ninh Bình,Xã Quỳnh Lưu,Tỉnh Ninh Bình,,
 B.NAN10965,19.087849,105.64959,Dien Chau,Nghệ An,Xã Hải Châu,Tỉnh Nghệ An,,
-B.QNG10247,15.151525,108.779476,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,,
+B.QNG10247,15.151525,108.779476,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.PTH10834,21.479216,105.035676,Cam Khe,Phú Thọ,Xã Tiên Lương,Tỉnh Phú Thọ,,
 B.HNO10692,20.96091,105.76103,Ha Dong,Hà Nội	,Phường Dương Nội,Thành phố Hà Nội,,
 B.BNI12145,21.231483,106.119831,Viet Yen,Bắc Ninh,Phường Nếnh,Tỉnh Bắc Ninh,,
@@ -38859,7 +38869,7 @@ B.HNO14798,21.013266,105.861491,Hai Ba Trung,Hà Nội	,Phường Hai Bà Trưng
 B.HNO15213,21.036844,105.746375,Nam Tu Liem,Hà Nội	,Phường Xuân Phương,Thành phố Hà Nội,,
 B.LCA10218,21.741943,105.063309,Yen Binh,Yên Bái,Xã Thác Bà,Tỉnh Lào Cai,,
 B.HNO14341,20.900137,105.639737,Chuong My,Hà Nội	,Xã Phú Nghĩa,Thành phố Hà Nội,,
-B.QNG00095,15.360388,108.7285,Binh Son,Quảng Ngãi,Xã Bình Sơn,Tỉnh Quảng Ngãi,,
+B.QNG00095,15.360388,108.7285,Binh Son,Quảng Ngãi,Xã Bình Sơn,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.PTH11190,21.379386,105.46502,Lap Thach,Vĩnh Phúc,Xã Tiên Lữ,Tỉnh Phú Thọ,,
 B.NDI00067,20.055084,106.189125,Nghia Hung,Nam Định,Xã Quỹ Nhất,Tỉnh Ninh Bình,,
 B.HTI00051,18.527319,105.71257,Hong Linh,Hà Tĩnh,Phường Nam Hồng Lĩnh,Tỉnh Hà Tĩnh,,
@@ -39179,7 +39189,7 @@ B.PTH10543,21.26702,105.51043,Vinh Tuong,Vĩnh Phúc,Xã Vĩnh Hưng,Tỉnh Phú
 B.HYE10864,20.94643,105.9285,Van Giang,Hà Nội	,Xã Văn Giang,Tỉnh Hưng Yên,,
 B.HPH10489,20.658868,106.48839,Vinh Bao,Hải Phòng,Xã Vĩnh Bảo,Thành phố Hải Phòng,,
 B.TNG10395,21.675625,105.659337,Dai Tu,Thái Nguyên,Xã Phú Lạc,Tỉnh Thái Nguyên,,
-B.QNG10315,15.112382,108.809205,Quang Ngai,Quảng Ngãi,Phường Cẩm Thành,Tỉnh Quảng Ngãi,,
+B.QNG10315,15.112382,108.809205,Quang Ngai,Quảng Ngãi,Phường Cẩm Thành,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.HNO14730,21.06617,105.810415,Tay Ho,Hà Nội	,Phường Tây Hồ,Thành phố Hà Nội,,
 B.NAN10874,18.610444,105.575721,Nam Dan,Nghệ An,Xã Thiên Nhẫn,Tỉnh Nghệ An,,
 B.NBI11375,20.57927,106.033913,Ly Nhan,Hà Nam,Xã Nam Xang,Tỉnh Ninh Bình,,
@@ -39484,7 +39494,7 @@ B.HYE10680,20.700422,106.044137,Kim Dong,Hà Nội	,Phường Sơn Nam,Tỉnh H�
 B.QNI11855,21.098881,106.478289,Dong Trieu,Hải Dương,Phường An Sinh,Tỉnh Quảng Ninh,,
 B.HYE10075,20.964669,105.9772,Van Giang,Hưng Yên,Xã Nghĩa Trụ,Tỉnh Hưng Yên,,
 B.HNO15017,20.97228,105.82072,Hoang Mai,Hà Nội	,Phường Định Công,Thành phố Hà Nội,,
-B.QNG00039,14.996925,108.858833,Mo Duc,Quảng Ngãi,Xã Long Phụng,Tỉnh Quảng Ngãi,,
+B.QNG00039,14.996925,108.858833,Mo Duc,Quảng Ngãi,Xã Long Phụng,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.PTH11842,21.414144,105.502567,Lap Thach,Vĩnh Phúc,Xã Liên Hoà,Tỉnh Phú Thọ,,
 B.QNI00297,21.105247,106.577797,Dong Trieu,Hải Dương,Phường Bình Khê,Tỉnh Quảng Ninh,,
 B.QNI10936,20.95205,107.13384,Ha Long,Quảng Ninh,Phường Hạ Long,Tỉnh Quảng Ninh,,
@@ -39551,14 +39561,15 @@ B.LCA10454,21.663091,104.4906,Van Chan,Yên Bái,Xã Liên Sơn,Tỉnh Lào Cai,
 B.LCA11323,21.701219,104.915312,Yen Bai,Yên Bái,Phường Yên Bái,Tỉnh Lào Cai,,
 B.BNI11981,21.353197,106.087175,Tan Yen,Bắc Giang,Xã Ngọc Thiện,Tỉnh Bắc Ninh,,
 B.NAN00343,18.925505,105.469532,Yen Thanh,Nghệ An,Xã Hợp Minh,Tỉnh Nghệ An,,
-B.QNG10193,15.073418,108.780314,Nghia Hanh,Quảng Ngãi,Xã Nghĩa Hành,Tỉnh Quảng Ngãi,,
+B.QNG10193,15.073418,108.780314,Nghia Hanh,Quảng Ngãi,Xã Nghĩa Hành,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.TNG11886,21.84898,105.58512,Dinh Hoa,Thái Nguyên,Xã Bình Yên,Tỉnh Thái Nguyên,,
 B.TQU11655,22.144268,105.265664,Chiem Hoa,Tuyên Quang,Xã Chiêm Hoá,Tỉnh Tuyên Quang,,
 B.TNG11330,21.383528,105.871417,Pho Yen,Hà Nội	,Phường Vạn Xuân,Tỉnh Thái Nguyên,,
 B.HNO10495,21.05378,105.77924,Bac Tu Liem,Hà Nội	,Phường Phú Diễn,Thành phố Hà Nội,,
 B.HNO02261,20.952375,105.844241,Hoang Mai,Hà Nội	,Phường Yên Sở,Thành phố Hà Nội,,
 B.DNI12293,10.816711,107.568599,Xuan Loc,Bình Thuận,Xã Xuân Hoà,Thành phố Đồng Nai,,
-B.DNI13928,10.816711,107.568599,Xuan Loc,Bình Thuận,Xã Xuân Hoà,Thành phố Đồng Nai,DNI-BPH,Xã Xuân Hoà
+B.DNI13928,10.816711,107.568599,Xuan Loc,Bình Thuận,Xã Xuân Hoà,Thành phố Đồng Nai,DNI-BPH,Đoàn Quốc Khánh
+B.DNI13273,,,Xuan Loc,Bình Thuận,Xã Xuân Hoà,Thành phố Đồng Nai,DNI-BPH,Đoàn Quốc Khánh
 B.BNI12235,21.216797,106.107846,Viet Yen,Bắc Ninh,Phường Nếnh,Tỉnh Bắc Ninh,,
 B.HPH11145,21.034964,106.351344,Nam Sach,Bắc Ninh,Xã Trần Phú,Thành phố Hải Phòng,,
 B.HNO16824,21.0751,105.88054,Dong Anh,Hà Nội	,Xã Đông Anh,Thành phố Hà Nội,,
@@ -39844,7 +39855,7 @@ B.THO12138,19.947141,105.37028,Ngoc Lac,Thanh Hóa,Xã Kiên Thọ,Tỉnh Thanh 
 B.NBI11486,20.321011,105.736567,Nho Quan,Hòa Bình,Xã Nho Quan,Tỉnh Ninh Bình,,
 B.HYE10992,20.818338,105.990808,Khoai Chau,Hưng Yên,Xã Khoái Châu,Tỉnh Hưng Yên,,
 B.TNG10554,21.692306,105.515472,Dai Tu,Thái Nguyên,Xã Phú Xuyên,Tỉnh Thái Nguyên,,
-B.QNG10575,15.125899,108.81114,Quang Ngai,Quảng Ngãi,Phường Nghĩa Lộ,Tỉnh Quảng Ngãi,,
+B.QNG10575,15.125899,108.81114,Quang Ngai,Quảng Ngãi,Phường Nghĩa Lộ,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.THO11236,19.820141,105.703098,Dong Son,Thanh Hóa,Phường Đông Sơn,Tỉnh Thanh Hoá,,
 B.HNO11146,21.2301,105.8121,Soc Son,Vĩnh Phúc,Xã Sóc Sơn,Thành phố Hà Nội,,
 B.THO13282,19.8478,105.698,Dong Son,Thanh Hóa,Phường Đông Tiến,Tỉnh Thanh Hoá,,
@@ -40579,7 +40590,7 @@ B.TQU11319,21.543514,105.490808,Son Duong,Tuyên Quang,Xã Sơn Thuỷ,Tỉnh Tu
 B.HNO01579,20.8972,105.577904,Chuong My,Hòa Bình,Xã Xuân Mai,Thành phố Hà Nội,,
 B.QNI10751,21.353521,107.564994,Dam Ha,Quảng Ninh,Xã Quảng Tân,Tỉnh Quảng Ninh,,
 B.HYE11214,20.512257,106.550093,Thai Thuy,Thái Bình,Xã Đông Thái Ninh,Tỉnh Hưng Yên,,
-B.QNG10340,15.04624,108.77879,Nghia Hanh,Quảng Ngãi,Xã Nghĩa Hành,Tỉnh Quảng Ngãi,,
+B.QNG10340,15.04624,108.77879,Nghia Hanh,Quảng Ngãi,Xã Nghĩa Hành,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.PTH14720,21.4242,105.1377,Cam Khe,Phú Thọ,Xã Cẩm Khê,Tỉnh Phú Thọ,,
 B.THO11875,19.354379,105.725282,Tinh Gia,Thanh Hóa,Xã Trường Lâm,Tỉnh Thanh Hoá,,
 B.HNO15745,20.914877,105.638601,Chuong My,Hòa Bình,Xã Phú Nghĩa,Thành phố Hà Nội,,
@@ -40983,7 +40994,7 @@ B.NAN10748,19.603315,104.92044,Que Phong,Nghệ An,Xã Quế Phong,Tỉnh Nghệ
 B.QNI11049,20.966644,107.114691,Ha Long,Quảng Ninh,Phường Hà Lầm,Tỉnh Quảng Ninh,,
 B.QNI10234,21.00723,107.245281,Cam Pha,Quảng Ninh,Phường Quang Hanh,Tỉnh Quảng Ninh,,
 B.TNG10361,21.417464,105.863943,Pho Yen,Thái Nguyên,Phường Phổ Yên,Tỉnh Thái Nguyên,,
-B.QNG10290,15.145403,108.824612,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,,
+B.QNG10290,15.145403,108.824612,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.THO12220,20.045906,105.935831,Ha Trung,Thanh Hóa,Phường Bỉm Sơn,Tỉnh Thanh Hoá,,
 B.THO10440,20.00871,105.73602,Vinh Loc,Thanh Hóa,Xã Biện Thượng,Tỉnh Thanh Hoá,,
 B.HNA00024,20.652103,105.917503,Duy Tien,Hà Nội	,Phường Duy Hà,Tỉnh Ninh Bình,,
@@ -41276,7 +41287,7 @@ B.DBI10164,21.517915,103.340288,Muong Ang,Điện Biên,Xã Búng Lao,Tỉnh Đi
 B.PTH11639,21.628274,105.017424,Ha Hoa,Phú Thọ,Xã Đan Thượng,Tỉnh Phú Thọ,,
 B.TNG11735,21.999833,105.695227,Dinh Hoa,Thái Nguyên,Xã Lam Vỹ,Tỉnh Thái Nguyên,,
 B.HPH10385,20.728417,106.636377,Kien Thuy,Hải Phòng,Xã Nghi Dương,Thành phố Hải Phòng,,
-B.QNG00038,15.091011,108.818207,Tu Nghia,Quảng Ngãi,Xã Tư Nghĩa,Tỉnh Quảng Ngãi,,
+B.QNG00038,15.091011,108.818207,Tu Nghia,Quảng Ngãi,Xã Tư Nghĩa,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.DBI10381,21.391852,103.032312,Dien Bien Phu,Điện Biên,Phường Mường Thanh,Tỉnh Điện Biên,,
 B.PTH13635,21.304494,105.624588,Vinh Yen,Vĩnh Phúc,Phường Vĩnh Phúc,Tỉnh Phú Thọ,,
 B.QTR00070,16.906528,107.183266,Gio Linh,Quảng Trị,Xã Cửa Việt,Tỉnh Quảng Trị,,
@@ -41602,7 +41613,7 @@ B.LCA11071,22.4506,104.0225,Lao Cai,Lào Cai,Phường Cam Đường,Tỉnh Lào
 B.TNG11847,21.801634,105.61678,Dinh Hoa,Thái Nguyên,Xã Trung Hội,Tỉnh Thái Nguyên,,
 B.TQU11083,22.623534,104.936395,Vi Xuyen,Hà Giang,Xã Việt Lâm,Tỉnh Tuyên Quang,,
 B.BNI10318,21.035162,106.038687,Thuan Thanh,Hà Nội	,Phường Trí Quả,Tỉnh Bắc Ninh,,
-B.QNG10249,15.153138,108.781168,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,,
+B.QNG10249,15.153138,108.781168,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.THO10747,19.964639,105.557883,Tho Xuan,Thanh Hóa,Xã Xuân Lập,Tỉnh Thanh Hoá,,
 B.NBI11096,20.329779,106.377949,Xuan Truong,Nam Định,Xã Xuân Giang,Tỉnh Ninh Bình,,
 B.PTH10121,20.87208,105.532923,Luong Son,Hòa Bình,Xã Lương Sơn,Tỉnh Phú Thọ,,
@@ -42171,7 +42182,7 @@ B.BNI12234,21.215786,106.106898,Viet Yen,Bắc Ninh,Phường Nếnh,Tỉnh Bắ
 B.HNO15221,20.957923,105.842926,Hoang Mai,Hà Nội	,Phường Yên Sở,Thành phố Hà Nội,,
 B.PTH11465,21.394207,105.537134,Tam Duong,Vĩnh Phúc,Xã Tam Dương,Tỉnh Phú Thọ,,
 B.BNI00428,21.19592,106.1866,Yen Dung,Bắc Ninh,Phường Yên Dũng,Tỉnh Bắc Ninh,,
-B.QNG10331,15.195657,108.79359,Son Tinh,Quảng Ngãi,Xã Thọ Phong,Tỉnh Quảng Ngãi,,
+B.QNG10331,15.195657,108.79359,Son Tinh,Quảng Ngãi,Xã Thọ Phong,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.PTH13634,21.322376,105.599672,Vinh Yen,Vĩnh Phúc,Phường Vĩnh Phúc,Tỉnh Phú Thọ,,
 B.TQU00010,21.672562,105.210373,Yen Son,Phú Thọ,Xã Nhữ Khê,Tỉnh Tuyên Quang,,
 B.QNI10003,21.010577,107.28763,Cam Pha,Quảng Ninh,Phường Cẩm Phả,Tỉnh Quảng Ninh,,
@@ -42928,7 +42939,7 @@ B.HNO01236,21.021145,105.964653,Gia Lam,Hà Nội	,Xã Thuận An,Thành phố H
 B.QBI00017,17.44627,106.632401,Dong Hoi,Quảng Bình,Phường Đồng Hới,Tỉnh Quảng Trị,,
 B.BNI00035,21.195641,106.130966,Que Vo,Bắc Ninh,Phường Nhân Hoà,Tỉnh Bắc Ninh,,
 B.HNO16829,21.111509,105.876129,Dong Anh,Hà Nội	,Xã Đông Anh,Thành phố Hà Nội,,
-B.QNG10153,15.106049,108.811852,Quang Ngai,Quảng Ngãi,Phường Cẩm Thành,Tỉnh Quảng Ngãi,,
+B.QNG10153,15.106049,108.811852,Quang Ngai,Quảng Ngãi,Phường Cẩm Thành,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.BNI11497,21.349478,106.50486,Luc Ngan,Bắc Giang,Phường Phượng Sơn,Tỉnh Bắc Ninh,,
 B.LCA11089,22.23595,104.4786,Bao Yen,Lào Cai,Xã Bảo Yên,Tỉnh Lào Cai,,
 B.HYE11734,20.537677,106.297355,Dong Hung,Thái Bình,Xã Đông Tiên Hưng,Tỉnh Hưng Yên,,
@@ -42940,7 +42951,7 @@ B.TQU10180,21.696782,105.39147,Son Duong,Tuyên Quang,Xã Sơn Dương,Tỉnh Tu
 B.NBI00034,20.307909,105.750435,Nho Quan,Ninh Bình,Xã Nho Quan,Tỉnh Ninh Bình,,
 B.PTH10480,21.2017,105.52545,Vinh Tuong,Vĩnh Phúc,Xã Vĩnh Tường,Tỉnh Phú Thọ,,
 B.DBI10372,21.440069,103.005179,Dien Bien,Điện Biên,Xã Thanh Nưa,Tỉnh Điện Biên,,
-B.QNG10325,15.34322,108.73444,Binh Son,Quảng Ngãi,Xã Bình Sơn,Tỉnh Quảng Ngãi,,
+B.QNG10325,15.34322,108.73444,Binh Son,Quảng Ngãi,Xã Bình Sơn,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.HNO10298,21.06275,105.88147,Long Bien,Hà Nội	,Phường Bồ Đề,Thành phố Hà Nội,,
 B.HNO13086,21.043826,105.908114,Long Bien,Hà Nội	,Phường Phúc Lợi,Thành phố Hà Nội,,
 B.HNO00058,21.00838,105.74262,Nam Tu Liem,Hà Nội	,Phường Tây Mỗ,Thành phố Hà Nội,,
@@ -42948,7 +42959,7 @@ B.HNO15520,20.987944,105.831621,Hoang Mai,Hà Nội	,Phường Phương Liệt,T
 B.TTH10021,16.409492,107.627952,Huong Thuy,Thừa Thiên Huế,Phường Thanh Thuỷ,Thành phố Huế,,
 B.QNI10132,20.96088,107.02571,Ha Long,Quảng Ninh,Phường Bãi Cháy,Tỉnh Quảng Ninh,,
 B.HNO02433,20.3771,105.4655,Lac Son,Hòa Bình,Xã Đại Đồng,Tỉnh Phú Thọ,,
-B.QNG10250,15.157007,108.781216,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,,
+B.QNG10250,15.157007,108.781216,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.THO00085,19.765907,105.795006,Thanh Hoa,Thanh Hóa,Phường Quảng Phú,Tỉnh Thanh Hoá,,
 B.HNO14877,21.02385,105.81076,Dong Da,Hà Nội	,Phường Giảng Võ,Thành phố Hà Nội,,
 B.HNO13136,21.031634,105.837808,Ba Dinh,Hà Nội	,Phường Ba Đình,Thành phố Hà Nội,,
@@ -43451,7 +43462,7 @@ B.HTI11793,18.507912,105.454974,Huong Son,Hà Tĩnh,Xã Hương Sơn,Tỉnh Hà 
 B.HPH10785,20.864243,106.69462,Ngo Quyen,Hải Phòng,Phường Ngô Quyền,Thành phố Hải Phòng,,
 B.THO13129,19.825888,105.844361,Hoang Hoa,Thanh Hóa,Xã Hoằng Lộc,Tỉnh Thanh Hoá,,
 B.HNO00031,21.050632,105.915955,Long Bien,Hà Nội	,Phường Phúc Lợi,Thành phố Hà Nội,,
-B.QNG10568,15.145806,108.82674,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,,
+B.QNG10568,15.145806,108.82674,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.NBI11753,20.167853,106.118316,Yen Khanh,Ninh Bình,Xã Khánh Hội,Tỉnh Ninh Bình,,
 B.HNO16691,21.24632,105.9326,Soc Son,Hà Nội	,Xã Đa Phúc,Thành phố Hà Nội,,
 B.SLA10094,21.32599,103.92599,Son La,Sơn La,Phường Tô Hiệu,Tỉnh Sơn La,,
@@ -43556,7 +43567,7 @@ B.HNO14392,20.950001,105.819603,Thanh Tri,Hà Nội	,Xã Đại Thanh,Thành ph�
 B.SLA10264,21.28942,103.95,Son La,Sơn La,Phường Chiềng Sinh,Tỉnh Sơn La,,
 B.TNG00073,21.604073,105.837601,Thai Nguyen,Thái Nguyên,Phường Linh Sơn,Tỉnh Thái Nguyên,,
 B.HNO11875,20.713093,105.915577,Phu Xuyen,Hà Nội	,Xã Đại Xuyên,Thành phố Hà Nội,,
-B.QNG00010,15.099327,108.817589,Quang Ngai,Quảng Ngãi,Phường Cẩm Thành,Tỉnh Quảng Ngãi,,
+B.QNG00010,15.099327,108.817589,Quang Ngai,Quảng Ngãi,Phường Cẩm Thành,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.HNO11877,20.7099,105.91211,Phu Xuyen,Hà Nội	,Xã Đại Xuyên,Thành phố Hà Nội,,
 B.HPH11742,20.735917,106.396411,Ninh Giang,Hải Dương,Xã Ninh Giang,Thành phố Hải Phòng,,
 B.PTH10463,21.24075,105.5215,Vinh Tuong,Vĩnh Phúc,Xã Vĩnh Tường,Tỉnh Phú Thọ,,
@@ -43763,7 +43774,7 @@ B.NAN11417,19.073941,105.569515,Yen Thanh,Nghệ An,Xã Đông Thành,Tỉnh Ngh
 B.PTH11838,21.4959,105.376,Song Lo,Vĩnh Phúc,Xã Yên Lãng,Tỉnh Phú Thọ,,
 B.BNI10292,21.009517,106.181395,Luong Tai,Bắc Ninh,Xã Lâm Thao,Tỉnh Bắc Ninh,,
 B.LCA11369,21.86399,104.6413,Van Yen,Yên Bái,Xã Mậu A,Tỉnh Lào Cai,,
-B.QNG00012,14.835323,108.945923,Duc Pho,Quảng Ngãi,Phường Đức Phổ,Tỉnh Quảng Ngãi,,
+B.QNG00012,14.835323,108.945923,Duc Pho,Quảng Ngãi,Phường Đức Phổ,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.HYE11175,20.41613,106.411472,Kien Xuong,Thái Bình,Xã Quang Lịch,Tỉnh Hưng Yên,,
 B.HTI11223,18.321251,105.906006,Ha Tinh,Hà Tĩnh,Phường Thành Sen,Tỉnh Hà Tĩnh,,
 B.YBI00004,21.70816,104.881973,Yen Bai,Yên Bái,Phường Yên Bái,Tỉnh Lào Cai,,
@@ -44696,7 +44707,7 @@ B.HNO12264,21.025536,105.849729,Hoan Kiem,Hà Nội	,Phường Cửa Nam,Thành 
 B.DBI10358,21.29029,103.00731,Dien Bien,Điện Biên,Xã Sam Mứn,Tỉnh Điện Biên,,
 B.HYE10004,20.389105,106.434386,Kien Xuong,Thái Bình,Xã Kiến Xương,Tỉnh Hưng Yên,,
 B.QNI10687,21.056483,107.35348,Cam Pha,Quảng Ninh,Phường Mông Dương,Tỉnh Quảng Ninh,,
-B.QNG10565,15.114056,108.78035,Quang Ngai,Quảng Ngãi,Phường Nghĩa Lộ,Tỉnh Quảng Ngãi,,
+B.QNG10565,15.114056,108.78035,Quang Ngai,Quảng Ngãi,Phường Nghĩa Lộ,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.THO11081,19.80293,105.84278,Thanh Hoa,Thanh Hóa,Phường Nguyệt Viên,Tỉnh Thanh Hoá,,
 B.THO11293,20.08756,105.37418,Ngoc Lac,Thanh Hóa,Xã Ngọc Lặc,Tỉnh Thanh Hoá,,
 B.NAN10344,18.3608,105.3518,Vu Quang,Hà Tĩnh,Xã Vũ Quang,Tỉnh Hà Tĩnh,,
@@ -45162,7 +45173,7 @@ B.HDU00010,20.947077,106.346519,Hai Duong,Hải Dương,Phường Hải Dương,
 B.HNO10112,21.009664,105.793748,Cau Giay,Hà Nội	,Phường Yên Hoà,Thành phố Hà Nội,,
 B.HNO15639,21.1024,105.78486,Dong Anh,Hà Nội	,Xã Thiên Lộc,Thành phố Hà Nội,,
 B.LCA10579,21.875844,104.678595,Van Yen,Yên Bái,Xã Mậu A,Tỉnh Lào Cai,,
-B.QNG10574,15.158522,108.84396,Son Tinh,Quảng Ngãi,Xã Tịnh Khê,Tỉnh Quảng Ngãi,,
+B.QNG10574,15.158522,108.84396,Son Tinh,Quảng Ngãi,Xã Tịnh Khê,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.QNI00025,20.962523,107.053444,Ha Long,Quảng Ninh,Phường Bãi Cháy,Tỉnh Quảng Ninh,,
 B.HNO10757,21.03251,105.92584,Long Bien,Hà Nội	,Phường Phúc Lợi,Thành phố Hà Nội,,
 B.PTH11194,21.284,105.2254,Tam Nong,Phú Thọ,Xã Vạn Xuân,Tỉnh Phú Thọ,,
@@ -45432,7 +45443,7 @@ B.THO12035,19.866035,105.41342,Tho Xuan,Thanh Hóa,Xã Sao Vàng,Tỉnh Thanh Ho
 B.LCA10939,22.459434,103.985053,Lao Cai,Lào Cai,Phường Cam Đường,Tỉnh Lào Cai,,
 B.HTI11281,18.041938,106.382963,Ky Anh,Hà Tĩnh,Phường Vũng Áng,Tỉnh Hà Tĩnh,,
 B.TNG11649,21.557662,105.765665,Thai Nguyen,Thái Nguyên,Xã Đại Phúc,Tỉnh Thái Nguyên,,
-B.QNG00048,14.848024,108.807213,Nghia Hanh,Quảng Ngãi,Xã Thiện Tín,Tỉnh Quảng Ngãi,,
+B.QNG00048,14.848024,108.807213,Nghia Hanh,Quảng Ngãi,Xã Thiện Tín,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.NBI10007,20.291501,106.343984,Xuan Truong,Nam Định,Xã Xuân Trường,Tỉnh Ninh Bình,,
 B.NBI11147,20.37251,105.83121,Gia Vien,Ninh Bình,Xã Gia Hưng,Tỉnh Ninh Bình,,
 B.LCA11422,22.3461,104.2899,Bao Thang,Lào Cai,Xã Xuân Quang,Tỉnh Lào Cai,,
@@ -45606,7 +45617,7 @@ B.TNG11964,21.65372,105.6926,Dai Tu,Thái Nguyên,Xã Phú Lạc,Tỉnh Thái Ng
 B.QNI10488,21.026492,106.991,Hoanh Bo,Quảng Ninh,Phường Hoành Bồ,Tỉnh Quảng Ninh,,
 B.LCH10046,22.404918,103.433031,Lai Chau,Lai Châu,Phường Đoàn Kết,Tỉnh Lai Châu,,
 B.TTH10013,16.520216,107.481918,Huong Tra,Thừa Thiên Huế,Phường Hương Trà,Thành phố Huế,,
-B.QNG10573,15.152521,108.8573,Son Tinh,Quảng Ngãi,Xã Tịnh Khê,Tỉnh Quảng Ngãi,,
+B.QNG10573,15.152521,108.8573,Son Tinh,Quảng Ngãi,Xã Tịnh Khê,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.QNI10650,20.939636,106.791762,Quang Yen,Hải Phòng,Phường Quảng Yên,Tỉnh Quảng Ninh,,
 B.HPH00038,20.823053,106.687408,Le Chan,Hải Phòng,Phường An Biên,Thành phố Hải Phòng,,
 B.TNG00426,22.159154,105.594425,Cho Don,Bắc Kạn,Xã Chợ Đồn,Tỉnh Thái Nguyên,,
@@ -46163,7 +46174,7 @@ B.HNO12793,20.994336,105.79458,Nam Tu Liem,Hà Nội	,Phường Thanh Xuân,Thà
 B.HTI00077,18.338698,105.898462,Ha Tinh,Hà Tĩnh,Phường Thành Sen,Tỉnh Hà Tĩnh,,
 B.HNO10344,21.142,105.873,Dong Anh,Hà Nội	,Xã Đông Anh,Thành phố Hà Nội,,
 B.TNG11334,21.39692,105.8724,Pho Yen,Hà Nội	,Phường Vạn Xuân,Tỉnh Thái Nguyên,,
-B.QNG10571,15.150577,108.8309,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,,
+B.QNG10571,15.150577,108.8309,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.DTH10744,10.269569,106.559009,Tan Phu Dong,Bến Tre,Xã Tân Thới,Tỉnh Đồng Tháp,,
 B.HTI11374,18.220899,106.211265,Ky Anh,Hà Tĩnh,Xã Kỳ Xuân,Tỉnh Hà Tĩnh,,
 B.PTH10927,21.186705,105.513989,Vinh Tuong,Hà Nội	,Xã Vĩnh Phú,Tỉnh Phú Thọ,,
@@ -46533,7 +46544,7 @@ B.QTR10026,16.631416,106.74056,Huong Hoa,Quảng Trị,Xã Khe Sanh,Tỉnh Quả
 B.LCA10942,22.391476,103.996433,Lao Cai,Lào Cai,Xã Hợp Thành,Tỉnh Lào Cai,,
 B.HNO14735,21.058888,105.808729,Cau Giay,Hà Nội	,Phường Tây Hồ,Thành phố Hà Nội,,
 B.TQU00004,21.818693,105.205666,Tuyen Quang,Tuyên Quang,Phường Minh Xuân,Tỉnh Tuyên Quang,,
-B.QNG10342,14.95727,108.88765,Mo Duc,Quảng Ngãi,Xã Mộ Đức,Tỉnh Quảng Ngãi,,
+B.QNG10342,14.95727,108.88765,Mo Duc,Quảng Ngãi,Xã Mộ Đức,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.HYE10077,20.95295,105.97269,Van Giang,Hưng Yên,Xã Nghĩa Trụ,Tỉnh Hưng Yên,,
 B.LCA10415,21.67222,104.4651,Van Chan,Yên Bái,Xã Gia Hội,Tỉnh Lào Cai,,
 B.NDI00014,20.4253,106.1438,Nam Định,Nam Định,Phường Thành Nam,Tỉnh Ninh Bình,,
@@ -46644,7 +46655,7 @@ B.HTI11315,18.276733,106.094299,Cam Xuyen,Hà Tĩnh,Xã Thiên Cầm,Tỉnh Hà 
 B.TQU10282,23.182599,105.412022,Meo Vac,Hà Giang,Xã Mèo Vạc,Tỉnh Tuyên Quang,,
 B.HTI11659,18.314171,105.711777,Huong Khe,Hà Tĩnh,Xã Hà Linh,Tỉnh Hà Tĩnh,,
 B.HNO14471,21.033041,105.798562,Cau Giay,Hà Nội	,Phường Nghĩa Đô,Thành phố Hà Nội,,
-B.QNG10569,15.155278,108.83742,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,,
+B.QNG10569,15.155278,108.83742,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.BGI00031,21.370564,106.024674,Tan Yen,Bắc Giang,Xã Ngọc Thiện,Tỉnh Bắc Ninh,,
 B.TQU11531,22.494118,104.519059,Xin Man,Hà Giang,Xã Khuôn Lùng,Tỉnh Tuyên Quang,,
 B.HNO10259,20.4321,105.4542,Lac Son,Hòa Bình,Xã Đại Đồng,Tỉnh Phú Thọ,,
@@ -46737,7 +46748,7 @@ B.PTH11158,20.596943,105.363286,Cao Phong,Hòa Bình,Xã Mường Thàng,Tỉnh 
 B.DBI10391,21.428003,102.996882,Dien Bien,Điện Biên,Xã Thanh Nưa,Tỉnh Điện Biên,,
 B.NBI10003,20.643361,105.92244,Duy Tien,Hà Nam,Phường Đồng Văn,Tỉnh Ninh Bình,,
 B.BNI11224,21.302375,106.062089,Viet Yen,Bắc Giang,Phường Tự Lạn,Tỉnh Bắc Ninh,,
-B.QNG10088,15.11711,108.786,Quang Ngai,Quảng Ngãi,Phường Nghĩa Lộ,Tỉnh Quảng Ngãi,,
+B.QNG10088,15.11711,108.786,Quang Ngai,Quảng Ngãi,Phường Nghĩa Lộ,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.BNI10796,21.308388,106.049771,Viet Yen,Bắc Giang,Phường Tự Lạn,Tỉnh Bắc Ninh,,
 B.HTI10229,18.338761,105.889943,Ha Tinh,Hà Tĩnh,Phường Thành Sen,Tỉnh Hà Tĩnh,,
 B.SLA00040,21.297855,103.94886,Son La,Sơn La,Phường Chiềng Sinh,Tỉnh Sơn La,,
@@ -46965,7 +46976,7 @@ B.HNO11240,21.16365,105.8652,Dong Anh,Hà Nội	,Xã Thư Lâm,Thành phố Hà 
 B.QNI11522,20.946697,106.805267,Quang Yen,Hải Phòng,Phường Hiệp Hoà,Tỉnh Quảng Ninh,,
 B.DBI10262,21.313005,103.029356,Dien Bien,Điện Biên,Xã Thanh An,Tỉnh Điện Biên,,
 B.TNG11170,21.732528,105.555611,Dai Tu,Thái Nguyên,Xã Đức Lương,Tỉnh Thái Nguyên,,
-B.QNG10314,15.126224,108.778545,Quang Ngai,Quảng Ngãi,Phường Nghĩa Lộ,Tỉnh Quảng Ngãi,,
+B.QNG10314,15.126224,108.778545,Quang Ngai,Quảng Ngãi,Phường Nghĩa Lộ,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.PTH11225,21.414466,105.457164,Lap Thach,Vĩnh Phúc,Xã Lập Thạch,Tỉnh Phú Thọ,,
 B.HYE10672,20.841531,105.950181,Khoai Chau,Hà Nội	,Xã Triệu Việt Vương,Tỉnh Hưng Yên,,
 B.PTH00044,21.345097,105.059799,Yen Lap,Phú Thọ,Xã Yên Lập,Tỉnh Phú Thọ,,
@@ -47116,7 +47127,7 @@ B.NBI11287,20.281566,106.09487,Y Yen,Nam Định,Xã Yên Cường,Tỉnh Ninh B
 B.THO12244,20.38776,105.25521,Ba Thuoc,Thanh Hóa,Xã Bá Thước,Tỉnh Thanh Hoá,,
 B.BNI11536,21.288534,106.777748,Son Dong,Bắc Giang,Xã Tuấn Đạo,Tỉnh Bắc Ninh,,
 B.BNI00033,21.14257,106.073753,Bac Ninh,Bắc Ninh,Phường Hạp Lĩnh,Tỉnh Bắc Ninh,,
-B.QNG00027,15.363156,108.785988,Binh Son,Quảng Ngãi,Xã Vạn Tường,Tỉnh Quảng Ngãi,,
+B.QNG00027,15.363156,108.785988,Binh Son,Quảng Ngãi,Xã Vạn Tường,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.THO11975,19.86297,105.52344,Trieu Son,Thanh Hóa,Xã Thọ Ngọc,Tỉnh Thanh Hoá,,
 B.LCA11339,21.710362,104.871829,Yen Bai,Yên Bái,Phường Yên Bái,Tỉnh Lào Cai,,
 B.TNG10383,21.577477,105.817002,Thai Nguyen,Thái Nguyên,Phường Phan Đình Phùng,Tỉnh Thái Nguyên,,
@@ -47520,7 +47531,7 @@ B.HNO00122,20.857622,105.869469,Thuong Tin,Hà Nội	,Xã Hồng Vân,Thành ph�
 B.HNO14570,20.984354,105.838696,Hoang Mai,Hà Nội	,Phường Phương Liệt,Thành phố Hà Nội,,
 B.NBI10231,20.219219,106.160491,Nghia Hung,Nam Định,Xã Nghĩa Hưng,Tỉnh Ninh Bình,,
 B.QNI10745,21.487556,107.38975,Binh Lieu,Quảng Ninh,Xã Bình Liêu,Tỉnh Quảng Ninh,,
-B.QNG00028,14.992076,108.883484,Mo Duc,Quảng Ngãi,Xã Mỏ Cày,Tỉnh Quảng Ngãi,,
+B.QNG00028,14.992076,108.883484,Mo Duc,Quảng Ngãi,Xã Mỏ Cày,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.QNI10863,21.416888,107.450257,Tien Yen,Quảng Ninh,Xã Đông Ngũ,Tỉnh Quảng Ninh,,
 B.THO13141,19.898745,105.772236,Hoang Hoa,Thanh Hóa,Xã Hoằng Giang,Tỉnh Thanh Hoá,,
 B.PTH13659,21.245844,105.67538,Binh Xuyen,Vĩnh Phúc,Xã Xuân Lãng,Tỉnh Phú Thọ,,
@@ -47610,7 +47621,7 @@ B.SLA10015,21.196705,104.10677,Mai Son,Sơn La,Xã Mai Sơn,Tỉnh Sơn La,,
 B.PTH11245,21.388494,105.611166,Tam Dao,Vĩnh Phúc,Xã Tam Đảo,Tỉnh Phú Thọ,,
 B.LSO10255,21.612194,106.538111,Chi Lang,Lạng Sơn,Xã Chi Lăng,Tỉnh Lạng Sơn,,
 B.NBI11762,20.1676,106.087,Yen Khanh,Ninh Bình,Xã Khánh Nhạc,Tỉnh Ninh Bình,,
-B.QNG10150,15.366839,108.731636,Binh Son,Quảng Ngãi,Xã Bình Sơn,Tỉnh Quảng Ngãi,,
+B.QNG10150,15.366839,108.731636,Binh Son,Quảng Ngãi,Xã Bình Sơn,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.HYE10665,20.877968,106.128856,An Thi,Hưng Yên,Xã Phạm Ngũ Lão,Tỉnh Hưng Yên,,
 B.SLA10417,21.37417,103.91216,Son La,Sơn La,Phường Chiềng An,Tỉnh Sơn La,,
 B.NBI11682,20.227667,106.0195,Yen Khanh,Ninh Bình,Phường Đông Hoa Lư,Tỉnh Ninh Bình,,
@@ -47930,14 +47941,14 @@ B.TQU10885,22.670101,105.005858,Vi Xuyen,Hà Giang,Xã Linh Hồ,Tỉnh Tuyên Q
 B.CBA10076,22.726521,106.165267,Hoa An,Cao Bằng,Xã Hoà An,Tỉnh Cao Bằng,,
 B.BNI11380,21.48091,106.21185,Yen The,Bắc Giang,Xã Đồng Kỳ,Tỉnh Bắc Ninh,,
 B.HPH10554,20.829597,106.69591,Ngo Quyen,Hải Phòng,Phường Gia Viên,Thành phố Hải Phòng,,
-B.QNG00029,14.709526,109.045197,Duc Pho,Quảng Ngãi,Xã Khánh Cường,Tỉnh Quảng Ngãi,,
+B.QNG00029,14.709526,109.045197,Duc Pho,Quảng Ngãi,Xã Khánh Cường,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.HNO14887,21.02788,105.81762,Ba Dinh,Hà Nội	,Phường Giảng Võ,Thành phố Hà Nội,,
 B.HPH10320,20.714188,106.555718,Tien Lang,Hải Phòng,Xã Tân Minh,Thành phố Hải Phòng,,
 B.THO12169,19.5471,105.7071,Nong Cong,Thanh Hóa,Xã Tượng Lĩnh,Tỉnh Thanh Hoá,,
 B.THO13216,19.732559,105.784983,Quang Xuong,Thanh Hóa,Xã Lưu Vệ,Tỉnh Thanh Hoá,,
 B.HYE10681,20.848078,105.983126,Khoai Chau,Hà Nội	,Xã Triệu Việt Vương,Tỉnh Hưng Yên,,
 B.PTH10688,21.396998,105.397639,Song Lo,Phú Thọ,Xã Sông Lô,Tỉnh Phú Thọ,,
-B.QNG10348,14.812159,108.95602,Duc Pho,Quảng Ngãi,Phường Đức Phổ,Tỉnh Quảng Ngãi,,
+B.QNG10348,14.812159,108.95602,Duc Pho,Quảng Ngãi,Phường Đức Phổ,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.QNI11016,20.977234,107.095747,Ha Long,Quảng Ninh,Phường Hà Lầm,Tỉnh Quảng Ninh,,
 B.BNI00029,21.118353,106.084816,Tien Du,Bắc Ninh,Xã Tân Chi,Tỉnh Bắc Ninh,,
 B.HTI10449,18.34027,105.9093,Ha Tinh,Hà Tĩnh,Phường Thành Sen,Tỉnh Hà Tĩnh,,
@@ -48330,7 +48341,7 @@ B.BNI10622,21.26566,106.29086,Yen Dung,Bắc Giang,Phường Tân An,Tỉnh Bắ
 B.LCA10661,21.855759,104.667059,Van Yen,Yên Bái,Xã Xuân Ái,Tỉnh Lào Cai,,
 B.THO11892,19.833972,105.772707,Thanh Hoa,Thanh Hóa,Phường Hàm Rồng,Tỉnh Thanh Hoá,,
 B.PTH11831,21.181819,105.472471,Vinh Tuong,Hà Nội	,Xã Vĩnh Phú,Tỉnh Phú Thọ,,
-B.QNG00040,15.314278,108.750648,Binh Son,Quảng Ngãi,Xã Bình Sơn,Tỉnh Quảng Ngãi,,
+B.QNG00040,15.314278,108.750648,Binh Son,Quảng Ngãi,Xã Bình Sơn,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.LCA10927,22.412455,104.031845,Lao Cai,Lào Cai,Phường Cam Đường,Tỉnh Lào Cai,,
 B.QNI11941,21.110396,106.565612,Dong Trieu,Hải Dương,Phường Bình Khê,Tỉnh Quảng Ninh,,
 B.HYE10648,20.56342,106.2225,Hung Ha,Thái Bình,Xã Hưng Hà,Tỉnh Hưng Yên,,
@@ -49113,7 +49124,7 @@ B.SLA10439,20.902865,103.56165,Sop Cop,Sơn La,Xã Sốp Cộp,Tỉnh Sơn La,,
 B.NBI11165,20.16145,106.00598,Yen Mo,Ninh Bình,Xã Yên Mô,Tỉnh Ninh Bình,,
 B.HNO01162,21.220119,105.743332,Me Linh,Vĩnh Phúc,Xã Quang Minh,Thành phố Hà Nội,,
 B.LCA10964,22.09313,104.6739,Luc Yen,Yên Bái,Xã Khánh Hoà,Tỉnh Lào Cai,,
-B.QNG10570,15.153611,108.83451,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,,
+B.QNG10570,15.153611,108.83451,Son Tinh,Quảng Ngãi,Phường Trương Quang Trọng,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.HNO15342,21.094345,105.707291,Dan Phuong,Hà Nội	,Xã Ô Diên,Thành phố Hà Nội,,
 B.NBI11065,20.367382,106.130727,Vu Ban,Nam Định,Phường Trường Thi,Tỉnh Ninh Bình,,
 B.SLA00017,21.24666,104.445457,Bac Yen,Sơn La,Xã Bắc Yên,Tỉnh Sơn La,,
@@ -49580,7 +49591,7 @@ B.HNO15494,20.771695,105.723851,My Duc,Hà Nội	,Xã Phúc Sơn,Thành phố H�
 B.QNI10587,21.059142,107.414363,Van Don,Quảng Ninh,Đặc khu Vân Đồn,Tỉnh Quảng Ninh,,
 B.LCA10974,21.97022,104.7556,Luc Yen,Yên Bái,Xã Phúc Lợi,Tỉnh Lào Cai,,
 B.HPH11736,20.735427,106.400004,Ninh Giang,Hải Dương,Xã Ninh Giang,Thành phố Hải Phòng,,
-B.QNG10326,15.251432,108.78097,Binh Son,Quảng Ngãi,Xã Đông Sơn,Tỉnh Quảng Ngãi,,
+B.QNG10326,15.251432,108.78097,Binh Son,Quảng Ngãi,Xã Đông Sơn,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 B.TNG00072,21.419989,105.868935,Pho Yen,Thái Nguyên,Phường Phổ Yên,Tỉnh Thái Nguyên,,
 B.HPH12152,20.911407,106.487414,Kim Thanh,Hải Dương,Xã An Thành,Thành phố Hải Phòng,,
 B.HTI11113,18.3286,105.903613,Ha Tinh,Hà Tĩnh,Phường Thành Sen,Tỉnh Hà Tĩnh,,
@@ -49969,8 +49980,7 @@ B.BPH9999,,,,,,,,
 B.DNI9999,,,,,,,,
 B.LDO,,,,,,,,
 B.DNI00771,,,,,,,,
-B.GLA,,,,,,,,
-B.GLA00128,,,,,,,,
+B.GLA00128,,,,,,,Tây Nguyên,Gia Lai
 B.HUG9999,,,,,,,,
 B.CTH9999,,,,,,,,
 B.KHO10213,,,,,,,,
@@ -50000,11 +50010,11 @@ B.LDO13137,,,,,,,,
 B.LDO13134,,,,,,,,
 B.LDO13128,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO13130,,,,,,,,
-B.DLA11631,,,,,,,,
-B.DLA11630,,,,,,,,
-B.DLA11619,,,,,,,,
-B.QNG10424,,,,,,,,
-B.QNG10423,,,,,,,,
+B.DLA11631,,,,,,,Tây Nguyên,Đắk Lắk
+B.DLA11630,,,,,,,Tây Nguyên,Đắk Lắk
+B.DLA11619,,,,,,,Tây Nguyên,Đắk Lắk
+B.QNG10424,,,,,,,Tây Nguyên,Quảng Ngãi
+B.QNG10423,,,,,,,Tây Nguyên,Quảng Ngãi
 B.CMA10584,,,,,,,,
 B.DNI13498,,,,,,,,
 B.DNI13788,,,,,,,,
@@ -50069,12 +50079,12 @@ B.LDO12582,,,,,,,,
 B.LDO12489,,,,,,,,
 B.LDO12490,,,,,,,,
 B.LDO12765,,,,,,,,
-B.DLA11638,,,,,,,,
-B.DLA11633,,,,,,,,
+B.DLA11638,,,,,,,Tây Nguyên,Đắk Lắk
+B.DLA11633,,,,,,,Tây Nguyên,Đắk Lắk
 B.VLO11083,,,,,,,,
 C.DNI12850,,,,,,,,
 C.DNI13478,,,,,,,,
-C.DLA0267,,,,,,,,
+C.DLA0267,,,,,,,Tây Nguyên,Đắk Lắk
 C.AGI0205,,,,,,,,
 C.AGI0211,,,,,,,,
 C.AGI0213,,,,,,,,
@@ -50457,98 +50467,98 @@ B.TNI10008,10.654808,106.183211,,,,,KV không quản lý,Vũ Thế Nguyên
 B.TNI10068,10.794253,106.50447,,,,,KV không quản lý,Vũ Thế Nguyên
 B.TNI10029,10.582162,106.58988,,,,,KV không quản lý,Vũ Thế Nguyên
 B.TNI10080,10.900602,106.390394,,,,,KV không quản lý,Vũ Thế Nguyên
-B.HCM01751,10.84349,106.8423,,,,,,
-B.HCM01738,10.84349,106.8423,,,,,,
+B.HCM01751,10.84349,106.8423,,,,,HCM,Lư Diệu Thuận
+B.HCM01738,10.84349,106.8423,,,,,HCM,Lư Diệu Thuận
 B.TGI00027,10.359828,106.462662,,,,,,
-B.HCM10194,10.841255,106.826943,,,,,,
+B.HCM10194,10.841255,106.826943,,,,,HCM,Lư Diệu Thuận
 B.TGI00026,10.363777,106.663521,,,,,,
-B.HCM01754,10.84349,106.8423,,,,,,
+B.HCM01754,10.84349,106.8423,,,,,HCM,Lư Diệu Thuận
 B.TGI00070,10.379279,106.365158,,,,,,
 B.TGI00034,10.439545,106.65451,,,,,,
 B.TGI00033,10.410865,106.675758,,,,,,
 B.TGI00001,10.405456,106.203964,,,,,,
-B.HCM10112,11.097512,106.63716,,,,,,
+B.HCM10112,11.097512,106.63716,,,,,HCM,Lư Diệu Thuận
 B.TGI00029,10.26055,106.679558,,,,,,
-B.HCM11158,11.280836,106.366,,,,,,
-B.HCM01752,10.84349,106.8423,,,,,,
-B.HCM01641,11.280836,106.366,,,,,,
-B.HCM01734,10.84349,106.8423,,,,,,
-B.HCM00266,10.83788,106.838501,,,,,,
-B.HCM10616,10.742343,106.240224,,,,,,
+B.HCM11158,11.280836,106.366,,,,,HCM,Lư Diệu Thuận
+B.HCM01752,10.84349,106.8423,,,,,HCM,Lư Diệu Thuận
+B.HCM01641,11.280836,106.366,,,,,HCM,Lư Diệu Thuận
+B.HCM01734,10.84349,106.8423,,,,,HCM,Lư Diệu Thuận
+B.HCM00266,10.83788,106.838501,,,,,HCM,Lư Diệu Thuận
+B.HCM10616,10.742343,106.240224,,,,,HCM,Lư Diệu Thuận
 B.TGI00016,10.345225,106.324448,,,,,,
-B.HCM00323,10.856734,106.835114,,,,,,
-B.HCM01749,10.84349,106.8423,,,,,,
-B.HCM01703,10.84349,106.8423,,,,,,
-B.HCM01726,10.841703,106.82083,,,,,,
-B.HCM10116,11.139628,106.608809,,,,,,
+B.HCM00323,10.856734,106.835114,,,,,HCM,Lư Diệu Thuận
+B.HCM01749,10.84349,106.8423,,,,,HCM,Lư Diệu Thuận
+B.HCM01703,10.84349,106.8423,,,,,HCM,Lư Diệu Thuận
+B.HCM01726,10.841703,106.82083,,,,,HCM,Lư Diệu Thuận
+B.HCM10116,11.139628,106.608809,,,,,HCM,Lư Diệu Thuận
 B.DTH00030,10.84349,106.8423,,,,,,
-B.HCM11160,11.114269,106.631,,,,,,
+B.HCM11160,11.114269,106.631,,,,,HCM,Lư Diệu Thuận
 B.TGI00002,10.357895,106.36338,,,,,,
-B.HCM01697,10.84349,106.8423,,,,,,
+B.HCM01697,10.84349,106.8423,,,,,HCM,Lư Diệu Thuận
 B.TGI00042,10.398782,106.260735,,,,,,
-B.HCM00537,10.81184,106.8582,,,,,,
-B.HCM01827,10.84349,106.8423,,,,,,
+B.HCM00537,10.81184,106.8582,,,,,HCM,Lư Diệu Thuận
+B.HCM01827,10.84349,106.8423,,,,,HCM,Lư Diệu Thuận
 B.TGI00083,10.382274,106.326164,,,,,,
-B.HCM01832,11.026091,106.564,,,,,,
+B.HCM01832,11.026091,106.564,,,,,HCM,Lư Diệu Thuận
 B.TGI00050,10.37086,106.388023,,,,,,
 B.TGI00040,10.45693,106.647369,,,,,,
 B.TGI00041,10.357037,106.539185,,,,,,
-B.HCM01756,10.84349,106.8423,,,,,,
+B.HCM01756,10.84349,106.8423,,,,,HCM,Lư Diệu Thuận
 B.TGI00035,10.380393,106.680916,,,,,,
 B.TGI00049,10.316944,106.532784,,,,,,
 B.TGI00028,10.424807,106.319923,,,,,,
-B.HCM01826,10.84349,106.8423,,,,,,
+B.HCM01826,10.84349,106.8423,,,,,HCM,Lư Diệu Thuận
 B.TGI00048,10.39116,106.678238,,,,,,
 B.TGI00064,10.345494,106.017921,,,,,,
-B.HCM10171,11.022312,106.564049,,,,,,
-B.HCM00171,10.846689,106.839584,,,,,,
-B.HCM00265,10.83788,106.838501,,,,,,
+B.HCM10171,11.022312,106.564049,,,,,HCM,Lư Diệu Thuận
+B.HCM00171,10.846689,106.839584,,,,,HCM,Lư Diệu Thuận
+B.HCM00265,10.83788,106.838501,,,,,HCM,Lư Diệu Thuận
 B.TGI00038,10.353968,106.633018,,,,,,
-B.HCM01825,10.84349,106.8423,,,,,,
-B.HCM01712,10.84349,106.8423,,,,,,
+B.HCM01825,10.84349,106.8423,,,,,HCM,Lư Diệu Thuận
+B.HCM01712,10.84349,106.8423,,,,,HCM,Lư Diệu Thuận
 B.TGI00044,10.357194,106.634331,,,,,,
-B.HCM01707,10.84349,106.8423,,,,,,
+B.HCM01707,10.84349,106.8423,,,,,HCM,Lư Diệu Thuận
 B.TGI00045,10.31865,106.728676,,,,,,
-B.HCM11229,21.25563,106.21857,,,,,,
-B.HCM01698,10.84349,106.8423,,,,,,
+B.HCM11229,21.25563,106.21857,,,,,HCM,Lư Diệu Thuận
+B.HCM01698,10.84349,106.8423,,,,,HCM,Lư Diệu Thuận
 B.TGI00046,10.29261,106.777473,,,,,,
-B.HCM10169,11.022312,106.564049,,,,,,
+B.HCM10169,11.022312,106.564049,,,,,HCM,Lư Diệu Thuận
 B.TGI00054,10.427822,106.706894,,,,,,
-B.HCM00175,10.842948,106.843788,,,,,,
+B.HCM00175,10.842948,106.843788,,,,,HCM,Lư Diệu Thuận
 B.TGI00030,10.347965,106.66391,,,,,,
-B.HCM01893,10.75586,106.60632,,,,,,
+B.HCM01893,10.75586,106.60632,,,,,HCM,Lư Diệu Thuận
 B.TGI00053,10.370222,106.478363,,,,,,
-B.HCM01755,10.84349,106.8423,,,,,,
-B.HCM10080,11.240799,106.565068,,,,,,
+B.HCM01755,10.84349,106.8423,,,,,HCM,Lư Diệu Thuận
+B.HCM10080,11.240799,106.565068,,,,,HCM,Lư Diệu Thuận
 B.TGI00043,10.36204,106.688141,,,,,,
 B.TGI00047,10.406777,106.718552,,,,,,
-B.HCM17282,10.791179,106.510693,,,,,,
-B.HCM19373,10.732215,106.534549,,,,,,
-B.HCM16026,11.063438,106.479475,,,,,,
-B.HCM17228,11.012655,106.488622,,,,,,
-B.HCM17229,11.083339,106.511744,,,,,,
-B.HCM17231,11.017117,106.59125,,,,,,
-B.HCM17232,10.94088,106.603617,,,,,,
-B.HCM17236,10.984593,106.512323,,,,,,
-B.HCM18489,11.017659,106.481313,,,,,,
-B.HCM19361,10.942947,106.535486,,,,,,
-B.HCM19362,11.018354,106.483455,,,,,,
-B.HCM19365,11.115855,106.502298,,,,,,
-B.HCM18866,10.824513,106.830295,,,,,,
-HCM_ODB,10.831583,106.676025,,,,,,
-C.HCM1870,10.7647,106.6358,,,,,,
-C.HCM14453,10.952273,106.517067,,,,,,
-C.HCM1396,10.7735188,106.6947268,,,,,,
+B.HCM17282,10.791179,106.510693,,,,,HCM,Lư Diệu Thuận
+B.HCM19373,10.732215,106.534549,,,,,HCM,Lư Diệu Thuận
+B.HCM16026,11.063438,106.479475,,,,,HCM,Lư Diệu Thuận
+B.HCM17228,11.012655,106.488622,,,,,HCM,Lư Diệu Thuận
+B.HCM17229,11.083339,106.511744,,,,,HCM,Lư Diệu Thuận
+B.HCM17231,11.017117,106.59125,,,,,HCM,Lư Diệu Thuận
+B.HCM17232,10.94088,106.603617,,,,,HCM,Lư Diệu Thuận
+B.HCM17236,10.984593,106.512323,,,,,HCM,Lư Diệu Thuận
+B.HCM18489,11.017659,106.481313,,,,,HCM,Lư Diệu Thuận
+B.HCM19361,10.942947,106.535486,,,,,HCM,Lư Diệu Thuận
+B.HCM19362,11.018354,106.483455,,,,,HCM,Lư Diệu Thuận
+B.HCM19365,11.115855,106.502298,,,,,HCM,Lư Diệu Thuận
+B.HCM18866,10.824513,106.830295,,,,,HCM,Lư Diệu Thuận
+HCM_ODB,10.831583,106.676025,,,,,HCM,Lư Diệu Thuận
+C.HCM1870,10.7647,106.6358,,,,,HCM,Lư Diệu Thuận
+C.HCM14453,10.952273,106.517067,,,,,HCM,Lư Diệu Thuận
+C.HCM1396,10.7735188,106.6947268,,,,,HCM,Lư Diệu Thuận
 B.HCM01739,11.490167,107.734,,,,,HCM,Nguyễn Hữu Thiện
 B.VTU,10.4856,107.198097,,,,,HCM,Thái Minh Hải
-B.HCM01624,11.497978,107.744,,,,,,
-B.HCM,10.5002,107.1741,,,,,,
-B.HCM04038,10.5625,107.0609,,,,,,
-B.HCM17471,10.562945,107.543924,,,,,,
-B.HCM19122,10.603015,107.438531,,,,,,
-B.HCM19123,10.540459,107.405908,,,,,,
-B.HCM16317,10.492555,107.188752,,,,,,
-B.HCM01625,10.43043,107.159721,,,,,,
-B.HCM16318,10.384616,107.107944,,,,,,
-B.HCM18487,11.055274,107.703615,,,,,,
-B.HCM18737,11.944708,108.439434,,,,,,
+B.HCM01624,11.497978,107.744,,,,,HCM,Lư Diệu Thuận
+B.HCM,10.5002,107.1741,,,,,HCM,Lư Diệu Thuận
+B.HCM04038,10.5625,107.0609,,,,,HCM,Lư Diệu Thuận
+B.HCM17471,10.562945,107.543924,,,,,HCM,Lư Diệu Thuận
+B.HCM19122,10.603015,107.438531,,,,,HCM,Lư Diệu Thuận
+B.HCM19123,10.540459,107.405908,,,,,HCM,Lư Diệu Thuận
+B.HCM16317,10.492555,107.188752,,,,,HCM,Lư Diệu Thuận
+B.HCM01625,10.43043,107.159721,,,,,HCM,Lư Diệu Thuận
+B.HCM16318,10.384616,107.107944,,,,,HCM,Lư Diệu Thuận
+B.HCM18487,11.055274,107.703615,,,,,HCM,Lư Diệu Thuận
+B.HCM18737,11.944708,108.439434,,,,,HCM,Lư Diệu Thuận
