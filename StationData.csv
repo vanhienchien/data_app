@@ -4463,7 +4463,6 @@ C.HCM00264,10.53306,106.767769,Can Gio,Ho Chi Minh,Xã An Thới Đông,Thành p
 C.HCM00419,10.6613,106.778603,Can Gio,Đồng Nai,Xã Bình Khánh,Thành phố Hồ Chí Minh,DNI-BPH,Đoàn Quốc Khánh
 C.HCM00581,10.61291,106.85786,Can Gio,Đồng Nai,Xã Bình Khánh,Thành phố Hồ Chí Minh,DNI-BPH,Đoàn Quốc Khánh
 C.HCM10213,10.664586,106.776462,Can Gio,Đồng Nai,Xã Bình Khánh,Thành phố Hồ Chí Minh,DNI-BPH,Đoàn Quốc Khánh
-KHO11256,9.5714294,105.9619706,,,,,Mtay,Lưu Văn Tề
 C.DNI13438,11.30468,107.394592,Tan Phu,Đồng Nai,Phường Tân Phú,Thành phố Đồng Nai,DNI-BPH,Đoàn Quốc Khánh
 B.DNI14180,11.177209,107.340744,Dinh Quan,Đồng Nai,Xã Định Quán,Thành phố Đồng Nai,DNI-BPH,Đoàn Quốc Khánh
 B.DNI11641,,,Tan Phu,Đồng Nai,Xã Phú Lâm,Thành phố Đồng Nai,DNI-BPH,Đoàn Quốc Khánh
@@ -15431,7 +15430,7 @@ B.BLI00031,9.224311,105.406708,Gia Rai,Bạc Liêu,Phường Giá Rai,Tỉnh Cà
 B.CMA10029,9.337965,105.35523,Phuoc Long,Bạc Liêu,Xã Phong Hiệp,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
 B.CMA10007,9.557174,105.448354,Hong Dan,Bạc Liêu,Xã Hồng Dân,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
 B.CMA10595,9.29628,105.68205,Vinh Loi,Bạc Liêu,Xã Hoà Bình,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
-B.CMA10052,9.408487,104.96903,U Minh,Cà Mau,Xã Nguyễn Phích,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
+B.CMA10052,9.408487,104.96903,U Minh,Cà Mau,Xã Nguyễn Phích,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 B.CMA10480,9.243598,105.479294,Gia Rai,Bạc Liêu,Phường Giá Rai,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
 B.CMA10498,9.246944,105.494135,Gia Rai,Bạc Liêu,Phường Láng Tròn,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
 B.BLI00023,9.313707,105.728477,Bac Lieu,Bạc Liêu,Phường Bạc Liêu,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
@@ -49961,7 +49960,7 @@ B.LDO12390,12.513241,107.856233,,,,,,
 B.DNI13022,10.814358,107.2276,,,,,,
 B.DNI13396,10.773994,107.35153,,,,,,
 B.DNI13146,10.796083,106.941028,,,,,,
-B.DNI13147,10.749167,106.94443,,,,,,
+B.DNI13147,10.749167,106.94443,,,,,DNI-BPH,Nguyễn Minh Thuận
 B.DNI13790,10.935587,107.116699,,,,,,
 B.DNI13153,11.025299,107.062841,,,,,,
 B.DNI12972,11.036842,106.913352,,,,,,
@@ -49986,7 +49985,7 @@ B.DNI13574,10.933697,107.184547,,,,,,
 B.AGI11030,9.900872,105.0872,,,,,,
 B.AGI11047,9.901115,105.154827,,,,,,
 B.AGI11050,9.901489,105.155094,,,,,,
-B.AGI11051,9.900962,105.154646,,,,,,
+B.AGI11051,9.900962,105.154646,,,,,Mtay,Cao Văn Lộc
 B.LDO12747,11.590112,107.360195,,,,,,
 B.LDO12748,11.727397,108.489983,,,,,,
 B.LDO13152,11.645306,108.312545,,,,,,
@@ -51606,14 +51605,14 @@ B.LDO14058,11.566593,107.309834,,,Xã Cát Tiên 2,Tỉnh Lâm Đồng,,
 B.LDO13360,11.536999,107.37876,,,Xã Cát Tiên,Tỉnh Lâm Đồng,,
 B.DNI14243,11.619742,106.89096,,,Xã Thuận Lợi,Tỉnh Đồng Nai,,
 B.DNI14269,11.447932,106.870559,,,Xã Đồng Phú,Tỉnh Đồng Nai,,
-B.LDO13840,11.19299,107.566576,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
+B.LDO13840,11.19299,107.566576,,,Xã Đức Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO13839,11.200148,107.5402,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
 B.LDO13838,11.184306,107.566635,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
 B.LDO13837,11.173867,107.567643,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
 B.DNI14369,11.59497,106.892048,,,Phường Bình Phước,Tỉnh Đồng Nai,,
 B.DNI14387,11.426888,106.638299,,,Phường Chơn Thành,Tỉnh Đồng Nai,,
 B.DNI14386,11.44787,106.615743,,,Phường Chơn Thành,Tỉnh Đồng Nai,,
-B.DNI13983,11.546987,106.896851,,,Phường Bình Phước,Tỉnh Đồng Nai,,
+B.DNI13983,11.546987,106.896851,,,Phường Bình Phước,Tỉnh Đồng Nai,DNI-BPH,Huỳnh Thanh Long
 B.LDO14068,11.801185,108.2039,,,Xã Đinh Văn Lâm Hà,Tỉnh Lâm Đồng,,
 B.LDO14067,11.800769,108.224202,,,Xã Đinh Văn Lâm Hà,Tỉnh Lâm Đồng,,
 B.LDO13891,11.727366,108.465295,,,Xã Đơn Dương,Tỉnh Lâm Đồng,,
@@ -51734,7 +51733,7 @@ B.DNI13854,11.158433,107.253671,,,Xã La Ngà,Tỉnh Đồng Nai,,
 B.DNI14072,10.85384,107.2602,,,Xã Cẩm Mỹ,Tỉnh Đồng Nai,,
 B.DNI14061,11.745213,107.155914,,,Xã Nghĩa Trung,Tỉnh Đồng Nai,,
 B.DNI14064,10.969301,107.329071,,,Xã Xuân Lộc,Tỉnh Đồng Nai,,
-B.DNI14056,10.966028,107.35978,,,Xã Xuân Lộc,Tỉnh Đồng Nai,,
+B.DNI14056,10.966028,107.35978,,,Xã Xuân Lộc,Tỉnh Đồng Nai,DNI-BPH,Nguyễn Quốc Khánh
 B.DNI14059,10.715668,107.329941,,,Xã Sông Ray,Tỉnh Đồng Nai,,
 B.DNI14058,10.762829,107.345886,,,Xã Cẩm Mỹ,Tỉnh Đồng Nai,,
 B.DNI14063,10.934411,107.293716,,,Xã Xuân Lộc,Tỉnh Đồng Nai,,
@@ -53255,7 +53254,7 @@ B.DLA12596,12.985933,108.896294,,,Xã Sông Hinh,Tỉnh Đắk Lắk,,
 B.DLA12595,13.048689,108.972175,,,Xã Sơn Hòa,Tỉnh Đắk Lắk,,
 B.DLA12594,12.96729,109.358761,,,Xã Hòa Xuân,Tỉnh Đắk Lắk,,
 B.DLA12593,12.982942,108.897682,,,Xã Sông Hinh,Tỉnh Đắk Lắk,,
-B.DLA12592,12.996906,109.281129,,,Xã Hòa Xuân,Tỉnh Đắk Lắk,,
+B.DLA12592,12.996906,109.281129,,,Xã Hòa Xuân,Tỉnh Đắk Lắk,Tây Nguyên,Phú Yên
 B.DLA12591,12.976069,109.336379,,,Phường Đông Hòa,Tỉnh Đắk Lắk,,
 B.DLA12590,13.015465,109.274004,,,Xã Tây Hòa,Tỉnh Đắk Lắk,,
 B.DLA12589,13.000743,109.322475,,,Phường Đông Hòa,Tỉnh Đắk Lắk,,
@@ -54302,7 +54301,7 @@ B.DNI14151,11.554191,106.915929,,,Phường Bình Phước,Tỉnh Đồng Nai,,
 B.DNI14147,11.663404,106.900627,,,Xã Phú Riềng,Tỉnh Đồng Nai,,
 B.DNI14126,11.539597,106.883494,,,Phường Bình Phước,Tỉnh Đồng Nai,,
 B.DNI14122,11.698444,107.236389,,,Xã Phước Sơn,Tỉnh Đồng Nai,,
-B.DNI14117,11.506914,106.886669,,,Phường Bình Phước,Tỉnh Đồng Nai,,
+B.DNI14117,11.506914,106.886669,,,Phường Bình Phước,Tỉnh Đồng Nai,DNI-BPH,Huỳnh Thanh Long
 B.DNI14115,11.819053,106.961106,,,Phường Phước Bình,Tỉnh Đồng Nai,,
 B.DNI14113,11.662084,106.91739,,,Xã Phú Riềng,Tỉnh Đồng Nai,,
 B.LDO11680,10.616082,107.647293,,,Xã Sơn Mỹ,Tỉnh Lâm Đồng,,
@@ -54314,7 +54313,7 @@ B.DNI14140,11.744185,106.811914,,,Xã Long Hà,Tỉnh Đồng Nai,,
 B.DNI14139,11.661724,106.922563,,,Xã Phú Riềng,Tỉnh Đồng Nai,,
 B.DNI14138,11.680699,106.832993,,,Xã Long Hà,Tỉnh Đồng Nai,,
 B.DNI14137,11.545904,106.905472,,,Phường Bình Phước,Tỉnh Đồng Nai,,
-B.DNI14123,11.658537,106.905368,,,Xã Phú Riềng,Tỉnh Đồng Nai,,
+B.DNI14123,11.658537,106.905368,,,Xã Phú Riềng,Tỉnh Đồng Nai,DNI-BPH,Huỳnh Thanh Long
 B.DNI14118,11.51961,106.865333,,,Phường Đồng Xoài,Tỉnh Đồng Nai,,
 B.DNI14089,11.669349,106.90683,,,Xã Phú Riềng,Tỉnh Đồng Nai,,
 B.DNI14088,11.661291,106.908615,,,Xã Phú Riềng,Tỉnh Đồng Nai,,
@@ -55401,7 +55400,7 @@ B.LDO13261,11.557816,107.796852,,,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,,
 B.LDO13260,11.549956,107.832634,,,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,,
 B.LDO13259,11.512999,107.834015,,,Phường B'Lao,Tỉnh Lâm Đồng,,
 B.LDO13257,11.474948,107.89991,,,Xã Hòa Bắc,Tỉnh Lâm Đồng,,
-B.LDO13256,11.53602,107.819397,,,Phường B'Lao,Tỉnh Lâm Đồng,,
+B.LDO13256,11.53602,107.819397,,,Phường B'Lao,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO13255,11.708687,108.293646,,,Xã Tân Hội,Tỉnh Lâm Đồng,,
 B.LDO13254,11.701191,108.298052,,,Xã Tân Hội,Tỉnh Lâm Đồng,,
 B.LDO13253,11.53233,107.782265,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
@@ -55418,7 +55417,7 @@ B.DNI14130,11.528027,106.870086,,,Phường Đồng Xoài,Tỉnh Đồng Nai,,
 B.DNI14129,11.527989,106.869861,,,Phường Đồng Xoài,Tỉnh Đồng Nai,,
 B.DNI14128,11.532624,106.889533,,,Phường Bình Phước,Tỉnh Đồng Nai,,
 B.DNI14133,11.5214,106.867138,,,Phường Đồng Xoài,Tỉnh Đồng Nai,,
-B.DNI14083,11.645816,106.89793,,,Xã Thuận Lợi,Tỉnh Đồng Nai,,
+B.DNI14083,11.645816,106.89793,,,Xã Thuận Lợi,Tỉnh Đồng Nai,DNI-BPH,Huỳnh Thanh Long
 B.DNI14081,11.855287,106.99554,,,Phường Phước Long,Tỉnh Đồng Nai,,
 B.DNI14080,11.850256,106.999733,,,Phường Phước Long,Tỉnh Đồng Nai,,
 B.DNI14142,11.744204,106.876876,,,Xã Phú Riềng,Tỉnh Đồng Nai,,
@@ -55465,7 +55464,7 @@ B.LDO13050,11.18578,107.538404,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
 B.LDO13048,10.647965,107.751136,,,Phường Phước Hội,Tỉnh Lâm Đồng,,
 B.LDO13047,10.670972,107.774472,,,Phường Phước Hội,Tỉnh Lâm Đồng,,
 B.LDO13037,11.297757,108.446597,,,Xã Hải Ninh,Tỉnh Lâm Đồng,,
-B.LDO13033,10.967358,108.130896,,,Phường Hàm Thắng,Tỉnh Lâm Đồng,,
+B.LDO13033,10.967358,108.130896,,,Phường Hàm Thắng,Tỉnh Lâm Đồng,DNI-BPH,Huỳnh Thanh Long
 B.LDO13028,10.918702,108.087332,,,Phường Tiến Thành,Tỉnh Lâm Đồng,,
 B.LDO13019,11.150751,107.393794,,,Xã Nghị Đức,Tỉnh Lâm Đồng,,
 B.LDO12998,11.239546,107.620346,,,Xã Nam Thành,Tỉnh Lâm Đồng,,
@@ -55478,7 +55477,7 @@ B.LDO12967,11.31154,108.756027,,,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,,
 B.LDO12964,11.189698,108.573152,,,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,,
 B.LDO12957,10.972288,108.081378,,,Xã Hàm Liêm,Tỉnh Lâm Đồng,,
 B.LDO12955,10.766288,107.889243,,,Xã Tân Thành,Tỉnh Lâm Đồng,,
-B.LDO12946,11.072936,108.130563,,,Xã Hàm Thuận,Tỉnh Lâm Đồng,,
+B.LDO12946,11.072936,108.130563,,,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO12943,12.168418,108.234202,,,Xã Đam Rông 3,Tỉnh Lâm Đồng,,
 B.LDO12941,11.939834,108.136561,,,Xã Đam Rông 1,Tỉnh Lâm Đồng,,
 B.LDO12940,12.062612,108.148345,,,Xã Đam Rông 1,Tỉnh Lâm Đồng,,
@@ -55530,7 +55529,7 @@ B.LDO12838,11.844689,108.51923,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
 B.LDO12836,11.715973,108.453569,,,Xã Đơn Dương,Tỉnh Lâm Đồng,,
 B.LDO12832,12.051184,108.494428,,,Xã Lạc Dương,Tỉnh Lâm Đồng,,
 B.LDO12826,11.946932,108.490686,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
-B.LDO12823,11.949344,108.464079,,,Phường Lâm Viên - Đà Lạt,Tỉnh Lâm Đồng,,
+B.LDO12823,11.949344,108.464079,,,Phường Lâm Viên - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12820,11.954525,108.430737,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
 B.HCM19796,10.860547,106.589198,,,Xã Xuân Thới Sơn,Thành phố Trung ương Hồ Chí Minh,,
 B.HCM18354,10.863307,106.690598,,,Phường An Phú Đông,Thành phố Trung ương Hồ Chí Minh,,
@@ -55691,7 +55690,7 @@ B.KHO11172,11.594624,108.950244,,,Phường Đô Vinh,Tỉnh Khánh Hòa,,
 B.KHO11169,12.267811,109.197872,,,Phường Bắc Nha Trang,Tỉnh Khánh Hòa,,
 B.DLA11018,12.987297,108.785353,,,Xã Ea Bá,Tỉnh Đắk Lắk,,
 B.DLA11516,13.660051,109.229747,,,Xã Xuân Lộc,Tỉnh Đắk Lắk,,
-B.DNA11028,16.04162,108.2093,,,Phường Hòa Cường,Thành phố Trung ương Đà Nẵng,,
+B.DNA11028,16.04162,108.2093,,,Phường Hòa Cường,Thành phố Trung ương Đà Nẵng,DNA-QNA,Nguyễn Mạnh Long
 B.GLA11635,13.99836,108.1127,,,Xã Đak Đoa,Tỉnh Gia Lai,,
 B.GLA12353,13.695668,108.0754,,,Xã Chư Sê,Tỉnh Gia Lai,,
 B.GLA12352,13.706006,108.084171,,,Xã Chư Sê,Tỉnh Gia Lai,,
@@ -56946,7 +56945,7 @@ B.LDO13197,11.559697,107.809677,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
 B.LDO13196,11.549722,107.839277,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
 B.LDO13245,11.582777,107.867083,,,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO13243,11.626611,107.852277,,,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,,
-B.LDO13242,11.623075,107.858953,,,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,,
+B.LDO13242,11.623075,107.858953,,,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO13241,11.746666,108.079666,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
 B.LDO13239,11.744336,108.099192,,,Xã Đức Linh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO13238,11.470484,107.838196,,,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,,
@@ -57941,7 +57940,7 @@ B.DLA11644,13.09719,109.2939,,,Phường Tuy Hòa,Tỉnh Đắk Lắk,,
 B.DLA11116,12.99289,109.3855,,,Phường Hòa Hiệp,Tỉnh Đắk Lắk,,
 B.KHO10089,12.27487,108.8943,,,Phường Tây Nha Trang,Tỉnh Khánh Hòa,,
 B.DNA10520,15.54443,108.5226,,,Xã Tam Xuân,Thành phố Trung ương Đà Nẵng,,
-B.DNA10456,15.88414,108.3488,,,Phường Hội An Đông,Thành phố Trung ương Đà Nẵng,,
+B.DNA10456,15.88414,108.3488,,,Phường Hội An Đông,Thành phố Trung ương Đà Nẵng,DNA-QNA,Lê Văn Thi
 B.GLA11624,13.91912,109.0886,,,Phường An Nhơn,Tỉnh Gia Lai,,
 B.GLA10534,14.08877,107.9002,,,Xã Ia Hrung,Tỉnh Gia Lai,,
 B.DLA10249,13.112976,109.295938,,,Phường Bình Kiến,Tỉnh Đắk Lắk,,
@@ -58585,7 +58584,7 @@ B.GLA10822,14.570193,109.01905,,,Phường Hoài Nhơn Bắc,Tỉnh Gia Lai,,
 B.GLA10821,14.514808,109.004651,,,Phường Hoài Nhơn Tây,Tỉnh Gia Lai,,
 B.DNA10621,16.08274,108.162,,,Phường Hòa Khánh,Thành phố Trung ương Đà Nẵng,,
 B.GLA11525,13.86829,109.044991,,,Xã An Nhơn Tây,Tỉnh Gia Lai,,
-B.KHO11256,11.571821,108.965009,,,Xã Ninh Phước,Tỉnh Khánh Hòa,,
+B.KHO11256,11.571821,108.965009,,,Xã Ninh Phước,Tỉnh Khánh Hòa,Tây Nguyên,Khánh Hòa
 B.GLA11640,14.197094,108.086685,,,Xã Ia Khươl,Tỉnh Gia Lai,,
 B.DLA11394,12.683618,108.312311,,,Xã Krông Pắc,Tỉnh Đắk Lắk,,
 B.QNG10541,15.021814000000001,108.811386,,,Xã Đình Cương,Tỉnh Quảng Ngãi,,
@@ -58739,3 +58738,4 @@ B.DNA10343,15.481837,108.583849,,,Xã Núi Thành,Thành phố Trung ương Đà
 B.HNO17559,21.051294,105.782698,,,Phường Từ Liêm,Thành phố Trung ương Hà Nội,,
 B.QTR10727,17.829224,106.121148,,,Xã Tuyên Hóa,Tỉnh Quảng Trị,,
 B.VLO10423,9.47862,106.06339,,,Phường Phú Khương,Tỉnh Vĩnh Long,,
+B.DNI14400,11.657954,106.916139,,,Phú Lợi,Tỉnh Đồng Nai,DNA-BPH,Huỳnh Thanh Long
