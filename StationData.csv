@@ -55884,10 +55884,10 @@ B.DNI11348,11.086413,107.051867,,,Xã Trị An,Tỉnh Đồng Nai,,
 B.DNI11346,11.093405,107.037715,,,Xã Trị An,Tỉnh Đồng Nai,,
 B.DNI11334,11.082144,107.031622,,,Xã Trị An,Tỉnh Đồng Nai,,
 B.DNI11425,11.08787,107.028697,,,Xã Trị An,Tỉnh Đồng Nai,,
-B.DNI11383,11.084021,106.999471,,,Xã Trị An,Tỉnh Đồng Nai,,
+B.DNI11383,11.084021,106.999471,,,Xã Trị An,Tỉnh Đồng Nai,DNI-BPH,Phạm Quý Bôn
 B.DNI11361,11.042726,106.8151,,,Xã Trị An,Tỉnh Đồng Nai,,
 B.DNI11356,11.09541,106.955238,,,Xã Trị An,Tỉnh Đồng Nai,,
-B.DNI11342,11.097732,107.033476,,,Xã Trị An,Tỉnh Đồng Nai,,
+B.DNI11342,11.097732,107.033476,,,Xã Trị An,Tỉnh Đồng Nai,DNI-BPH,Phạm Quý Bôn
 B.VTU00160,10.521217,107.191023,,,Phường Bà Rịa,Thành phố Trung ương Hồ Chí Minh,,
 B.HCM18357,10.804983,106.577869,,,Xã Vĩnh Lộc,Thành phố Trung ương Hồ Chí Minh,,
 B.HCM19672,10.872493,106.653297,,,Xã Đông Thạnh,Thành phố Trung ương Hồ Chí Minh,,
@@ -57251,7 +57251,7 @@ B.VLO11624,9.729319,106.198212,,,Xã Trà Cú,Tỉnh Vĩnh Long,,
 B.VLO11625,9.729315,106.198258,,,Xã Trà Cú,Tỉnh Vĩnh Long,,
 B.DTH11484,10.356673,105.546698,,,Xã Lấp Vò,Tỉnh Đồng Tháp,,
 B.TNI11649,10.554063,106.417065,,,Phường Long An,Tỉnh Tây Ninh,,
-B.VLO11174,10.255296,106.367854,,,Phường Phú Tân,Tỉnh Vĩnh Long,,
+B.VLO11174,10.255296,106.367854,,,Phường Phú Tân,Tỉnh Vĩnh Long,Mtay,Lê Minh Tiến
 B.AGI11036,10.025684,105.067714,,,Phường Rạch Giá,Tỉnh An Giang,,
 B.STR00055,9.904633,105.884717,,,Xã An Lạc Thôn,Thành phố Trung ương Cần Thơ,,
 B.CTH00084,10.150192,105.574408,,,Phường Thới Long,Thành phố Trung ương Cần Thơ,,
@@ -57450,7 +57450,7 @@ B.HCM17224,11.064154,106.48035,,,Xã An Nhơn Tây,Thành phố Trung ương H�
 B.HCM17225,10.986502,106.379395,,,Xã Thái Mỹ,Thành phố Trung ương Hồ Chí Minh,,
 B.HCM17223,11.056041,106.467269,,,Xã An Nhơn Tây,Thành phố Trung ương Hồ Chí Minh,,
 B.DNI13271,10.963139,107.412663,,,Xã Xuân Lộc,Tỉnh Đồng Nai,,
-B.DNI13151,10.991877,106.860563,,,Phường Trảng Dài,Tỉnh Đồng Nai,,
+B.DNI13151,10.991877,106.860563,,,Phường Trảng Dài,Tỉnh Đồng Nai,DNI-BPH,Ngô Văn Cảnh
 B.DNI13150,10.990838,106.865887,,,Phường Trảng Dài,Tỉnh Đồng Nai,,
 B.GLA10569,14.055366,108.677751,,,Xã Cửu An,Tỉnh Gia Lai,,
 B.NAN11548,18.697087,105.710516,,,Phường Vinh Lộc,Tỉnh Nghệ An,,
@@ -58744,6 +58744,6 @@ B.DNI14400,11.657954,106.916139,,,Phú Lợi,Tỉnh Đồng Nai,DNI-BPH,Huỳnh 
 C.LDO14428,11.046247,107.67395,,,Tánh Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.DNI14405,11.66147,106.909311,,,,,DNI-BPH,Võ Hồng Khanh
 B.DNI14090,11.6623,106.897333,,,,,DNI-BPH,Võ Hồng Khanh
-B.DNI14294,10.958869,106.942932,,,,,,
+B.DNI14294,10.958869,106.942932,,,,,DNI-BPH,Ngô Văn Cảnh
 C.LDO13346,11.622965,107.856316,,,,,LDO-BTH,Nguyễn Hải Nguyên
 C.AGI11480,10.40811,104.901917,,,,,Mtay,Cao Văn Lộc
