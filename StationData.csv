@@ -2778,7 +2778,7 @@ C.CMA10496,9.043703,104.8396,Tran Van Thoi,Cà Mau,Xã Sông Đốc,Tỉnh Cà M
 C.CMA10643,8.77411,104.996811,Nam Can,Cà Mau,Xã Năm Căn,Tỉnh Cà Mau,Mtay,Chí Nguyện
 B.CMA10321,8.859634,104.83441,Phu Tan,Cà Mau,Xã Cái Đôi Vàm,Tỉnh Cà Mau,Mtay,Chí Nguyện
 B.CMA10034,9.075164,104.96571,Tran Van Thoi,Cà Mau,Xã Trần Văn Thời,Tỉnh Cà Mau,Mtay,Chí Nguyện
-B.CMA10038,8.600818,104.755641,Ngoc Hien,Cà Mau,Xã Đất Mũi,Tỉnh Cà Mau,MTay,Chí Nguyện
+B.CMA10038,8.600818,104.755641,Ngoc Hien,Cà Mau,Xã Đất Mũi,Tỉnh Cà Mau,Mtay,Chí Nguyện
 B.CMA00012,9.269986,105.201202,Thoi Binh,Cà Mau,Xã Tân Lộc,Tỉnh Cà Mau,Mtay,Chí Nguyện
 B.CMA10098,8.996056,105.19612,Dam Doi,Cà Mau,Xã Đầm Dơi,Tỉnh Cà Mau,Mtay,Chí Nguyện
 B.CMA10032,8.994982,105.19842,Dam Doi,Cà Mau,Xã Đầm Dơi,Tỉnh Cà Mau,Mtay,Chí Nguyện
@@ -5404,7 +5404,7 @@ C.CMA10676,9.193888,105.190407,Ca Mau,Cà Mau,Phường Tân Thành,Tỉnh Cà M
 C.CMA10573,9.21994,105.158127,Ca Mau,Cà Mau,Phường An Xuyên,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 C.CMA10544,9.168181,105.210991,Ca Mau,Cà Mau,Phường Tân Thành,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 C.CMA10753,9.350798,104.84491,U Minh,Cà Mau,Xã Khánh Lâm,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
-C.CMA10461,9.186876,105.129684,Ca Mau,Cà Mau,Phường An Xuyên,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
+C.CMA10461,9.186876,105.129684,Ca Mau,Cà Mau,Phường An Xuyên,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
 C.CMA10539,9.180641,105.159233,Ca Mau,Cà Mau,Phường Tân Thành,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 C.CMA10535,9.179267,105.148193,Ca Mau,Cà Mau,Phường An Xuyên,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 C.CMA10633,9.192804,105.149094,Ca Mau,Cà Mau,Phường An Xuyên,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
@@ -5544,7 +5544,7 @@ C.CMA0019,9.067883,104.970604,Tran Van Thoi,Cà Mau,Xã Trần Văn Thời,Tỉn
 C.CMA0026,8.948984,105.011314,Cai Nuoc,Cà Mau,Xã Cái Nước,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 C.CMA0039,8.874386,105.054512,Dam Doi,Cà Mau,Xã Quách Phẩm,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 C.CMA0047,8.807249,105.001015,Nam Can,Cà Mau,Xã Đất Mới,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
-C.CMA0051,8.774283,104.996742,Nam Can,Cà Mau,Xã Năm Căn,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
+C.CMA0051,8.774283,104.996742,Nam Can,Cà Mau,Xã Năm Căn,Tỉnh Cà Mau,Mtay,Chí Nguyện
 C.CMA0055,9.204222,104.895638,Tran Van Thoi,Cà Mau,Xã Đá Bạc,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 C.CMA0059,9.120334,105.110748,Cai Nuoc,Cà Mau,Xã Lương Thế Trân,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 C.CMA0060,8.76555,104.994545,Nam Can,Cà Mau,Xã Năm Căn,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
@@ -5601,7 +5601,7 @@ B.CMA10621,8.760517,104.994374,Nam Can,Cà Mau,Xã Năm Căn,Tỉnh Cà Mau,Mtay
 B.CMA00001,8.7571,104.978409,Nam Can,Cà Mau,Xã Đất Mới,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 B.CMA00026,8.948984,105.011314,Cai Nuoc,Cà Mau,Xã Cái Nước,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 B.CMA10593,9.033232,105.423942,Dong Hai,Cà Mau,Xã Gành Hào,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
-B.CMA10354,8.945557,105.010797,Cai Nuoc,Cà Mau,Xã Cái Nước,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
+B.CMA10354,8.945557,105.010797,Cai Nuoc,Cà Mau,Xã Cái Nước,Tỉnh Cà Mau,Mtay,Chí Nguyện
 B.CMA10337,9.036153,104.845467,Tran Van Thoi,Cà Mau,Xã Sông Đốc,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 B.CMA00016,9.076882,105.061424,Cai Nuoc,Cà Mau,Xã Lương Thế Trân,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 B.CMA00059,9.120334,105.110748,Cai Nuoc,Cà Mau,Xã Lương Thế Trân,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
@@ -6492,6 +6492,7 @@ HNO5048,,,,,,,Mtay,Huỳnh Minh Triều
 B.CTH11436,9.678826,105.725809,Phung Hiep,Hậu Giang,Xã Phương Bình,Thành phố Cần Thơ,Mtay,Huỳnh Minh Triều
 B.DNI13418,11.5414386,106.8941798,Dong Xoai,Bình Phước,Phường Bình Phước,Thành phố Đồng Nai,DNI-BPH,Huỳnh Thanh Long
 C.DNI13549,11.5370178,106.8872206,Dong Xoai,Bình Phước,Phường Bình Phước,Thành phố Đồng Nai,DNI-BPH,Huỳnh Thanh Long
+B.DNI15369,11.5331303,106.8769806,Dong Xoai,Bình Phước,Phường Bình Phước,Thành phố Đồng Nai,DNI-BPH,Huỳnh Thanh Long
 B.DNI13328,11.539691,106.893314,Dong Xoai,Bình Phước,Phường Bình Phước,Thành phố Đồng Nai,DNI-BPH,Huỳnh Thanh Long
 B.DNI13026,11.541715,106.8966487,Dong Xoai,Bình Phước,Phường Bình Phước,Thành phố Đồng Nai,DNI-BPH,Huỳnh Thanh Long
 C.BPH0006,11.537632,106.900635,Dong Xoai,Bình Phước,Phường Bình Phước,Thành phố Đồng Nai,DNI-BPH,Huỳnh Thanh Long
@@ -15320,7 +15321,7 @@ C.CMA0078,9.28433,105.635643,Hoa Binh,Bạc Liêu,Xã Hoà Bình,Tỉnh Cà Mau,
 C.HNO5657,9.137924,105.533997,Dong Hai,Bạc Liêu,Xã Đông Hải,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
 C.CMA0076,9.292788,105.734833,Bac Lieu,Bạc Liêu,Phường Bạc Liêu,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
 C.CMA0091,9.080754,105.470726,Dong Hai,Bạc Liêu,Xã Long Điền,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
-C.CMA0092,9.598736,105.331161,Hong Dan,Bạc Liêu,Xã Vĩnh Lộc,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
+C.CMA0092,9.598736,105.331161,Hong Dan,Bạc Liêu,Xã Vĩnh Lộc,Tỉnh Cà Mau,Mtay,Cao Văn Lộc
 C.CMA0112,9.162798,105.490875,Dong Hai,Bạc Liêu,Xã Long Điền,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
 C.CMA0113,9.047398,105.442673,Dong Hai,Cà Mau,Xã Gành Hào,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
 C.CMA0075,9.294934,105.708656,Bac Lieu,Bạc Liêu,Phường Bạc Liêu,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
@@ -15423,7 +15424,7 @@ B.CMA10242,9.296488,105.704,Bac Lieu,Bạc Liêu,Phường Bạc Liêu,Tỉnh C�
 B.CMA10246,9.294091,105.675,Vinh Loi,Bạc Liêu,Xã Hoà Bình,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
 B.CMA10255,9.243273,105.476805,Gia Rai,Bạc Liêu,Phường Giá Rai,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
 B.CMA10254,9.293557,105.672437,Vinh Loi,Bạc Liêu,Xã Hoà Bình,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
-B.KGI00056,9.481333,105.287528,Vinh Thuan,Bạc Liêu,Xã Vĩnh Phong,Tỉnh An Giang,Mtay,Nguyễn Như Ý
+B.KGI00056,9.481333,105.287528,Vinh Thuan,Bạc Liêu,Xã Vĩnh Phong,Tỉnh An Giang,Mtay,Cao Văn Lộc
 B.BLI00010,9.292256,105.718971,Bac Lieu,Bạc Liêu,Phường Bạc Liêu,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
 B.CMA10241,9.295858,105.707,Bac Lieu,Bạc Liêu,Phường Bạc Liêu,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
 B.BLI00031,9.224311,105.406708,Gia Rai,Bạc Liêu,Phường Giá Rai,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
@@ -15492,7 +15493,7 @@ B.CMA10588,9.160124,105.576141,Hoa Binh,Bạc Liêu,Xã Vĩnh Hậu,Tỉnh Cà M
 B.CMA10312,9.224021,105.40464,Gia Rai,Bạc Liêu,Xã Phong Thạnh,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
 B.CMA10594,9.37349,105.39276,Phuoc Long,Bạc Liêu,Xã Vĩnh Phước,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
 B.CMA10256,9.249131,105.503,Gia Rai,Bạc Liêu,Phường Láng Tròn,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
-B.CMA00114,9.345385,105.0895,Thoi Binh,Cà Mau,Xã Thới Bình,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
+B.CMA00114,9.345385,105.0895,Thoi Binh,Cà Mau,Xã Thới Bình,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 B.CMA10243,9.267395,105.728,Bac Lieu,Bạc Liêu,Phường Bạc Liêu,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
 B.CMA10582,9.188715,105.307615,Gia Rai,Bạc Liêu,Xã Phong Thạnh,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
 B.CMA10248,9.245361,105.731,Bac Lieu,Bạc Liêu,Phường Hiệp Thành,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
@@ -58610,7 +58611,7 @@ B.DLA11636,12.975818,109.382858,,,Phường Hòa Hiệp,Tỉnh Đắk Lắk,,
 B.DLA11635,12.994189,109.329486,,,Phường Đông Hòa,Tỉnh Đắk Lắk,,
 B.DLA11634,13.002798,109.327493,,,Phường Đông Hòa,Tỉnh Đắk Lắk,,
 B.DLA11627,12.996568,109.376767,,,Phường Hòa Hiệp,Tỉnh Đắk Lắk,,
-B.DLA11626,12.968414,109.20584,,,Xã Hòa Mỹ,Tỉnh Đắk Lắk,,
+B.DLA11626,12.968414,109.20584,,,Xã Hòa Mỹ,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Lắk
 B.DLA11624,12.934823,109.237161,,,Xã Hòa Thịnh,Tỉnh Đắk Lắk,,
 B.DLA11623,12.941752,109.236544,,,Xã Hòa Thịnh,Tỉnh Đắk Lắk,,
 B.DLA11618,12.98844,109.330392,,,Phường Đông Hòa,Tỉnh Đắk Lắk,,
