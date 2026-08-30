@@ -2754,10 +2754,10 @@ B.AGI11017,9.986096,105.100986,,,,,Mtay,Cao Văn Lộc
 KGI,,,,,,,Mtay,Cao Văn Lộc
 C.UBNN-TAN YEN,,,,,,,Mtay,Cao Văn Lộc
 B.AGI10535,10.6289898,105.0103116,,,,Tỉnh An Giang,Mtay,Cao Văn Lộc
-B.AGI11231,,,An Bien,Kiên Giang,Xã An Biên,Tỉnh An Giang,Mtay,Cao Văn Lộc
+B.AGI11231,9.8162563,105.063893,An Bien,Kiên Giang,Xã An Biên,Tỉnh An Giang,Mtay,Cao Văn Lộc
 B.AGI11293,,,Go Quao,Kiên Giang,Xã Gò Quao,Tỉnh An Giang,Mtay,Cao Văn Lộc
 B.AGI11031,10.003196,105.11784,Chau Thanh,Kiên Giang,Xã Châu Thành,Tỉnh An Giang,Mtay,Cao Văn Lộc
-"UBND xã Vĩnh Thông, tỉnh An Giang ",,,,,,Tỉnh An Giang,Mtay,Cao Văn Lộc
+"UBND xã Vĩnh Thông, tỉnh An Giang ",10.0192046,105.0905128,,,,Tỉnh An Giang,Mtay,Cao Văn Lộc
 C.AGI11521,10.26419,104.810028,Hon Dat,Kiên Giang,Xã Bình Sơn,Tỉnh An Giang,Mtay,Cao Văn Lộc
 B.AGI10663,9.541775,104.991803,An Minh,Cà Mau,Xã An Minh,Tỉnh An Giang,Mtay,Cao Văn Lộc
 C.CMA0077,9.046759,105.067757,Cai Nuoc,Cà Mau,Xã Lương Thế Trân,Tỉnh Cà Mau,Mtay,Chí Nguyện
@@ -5533,11 +5533,11 @@ C.CMA10097,8.855581,104.81093,Phu Tan,Cà Mau,Xã Cái Đôi Vàm,Tỉnh Cà Mau
 C.CMA10225,9.182892,105.139,Ca Mau,Cà Mau,Phường An Xuyên,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 C.CMA10315,9.033975,104.831011,Tran Van Thoi,Cà Mau,Xã Sông Đốc,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 C.CMA10320,8.93275,105.0126,Cai Nuoc,Cà Mau,Xã Cái Nước,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
-B.CMA10986,,,Ngoc Hien,Cà Mau,Xã Phan Ngọc Hiển,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
+B.CMA10986,8.622032,105.023032,Ngoc Hien,Cà Mau,Xã Phan Ngọc Hiển,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 B.CMA10981,,,Ngoc Hien,Cà Mau,Xã Phan Ngọc Hiển,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 B.CMA10985,,,Ngoc Hien,Cà Mau,Xã Phan Ngọc Hiển,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 B.CMA10984,,,Ngoc Hien,Cà Mau,Xã Phan Ngọc Hiển,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
-B.CMA10988,,,Ngoc Hien,Cà Mau,Xã Phan Ngọc Hiển,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
+B.CMA10988,9.659452,105.063361,Ngoc Hien,Cà Mau,Xã Phan Ngọc Hiển,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 C.CMA0001,8.7571,104.978409,Nam Can,Cà Mau,Xã Đất Mới,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 C.CMA0016,9.076882,105.061424,Cai Nuoc,Cà Mau,Xã Lương Thế Trân,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
 C.CMA0018,9.114454,105.104851,Cai Nuoc,Cà Mau,Xã Lương Thế Trân,Tỉnh Cà Mau,Mtay,Hứa Minh Trang
@@ -6212,7 +6212,7 @@ B.AGI11039,10.306,105.405,,,,,Mtay,Huỳnh Đặng Tứ Khá
 B.AGI11048,10.306028,105.197972,,,,,Mtay,Huỳnh Đặng Tứ Khá
 B.AGI10419,10.35,105.05,,,,,Mtay,Huỳnh Đặng Tứ Khá
 UBNN_Xã Châu Phú_An Giang,10.457,105.123,,,,,Mtay,Huỳnh Đặng Tứ Khá
-B.AGI11497,,,Long Xuyen,An Giang,Phường Bình Đức,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
+B.AGI11497,10.3923226,105.4250136,Long Xuyen,An Giang,Phường Bình Đức,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
 UBND_Xã Mỹ Hòa Hưng,,,,,,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
 UBNN Xã Phú Hữu An Giang,,,,,,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
 B.DNI10391,10.37137,105.403038,,,,,Mtay,Huỳnh Đặng Tứ Khá
@@ -7611,7 +7611,7 @@ KHO10983,11.5674272,108.978243,,,,,Tây Nguyên,Khánh Hòa
 KHO10976,,,,,,,Tây Nguyên,Khánh Hòa
 KHO11365,,,,,,,Tây Nguyên,Khánh Hòa
 KHO11434,,,,,,,Tây Nguyên,Khánh Hòa
-KHO0098,,,,,,Tỉnh Khánh Hòa,Tây Nguyên,Khánh Hòa
+KHO0098,12.2445301,109.1892216,,,,Tỉnh Khánh Hòa,Tây Nguyên,Khánh Hòa
 C.KTU0003,14.348725,108.000664,Kon Tum,Kon Tum,Phường Kon Tum,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
 C.QNG0020,15.11368,108.810097,Quang Ngai,Quảng Ngãi,Phường Cẩm Thành,Tỉnh Quảng Ngãi,Tây Nguyên,Quảng Ngãi
 C.KTU0008,14.547782,107.921188,Dak Ha,Kon Tum,Xã Đăk Mar,Tỉnh Quảng Ngãi,Tây Nguyên,Kom Tum
@@ -47208,7 +47208,7 @@ B.BNI11456,21.41752,106.80129,Son Dong,Bắc Giang,Xã Đại Sơn,Tỉnh Bắc 
 B.HDU00047,20.90103,106.511604,Kim Thanh,Hải Dương,Xã Kim Thành,Thành phố Hải Phòng,,
 B.LSO10329,21.511,106.460889,Huu Lung,Lạng Sơn,Xã Tân Thành,Tỉnh Lạng Sơn,,
 B.LDO00277,11.907722,107.798546,,,,,Tây Nguyên,Đắk Nông
-C.LDO13796,,,,,,,Tây Nguyên,Đắk Nông
+C.LDO13796,11.996884,107.539436,,,,,Tây Nguyên,Đắk Nông
 B.HNO16851,21.133652,105.846633,Dong Anh,Hà Nội	,Xã Đông Anh,Thành phố Hà Nội,,
 B.NBI11738,20.1588,106.0803,Yen Khanh,Ninh Bình,Xã Khánh Nhạc,Tỉnh Ninh Bình,,
 B.BNI11352,21.3522,106.28286,Lang Giang,Bắc Giang,Xã Lạng Giang,Tỉnh Bắc Ninh,,
