@@ -2761,6 +2761,7 @@ B.AGI11031,10.003196,105.11784,Chau Thanh,Kiên Giang,Xã Châu Thành,Tỉnh An
 C.AGI11521,10.26419,104.810028,Hon Dat,Kiên Giang,Xã Bình Sơn,Tỉnh An Giang,Mtay,Cao Văn Lộc
 B.AGI10663,9.541775,104.991803,An Minh,Cà Mau,Xã An Minh,Tỉnh An Giang,Mtay,Cao Văn Lộc
 C.CMA0077,9.046759,105.067757,Cai Nuoc,Cà Mau,Xã Lương Thế Trân,Tỉnh Cà Mau,Mtay,Chí Nguyện
+C.CMA10965,9.079001,105.008347,Cai Nuoc,Cà Mau,Xã Lương Thế Trân,Tỉnh Cà Mau,Mtay,Chí Nguyện
 C.CMA0085,9.285886,105.203339,Thoi Binh,Cà Mau,Xã Tân Lộc,Tỉnh Cà Mau,Mtay,Chí Nguyện
 C.CMA0086,9.18725,104.820953,Tran Van Thoi,Cà Mau,Xã Đá Bạc,Tỉnh Cà Mau,Mtay,Chí Nguyện
 C.CMA10964,,,Tran Van Thoi,Cà Mau,Xã Đá Bạc,Tỉnh Cà Mau,Mtay,Chí Nguyện
@@ -5673,6 +5674,7 @@ C.LDO11993,11.256919,107.58007,Duc Linh,Bình Thuận,Xã Nam Thành,Tỉnh Lâm
 C.LDO11856,10.659298,107.680336,Ham Tan,Bình Thuận,Xã Sơn Mỹ,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 C.LDO11874,11.157886,107.480858,Duc Linh,Bình Thuận,Xã Hoài Đức,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 C.LDO11853,10.657531,107.750977,La Gi,Bình Thuận,Phường Phước Hội,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
+B.LDO14305,10.650828,107.7180976,La Gi,Bình Thuận,Phường Phước Hội,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO12047,11.091313,107.715207,Tanh Linh,Bình Thuận,Xã Đồng Kho,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO00238,10.684136,107.749932,La Gi,Bình Thuận,Phường La Gi,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO10103,10.879295,107.655785,Ham Tan,Bình Thuận,Xã Tân Minh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
@@ -50523,7 +50525,7 @@ B.DNI13982,10.968755,107.32932,,,Xã Xuân Lộc,Tỉnh Đồng Nai,,
 B.HNO19324,21.28085,105.7678,,,Xã Kim Anh,Thành phố Trung ương Hà Nội,,
 B.PTH10248,21.352264,105.259997,,,Xã Hiền Quan,Tỉnh Phú Thọ,,
 B.LDO13164,11.503688,107.870688,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
-B.AGI11035,10.017315,105.080584,,,Phường Rạch Giá,Tỉnh An Giang,,
+B.AGI11035,10.0175713,105.0775797,,,Phường Rạch Giá,Tỉnh An Giang,Mtay,Cao Văn Lộc
 B.LSO10656,21.476124,107.018083,,,Xã Thái Bình,Tỉnh Lạng Sơn,,
 B.LSO10655,21.546366,107.097768,,,Xã Đình Lập,Tỉnh Lạng Sơn,,
 B.LSO10651,21.664548,106.500093,,,Xã Vạn Linh,Tỉnh Lạng Sơn,,
