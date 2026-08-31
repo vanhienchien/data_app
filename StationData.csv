@@ -17303,7 +17303,7 @@ B.DNI11623,11.543828,106.904588,,,,,LDO-BTH,Nguyễn Thanh Tuấn
 B.KHO10636,11.563345,108.992007,Phan Rang-Thap Cham,Ninh Thuận,Phường Phan Rang,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
 B.NTH00014,11.542829,108.957565,Ninh Phuoc,Ninh Thuận,Xã Ninh Phước,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
 B.KHO10300,11.591325,108.958714,Phan Rang-Thap Cham,Ninh Thuận,Phường Bảo An,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
-B.DNI11625,11.5241,106.8639,,,,,LDO-BTH,Nguyễn Thanh Tuấn
+B.DNI11625,11.5241,106.8639,,,,,DNI-BPH,
 B.KHO10313,11.58371,108.97037,Phan Rang-Thap Cham,Ninh Thuận,Phường Bảo An,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
 B.KHO10549,11.601196,109.036689,Ninh Hai,Ninh Thuận,Phường Ninh Chử,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
 B.KHO00233,11.59129,109.037003,Ninh Hai,Ninh Thuận,Phường Ninh Chử,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
@@ -50021,7 +50021,7 @@ C.DNA0157,16.073019,108.161865,Lien Chieu,Đà Nẵng,Phường Hoà Khánh,Thà
 C.DNA0167,16.054445,108.147331,Lien Chieu,Đà Nẵng,Phường Hoà Khánh,Thành phố Đà Nẵng,,
 C.DNA0172,16.081799,108.1492,Lien Chieu,Đà Nẵng,Phường Liên Chiểu,Thành phố Đà Nẵng,,
 C.TNG5005,16.047165,108.165504,Lien Chieu,Đà Nẵng,Phường Hoà Khánh,Thành phố Đà Nẵng,,
-C.DNA0203,16.091356,108.148872,Lien Chieu,Đà Nẵng,Phường Liên Chiểu,Thành phố Đà Nẵng,,
+C.DNA0203,16.091356,108.148872,Lien Chieu,Đà Nẵng,Phường Liên Chiểu,Thành phố Đà Nẵng,KV không quản lý,ITS
 C.DNA7001,16.074858,108.147835,Lien Chieu,Đà Nẵng,Phường Liên Chiểu,Thành phố Đà Nẵng,,
 C.BGI3052,16.085558,108.119308,Lien Chieu,Đà Nẵng,Phường Liên Chiểu,Thành phố Đà Nẵng,,
 C.DNA3873,16.059477,108.163742,Lien Chieu,Đà Nẵng,Phường Hoà Khánh,Thành phố Đà Nẵng,,
@@ -51395,7 +51395,7 @@ B.KHO11519,11.579658,108.894179,,,Xã Phước Hữu,Tỉnh Khánh Hòa,,
 B.KHO11518,11.535408,108.895284,,,Xã Phước Hữu,Tỉnh Khánh Hòa,,
 B.KHO11517,11.574192,108.964505,,,Xã Ninh Phước,Tỉnh Khánh Hòa,,
 B.KHO11498,11.657228,108.693674,,,Xã Anh Dũng,Tỉnh Khánh Hòa,,
-B.KHO11497,11.70758,108.764755,,,Xã Anh Dũng,Tỉnh Khánh Hòa,,
+B.KHO11497,11.70758,108.764755,,,Xã Anh Dũng,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
 B.KHO11496,11.791662,108.763812,,,Xã Lâm Sơn,Tỉnh Khánh Hòa,,
 B.KHO11495,11.828906,108.697128,,,Xã Lâm Sơn,Tỉnh Khánh Hòa,,
 B.KHO11494,11.634745,108.886383,,,Phường Đô Vinh,Tỉnh Khánh Hòa,,
@@ -51585,7 +51585,8 @@ B.LDO13169,11.571813,107.831063,,,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,,
 B.LDO13171,11.686662,108.333844,,,Xã Đức Trọng,Tỉnh Lâm Đồng,,
 B.LDO13175,11.703823,108.347922,,,Xã Đức Trọng,Tỉnh Lâm Đồng,,
 B.LDO13349,11.607558,107.813551,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
-B.LDO14071,11.190008,107.570099,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
+B.LDO14071,11.190008,107.570099,,,Xã Đức Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
+B.LDO14381,,,,,Xã Đức Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO11478,10.709048,107.802953,,,Xã Tân Hải,Tỉnh Lâm Đồng,,
 B.LDO11447,11.00485,108.07285,,,Xã Hàm Liêm,Tỉnh Lâm Đồng,,
 B.LDO14041,11.570925,107.316509,,,Xã Cát Tiên 2,Tỉnh Lâm Đồng,,
@@ -54327,6 +54328,7 @@ B.DNI14079,11.528255,106.869111,,,Phường Đồng Xoài,Tỉnh Đồng Nai,,
 B.DNI13739,11.501254,107.012541,,,Xã Đồng Tâm,Tỉnh Đồng Nai,,
 B.DNI13768,11.814251,106.964125,,,Phường Phước Long,Tỉnh Đồng Nai,,
 B.DNI13761,11.734125,106.594125,,,Phường Bình Long,Tỉnh Đồng Nai,,
+B.DNI14403,11.734125,106.594125,,,Phường Bình Long,Tỉnh Đồng Nai,DNI-BPH,
 B.DNI13757,11.684125,106.842154,,,Xã Phú Riềng,Tỉnh Đồng Nai,,
 B.DNI13756,11.934125,106.594125,,,Xã Tân Tiến,Tỉnh Đồng Nai,,
 B.DNI13755,11.912541,106.642154,,,Xã Lộc Thành,Tỉnh Đồng Nai,,
