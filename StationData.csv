@@ -3714,10 +3714,10 @@ C.DNO0021,12.056391,107.678993,Gia Nghia,Đắk Nông,Phường Bắc Gia Nghĩa
 C.DNO0022,11.913491,107.399834,Dak Rlap,Đắk Nông,Xã Quảng Tín,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 C.DNO0025,12.447036,107.861893,Krong No,Đắk Nông,Xã Krông Nô,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 C.DNO0026,12.06896,107.78656,Dak Glong,Đắk Nông,Phường Bắc Gia Nghĩa,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
-C.DLA0055,12.612975,107.933434,Buon Ma Thuot,Đắk Nông,Xã Hoà Phú,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Nông
+C.DLA0055,12.612975,107.933434,Buon Ma Thuot,Đắk Nông,Xã Hoà Phú,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Lắk
 C.DNO0027,12.661444,107.871223,Cu Jut,Đắk Nông,Xã Nam Dong,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 C.DLA0063,12.68404,107.962677,Buon Don,Đắk Nông,Xã Ea Nuôl,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Nông
-C.DNO0028,12.426851,107.65358,Dak Mil,Đắk Nông,Xã Đức Lập,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
+C.DNO0028,12.426851,107.65358,Dak Mil,Đắk Nông,Xã Đức Lập,Tỉnh Lâm Đồng,Tây Nguyên,Đắk NôngC.DLA0127
 C.DNO0029,12.186622,107.637947,Dak Song,Đắk Nông,Xã Trường Xuân,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 C.DNO0035,12.186202,107.615791,Dak Song,Đắk Nông,Xã Trường Xuân,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 C.DNO0036,12.082574,107.663834,Dak Song,Đắk Nông,Xã Trường Xuân,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
@@ -3731,7 +3731,7 @@ C.DNO0091,12.207259,107.558434,Dak Song,Đắk Nông,Xã Đức An,Tỉnh Lâm �
 C.DNO0107,12.136146,107.651543,Dak Song,Đắk Nông,Xã Trường Xuân,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 C.DNO0106,11.909372,107.795311,Dak Glong,Đắk Nông,Xã Quảng Khê,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.LDO13295,11.900472,107.796055,Dak Glong,Đắk Nông,Xã Quảng Khê,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
-C.DLA0127,12.633892,108.006737,Buon Ma Thuot,Đắk Nông,Phường Thành Nhất,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Nông
+C.DLA0127,12.633892,108.006737,Buon Ma Thuot,Đắk Nông,Phường Thành Nhất,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Lắk
 C.DNO0109,12.211521,107.486725,Tuy Duc,Đắk Nông,Xã Tuy Đức,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 C.DNO0113,11.996359,107.514832,Dak Rlap,Đắk Nông,Xã Kiến Đức,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 C.DNO0110,12.540157,107.791588,Dak Mil,Đắk Nông,Xã Đắk Mil,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
@@ -3908,7 +3908,7 @@ B.DLA00063,12.68404,107.962677,Buon Don,Đắk Nông,Xã Ea Nuôl,Tỉnh Đắk 
 B.DNO00035,12.186202,107.615791,Dak Song,Đắk Nông,Xã Trường Xuân,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.DNO00127,12.657555,107.865631,Cu Jut,Đắk Nông,Xã Nam Dong,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.DNO00014,12.443871,107.661118,Dak Mil,Đắk Nông,Xã Đức Lập,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
-B.DLA10955,12.5984,108.03466,Buon Ma Thuot,Đắk Nông,Phường Ea Kao,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Nông
+B.DLA10955,12.5984,108.03466,Buon Ma Thuot,Đắk Nông,Phường Ea Kao,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Lắk
 B.LDO11180,11.888494,107.912912,Dak Glong,Đắk Nông,Xã Tà Đùng,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.LDO10036,11.935079,107.44068,Dak Rlap,Đắk Nông,Xã Quảng Tín,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.DNO00027,12.661444,107.871223,Cu Jut,Đắk Nông,Xã Nam Dong,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
@@ -3969,7 +3969,7 @@ B.LDO11791,12.002948,107.684959,Gia Nghia,Đắk Nông,Phường Bắc Gia Nghĩ
 B.DLA10315,12.621,107.9531,Buon Ma Thuot,Đắk Nông,Xã Hoà Phú,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Nông
 B.LDO10034,12.450156,107.620396,Dak Mil,Đắk Nông,Xã Đức Lập,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.LDO10038,12.154267,107.870456,Dak Glong,Đắk Nông,Xã Quảng Sơn,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
-B.LDO10252,10.93516,108.09715,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
+B.LDO10252,10.93516,108.09715,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10326,12.00571,107.683716,Gia Nghia,Đắk Nông,Phường Bắc Gia Nghĩa,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.DNO00029,12.186622,107.637947,Dak Song,Đắk Nông,Xã Trường Xuân,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.LDO10203,12.605736,107.89904,Cu Jut,Đắk Nông,Xã Cư Jút,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
@@ -58752,3 +58752,4 @@ B.DNI14090,11.6623,106.897333,,,,,DNI-BPH,Võ Hồng Khanh
 B.DNI14294,10.958869,106.942932,,,,,DNI-BPH,Ngô Văn Cảnh
 C.LDO13346,11.622965,107.856316,,,,,LDO-BTH,Nguyễn Hải Nguyên
 C.AGI11480,10.40811,104.901917,,,,,Mtay,Cao Văn Lộc
+C.CTH11828,10.05007,105.771133,,,,,Mtay,Quốc Cường
