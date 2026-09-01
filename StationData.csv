@@ -16829,7 +16829,7 @@ C.VLO10061,9.958729,106.339859,Tra Vinh,Trà Vinh,Phường Long Đức,Tỉnh V
 C.VLO10065,9.686584,106.509865,Duyen Hai,Trà Vinh,Phường Trường Long Hoà,Tỉnh Vĩnh Long,Mtay,Nguyễn Thành Nghĩa
 C.VLO10078,9.998735,106.205528,Cang Long,Trà Vinh,Xã Càng Long,Tỉnh Vĩnh Long,Mtay,Nguyễn Thành Nghĩa
 C.VLO10073,9.910647,106.151909,Cang Long,Trà Vinh,Xã Tân An,Tỉnh Vĩnh Long,Mtay,Nguyễn Thành Nghĩa
-C.VLO10423,9.93045,106.327599,Tra Vinh,Trà Vinh,Phường Nguyệt Hoá,Tỉnh Vĩnh Long,Mtay,Nguyễn Thành Nghĩa
+C.VLO10423,9.93058,106.32726,Tra Vinh,Trà Vinh,Phường Nguyệt Hoá,Tỉnh Vĩnh Long,Mtay,Nguyễn Thành Nghĩa
 C.VLO10168,9.971677,106.336388,Tra Vinh,Trà Vinh,Phường Long Đức,Tỉnh Vĩnh Long,Mtay,Nguyễn Thành Nghĩa
 C.VLO10487,9.908324,106.07708,Cau Ke,Trà Vinh,Xã Cầu Kè,Tỉnh Vĩnh Long,Mtay,Nguyễn Thành Nghĩa
 C.VLO10756,9.930642,106.327415,Tra Vinh,Trà Vinh,Phường Nguyệt Hoá,Tỉnh Vĩnh Long,Mtay,Nguyễn Thành Nghĩa
@@ -58743,7 +58743,7 @@ B.QNG10039,14.818472,108.951694,,,Phường Đức Phổ,Tỉnh Quảng Ngãi,,
 B.DNA10343,15.481837,108.583849,,,Xã Núi Thành,Thành phố Trung ương Đà Nẵng,,
 B.HNO17559,21.051294,105.782698,,,Phường Từ Liêm,Thành phố Trung ương Hà Nội,,
 B.QTR10727,17.829224,106.121148,,,Xã Tuyên Hóa,Tỉnh Quảng Trị,,
-B.VLO10423,9.47862,106.06339,,,Phường Phú Khương,Tỉnh Vĩnh Long,,
+B.VLO10423,9.93058,106.32726,,,Phường Phú Khương,Tỉnh Vĩnh Long,Mtay,Nguyễn Thành Nghĩa
 B.DNI14400,11.657954,106.916139,,,Phú Lợi,Tỉnh Đồng Nai,DNI-BPH,Huỳnh Thanh Long
 C.LDO14428,11.046247,107.67395,,,Tánh Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.DNI14405,11.66147,106.909311,,,,,DNI-BPH,Võ Hồng Khanh
