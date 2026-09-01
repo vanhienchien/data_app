@@ -2304,7 +2304,7 @@ C.KGI0010,10.00824,105.111702,Chau Thanh,Kiên Giang,Xã Thạnh Lộc,Tỉnh An
 C.KGI0033,9.524628,105.244621,Vinh Thuan,Kiên Giang,Xã Vĩnh Phong,Tỉnh An Giang,Mtay,Cao Văn Lộc
 C.KGI0034,10.283936,104.734695,Kien Luong,Kiên Giang,Xã Hoà Điền,Tỉnh An Giang,Mtay,Cao Văn Lộc
 C.KGI0036,10.383694,104.478256,Ha Tien,Kiên Giang,Phường Hà Tiên,Tỉnh An Giang,Mtay,Cao Văn Lộc
-B.AGI10595,9.985841,105.101050,An Bien,Kiên Giang,Xã Đông Thái,Tỉnh An Giang,Mtay,Cao Văn Lộc
+B.AGI10595,9.985841,105.10105,An Bien,Kiên Giang,Xã Đông Thái,Tỉnh An Giang,Mtay,Cao Văn Lộc
 C.KGI0037,9.744986,105.018372,An Bien,Kiên Giang,Xã Đông Thái,Tỉnh An Giang,Mtay,Cao Văn Lộc
 C.KGI0042,9.944672,105.130508,Chau Thanh,Kiên Giang,Xã Bình An,Tỉnh An Giang,Mtay,Cao Văn Lộc
 C.KGI0043,9.975036,105.100227,Rach Gia,Kiên Giang,Phường Rạch Giá,Tỉnh An Giang,Mtay,Cao Văn Lộc
@@ -3937,7 +3937,7 @@ B.LDO11194,12.109802,107.803259,Dak Glong,Đắk Nông,Phường Bắc Gia Nghĩ
 B.LDO10046,12.460907,107.86253,Krong No,Đắk Nông,Xã Krông Nô,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.DNO00018,12.444405,107.600044,Dak Mil,Đắk Nông,Xã Thuận An,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.LDO11172,12.204997,107.5836,Dak Song,Đắk Nông,Xã Đức An,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
-B.LDO00276,10.929877,108.100488,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
+B.LDO00276,10.929877,108.100488,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.DNO00090,12.583733,107.875771,Cu Jut,Đắk Nông,Xã Cư Jút,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.DLA10372,12.593603,108.04235,Buon Ma Thuot,Đắk Nông,Phường Ea Kao,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Nông
 B.DLA00055,12.612975,107.933434,Buon Ma Thuot,Đắk Nông,Xã Hoà Phú,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Nông
@@ -3969,7 +3969,7 @@ B.LDO11791,12.002948,107.684959,Gia Nghia,Đắk Nông,Phường Bắc Gia Nghĩ
 B.DLA10315,12.621,107.9531,Buon Ma Thuot,Đắk Nông,Xã Hoà Phú,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Nông
 B.LDO10034,12.450156,107.620396,Dak Mil,Đắk Nông,Xã Đức Lập,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.LDO10038,12.154267,107.870456,Dak Glong,Đắk Nông,Xã Quảng Sơn,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
-B.LDO10252,10.93516,108.09715,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO10252,10.93516,108.09715,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO10326,12.00571,107.683716,Gia Nghia,Đắk Nông,Phường Bắc Gia Nghĩa,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.DNO00029,12.186622,107.637947,Dak Song,Đắk Nông,Xã Trường Xuân,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.LDO10203,12.605736,107.89904,Cu Jut,Đắk Nông,Xã Cư Jút,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
@@ -16147,126 +16147,126 @@ C.CTH11332,10.047421,105.761887,Ninh Kieu,Cần Thơ,Phường Cái Khế,Thành
 B.CTH11422,10.0172325,105.7806706,Cai Rang,Cần Thơ,Phường Hưng Phú,Thành phố Cần Thơ,Mtay,Nguyễn Quốc Cường
 B.CTH11823,,,Chau Thanh,Cần Thơ,Xã Châu Thành,Thành phố Cần Thơ,Mtay,Nguyễn Quốc Cường
 C.CTH11330,9.91678,105.710075,,,Phường Thạnh Hòa,Thành phố Cần Thơ,Mtay,Huỳnh Minh Triều
-C.BTH0005,11.18533,108.55632,Bac Binh,Bình Thuận,Xã Bắc Bình,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0009,11.220323,108.48661,Bac Binh,Bình Thuận,Xã Hồng Thái,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0010,11.247298,108.506607,Bac Binh,Bình Thuận,Xã Hải Ninh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0006,10.939355,108.152184,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.BTH0005,11.18533,108.55632,Bac Binh,Bình Thuận,Xã Bắc Bình,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH0009,11.220323,108.48661,Bac Binh,Bình Thuận,Xã Hồng Thái,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH0010,11.247298,108.506607,Bac Binh,Bình Thuận,Xã Hải Ninh,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH0006,10.939355,108.152184,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.BTH0018,10.968383,108.14418,Ham Thuan Bac,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH0007,10.942857,108.032341,Ham Thuan Nam,Bình Thuận,Xã Tuyên Quang,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH0017,10.746237,107.876945,Ham Thuan Nam,Bình Thuận,Xã Tân Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH0021,10.72856,107.902809,Ham Thuan Nam,Bình Thuận,Xã Tân Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH0026,10.926551,108.03965,Ham Thuan Nam,Bình Thuận,Xã Tuyên Quang,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH0013,10.660373,107.772972,La Gi,Bình Thuận,Phường Phước Hội,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0011,11.228845,108.71833,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0027,11.280064,108.73819,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0030,11.269735,108.732269,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0031,11.309027,108.748329,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0034,10.919292,108.082138,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0048,10.940171,108.103378,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.BTH0011,11.228845,108.71833,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH0027,11.280064,108.73819,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH0030,11.269735,108.732269,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH0031,11.309027,108.748329,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH0034,10.919292,108.082138,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH0048,10.940171,108.103378,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.BTH0039,10.8538,107.887802,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH0051,11.24466,107.859009,Ham Thuan Bac,Bình Thuận,Xã La Dạ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0052,11.064067,108.432602,Bac Binh,Bình Thuận,Xã Hoà Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO12993,11.041735,108.389755,Bac Binh,Bình Thuận,Xã Hoà Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0053,10.935679,108.115753,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.BTH0052,11.064067,108.432602,Bac Binh,Bình Thuận,Xã Hoà Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.LDO12993,11.041735,108.389755,Bac Binh,Bình Thuận,Xã Hoà Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH0053,10.935679,108.115753,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.BTH0054,11.086756,108.132751,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH0055,11.173856,108.158676,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận Bắc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO11473,11.173856,108.158676,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận Bắc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO12949,11.129782,108.109039,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận Bắc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH0056,10.91986,107.985252,Ham Thuan Nam,Bình Thuận,Xã Hàm Kiệm,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH0058,10.945202,108.137901,Ham Thuan Bac,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0060,10.971573,108.338196,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0061,10.92132,108.070152,Phan Thiet,Bình Thuận,Xã Tuyên Quang,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.BTH0060,10.971573,108.338196,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH0061,10.92132,108.070152,Phan Thiet,Bình Thuận,Xã Tuyên Quang,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.BTH0057,10.828603,107.882591,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO12798,,,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0066,11.163787,108.548775,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0043,11.193142,108.283623,Bac Binh,Bình Thuận,Xã Sông Luỹ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0063,11.179402,108.577812,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.BTH0066,11.163787,108.548775,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH0043,11.193142,108.283623,Bac Binh,Bình Thuận,Xã Sông Luỹ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH0063,11.179402,108.577812,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.BTH0074,10.707643,107.795212,La Gi,Bình Thuận,Phường La Gi,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0073,10.859856,108.049713,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO13247,10.920445,108.084435,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0077,10.938994,108.111832,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0071,11.343203,108.349747,Bac Binh,Bình Thuận,Xã Phan Sơn,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0082,11.180449,108.576584,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0079,10.941826,108.082352,Phan Thiet,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0086,10.940988,108.106712,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0084,10.927646,108.095428,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.BTH0073,10.859856,108.049713,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.LDO13247,10.920445,108.084435,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH0077,10.938994,108.111832,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH0071,11.343203,108.349747,Bac Binh,Bình Thuận,Xã Phan Sơn,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH0082,11.180449,108.576584,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH0079,10.941826,108.082352,Phan Thiet,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH0086,10.940988,108.106712,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH0084,10.927646,108.095428,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.BTH0090,10.842927,107.83577,Ham Thuan Nam,Bình Thuận,Xã Tân Lập,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH0091,10.975449,108.149895,Ham Thuan Bac,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0094,10.9299,108.284241,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0097,10.945,108.107994,Phan Thiet,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.BTH0094,10.9299,108.284241,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH0097,10.945,108.107994,Phan Thiet,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.BTH0099,10.99628,108.118935,Ham Thuan Bac,Bình Thuận,Xã Hàm Liêm,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10722,,,Ham Thuan Bac,Bình Thuận,Xã Hàm Liêm,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0098,10.917171,108.087372,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.BTH0098,10.917171,108.087372,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.BTH0100,10.710924,107.727798,Ham Tan,Bình Thuận,Xã Hàm Tân,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0101,10.945132,108.094528,Phan Thiet,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.BTH0101,10.945132,108.094528,Phan Thiet,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.BTH0087,11.1426,108.141373,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận Bắc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0104,10.952938,108.250587,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0105,10.943297,108.102852,Phan Thiet,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0106,10.943306,108.10273,Phan Thiet,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0107,10.936352,108.102425,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.BTH0104,10.952938,108.250587,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH0105,10.943297,108.102852,Phan Thiet,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH0106,10.943306,108.10273,Phan Thiet,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH0107,10.936352,108.102425,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.BTH0108,11.067884,108.129852,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH0113,11.086732,108.132309,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH0110,10.921974,107.983826,Ham Thuan Nam,Bình Thuận,Xã Hàm Kiệm,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0111,10.931465,108.115829,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.BTH0111,10.931465,108.115829,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.BTH0112,11.12367,108.210121,Ham Thuan Bac,Bình Thuận,Xã Hồng Sơn,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH0085,10.719939,108.004166,Ham Thuan Nam,Bình Thuận,Xã Tân Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0127,10.945728,108.090889,Phan Thiet,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.BTH0127,10.945728,108.090889,Phan Thiet,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.BTH0128,11.055237,108.139786,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO13956,,,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0138,10.937941,108.106216,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.BTH0138,10.937941,108.106216,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.BTH0136,10.853694,107.766029,Ham Tan,Bình Thuận,Xã Tân Lập,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0124,10.951047,108.1026,Phan Thiet,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.BTH0124,10.951047,108.1026,Phan Thiet,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.BTH0134,10.966166,108.127724,Ham Thuan Bac,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH0122,10.960478,108.106659,Ham Thuan Bac,Bình Thuận,Xã Hàm Liêm,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0133,10.938082,108.092201,Phan Thiet,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.BTH0133,10.938082,108.092201,Phan Thiet,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.BTH0123,10.88477,108.002022,Ham Thuan Nam,Bình Thuận,Xã Hàm Kiệm,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO0174,10.952997,108.250587,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO0161,10.937524,108.188065,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO0174,10.952997,108.250587,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.LDO0161,10.937524,108.188065,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO0175,11.094868,108.08094,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0130,10.940418,108.103233,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0146,11.263388,108.345528,Bac Binh,Bình Thuận,Xã Lương Sơn,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.BTH0130,10.940418,108.103233,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH0146,11.263388,108.345528,Bac Binh,Bình Thuận,Xã Lương Sơn,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO0177,10.966166,108.127724,Ham Thuan Bac,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO3001,10.758718,108.016777,Ham Thuan Nam,Bình Thuận,Xã Tân Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO0167,10.919853,108.083847,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO0167,10.919853,108.083847,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO0169,11.06567,108.129204,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO0203,10.9405,108.086838,Phan Thiet,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO0203,10.9405,108.086838,Phan Thiet,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.BTH0068,10.96496,107.940666,Ham Thuan Nam,Bình Thuận,Xã Hàm Kiệm,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO0216,10.796444,107.87513,Ham Thuan Nam,Bình Thuận,Xã Tân Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO0194,10.843123,107.861816,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO0208,10.936228,108.102493,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO0208,10.936228,108.102493,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO0232,11.054117,108.140381,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO0211,10.664446,107.766487,La Gi,Bình Thuận,Phường La Gi,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH0135,11.258512,108.345802,Bac Binh,Bình Thuận,Xã Lương Sơn,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO00198,10.918666,108.107002,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO00220,11.052651,108.394859,Bac Binh,Bình Thuận,Xã Hoà Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.BTH0135,11.258512,108.345802,Bac Binh,Bình Thuận,Xã Lương Sơn,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.LDO00198,10.918666,108.107002,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.LDO00220,11.052651,108.394859,Bac Binh,Bình Thuận,Xã Hoà Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO10183,10.71507,107.939934,Ham Thuan Nam,Bình Thuận,Xã Tân Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO10253,10.71238,107.727753,Ham Tan,Bình Thuận,Xã Hàm Tân,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO10254,10.95127,108.099243,Phan Thiet,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO10254,10.95127,108.099243,Phan Thiet,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO0219,10.966166,108.127724,Ham Thuan Bac,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO10290,11.10659,108.201393,Ham Thuan Bac,Bình Thuận,Xã Hồng Sơn,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO10294,10.844882,107.846863,Ham Thuan Nam,Bình Thuận,Xã Tân Lập,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO10209,10.937163,108.115189,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO10209,10.937163,108.115189,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO0150,11.115535,108.15535,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận Bắc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO0151,11.118411,108.155983,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận Bắc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO10128,11.118822,108.046158,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO10127,11.108187,108.201935,Ham Thuan Bac,Bình Thuận,Xã Hồng Sơn,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO10282,10.941845,108.12262,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO10282,10.941845,108.12262,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO10474,10.956541,108.038773,Ham Thuan Bac,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO10425,10.919408,108.091141,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO10425,10.919408,108.091141,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO10368,11.068873,108.132004,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO10367,11.090042,108.139366,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO10269,11.05541,108.139763,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO10694,10.924233,108.283279,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO10694,10.924233,108.283279,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO11036,11.19984,108.159416,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận Bắc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO11037,10.842187,107.866035,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO11038,10.95055,108.110649,Phan Thiet,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO11038,10.95055,108.110649,Phan Thiet,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO11030,10.598631,107.589706,Ham Tan,Bình Thuận,Xã Sơn Mỹ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO11070,10.958103,108.085396,Phan Thiet,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO11070,10.958103,108.085396,Phan Thiet,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO10656,10.707193,107.984383,Ham Thuan Nam,Bình Thuận,Xã Tân Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO10886,10.857703,107.909172,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO10372,11.215748,108.404831,Bac Binh,Bình Thuận,Xã Hồng Thái,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO10371,11.188382,108.573639,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO00242,11.319543,108.786972,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO10372,11.215748,108.404831,Bac Binh,Bình Thuận,Xã Hồng Thái,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.LDO10371,11.188382,108.573639,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.LDO00242,11.319543,108.786972,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO00251,11.066307,108.129341,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO00246,11.149741,107.507019,Duc Linh,Bình Thuận,Xã Hoài Đức,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO10010,10.697719,107.807762,La Gi,Bình Thuận,Phường La Gi,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
@@ -16276,148 +16276,148 @@ C.LDO11272,10.926304,108.044991,Ham Thuan Nam,Bình Thuận,Xã Tuyên Quang,T�
 C.LDO11692,11.34445,107.952904,Ham Thuan Bac,Bình Thuận,Xã Đông Giang,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO11855,10.971944,108.144608,Ham Thuan Bac,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO11858,11.190078,108.162804,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận Bắc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO11857,10.933288,108.120338,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO11857,10.933288,108.120338,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO11516,10.724243,107.868423,La Gi,Bình Thuận,Xã Tân Hải,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH00115,10.971598,108.004005,Ham Thuan Nam,Bình Thuận,Xã Hàm Kiệm,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH00116,11.227735,108.424675,Bac Binh,Bình Thuận,Xã Hồng Thái,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.BTH00116,11.227735,108.424675,Bac Binh,Bình Thuận,Xã Hồng Thái,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.BTH00117,11.129369,108.205437,Ham Thuan Bac,Bình Thuận,Xã Hồng Sơn,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO11875,10.994829,108.130531,Ham Thuan Bac,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO11035,10.94994,108.103737,Phan Thiet,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO11955,11.217897,108.732246,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO11035,10.94994,108.103737,Phan Thiet,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.LDO11955,11.217897,108.732246,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO11988,10.881417,107.923653,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO11980,10.932913,108.025589,Ham Thuan Nam,Bình Thuận,Xã Tuyên Quang,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO11929,10.927774,108.114319,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO11897,10.943788,108.090179,Phan Thiet,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO11959,11.037717,108.387413,Bac Binh,Bình Thuận,Xã Hoà Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO11991,11.195061,108.716919,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO11929,10.927774,108.114319,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.LDO11897,10.943788,108.090179,Phan Thiet,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.LDO11959,11.037717,108.387413,Bac Binh,Bình Thuận,Xã Hoà Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.LDO11991,11.195061,108.716919,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO11887,10.988728,108.154419,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO11943,10.859917,107.915825,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO12524,10.952078,108.110641,Phan Thiet,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO12572,10.93991,108.120193,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO12524,10.952078,108.110641,Phan Thiet,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.LDO12572,10.93991,108.120193,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO11851,11.044208,108.140602,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO11933,10.950736,108.106224,Phan Thiet,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO11933,10.950736,108.106224,Phan Thiet,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO12032,10.72055,107.957291,Ham Thuan Nam,Bình Thuận,Xã Tân Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO12033,10.72007,107.954788,Ham Thuan Nam,Bình Thuận,Xã Tân Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO12031,10.72057,107.955986,Ham Thuan Nam,Bình Thuận,Xã Tân Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO11494,11.21949,108.150871,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận Bắc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO13794,10.94238,108.278152,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.BTH00034,10.919292,108.082138,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO00244,11.221756,108.50405,Bac Binh,Bình Thuận,Xã Bắc Bình,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO13794,10.94238,108.278152,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.BTH00034,10.919292,108.082138,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.LDO00244,11.221756,108.50405,Bac Binh,Bình Thuận,Xã Bắc Bình,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO10455,11.07486,108.13053,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.BTH00057,10.828603,107.882591,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10171,10.678279,107.754242,La Gi,Bình Thuận,Phường La Gi,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO11038,10.950558,108.11065,Phan Thiet,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO10021,11.194018,108.284431,Bac Binh,Bình Thuận,Xã Sông Luỹ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO11038,10.950558,108.11065,Phan Thiet,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.LDO10021,11.194018,108.284431,Bac Binh,Bình Thuận,Xã Sông Luỹ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO00198,21.169578,105.707544,,,,,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10268,10.966052,108.127,Ham Thuan Bac,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10007,10.975488,108.144996,Ham Thuan Bac,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO00240,10.843112,107.819494,Ham Thuan Nam,Bình Thuận,Xã Tân Lập,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10028,10.82421,107.72715,Ham Tan,Bình Thuận,Xã Hàm Tân,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.BTH00051,11.24466,107.859009,Ham Thuan Bac,Bình Thuận,Xã La Dạ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO10016,11.04349,108.387981,Bac Binh,Bình Thuận,Xã Hoà Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO12420,10.922469,108.071167,Phan Thiet,Bình Thuận,Xã Tuyên Quang,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO10016,11.04349,108.387981,Bac Binh,Bình Thuận,Xã Hoà Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.LDO12420,10.922469,108.071167,Phan Thiet,Bình Thuận,Xã Tuyên Quang,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.BTH00110,10.921974,107.983826,Ham Thuan Nam,Bình Thuận,Xã Hàm Kiệm,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO11718,11.184325,108.57571,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO11718,11.184325,108.57571,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.BTH00122,10.960478,108.106659,Ham Thuan Bac,Bình Thuận,Xã Hàm Liêm,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO00242,11.319542,108.786971,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO00242,11.319542,108.786971,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO12295,11.23675,107.862388,Ham Thuan Bac,Bình Thuận,Xã La Dạ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO11036,11.19984,108.15942,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận Bắc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10012,11.121463,108.209963,Ham Thuan Bac,Bình Thuận,Xã Hồng Sơn,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10029,10.727155,107.870725,La Gi,Bình Thuận,Xã Tân Hải,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO10006,10.933036,108.11103,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO10448,10.952691,108.25058,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO10006,10.933036,108.11103,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.LDO10448,10.952691,108.25058,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.BTH00074,10.707643,107.795212,La Gi,Bình Thuận,Phường La Gi,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO00331,11.193887,108.284409,Bac Binh,Bình Thuận,Xã Sông Luỹ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO00331,11.193887,108.284409,Bac Binh,Bình Thuận,Xã Sông Luỹ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO10010,10.697719,107.807765,La Gi,Bình Thuận,Phường La Gi,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.BTH00060,10.971573,108.338196,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.BTH00060,10.971573,108.338196,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO00350,11.066307,108.12934,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO00311,10.865966,107.922061,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO00351,11.177028,108.56388,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO00351,11.177028,108.56388,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.BTH00134,10.966166,108.127724,Ham Thuan Bac,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO11068,10.85318,107.87742,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO10023,11.233234,108.74247,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO10023,11.233234,108.74247,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO10194,10.840698,107.86299,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO10013,11.172683,108.56663,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO00336,11.319542,108.786971,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO10013,11.172683,108.56663,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.LDO00336,11.319542,108.786971,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.BTH00112,11.123765,108.209513,Ham Thuan Bac,Bình Thuận,Xã Hồng Sơn,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10026,11.220813,108.50818,,,,,LDO-BTH,Nguyễn Quốc Phi
-B.BTH00107,10.936352,108.102425,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.BTH00107,10.936352,108.102425,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO10253,10.71238,107.72775,Ham Tan,Bình Thuận,Xã Hàm Tân,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO11071,10.915082,108.085242,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO00341,10.919251,108.088793,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO11071,10.915082,108.085242,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.LDO00341,10.919251,108.088793,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO10027,10.662889,107.774294,La Gi,Bình Thuận,Phường Phước Hội,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO12332,11.253,107.85775,Ham Thuan Bac,Bình Thuận,Xã La Dạ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.BTH00058,10.945202,108.137901,Ham Thuan Bac,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10294,10.844882,107.84686,Ham Thuan Nam,Bình Thuận,Xã Tân Lập,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO00323,11.032274,108.163188,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.BTH00056,10.91986,107.985252,Ham Thuan Nam,Bình Thuận,Xã Hàm Kiệm,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO00253,10.93759,108.28537,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO00313,10.954316,108.246344,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO10017,11.311315,108.76225,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.BTH00133,10.938082,108.092201,Phan Thiet,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO00253,10.93759,108.28537,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.LDO00313,10.954316,108.246344,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.LDO10017,11.311315,108.76225,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.BTH00133,10.938082,108.092201,Phan Thiet,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO00167,10.9192039,108.0814888,,,,,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10014,11.032274,108.163188,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.DNI12944,11.211506,108.322979,Bac Binh,Bình Thuận,Xã Sông Luỹ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.BTH00010,11.247298,108.506607,Bac Binh,Bình Thuận,Xã Hải Ninh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.DNI12944,11.211506,108.322979,Bac Binh,Bình Thuận,Xã Sông Luỹ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.BTH00010,11.247298,108.506607,Bac Binh,Bình Thuận,Xã Hải Ninh,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO00251,11.066307,108.12934,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10005,10.611195,107.63474,Ham Tan,Bình Thuận,Xã Sơn Mỹ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO00194,10.840698,107.86299,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO10025,11.192637,108.364611,Bac Binh,Bình Thuận,Xã Lương Sơn,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO10025,11.192637,108.364611,Bac Binh,Bình Thuận,Xã Lương Sơn,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO00275,11.019957,108.12554,,,,,LDO-BTH,Nguyễn Quốc Phi
-B.LDO10011,11.225558,108.72807,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO11495,10.93809,108.09229,Phan Thiet,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO10011,11.225558,108.72807,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.LDO11495,10.93809,108.09229,Phan Thiet,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO10018,11.256969,107.641114,,,,,LDO-BTH,Nguyễn Quốc Phi
-B.BTH00124,10.951047,108.1026,Phan Thiet,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.BTH00073,10.859856,108.049713,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO11792,11.17925,108.562833,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO00250,10.937283,108.103542,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.BTH00052,11.064067,108.432602,Bac Binh,Bình Thuận,Xã Hoà Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO10032,10.924138,108.0978,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.BTH00124,10.951047,108.1026,Phan Thiet,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.BTH00073,10.859856,108.049713,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.LDO11792,11.17925,108.562833,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.LDO00250,10.937283,108.103542,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.BTH00052,11.064067,108.432602,Bac Binh,Bình Thuận,Xã Hoà Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.LDO10032,10.924138,108.0978,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.BTH00085,10.719939,108.004166,Ham Thuan Nam,Bình Thuận,Xã Tân Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO12528,10.977488,108.12472,Ham Thuan Bac,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO10150,11.30997,108.75789,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO10173,10.9505,108.102,Phan Thiet,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.BTH00053,10.935679,108.115753,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO10150,11.30997,108.75789,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.LDO10173,10.9505,108.102,Phan Thiet,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.BTH00053,10.935679,108.115753,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.BTH00068,10.96511,107.94072,Ham Thuan Nam,Bình Thuận,Xã Hàm Kiệm,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO11029,10.940411,108.086716,Phan Thiet,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO11029,10.940411,108.086716,Phan Thiet,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.BTH00055,11.173856,108.158676,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận Bắc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.BTH00048,10.940171,108.103378,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.BTH00048,10.940171,108.103378,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO11197,10.680067,107.759452,La Gi,Bình Thuận,Phường La Gi,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10008,11.2044883,107.700328,Tanh Linh,Bình Thuận,Xã Bắc Ruộng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.BTH00031,11.309027,108.748329,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO10022,11.193948,108.550731,Bac Binh,Bình Thuận,Xã Bắc Bình,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.BTH00031,11.309027,108.748329,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.LDO10022,11.193948,108.550731,Bac Binh,Bình Thuận,Xã Bắc Bình,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.BTH00017,10.746237,107.876945,Ham Thuan Nam,Bình Thuận,Xã Tân Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10353,10.686175,107.750255,La Gi,Bình Thuận,Phường La Gi,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO00220,11.052945,108.394901,,,,,LDO-BTH,Nguyễn Quốc Phi
 B.LDO00241,10.840662,107.862577,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO11037,10.842187,107.866032,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO00246,11.149741,107.507022,Duc Linh,Bình Thuận,Xã Hoài Đức,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO00254,10.954316,108.246344,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO00254,10.954316,108.246344,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO11192,10.858458,106.664598,,,,,LDO-BTH,Nguyễn Quốc Phi
-B.BTH00030,11.269735,108.732269,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO10024,11.225087,108.72814,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.BTH00030,11.269735,108.732269,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.LDO10024,11.225087,108.72814,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO00169,11.065686,108.129204,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.BTH00039,10.8538,107.887802,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10127,11.108187,108.201938,Ham Thuan Bac,Bình Thuận,Xã Hồng Sơn,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.BTH00111,10.931465,108.115829,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO10360,11.052651,108.394858,Bac Binh,Bình Thuận,Xã Hoà Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.BTH00111,10.931465,108.115829,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.LDO10360,11.052651,108.394858,Bac Binh,Bình Thuận,Xã Hoà Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO12388,10.659065,107.77019,La Gi,Bình Thuận,Phường Phước Hội,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO12174,11.234676,107.863164,Ham Thuan Bac,Bình Thuận,Xã La Dạ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.BTH00054,11.086756,108.132751,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10128,11.07906,107.695293,Tanh Linh,Bình Thuận,Xã Tánh Linh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.BTH00071,11.343203,108.349747,Bac Binh,Bình Thuận,Xã Phan Sơn,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.BTH00071,11.343203,108.349747,Bac Binh,Bình Thuận,Xã Phan Sơn,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO10168,10.966259,108.127796,Ham Thuan Bac,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10153,10.92258,108.003,Ham Thuan Nam,Bình Thuận,Xã Hàm Kiệm,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10019,10.927954,108.041926,Ham Thuan Nam,Bình Thuận,Xã Tuyên Quang,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.BTH00021,10.72856,107.902809,Ham Thuan Nam,Bình Thuận,Xã Tân Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO11069,10.85349,107.87736,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO00252,10.93516,108.09715,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO00252,10.93516,108.09715,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO11041,10.97137,108.142902,Ham Thuan Bac,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO12293,11.319287,107.891278,Ham Thuan Bac,Bình Thuận,Xã La Dạ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.BTH00007,10.942857,108.032341,Ham Thuan Nam,Bình Thuận,Xã Tuyên Quang,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO00337,11.221756,108.50405,Bac Binh,Bình Thuận,Xã Bắc Bình,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO00337,11.221756,108.50405,Bac Binh,Bình Thuận,Xã Bắc Bình,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.BTH00123,10.88477,108.002022,Ham Thuan Nam,Bình Thuận,Xã Hàm Kiệm,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.BTH00011,11.228845,108.71833,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.BTH00011,11.228845,108.71833,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO10020,11.152011,107.621715,,,,,LDO-BTH,Nguyễn Quốc Phi
 B.LDO12365,11.237161,107.8625,Ham Thuan Bac,Bình Thuận,Xã La Dạ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10198,10.796444,107.875131,Ham Thuan Nam,Bình Thuận,Xã Tân Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
@@ -16425,20 +16425,20 @@ B.LDO00316,10.697719,107.807765,La Gi,Bình Thuận,Phường La Gi,Tỉnh Lâm 
 B.BTH00063,11.179402,108.577812,,,,,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10658,10.844345,107.873949,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.BTH00137,11.121502,107.503,Duc Linh,Bình Thuận,Xã Hoài Đức,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.BTH00066,11.163787,108.548775,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.BTH00009,11.220323,108.48661,Bac Binh,Bình Thuận,Xã Hồng Thái,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.BTH00005,11.18533,108.55632,Bac Binh,Bình Thuận,Xã Bắc Bình,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.BTH00066,11.163787,108.548775,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.BTH00009,11.220323,108.48661,Bac Binh,Bình Thuận,Xã Hồng Thái,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.BTH00005,11.18533,108.55632,Bac Binh,Bình Thuận,Xã Bắc Bình,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.BTH00026,10.926551,108.03965,Ham Thuan Nam,Bình Thuận,Xã Tuyên Quang,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10474,10.956541,108.038774,Ham Thuan Bac,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.BTH00113,11.086732,108.132309,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.BTH00006,10.939355,108.152184,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.BTH00006,10.939355,108.152184,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO00235,10.66236,107.77428,La Gi,Bình Thuận,Phường Phước Hội,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO00255,10.919251,108.088793,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO10634,10.93697,108.102531,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO00334,10.93759,108.28537,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO00255,10.919251,108.088793,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.LDO10634,10.93697,108.102531,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.LDO00334,10.93759,108.28537,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.BTH00065,11.263002,107.644714,,,,,LDO-BTH,Nguyễn Quốc Phi
-B.LDO00208,10.93697,108.102531,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO00243,11.19258,108.36436,Bac Binh,Bình Thuận,Xã Lương Sơn,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO00208,10.93697,108.102531,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.LDO00243,11.19258,108.36436,Bac Binh,Bình Thuận,Xã Lương Sơn,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO00239,10.764803,107.712479,Ham Tan,Bình Thuận,Xã Hàm Tân,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.BTH00020,10.841513,107.768539,Ham Tan,Bình Thuận,Xã Tân Lập,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10656,10.707172,107.984299,Ham Thuan Nam,Bình Thuận,Xã Tân Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
@@ -16446,37 +16446,37 @@ B.LDO00344,10.840662,107.862577,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam
 B.LDO10290,11.10659,108.20139,Ham Thuan Bac,Bình Thuận,Xã Hồng Sơn,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.HCM10021,10.555168,107.54771,Xuyen Moc,Bình Thuận,Xã Bình Châu,Thành phố Hồ Chí Minh,LDO-BTH,Nguyễn Quốc Phi
 B.BTH00018,10.968383,108.14418,Ham Thuan Bac,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO10030,11.177028,108.56388,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO11149,10.937591,108.134347,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO10030,11.177028,108.56388,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+B.LDO11149,10.937591,108.134347,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO00280,10.842624,107.83595,Ham Thuan Nam,Bình Thuận,Xã Tân Lập,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.BTH00027,11.280064,108.73819,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH00005,11.18533,108.55632,Bac Binh,Bình Thuận,Xã Bắc Bình,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH00006,10.939355,108.152184,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.BTH00027,11.280064,108.73819,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH00005,11.18533,108.55632,Bac Binh,Bình Thuận,Xã Bắc Bình,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH00006,10.939355,108.152184,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.BTH00007,10.942857,108.032341,Ham Thuan Nam,Bình Thuận,Xã Tuyên Quang,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH00009,11.220323,108.48661,Bac Binh,Bình Thuận,Xã Hồng Thái,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH00010,11.247298,108.506607,Bac Binh,Bình Thuận,Xã Hải Ninh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH00011,11.228845,108.71833,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.BTH00009,11.220323,108.48661,Bac Binh,Bình Thuận,Xã Hồng Thái,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH00010,11.247298,108.506607,Bac Binh,Bình Thuận,Xã Hải Ninh,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH00011,11.228845,108.71833,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.BTH00017,10.746237,107.876945,Ham Thuan Nam,Bình Thuận,Xã Tân Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH00018,10.968383,108.14418,Ham Thuan Bac,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH00020,10.841513,107.768539,Ham Tan,Bình Thuận,Xã Tân Lập,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH00021,10.72856,107.902809,Ham Thuan Nam,Bình Thuận,Xã Tân Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH00026,10.926551,108.03965,Ham Thuan Nam,Bình Thuận,Xã Tuyên Quang,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH00027,11.280064,108.73819,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH00034,10.919292,108.082138,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.BTH00027,11.280064,108.73819,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH00034,10.919292,108.082138,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.BTH00039,10.8538,107.887802,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH00048,10.940171,108.103378,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.BTH00048,10.940171,108.103378,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.BTH00051,11.24466,107.859009,Ham Thuan Bac,Bình Thuận,Xã La Dạ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH00052,11.064067,108.432602,Bac Binh,Bình Thuận,Xã Hoà Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH00053,10.935679,108.115753,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.BTH00052,11.064067,108.432602,Bac Binh,Bình Thuận,Xã Hoà Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH00053,10.935679,108.115753,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.BTH00054,11.086756,108.132751,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH00056,10.91986,107.985252,Ham Thuan Nam,Bình Thuận,Xã Hàm Kiệm,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH00057,10.828603,107.882591,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH00058,10.945202,108.137901,Ham Thuan Bac,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH00060,10.971573,108.338196,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH00066,11.163787,108.548775,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.BTH00060,10.971573,108.338196,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH00066,11.163787,108.548775,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.BTH00068,10.96511,107.94072,Ham Thuan Nam,Bình Thuận,Xã Hàm Kiệm,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH00071,11.343203,108.349747,Bac Binh,Bình Thuận,Xã Phan Sơn,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.BTH00073,10.859856,108.049713,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.BTH00071,11.343203,108.349747,Bac Binh,Bình Thuận,Xã Phan Sơn,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.BTH00073,10.859856,108.049713,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.BTH00074,10.707643,107.795212,La Gi,Bình Thuận,Phường La Gi,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.BTH00137,11.121502,107.503,Duc Linh,Bình Thuận,Xã Hoài Đức,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.HCM10021,10.555168,107.54771,Xuyen Moc,Bình Thuận,Xã Bình Châu,Thành phố Hồ Chí Minh,LDO-BTH,Nguyễn Quốc Phi
@@ -16484,48 +16484,48 @@ C.LDO00235,10.66236,107.77428,La Gi,Bình Thuận,Phường Phước Hội,Tỉn
 C.LDO00239,10.764803,107.712479,Ham Tan,Bình Thuận,Xã Hàm Tân,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO00240,10.843112,107.819494,Ham Thuan Nam,Bình Thuận,Xã Tân Lập,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO00241,10.840662,107.862577,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO00243,11.190663,108.35872,Bac Binh,Bình Thuận,Xã Lương Sơn,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO00244,11.221756,108.50405,Bac Binh,Bình Thuận,Xã Bắc Bình,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO00250,10.937283,108.103542,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO00253,10.93759,108.28537,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO00254,10.954316,108.246344,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO00243,11.190663,108.35872,Bac Binh,Bình Thuận,Xã Lương Sơn,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.LDO00244,11.221756,108.50405,Bac Binh,Bình Thuận,Xã Bắc Bình,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.LDO00250,10.937283,108.103542,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.LDO00253,10.93759,108.28537,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.LDO00254,10.954316,108.246344,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO00255,10.50062,107.74614,La Gi,Bình Thuận,Phường Phước Hội,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO00316,10.697719,107.807765,La Gi,Bình Thuận,Phường La Gi,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO00331,11.194018,108.284431,Bac Binh,Bình Thuận,Xã Sông Luỹ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO00334,10.93759,108.28537,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO00336,11.319542,108.786971,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO00337,11.221756,108.50405,Bac Binh,Bình Thuận,Xã Bắc Bình,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO00341,10.919251,108.088793,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO00331,11.194018,108.284431,Bac Binh,Bình Thuận,Xã Sông Luỹ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.LDO00334,10.93759,108.28537,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.LDO00336,11.319542,108.786971,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.LDO00337,11.221756,108.50405,Bac Binh,Bình Thuận,Xã Bắc Bình,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.LDO00341,10.919251,108.088793,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO00344,10.840662,107.862577,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO10005,10.611195,107.63474,Ham Tan,Bình Thuận,Xã Sơn Mỹ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO10007,10.975488,108.144996,Ham Thuan Bac,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO10008,10.865966,107.922061,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO10011,11.225558,108.72807,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO10011,11.225558,108.72807,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO10012,11.121463,108.209963,Ham Thuan Bac,Bình Thuận,Xã Hồng Sơn,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO10014,11.032274,108.163188,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO10016,11.04349,108.387981,Bac Binh,Bình Thuận,Xã Hoà Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO10017,11.311315,108.76225,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO10016,11.04349,108.387981,Bac Binh,Bình Thuận,Xã Hoà Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.LDO10017,11.311315,108.76225,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO10019,10.927954,108.041926,Ham Thuan Nam,Bình Thuận,Xã Tuyên Quang,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO10021,11.194018,108.284431,Bac Binh,Bình Thuận,Xã Sông Luỹ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO10022,11.193948,108.550731,Bac Binh,Bình Thuận,Xã Bắc Bình,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO10023,11.233234,108.74247,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO10024,11.225087,108.72814,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO10025,11.192637,108.364611,Bac Binh,Bình Thuận,Xã Lương Sơn,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO10026,11.220813,108.50818,Bac Binh,Bình Thuận,Xã Bắc Bình,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO10021,11.194018,108.284431,Bac Binh,Bình Thuận,Xã Sông Luỹ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.LDO10022,11.193948,108.550731,Bac Binh,Bình Thuận,Xã Bắc Bình,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.LDO10023,11.233234,108.74247,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.LDO10024,11.225087,108.72814,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.LDO10025,11.192637,108.364611,Bac Binh,Bình Thuận,Xã Lương Sơn,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.LDO10026,11.220813,108.50818,Bac Binh,Bình Thuận,Xã Bắc Bình,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO10027,10.662889,107.774294,La Gi,Bình Thuận,Phường Phước Hội,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO10028,10.82421,107.72715,Ham Tan,Bình Thuận,Xã Hàm Tân,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO10029,10.727155,107.870725,La Gi,Bình Thuận,Xã Tân Hải,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO10030,11.177028,108.56388,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO10032,10.924138,108.0978,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO10030,11.177028,108.56388,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
+C.LDO10032,10.924138,108.0978,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO10153,10.92258,108.003,Ham Thuan Nam,Bình Thuận,Xã Hàm Kiệm,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO10168,10.966259,108.127796,Ham Thuan Bac,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO10173,10.9505,108.102,Phan Thiet,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO10173,10.9505,108.102,Phan Thiet,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO10194,10.840698,107.86299,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO10268,10.966052,108.127,Ham Thuan Bac,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO10353,10.686175,107.750255,La Gi,Bình Thuận,Phường La Gi,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO10360,11.052651,108.394858,Bac Binh,Bình Thuận,Xã Hoà Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO10360,11.052651,108.394858,Bac Binh,Bình Thuận,Xã Hoà Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO10455,11.07486,108.13053,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO10634,10.93697,108.102531,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+C.LDO10634,10.93697,108.102531,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO10658,10.844345,107.873949,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO12497,10.960617,108.106461,Ham Thuan Bac,Bình Thuận,Xã Hàm Liêm,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 LDO1068,,,,,,,LDO-BTH,Nguyễn Quốc Phi
@@ -50849,7 +50849,7 @@ B.BNI12992,21.109387,105.940548,,,Phường Từ Sơn,Tỉnh Bắc Ninh,,
 B.BNI13063,21.139935,106.103222,,,Phường Nam Sơn,Tỉnh Bắc Ninh,,
 B.BNI13043,21.196535,106.109254,,,Phường Vũ Ninh,Tỉnh Bắc Ninh,,
 B.BNI13020,21.180067,106.069672,,,Phường Kinh Bắc,Tỉnh Bắc Ninh,,
-B.HCM19849,1,1,,,Xã Phú Giáo,Thành phố Trung ương Hồ Chí Minh,,
+B.HCM19849,1.0,1.0,,,Xã Phú Giáo,Thành phố Trung ương Hồ Chí Minh,,
 B.TNI11692,11.316611,106.135333,,,Phường Ninh Thạnh,Tỉnh Tây Ninh,,
 B.TNI12315,11.31514,106.121695,,,Phường Tân Ninh,Tỉnh Tây Ninh,,
 B.TNI12316,11.338707,106.12516,,,Phường Bình Minh,Tỉnh Tây Ninh,,
@@ -53175,7 +53175,7 @@ B.HCM19694,11.237195,106.734809,,,Xã Phước Hòa,Thành phố Trung ương H�
 B.HCM19693,11.397473,106.730026,,,Xã Phước Thành,Thành phố Trung ương Hồ Chí Minh,,
 B.HCM19674,11.2375,106.678806,,,Phường Bến Cát,Thành phố Trung ương Hồ Chí Minh,,
 B.HCM19670,11.23828,106.755812,,,Xã Phước Hòa,Thành phố Trung ương Hồ Chí Minh,,
-B.HCM19652,0,0,,,Xã Phước Hòa,Thành phố Trung ương Hồ Chí Minh,,
+B.HCM19652,0.0,0.0,,,Xã Phước Hòa,Thành phố Trung ương Hồ Chí Minh,,
 B.HCM19650,11.267853,106.727222,,,Xã Phước Hòa,Thành phố Trung ương Hồ Chí Minh,,
 B.HCM19649,11.181819,106.701849,,,Phường Vĩnh Tân,Thành phố Trung ương Hồ Chí Minh,,
 B.HCM19493,11.364011,106.725299,,,Xã An Long,Thành phố Trung ương Hồ Chí Minh,,
@@ -53224,7 +53224,7 @@ B.GLA12732,13.978903,109.092919,,,Xã Xuân An,Tỉnh Gia Lai,,
 B.GLA12325,13.800856,107.681914,,,Xã Đức Cơ,Tỉnh Gia Lai,,
 B.GLA11429,13.969706,108.023356,,,Phường Hội Phú,Tỉnh Gia Lai,,
 B.GLA11263,13.975503,107.985178,,,Phường Diên Hồng,Tỉnh Gia Lai,,
-B.GLA11228,13.985248,108,,,Phường An Phú,Tỉnh Gia Lai,,
+B.GLA11228,13.985248,108.0,,,Phường An Phú,Tỉnh Gia Lai,,
 B.GLA11295,14.171071,109.055272,,,Xã Phù Mỹ,Tỉnh Gia Lai,,
 B.GLA11294,14.17233,109.052882,,,Xã Phù Mỹ,Tỉnh Gia Lai,,
 B.GLA11280,13.99484,108.1244,,,Xã Đak Đoa,Tỉnh Gia Lai,,
@@ -53909,7 +53909,7 @@ B.QTR11449,17.777367,106.006996,,,Xã Kim Phú,Tỉnh Quảng Trị,,
 B.QTR11448,17.774137,105.889245,,,Xã Kim Điền,Tỉnh Quảng Trị,,
 B.QTR11447,17.828252,105.890474,,,Xã Kim Điền,Tỉnh Quảng Trị,,
 B.QTR11446,17.859828,105.804663,,,Xã Dân Hóa,Tỉnh Quảng Trị,,
-B.QTR11442,18,105.831277,,,Xã Tân Thành,Tỉnh Quảng Trị,,
+B.QTR11442,18.0,105.831277,,,Xã Tân Thành,Tỉnh Quảng Trị,,
 B.QTR11445,17.90041,105.870257,,,Xã Tân Thành,Tỉnh Quảng Trị,,
 B.QTR11440,17.72991,105.776834,,,Xã Dân Hóa,Tỉnh Quảng Trị,,
 B.QTR11439,17.836342,105.975896,,,Xã Minh Hóa,Tỉnh Quảng Trị,,
