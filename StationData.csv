@@ -13149,7 +13149,7 @@ B.LDO10062,11.940849,108.431559,Da Lat,Lâm Đồng,Phường Cam Ly - Đà Lạ
 B.LDO11027,11.774613,108.408657,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11347,12.132258,108.131361,Dam Rong,Lâm Đồng,Xã Đam Rông 3,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10746,11.840835,108.594065,Don Duong,Lâm Đồng,Xã D'Ran,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.DNI00270,11.503971,107.744,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
+B.DNI00270,,,,,,,DNI-BPH,Đoàn Quốc Khánh
 B.LDO10747,11.553091,107.824862,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12361,11.739816,108.193361,Lam Ha,Lâm Đồng,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12269,11.564287,107.804353,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -17743,6 +17743,7 @@ B.DNI13456,,,Bien Hoa,Đồng Nai,Phường Tam Hiệp,Thành phố Đồng Nai,
 C.DNI0015,10.96635,106.854591,Bien Hoa,Đồng Nai,Phường Tam Hiệp,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
 C.DNI0014,10.90613,106.850075,Bien Hoa,Đồng Nai,Phường Long Hưng,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
 C.DNI0022,10.89921,106.885048,Bien Hoa,Đồng Nai,Phường Long Hưng,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
+B.DNI14776,,,Bien Hoa,Đồng Nai,Phường Long Hưng,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
 C.DNI0030,10.957551,106.842934,Bien Hoa,Đồng Nai,Phường Tam Hiệp,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
 C.DNI0032,10.937584,106.81263,Bien Hoa,Đồng Nai,Phường Biên Hoà,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
 C.DNI0004,10.936018,106.867958,Bien Hoa,Đồng Nai,Phường Tam Hiệp,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
@@ -17816,6 +17817,7 @@ C.DNI0211,11.015616,106.854187,Vinh Cuu,Đồng Nai,Phường Tân Triều,Thàn
 C.DNI0246,10.995242,106.8843,Bien Hoa,Đồng Nai,Phường Trảng Dài,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
 C.DNI0260,10.917257,106.830559,Bien Hoa,Đồng Nai,Phường Biên Hoà,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
 C.DNI0264,10.98303,106.894547,Bien Hoa,Đồng Nai,Phường Long Bình,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
+B.DNI14850,,,Bien Hoa,Đồng Nai,Phường Long Bình,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
 C.DNI0255,10.873744,106.91433,Bien Hoa,Đồng Nai,Phường Phước Tân,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
 C.DNI0256,10.985169,106.87722,Bien Hoa,Đồng Nai,Phường Trảng Dài,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
 C.DNI0251,10.945244,106.799324,Bien Hoa,Đồng Nai,Phường Biên Hoà,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
@@ -55886,7 +55888,7 @@ B.DNI11350,11.096032,107.040037,,,Xã Trị An,Tỉnh Đồng Nai,,
 B.DNI11348,11.086413,107.051867,,,Xã Trị An,Tỉnh Đồng Nai,,
 B.DNI11346,11.093405,107.037715,,,Xã Trị An,Tỉnh Đồng Nai,,
 B.DNI11334,11.082144,107.031622,,,Xã Trị An,Tỉnh Đồng Nai,,
-B.DNI11425,11.08787,107.028697,,,Xã Trị An,Tỉnh Đồng Nai,,
+B.DNI11425,11.08787,107.028697,,,Xã Trị An,Tỉnh Đồng Nai,DNI-BPH,Phạm Quý Bôn
 B.DNI11383,11.084021,106.999471,,,Xã Trị An,Tỉnh Đồng Nai,DNI-BPH,Phạm Quý Bôn
 B.DNI11361,11.042726,106.8151,,,Xã Trị An,Tỉnh Đồng Nai,,
 B.DNI11356,11.09541,106.955238,,,Xã Trị An,Tỉnh Đồng Nai,,
