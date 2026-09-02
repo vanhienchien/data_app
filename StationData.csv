@@ -2526,7 +2526,6 @@ B.AGI10073,10.379302,104.482441,Ha Tien,Kiên Giang,Phường Hà Tiên,Tỉnh A
 B.AGI10877,10.211003,105.09121,Hon Dat,Kiên Giang,Xã Mỹ Thuận,Tỉnh An Giang,Mtay,Cao Văn Lộc
 B.AGI10490,10.01369,105.07345,Rach Gia,Kiên Giang,Phường Rạch Giá,Tỉnh An Giang,Mtay,Cao Văn Lộc
 B.AGI00347,10.153016,105.183245,Tan Hiep,Kiên Giang,Xã Tân Hội,Tỉnh An Giang,Mtay,Cao Văn Lộc
-C.VLO0050,,,Tan Hiep,Kiên Giang,Xã Tân Hội,Tỉnh An Giang,Mtay,Cao Văn Lộc
 B.KGI00034,10.283936,104.734695,Kien Luong,Kiên Giang,Xã Hoà Điền,Tỉnh An Giang,Mtay,Cao Văn Lộc
 B.AGI10079,9.603392,105.186238,Vinh Thuan,Kiên Giang,Xã Vĩnh Bình,Tỉnh An Giang,Mtay,Cao Văn Lộc
 B.AGI10665,10.081833,105.048593,Hon Dat,Kiên Giang,Phường Vĩnh Thông,Tỉnh An Giang,Mtay,Cao Văn Lộc
@@ -26325,7 +26324,7 @@ C.BNI0137,21.166992,106.052948,Bac Ninh,Bắc Ninh,Phường Võ Cường,Tỉnh
 C.QNI0266,20.934517,106.83596,Quang Yen,Hải Phòng,Phường Quảng Yên,Tỉnh Quảng Ninh,,
 C.BGI0185,21.353056,105.902473,Hiep Hoa,Hà Nội	,Xã Hợp Thịnh,Tỉnh Bắc Ninh,,
 C.HNO1597,21.04192,105.732811,Hoai Duc,Hà Nội	,Xã Sơn Đồng,Thành phố Hà Nội,,
-C.VLO0050,10.261972,105.88131,Vinh Long,Đồng Tháp,Phường Tân Ngãi,Tỉnh Vĩnh Long,,
+C.VLO0050,10.261972,105.88131,Vinh Long,Đồng Tháp,Phường Tân Ngãi,Tỉnh Vĩnh Long,Mtay,Trường Giang
 C.THO0462,20.075039,105.855354,Bim Son,Thanh Hóa,Phường Quang Trung,Tỉnh Thanh Hoá,,
 C.NAN0220,19.144337,105.700874,Quynh Luu,Nghệ An,Xã Quỳnh Anh,Tỉnh Nghệ An,,
 C.VPH0149,21.312298,105.583374,Vinh Yen,Vĩnh Phúc,Phường Vĩnh Phúc,Tỉnh Phú Thọ,,
