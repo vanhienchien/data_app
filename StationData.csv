@@ -17413,7 +17413,7 @@ B.KHO10554,11.592091,109.033605,Ninh Hai,Ninh Thuận,Phường Ninh Chử,Tỉn
 B.KHO10559,11.589222,109.034248,Ninh Hai,Ninh Thuận,Phường Ninh Chử,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
 B.KHO10621,11.57532,108.988948,Phan Rang-Thap Cham,Ninh Thuận,Phường Phan Rang,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
 B.KHO10030,11.548763,109.018853,Phan Rang-Thap Cham,Ninh Thuận,Phường Đông Hải,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
-B.DNI11626,11.683533,109.173203,,,,,DNI,Nguyễn Thanh Tuấn
+B.DNI11626,,,,,,,,
 B.NTH00023,11.782303,108.799591,Ninh Son,Ninh Thuận,Xã Ninh Sơn,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
 B.KHO00219,11.567943,108.990972,Phan Rang-Thap Cham,Ninh Thuận,Phường Phan Rang,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
 B.KHO10874,11.67144,108.864088,Ninh Son,Ninh Thuận,Xã Mỹ Sơn,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
@@ -51739,7 +51739,7 @@ B.DNI13854,11.158433,107.253671,,,Xã La Ngà,Tỉnh Đồng Nai,,
 B.DNI14072,10.85384,107.2602,,,Xã Cẩm Mỹ,Tỉnh Đồng Nai,,
 B.DNI14061,11.745213,107.155914,,,Xã Nghĩa Trung,Tỉnh Đồng Nai,,
 B.DNI14064,10.969301,107.329071,,,Xã Xuân Lộc,Tỉnh Đồng Nai,,
-B.DNI14056,10.966028,107.35978,,,Xã Xuân Lộc,Tỉnh Đồng Nai,DNI-BPH,Nguyễn Quốc Khánh
+B.DNI14056,10.966028,107.35978,,,Xã Xuân Lộc,Tỉnh Đồng Nai,DNI-BPH,Đoàn Quốc Khánh
 B.DNI14059,10.715668,107.329941,,,Xã Sông Ray,Tỉnh Đồng Nai,,
 B.DNI14058,10.762829,107.345886,,,Xã Cẩm Mỹ,Tỉnh Đồng Nai,,
 B.DNI14063,10.934411,107.293716,,,Xã Xuân Lộc,Tỉnh Đồng Nai,,
@@ -55477,7 +55477,7 @@ B.LDO13019,11.150751,107.393794,,,Xã Nghị Đức,Tỉnh Lâm Đồng,,
 B.LDO12998,11.239546,107.620346,,,Xã Nam Thành,Tỉnh Lâm Đồng,,
 B.LDO12997,11.240166,107.596292,,,Xã Nam Thành,Tỉnh Lâm Đồng,,
 B.LDO12991,11.209372,108.321788,,,Xã Sông Lũy,Tỉnh Lâm Đồng,,
-B.LDO12981,11.216744,108.434977,,,Xã Hồng Thái,Tỉnh Lâm Đồng,,
+B.LDO12981,11.216744,108.434977,,,Xã Hồng Thái,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO12977,10.592859,107.585408,,,Xã Sơn Mỹ,Tỉnh Lâm Đồng,,
 B.LDO12974,10.834082,107.663933,,,Xã Tân Minh,Tỉnh Lâm Đồng,,
 B.LDO12967,11.31154,108.756027,,,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,,
@@ -57974,7 +57974,7 @@ B.DLA11524,13.363473,109.131064,,,Xã Đồng Xuân,Tỉnh Đắk Lắk,,
 B.DLA10485,12.985847,109.334297,,,Phường Đông Hòa,Tỉnh Đắk Lắk,,
 B.DLA10697,12.9989,109.362613,,,Phường Hòa Hiệp,Tỉnh Đắk Lắk,,
 B.DLA10755,12.50594,109.098676,,,Xã Krông Bông,Tỉnh Đắk Lắk,,
-B.KHO10970,12.271402,109.098676,,,Xã Diên Điền,Tỉnh Khánh Hòa,,
+B.KHO10970,12.271402,109.098676,,,Xã Diên Điền,Tỉnh Khánh Hòa,Tây Nguyên,Khánh Hòa
 B.KHO10774,12.033948,109.128853,,,Xã Cam Lâm,Tỉnh Khánh Hòa,,
 B.DLA00065,13.190939,108.205209,,,Xã Ea Drăng,Tỉnh Đắk Lắk,,
 B.GLA10550,14.084822,108.671633,,,Xã Cửu An,Tỉnh Gia Lai,,
@@ -58752,5 +58752,5 @@ B.DNI14090,11.6623,106.897333,,,,,DNI-BPH,Võ Hồng Khanh
 B.DNI14294,10.958869,106.942932,,,,,DNI-BPH,Ngô Văn Cảnh
 C.LDO13346,11.622965,107.856316,,,,,LDO-BTH,Nguyễn Hải Nguyên
 C.AGI11480,10.40811,104.901917,,,,,Mtay,Cao Văn Lộc
-C.CTH11828,10.05007,105.771133,,,,,Mtay,Quốc Cường
+C.CTH11828,10.05007,105.771133,,,,,Mtay,Nguyễn Quốc Cường
 C.TTH10533,16.463955,107.600479,,,,Thừa Thiên Huế,,
