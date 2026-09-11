@@ -1900,7 +1900,7 @@ B.DLA11482,12.995456,109.328708,,,Phường Đông Hòa,Tỉnh Đắk Lắk,,
 B.DLA11483,12.964664,109.397115,,,,,Tây Nguyên,Đắk Lắk
 B.DLA11484,12.988161,109.331992,,,Phường Đông Hòa,Tỉnh Đắk Lắk,,
 B.DLA11485,12.980031,109.378967,,,Phường Hòa Hiệp,Tỉnh Đắk Lắk,,
-B.DLA11486,12.98972,109.385313,,,Phường Hòa Hiệp,Tỉnh Đắk Lắk,,
+B.DLA11486,12.98972,109.385313,,,Phường Hòa Hiệp,Tỉnh Đắk Lắk,Tây Nguyên,Đắk Lắk
 B.DLA11488,12.996478,109.364452,,,Phường Hòa Hiệp,Tỉnh Đắk Lắk,,
 B.DLA11490,12.96584,109.397567,,,,,Tây Nguyên,Đắk Lắk
 B.DLA11491,13.02787,109.341109,,,Phường Hòa Hiệp,Tỉnh Đắk Lắk,,
@@ -2707,7 +2707,7 @@ B.DNA10987,15.88721,108.29075,,,Phường Hội An Tây,Thành phố Trung ươn
 B.DNA10988,15.6788829,108.2723322,Que Son,Quảng Nam,Xã Quế Sơn Trung,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
 B.DNA11012,15.91233,108.267137,,,Phường Điện Bàn Đông,Thành phố Trung ương Đà Nẵng,,
 B.DNA11015,15.61608,108.4089,Phu Ninh,Quảng Nam,Xã Tây Hồ,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
-B.DNA11016,15.49401,108.3673,,,Xã Tiên Phước,Thành phố Trung ương Đà Nẵng,,
+B.DNA11016,15.49401,108.3673,,,Xã Tiên Phước,Thành phố Trung ương Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 B.DNA11017,15.48802,108.3652,,,Xã Tiên Phước,Thành phố Trung ương Đà Nẵng,,
 B.DNA11019,15.443508,107.793951,,,Xã Khâm Đức,Thành phố Trung ương Đà Nẵng,,
 B.DNA11026,15.54044,108.5295,,,Xã Tam Xuân,Thành phố Trung ương Đà Nẵng,,
@@ -2722,7 +2722,7 @@ B.DNA11064,15.98889,108.207856,,,Phường Hòa Xuân,Thành phố Trung ương 
 B.DNA11065,15.845712,108.361247,,,Xã Duy Nghĩa,Thành phố Trung ương Đà Nẵng,,
 B.DNA11066,15.471609,108.594231,,,Xã Tam Anh,Thành phố Trung ương Đà Nẵng,,
 B.DNA11067,15.442252,108.628686,Hai Chau,Đà Nẵng,Phường Hoà Cường,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
-B.DNA11069,15.921888,108.22081,,,Phường An Thắng,Thành phố Trung ương Đà Nẵng,,
+B.DNA11069,15.921888,108.22081,,,Phường An Thắng,Thành phố Trung ương Đà Nẵng,DNA-QNA,Lê Văn Thi
 B.DNA11070,15.851389,108.393332,,,Xã Duy Nghĩa,Thành phố Trung ương Đà Nẵng,,
 B.DNA11071,15.840202,108.355616,,,Xã Duy Nghĩa,Thành phố Trung ương Đà Nẵng,,
 B.DNA11074,15.496895,108.30027,,,Xã Tiên Phước,Thành phố Trung ương Đà Nẵng,,
@@ -4028,7 +4028,7 @@ B.DNI13744,11.664125,106.674125,,,Xã Tân Quan,Tỉnh Đồng Nai,,
 B.DNI13745,11.612541,106.594125,,,Xã Tân Quan,Tỉnh Đồng Nai,DNI-BPH,Võ Hồng Khanh
 B.DNI13747,11.632145,106.612541,,,Xã Tân Khai,Tỉnh Đồng Nai,DNI-BPH,Võ Hồng Khanh
 B.DNI13750,11.894125,106.584125,,,Xã Lộc Tấn,Tỉnh Đồng Nai,,
-B.DNI13754,11.754125,106.574125,,,Xã Lộc Hưng,Tỉnh Đồng Nai,,
+B.DNI13754,11.754125,106.574125,,,Xã Lộc Hưng,Tỉnh Đồng Nai,DNI-BPH,Võ Hồng Khanh
 B.DNI13755,11.912541,106.642154,,,Xã Lộc Thành,Tỉnh Đồng Nai,,
 B.DNI13756,11.934125,106.594125,,,Xã Tân Tiến,Tỉnh Đồng Nai,,
 B.DNI13757,11.684125,106.842154,,,Xã Phú Riềng,Tỉnh Đồng Nai,,
@@ -4655,7 +4655,7 @@ B.GLA11195,13.620843,108.408751,,,Xã Pờ Tó,Tỉnh Gia Lai,,
 B.GLA11196,13.411329,108.437757,,,Phường Ayun Pa,Tỉnh Gia Lai,,
 B.GLA11197,13.470959,108.444809,,,Xã Ia Pa,Tỉnh Gia Lai,,
 B.GLA11198,13.559967,108.304445,,,Xã Chư A Thai,Tỉnh Gia Lai,,
-B.GLA11215,14.190332,109.042226,,,Xã Phù Mỹ,Tỉnh Gia Lai,,
+B.GLA11215,14.190332,109.042226,,,Xã Phù Mỹ,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 B.GLA11218,13.981188,108.527098,,,Xã Đak Pơ,Tỉnh Gia Lai,,
 B.GLA11220,14.034823,108.015934,,,,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 B.GLA11228,13.985248,108.0,,,Phường An Phú,Tỉnh Gia Lai,,
@@ -5845,14 +5845,14 @@ B.LDO00001,11.574323,108.017052,Di Linh,Lâm Đồng,Xã Di Linh,Tỉnh Lâm Đ�
 B.LDO00002,11.543899,107.810974,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00003,11.929808,108.42868,Da Lat,Lâm Đồng,Phường Xuân Hương - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00005,11.665325,108.314445,Duc Trong,Lâm Đồng,Xã Đức Trọng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO00006,11.471877,107.734177,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO00006,11.471877,107.734177,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO00007,11.73712,108.373711,Duc Trong,Lâm Đồng,Xã Đức Trọng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00009,11.408669,107.571548,Da Huoai,Lâm Đồng,Xã Đạ Huoai,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00010,11.555957,107.826134,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00011,10.84349,106.8423,,,,,,
 B.LDO00012,11.544106,107.811081,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00013,11.736433,108.368385,Duc Trong,Lâm Đồng,Xã Đức Trọng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO00015,11.53415,107.883499,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO00015,11.53415,107.883499,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO00016,11.568274,108.032425,Di Linh,Lâm Đồng,Xã Di Linh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00017,11.63688,108.020103,Di Linh,Lâm Đồng,Xã Đinh Trang Thượng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00018,11.61361,108.109901,Di Linh,Lâm Đồng,Xã Bảo Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -5860,7 +5860,7 @@ B.LDO00022,12.086953,108.53244,Lac Duong,Lâm Đồng,Xã Lạc Dương,Tỉnh L
 B.LDO00025,12.15882,108.137001,Dam Rong,Lâm Đồng,Xã Đam Rông 3,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00026,11.68023,107.9804,Di Linh,Lâm Đồng,Xã Đinh Trang Thượng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00027,11.54859,108.348297,Duc Trong,Lâm Đồng,Xã Tà Hine,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO00029,11.543856,107.893494,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO00029,11.543856,107.893494,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO00030,11.80672,108.225304,Lam Ha,Lâm Đồng,Xã Phú Sơn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00031,11.79009,108.422997,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00032,11.680458,107.74424,Bao Lam,Lâm Đồng,Xã Bảo Lâm 4,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -5901,7 +5901,7 @@ B.LDO00119,11.9539,108.461502,Da Lat,Lâm Đồng,Phường Lâm Viên - Đà L�
 B.LDO00127,11.567298,107.30999,Cat Tien,Lâm Đồng,Xã Cát Tiên 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00128,11.981731,108.427711,Da Lat,Lâm Đồng,Phường Lang Biang - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00130,11.965714,108.391823,Da Lat,Lâm Đồng,Phường Lang Biang - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO00136,11.531522,107.786346,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO00136,11.531522,107.786346,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO00138,11.894082,108.540123,Da Lat,Lâm Đồng,Phường Xuân Trường - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00140,11.959816,108.442413,Da Lat,Lâm Đồng,Phường Lâm Viên - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00142,11.922803,108.434663,,,,,LDO-BTH,Nguyễn Hải Nguyên
@@ -5946,15 +5946,15 @@ B.LDO00252,10.93516,108.09715,Phan Thiet,Bình Thuận,Phường Phan Thiết,T�
 B.LDO00253,10.93759,108.28537,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO00254,10.954316,108.246344,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO00255,10.919251,108.088793,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO00256,11.546658,107.9016,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO00257,11.449925,107.834376,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO00256,11.546658,107.9016,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO00257,11.449925,107.834376,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO00258,11.586536,108.078349,Di Linh,Lâm Đồng,Xã Di Linh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00259,11.727436,108.36975,Duc Trong,Lâm Đồng,Xã Đức Trọng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00260,11.938827,108.438242,Da Lat,Lâm Đồng,Phường Xuân Hương - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00261,11.783008,108.41043,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00262,11.887396,108.548328,Da Lat,Lâm Đồng,Phường Xuân Trường - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00263,11.845556,108.602,Don Duong,Lâm Đồng,Xã D'Ran,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO00264,11.535398,107.784987,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO00264,11.535398,107.784987,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO00265,11.74672,108.19606,Lam Ha,Lâm Đồng,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00266,11.939346,108.136584,Dam Rong,Lâm Đồng,Xã Đam Rông 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00267,12.590268,107.89689,Cu Jut,Đắk Nông,Xã Cư Jút,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
@@ -6002,7 +6002,7 @@ B.LDO00385,11.625492,107.839737,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâ
 B.LDO00386,11.781016,108.528316,Don Duong,Lâm Đồng,Xã Ka Đô,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00400,11.887396,108.548328,Da Lat,Lâm Đồng,Phường Xuân Trường - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00402,11.845556,108.602,Don Duong,Lâm Đồng,Xã D'Ran,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO00406,11.535569,107.784951,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO00406,11.535569,107.784951,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO00409,11.939346,108.136584,Dam Rong,Lâm Đồng,Xã Đam Rông 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00419,11.584667,107.360528,Cat Tien,Lâm Đồng,Xã Cát Tiên,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00431,11.938827,108.438242,Da Lat,Lâm Đồng,Phường Xuân Hương - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6082,7 +6082,7 @@ B.LDO10075,11.969674,108.42759,Da Lat,Lâm Đồng,Phường Lang Biang - Đà L
 B.LDO10076,11.613507,108.111895,Di Linh,Lâm Đồng,Xã Bảo Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10077,12.007394,108.41706,Lac Duong,Lâm Đồng,Phường Lang Biang - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10078,11.535001,107.82329,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
-B.LDO10079,11.511954,107.749518,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10079,11.511954,107.749518,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10080,11.561457,107.839464,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10081,11.633917,108.30674,Duc Trong,Lâm Đồng,Xã Ninh Gia,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10082,11.790032,108.2418,Lam Ha,Lâm Đồng,Xã Đinh Văn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6135,56 +6135,56 @@ B.LDO10247,11.187546,107.56701,Duc Linh,Bình Thuận,Xã Đức Linh,Tỉnh Lâ
 B.LDO10248,11.062734,107.474415,Duc Linh,Bình Thuận,Xã Trà Tân,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO10252,10.93516,108.09715,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10253,10.71238,107.72775,Ham Tan,Bình Thuận,Xã Hàm Tân,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO10257,11.449925,107.834376,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10257,11.449925,107.834376,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10262,11.887396,108.548328,Da Lat,Lâm Đồng,Phường Xuân Trường - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10268,10.966052,108.127,Ham Thuan Bac,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
-B.LDO10271,11.497545,107.743,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10272,11.497545,107.743,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10273,11.493384,107.746,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10274,11.50072,107.745,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10275,11.475669,107.736,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10276,11.473948,107.736,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10277,11.505767,107.745,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10278,11.496533,107.746,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10271,11.497545,107.743,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10272,11.497545,107.743,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10273,11.493384,107.746,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10274,11.50072,107.745,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10275,11.475669,107.736,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10276,11.473948,107.736,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10277,11.505767,107.745,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10278,11.496533,107.746,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10279,11.552874,107.807437,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10286,11.489645,107.731,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10287,11.491804,107.736,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10288,11.49224,107.746,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10286,11.489645,107.731,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10287,11.491804,107.736,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10288,11.49224,107.746,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10289,11.907888,107.798,Dak Glong,Đắk Nông,Xã Quảng Khê,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
 B.LDO10290,11.10659,108.20139,Ham Thuan Bac,Bình Thuận,Xã Hồng Sơn,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO10291,11.939202,108.48355,Da Lat,Lâm Đồng,Phường Xuân Trường - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10292,12.271571,107.99738,Krong No,Đắk Nông,Xã Quảng Phú,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
 B.LDO10293,11.156426,107.60092,Tanh Linh,Bình Thuận,Xã Tánh Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO10294,10.844882,107.84686,Ham Thuan Nam,Bình Thuận,Xã Tân Lập,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO10295,11.495877,107.74,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10295,11.495877,107.74,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10296,12.657804,107.865613,Cu Jut,Đắk Nông,Xã Nam Dong,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
-B.LDO10317,11.493618,107.7381,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10318,11.499162,107.744402,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10319,11.491299,107.735775,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10320,11.476342,107.737325,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10321,11.461491,107.767337,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10322,11.49864,107.74169,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10323,11.504978,107.74654,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10324,11.486407,107.752275,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10325,11.507707,107.742781,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10317,11.493618,107.7381,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10318,11.499162,107.744402,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10319,11.491299,107.735775,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10320,11.476342,107.737325,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10321,11.461491,107.767337,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10322,11.49864,107.74169,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10323,11.504978,107.74654,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10324,11.486407,107.752275,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10325,11.507707,107.742781,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10326,12.00571,107.683716,Gia Nghia,Đắk Nông,Phường Bắc Gia Nghĩa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
 B.LDO10328,10.350084,106.47105,,,,,,
-B.LDO10335,11.498846,107.746236,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10336,11.490167,107.73425,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10337,11.49161,107.736371,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10338,11.471748,107.767098,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10339,11.511359,107.749406,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10340,11.505821,107.741592,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10341,11.49076,107.746948,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10342,11.487882,107.742368,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10335,11.498846,107.746236,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10336,11.490167,107.73425,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10337,11.49161,107.736371,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10338,11.471748,107.767098,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10339,11.511359,107.749406,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10340,11.505821,107.741592,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10341,11.49076,107.746948,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10342,11.487882,107.742368,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10343,11.483797,107.744393,,,,,,
-B.LDO10344,11.498299,107.746245,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10345,11.497978,107.744809,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10346,11.488026,107.750989,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10347,11.498372,107.743466,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10348,11.498676,107.743678,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10349,11.498676,107.743678,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10350,11.480541,107.758633,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10344,11.498299,107.746245,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10345,11.497978,107.744809,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10346,11.488026,107.750989,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10347,11.498372,107.743466,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10348,11.498676,107.743678,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10349,11.498676,107.743678,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10350,11.480541,107.758633,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10353,10.686175,107.750255,La Gi,Bình Thuận,Phường La Gi,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO10354,11.93864,108.45717,Da Lat,Lâm Đồng,Phường Xuân Hương - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10360,11.052651,108.394858,Bac Binh,Bình Thuận,Xã Hoà Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
@@ -6192,23 +6192,23 @@ B.LDO10364,11.944708,108.439434,,,Phường Mũi Né,Tỉnh Lâm Đồng,,
 B.LDO10365,11.790413,108.24484,Lam Ha,Lâm Đồng,Xã Đinh Văn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10370,11.59376,108.079017,Di Linh,Lâm Đồng,Xã Di Linh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10373,11.092563,107.67942,,,,,LDO-BTH,Hứa Văn Thiện
-B.LDO10374,11.505986,107.746545,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10375,11.494916,107.744628,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10376,11.502212,107.741234,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10377,11.497494,107.742121,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10378,11.490679,107.747196,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10379,11.495379,107.746407,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10380,11.492493,107.743035,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10381,11.50778,107.738452,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10382,11.498682,107.74221,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10383,11.479,107.766944,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10384,11.493216,107.745338,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10389,11.492685,107.746187,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10390,11.503971,107.744478,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10392,11.480416,107.758501,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10393,11.451912,107.788842,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10394,11.504921,107.747072,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10395,11.490118,107.733416,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10374,11.505986,107.746545,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10375,11.494916,107.744628,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10376,11.502212,107.741234,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10377,11.497494,107.742121,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10378,11.490679,107.747196,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10379,11.495379,107.746407,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10380,11.492493,107.743035,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10381,11.50778,107.738452,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10382,11.498682,107.74221,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10383,11.479,107.766944,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10384,11.493216,107.745338,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10389,11.492685,107.746187,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10390,11.503971,107.744478,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10392,11.480416,107.758501,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10393,11.451912,107.788842,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10394,11.504921,107.747072,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10395,11.490118,107.733416,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10412,11.952145,108.430107,Da Lat,Lâm Đồng,Phường Cam Ly - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10413,11.93049,108.433348,Da Lat,Lâm Đồng,Phường Xuân Hương - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10415,12.057155,108.156944,Dam Rong,Lâm Đồng,Xã Đam Rông 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6220,24 +6220,24 @@ B.LDO10420,11.92947,108.431718,Da Lat,Lâm Đồng,Phường Xuân Hương - Đ�
 B.LDO10421,11.929605,108.4325,Da Lat,Lâm Đồng,Phường Xuân Hương - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10423,11.886816,108.423546,Da Lat,Lâm Đồng,Phường Xuân Hương - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10428,11.235278,107.674782,Tanh Linh,Bình Thuận,Xã Nghị Đức,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
-B.LDO10429,11.511013,107.749388,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10430,11.497995,107.744338,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10431,11.4976,107.744373,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10432,11.485662,107.752406,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10433,11.489155,107.749348,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10434,11.547411,107.786483,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10435,11.503779,107.746302,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10436,11.502217,107.737803,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10437,11.492113,107.744484,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10438,11.491206,107.74644,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10439,11.497801,107.746469,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10440,11.493443,107.767848,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10441,11.424193,107.862778,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10442,11.515784,107.758597,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10443,11.421242,107.853222,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10445,11.509873,107.751011,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10446,11.49005,107.744896,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10447,11.477238,107.737944,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10429,11.511013,107.749388,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10430,11.497995,107.744338,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10431,11.4976,107.744373,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10432,11.485662,107.752406,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10433,11.489155,107.749348,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10434,11.547411,107.786483,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10435,11.503779,107.746302,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10436,11.502217,107.737803,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10437,11.492113,107.744484,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10438,11.491206,107.74644,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10439,11.497801,107.746469,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10440,11.493443,107.767848,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10441,11.424193,107.862778,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10442,11.515784,107.758597,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10443,11.421242,107.853222,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10445,11.509873,107.751011,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10446,11.49005,107.744896,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10447,11.477238,107.737944,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10448,10.952691,108.25058,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10449,10.941805,107.659091,Tanh Linh,Bình Thuận,Xã Suối Kiết,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO10452,12.20723,107.4623,Tuy Duc,Đắk Nông,Xã Tuy Đức,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
@@ -6255,26 +6255,26 @@ B.LDO10471,11.979063,107.623949,Dak Rlap,Đắk Nông,Xã Nhân Cơ,Tỉnh Lâm 
 B.LDO10472,10.90506,107.993242,,,Xã Hàm Kiệm,Tỉnh Lâm Đồng,,
 B.LDO10474,10.956541,108.038774,Ham Thuan Bac,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO10475,11.598043,107.805127,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10476,11.510988,107.751572,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10477,11.478667,107.7495,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10478,11.510201,107.738152,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10479,11.499179,107.739,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10480,11.481473,107.763184,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10481,11.512821,107.747427,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10482,11.510462,107.753002,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10483,11.509449,107.748368,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10476,11.510988,107.751572,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10477,11.478667,107.7495,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10478,11.510201,107.738152,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10479,11.499179,107.739,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10480,11.481473,107.763184,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10481,11.512821,107.747427,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10482,11.510462,107.753002,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10483,11.509449,107.748368,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10484,11.563529,107.811843,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10485,11.491139,107.740389,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10486,11.482198,107.743301,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10485,11.491139,107.740389,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10486,11.482198,107.743301,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10487,11.515841,107.476911,Da Teh,Lâm Đồng,Xã Đạ Tẻh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10488,10.856252,107.741531,,,,,LDO-BTH,Hứa Văn Thiện
-B.LDO10490,11.528083,107.772306,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10491,11.526611,107.764917,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10492,11.530417,107.776806,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10493,11.536806,107.763833,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10494,11.540861,107.772278,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10495,11.528556,107.772083,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10496,11.530583,107.776,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10490,11.528083,107.772306,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10491,11.526611,107.764917,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10492,11.530417,107.776806,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10493,11.536806,107.763833,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10494,11.540861,107.772278,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10495,11.528556,107.772083,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10496,11.530583,107.776,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10516,11.836654,108.293972,Lam Ha,Lâm Đồng,Xã Nam Hà Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10517,11.833407,108.291162,Lam Ha,Lâm Đồng,Xã Nam Hà Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10518,11.853914,108.345327,Lam Ha,Lâm Đồng,Xã Nam Ban Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6299,48 +6299,48 @@ B.LDO10537,11.552529,107.833873,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,T�
 B.LDO10538,11.567307,107.81348,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10539,12.007035,107.688412,Gia Nghia,Đắk Nông,Phường Bắc Gia Nghĩa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
 B.LDO10540,11.531198,107.834494,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
-B.LDO10541,11.50579,107.746917,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10542,11.50503,107.746432,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10577,11.506419,107.742462,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10579,11.502414,107.74604,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10580,11.483047,107.753021,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10541,11.50579,107.746917,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10542,11.50503,107.746432,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10577,11.506419,107.742462,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10579,11.502414,107.74604,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10580,11.483047,107.753021,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10581,11.5457,107.82338,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
-B.LDO10582,11.544009,107.752258,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10583,11.48132,107.750854,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10584,11.48842,107.750694,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10585,11.466949,107.775009,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10582,11.544009,107.752258,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10583,11.48132,107.750854,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10584,11.48842,107.750694,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10585,11.466949,107.775009,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10586,11.37198,107.527481,Da Huoai,Lâm Đồng,Xã Đạ Huoai,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10587,11.505737,107.742992,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10594,11.471,107.767083,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10587,11.505737,107.742992,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10594,11.471,107.767083,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10595,11.556722,107.809417,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10596,11.50945,107.748367,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10597,11.479861,107.764999,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10598,11.513689,107.74846,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10617,11.507397,107.745342,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10596,11.50945,107.748367,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10597,11.479861,107.764999,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10598,11.513689,107.74846,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10617,11.507397,107.745342,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10618,11.968778,108.433556,Da Lat,Lâm Đồng,Phường Lang Biang - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10619,12.016592,108.431618,Lac Duong,Lâm Đồng,Phường Lang Biang - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10620,11.482444,107.753197,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10620,11.482444,107.753197,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10622,12.478068,107.867212,Krong No,Đắk Nông,Xã Nam Đà,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.LDO10634,10.93697,108.102531,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10656,10.707172,107.984299,Ham Thuan Nam,Bình Thuận,Xã Tân Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10657,12.466747,107.858732,Krong No,Đắk Nông,Xã Krông Nô,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.LDO10658,10.844345,107.873949,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10667,15.481836,108.583849,,,Phường Phú Thủy,Tỉnh Lâm Đồng,,
-B.LDO10669,11.506258,107.742149,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10670,11.502139,107.739766,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10674,11.514382,107.774593,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10675,11.514132,107.775092,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10676,11.497939,107.744908,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10680,11.506332,107.742528,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10685,11.506407,107.748277,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10691,11.506361,107.746702,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10698,11.485929,107.752015,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
-B.LDO10718,11.556741,107.809403,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
+B.LDO10669,11.506258,107.742149,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10670,11.502139,107.739766,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10674,11.514382,107.774593,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10675,11.514132,107.775092,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10676,11.497939,107.744908,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10680,11.506332,107.742528,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10685,11.506407,107.748277,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10691,11.506361,107.746702,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10698,11.485929,107.752015,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10718,11.556741,107.809403,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10719,11.793116,108.239072,Lam Ha,Lâm Đồng,Xã Đinh Văn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10722,,,Ham Thuan Bac,Bình Thuận,Xã Hàm Liêm,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO10729,11.147001,107.506528,Duc Linh,Bình Thuận,Xã Hoài Đức,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
-B.LDO10730,11.484429,107.883617,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10732,11.48022,107.880876,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10730,11.484429,107.883617,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10732,11.48022,107.880876,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10733,11.470571,107.878034,Di Linh,Lâm Đồng,Xã Hoà Bắc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10734,11.467873,107.880025,Di Linh,Lâm Đồng,Xã Hoà Bắc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10735,11.463348,107.880089,Di Linh,Lâm Đồng,Xã Hoà Bắc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6349,8 +6349,8 @@ B.LDO10737,11.570644,107.829589,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,T�
 B.LDO10738,11.561737,107.834027,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10739,11.383404,107.531196,Da Huoai,Lâm Đồng,Xã Đạ Huoai,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10740,11.608248,107.862963,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10742,11.489325,107.874893,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10743,11.491098,107.872987,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10742,11.489325,107.874893,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10743,11.491098,107.872987,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10744,11.488255,107.8892,Di Linh,Lâm Đồng,Xã Hoà Bắc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10746,11.840835,108.594065,Don Duong,Lâm Đồng,Xã D'Ran,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10747,11.553091,107.824862,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6359,30 +6359,30 @@ B.LDO10749,11.562599,107.80775,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉ
 B.LDO10750,11.576815,107.804251,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10751,11.840968,108.615892,Don Duong,Lâm Đồng,Xã D'Ran,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10752,11.385452,107.525489,Da Huoai,Lâm Đồng,Xã Đạ Huoai,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10753,11.484022,107.744087,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10753,11.484022,107.744087,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10754,11.538526,107.82633,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10755,11.603748,107.855136,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10756,11.487643,107.875098,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10757,11.488698,107.877771,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10758,11.488487,107.881827,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10759,11.48908,107.883832,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10756,11.487643,107.875098,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10757,11.488698,107.877771,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10758,11.488487,107.881827,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10759,11.48908,107.883832,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10760,11.557771,107.805119,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10761,11.767989,108.450883,Don Duong,Lâm Đồng,Xã Đơn Dương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10762,11.874296,108.206747,Lam Ha,Lâm Đồng,Xã Phú Sơn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10763,11.943004,108.452021,Da Lat,Lâm Đồng,Phường Xuân Hương - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10764,11.940858,108.515326,Da Lat,Lâm Đồng,Phường Xuân Trường - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10766,11.490801,107.884503,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10766,11.490801,107.884503,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10784,11.78011,108.421116,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10785,11.536462,107.887394,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10786,11.548569,107.905477,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10785,11.536462,107.887394,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10786,11.548569,107.905477,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10787,11.546413,107.927418,Di Linh,Lâm Đồng,Xã Hoà Ninh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10788,11.547468,107.912988,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10788,11.547468,107.912988,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10790,11.462514,107.878342,Di Linh,Lâm Đồng,Xã Hoà Bắc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10791,11.485351,107.88377,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10791,11.485351,107.88377,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10792,11.601706,107.844491,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10793,11.606063,107.843873,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10794,11.776804,108.102075,Lam Ha,Lâm Đồng,Xã Phúc Thọ Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10795,11.563192,107.921357,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10795,11.563192,107.921357,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10796,11.543489,107.815806,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10797,11.546619,107.816258,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10798,11.942306,108.512158,Da Lat,Lâm Đồng,Phường Xuân Trường - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6404,16 +6404,16 @@ B.LDO10844,11.993223,107.689296,Gia Nghia,Đắk Nông,Phường Đông Gia Ngh�
 B.LDO10845,11.994276,107.686333,Gia Nghia,Đắk Nông,Phường Đông Gia Nghĩa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
 B.LDO10846,11.994337,107.686313,Gia Nghia,Đắk Nông,Phường Đông Gia Nghĩa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
 B.LDO10848,11.773615,108.261072,Lam Ha,Lâm Đồng,Xã Đinh Văn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10849,11.469918,107.77906,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10850,11.515834,107.764809,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10851,11.51897,107.776169,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10849,11.469918,107.77906,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10850,11.515834,107.764809,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10851,11.51897,107.776169,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10854,11.185433,107.535893,Duc Linh,Bình Thuận,Xã Đức Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO10855,11.185348,107.543965,Duc Linh,Bình Thuận,Xã Đức Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO10856,11.186183,107.539261,Duc Linh,Bình Thuận,Xã Đức Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO10857,12.017524,108.423958,Lac Duong,Lâm Đồng,Phường Lang Biang - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10858,12.012674,108.4217,Lac Duong,Lâm Đồng,Phường Lang Biang - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10859,11.988252,108.337837,Lac Duong,Lâm Đồng,Phường Lang Biang - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10861,11.479776,107.764877,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10861,11.479776,107.764877,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10873,11.716115,108.285432,Duc Trong,Lâm Đồng,Xã Tân Hội,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10874,11.792181,108.160049,Lam Ha,Lâm Đồng,Xã Phúc Thọ Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10875,11.155894,107.569727,Duc Linh,Bình Thuận,Xã Đức Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
@@ -6433,11 +6433,11 @@ B.LDO10956,11.772432,108.446472,Don Duong,Lâm Đồng,Xã Đơn Dương,Tỉnh 
 B.LDO10957,11.749053,108.44626,Don Duong,Lâm Đồng,Xã Đơn Dương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10958,11.758363,108.395232,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10959,11.75923,108.39041,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10960,11.56969,107.90447,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10961,11.57092,107.905063,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10962,11.551017,107.889366,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10963,11.62432,107.899634,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10964,11.61895,107.906613,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10960,11.56969,107.90447,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10961,11.57092,107.905063,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10962,11.551017,107.889366,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10963,11.62432,107.899634,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10964,11.61895,107.906613,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10965,11.956543,108.440818,Da Lat,Lâm Đồng,Phường Lâm Viên - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10966,11.581272,107.849595,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10967,11.575456,107.851731,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6455,8 +6455,8 @@ B.LDO10978,11.55975,107.834551,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉ
 B.LDO10979,11.563669,107.835051,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10980,11.557955,107.836104,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10981,11.56876,107.8514,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10982,11.549235,107.925443,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10983,11.552087,107.927796,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO10982,11.549235,107.925443,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO10983,11.552087,107.927796,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO10984,11.74634,108.514666,Don Duong,Lâm Đồng,Xã Quảng Lập,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10985,11.777207,108.407837,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10986,11.763475,108.460495,Don Duong,Lâm Đồng,Xã Đơn Dương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6464,15 +6464,15 @@ B.LDO10987,11.779498,108.429731,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh
 B.LDO10988,11.743829,108.520431,Don Duong,Lâm Đồng,Xã Quảng Lập,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10989,11.783618,108.408813,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11012,11.725925,108.502269,Don Duong,Lâm Đồng,Xã Quảng Lập,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11013,11.550102,107.774186,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11013,11.550102,107.774186,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11014,11.379403,107.529673,Da Huoai,Lâm Đồng,Xã Đạ Huoai,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11015,11.57828,107.872283,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11016,11.583366,107.880103,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11017,11.564665,107.854236,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11018,11.576073,107.865605,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11019,11.514593,107.751272,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11019,11.514593,107.751272,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11021,11.5714,107.851898,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11023,11.473008,107.739659,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11023,11.473008,107.739659,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11024,11.571924,107.854338,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11025,11.575977,107.838031,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11027,11.774613,108.408657,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6489,18 +6489,18 @@ B.LDO11061,11.806796,108.225247,Lam Ha,Lâm Đồng,Xã Phú Sơn Lâm Hà,Tỉn
 B.LDO11068,10.85318,107.87742,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO11069,10.85349,107.87736,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO11071,10.915082,108.085242,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO11072,11.535763,107.781623,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11078,11.55899,107.770782,Bao Lam,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11079,11.547913,107.772049,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11072,11.535763,107.781623,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO11078,11.55899,107.770782,Bao Lam,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO11079,11.547913,107.772049,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11080,11.566694,107.832852,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11081,11.558614,107.833938,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11082,11.550582,107.815741,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11083,11.594409,107.81574,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11084,11.592896,107.822054,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11085,11.501638,107.74461,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11086,11.502117,107.744411,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11085,11.501638,107.74461,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO11086,11.502117,107.744411,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11087,11.548475,107.833422,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11089,11.560136,107.783389,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11089,11.560136,107.783389,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11112,11.577282,107.850336,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11113,11.560977,107.839816,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11114,11.56384,107.844622,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6518,8 +6518,8 @@ B.LDO11127,11.678963,107.933865,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâ
 B.LDO11128,11.562577,107.811995,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11129,11.619248,107.83879,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11130,11.663589,107.801852,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11131,11.542358,107.770955,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11132,11.542786,107.771303,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11131,11.542358,107.770955,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO11132,11.542786,107.771303,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11134,11.572411,107.806083,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11135,11.576804,107.804429,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11136,11.575185,107.805332,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6529,9 +6529,9 @@ B.LDO11139,11.573162,107.856752,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,T�
 B.LDO11140,11.475168,107.95683,Di Linh,Lâm Đồng,Xã Hoà Bắc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11141,11.482357,107.887105,Di Linh,Lâm Đồng,Xã Hoà Bắc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11142,11.486119,107.887768,Di Linh,Lâm Đồng,Xã Hoà Bắc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11143,11.556217,107.771415,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11145,11.556365,107.771449,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11146,11.556322,107.771374,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11143,11.556217,107.771415,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO11145,11.556365,107.771449,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO11146,11.556322,107.771374,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11147,11.589881,108.078567,,,Xã Di Linh,Tỉnh Lâm Đồng,,
 B.LDO11148,11.596412,108.081649,,,Xã Di Linh,Tỉnh Lâm Đồng,,
 B.LDO11149,10.937591,108.134347,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
@@ -6565,9 +6565,9 @@ B.LDO11282,11.869022,108.260129,Lam Ha,Lâm Đồng,Xã Nam Hà Lâm Hà,Tỉnh 
 B.LDO11283,11.983784,107.596994,Dak Rlap,Đắk Nông,Xã Nhân Cơ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
 B.LDO11284,11.657744,107.898366,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11285,11.531711,107.829767,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
-B.LDO11290,11.483637,107.883583,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11292,11.538914,107.765839,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11293,11.53988,107.765923,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11290,11.483637,107.883583,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO11292,11.538914,107.765839,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO11293,11.53988,107.765923,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11294,11.483046,107.483884,Da Teh,Lâm Đồng,Xã Đạ Tẻh 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11295,11.559707,107.834138,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11296,11.563353,107.810329,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6577,8 +6577,8 @@ B.LDO11314,11.564433,107.807081,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,T�
 B.LDO11315,11.564014,107.804832,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11316,11.562992,107.80319,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11317,11.559856,107.836721,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11318,11.5492,107.909325,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11319,11.50868,107.869695,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11318,11.5492,107.909325,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO11319,11.50868,107.869695,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11320,11.465694,107.95658,Di Linh,Lâm Đồng,Xã Hoà Bắc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11321,11.471829,107.957075,Di Linh,Lâm Đồng,Xã Hoà Bắc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11322,11.450835,107.952689,Di Linh,Lâm Đồng,Xã Hoà Bắc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6600,14 +6600,14 @@ B.LDO11338,11.459998,107.954215,Di Linh,Lâm Đồng,Xã Hoà Bắc,Tỉnh Lâm 
 B.LDO11339,11.504647,107.921577,Di Linh,Lâm Đồng,Xã Hoà Ninh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11340,11.486416,107.887383,Di Linh,Lâm Đồng,Xã Hoà Bắc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11341,11.456868,107.952087,Di Linh,Lâm Đồng,Xã Hoà Bắc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11342,11.518458,107.772049,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11342,11.518458,107.772049,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11343,11.537969,107.806193,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
-B.LDO11344,11.545263,107.920817,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11344,11.545263,107.920817,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11346,11.183628,107.551842,Duc Linh,Bình Thuận,Xã Đức Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO11347,12.132258,108.131361,Dam Rong,Lâm Đồng,Xã Đam Rông 3,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11348,11.607471,107.835792,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11349,12.137968,108.097552,Dam Rong,Lâm Đồng,Xã Đam Rông 3,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11350,11.548612,107.910896,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11350,11.548612,107.910896,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11351,11.53153,107.829498,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11352,11.539369,107.801554,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11353,11.553551,107.812722,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6623,7 +6623,7 @@ B.LDO11363,11.551056,107.816333,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,T�
 B.LDO11364,11.5665,107.797667,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11366,11.547972,107.826778,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11367,11.560806,107.816722,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11368,11.536278,107.787278,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11368,11.536278,107.787278,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11369,11.560098,107.840088,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11370,11.574861,107.859333,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11371,11.581188,107.874054,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6632,14 +6632,14 @@ B.LDO11373,11.558305,107.826833,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,T�
 B.LDO11374,11.547444,107.828916,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11375,11.546972,107.827888,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11376,11.558739,107.824186,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11377,11.538914,107.776139,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11378,11.551148,107.929962,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11377,11.538914,107.776139,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO11378,11.551148,107.929962,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11379,11.560691,107.809952,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11380,11.530635,107.829521,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11381,11.569766,107.808601,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11382,11.704212,108.295235,Duc Trong,Lâm Đồng,Xã Tân Hội,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11383,11.582805,107.814472,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11384,11.47286,107.739777,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11384,11.47286,107.739777,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11386,12.085181,107.65881,Dak Song,Đắk Nông,Xã Trường Xuân,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
 B.LDO11387,11.948559,108.43741,Da Lat,Lâm Đồng,Phường Xuân Hương - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11437,11.116397,107.674116,Tanh Linh,Bình Thuận,Xã Tánh Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
@@ -6655,7 +6655,7 @@ B.LDO11486,11.74742,108.201141,Lam Ha,Lâm Đồng,Xã Tân Hà Lâm Hà,Tỉnh 
 B.LDO11487,11.743249,108.193463,Lam Ha,Lâm Đồng,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11488,11.739323,108.191128,Lam Ha,Lâm Đồng,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11495,10.93809,108.09229,Phan Thiet,Bình Thuận,Phường Bình Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO11497,11.469537,107.838138,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11497,11.469537,107.838138,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11519,12.213339,107.46603,Tuy Duc,Đắk Nông,Xã Tuy Đức,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
 B.LDO11520,11.650532,107.983793,Di Linh,Lâm Đồng,Xã Đinh Trang Thượng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11521,11.759835,108.371533,,,Phường Mũi Né,Tỉnh Lâm Đồng,,
@@ -6664,8 +6664,8 @@ B.LDO11539,11.394091,107.537949,Da Huoai,Lâm Đồng,Xã Đạ Huoai,Tỉnh Lâ
 B.LDO11540,11.388431,107.541878,Da Huoai,Lâm Đồng,Xã Đạ Huoai,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11541,11.382786,107.532066,Da Huoai,Lâm Đồng,Xã Đạ Huoai,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11542,11.388364,107.531616,Da Huoai,Lâm Đồng,Xã Đạ Huoai,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11543,11.480356,107.741989,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11544,11.514599,107.76222,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11543,11.480356,107.741989,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO11544,11.514599,107.76222,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11547,11.225026,108.734432,,,Xã Liên Hương,Tỉnh Lâm Đồng,,
 B.LDO11553,11.196328,107.574693,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
 B.LDO11556,11.027813,108.031048,,,Xã Hàm Thuận,Tỉnh Lâm Đồng,,
@@ -6702,7 +6702,7 @@ B.LDO11690,11.536518,107.824676,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm
 B.LDO11696,11.761223,108.48551,Don Duong,Lâm Đồng,Xã Đơn Dương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11697,11.759545,108.48474,Don Duong,Lâm Đồng,Xã Đơn Dương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11698,11.755426,108.47611,Don Duong,Lâm Đồng,Xã Đơn Dương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11699,11.479738,107.75617,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11699,11.479738,107.75617,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11718,11.184325,108.57571,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO11719,11.620944,107.744472,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11720,11.512131,107.921144,Di Linh,Lâm Đồng,Xã Hoà Ninh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6719,17 +6719,17 @@ B.LDO11730,11.382454,107.529585,Da Huoai,Lâm Đồng,Xã Đạ Huoai,Tỉnh Lâ
 B.LDO11731,11.406202,107.657594,Da Huoai,Lâm Đồng,Xã Đạ Huoai 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11732,11.643486,107.812344,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11733,11.642117,107.822298,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11735,11.537467,107.770937,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11736,11.537578,107.77072,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11735,11.537467,107.770937,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO11736,11.537578,107.77072,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11737,11.779751,108.425567,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11738,11.765451,108.403901,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11739,11.786955,108.416978,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11740,11.525052,107.76884,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11740,11.525052,107.76884,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11741,11.776734,108.438874,Don Duong,Lâm Đồng,Xã Đơn Dương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11742,11.774835,108.443758,Don Duong,Lâm Đồng,Xã Đơn Dương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11743,11.549562,107.895259,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11743,11.549562,107.895259,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11744,11.582347,107.805407,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11745,11.549522,107.89538,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11745,11.549522,107.89538,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11746,11.657427,107.886127,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11747,11.548726,107.843141,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11748,11.782826,108.426255,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6737,22 +6737,22 @@ B.LDO11749,11.785567,108.419536,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh
 B.LDO11750,11.68263,107.977658,Di Linh,Lâm Đồng,Xã Đinh Trang Thượng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11751,11.681385,107.978897,Di Linh,Lâm Đồng,Xã Đinh Trang Thượng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11752,11.526357,107.933231,Di Linh,Lâm Đồng,Xã Hoà Ninh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11754,11.500851,107.746382,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11755,11.505957,107.746423,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11756,11.530323,107.776938,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11757,11.537584,107.790011,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11758,11.520053,107.762939,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11754,11.500851,107.746382,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO11755,11.505957,107.746423,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO11756,11.530323,107.776938,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO11757,11.537584,107.790011,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO11758,11.520053,107.762939,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11759,11.759327,108.394684,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11760,11.678936,107.982257,Di Linh,Lâm Đồng,Xã Đinh Trang Thượng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11761,11.67933,107.981599,Di Linh,Lâm Đồng,Xã Đinh Trang Thượng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11762,11.679482,107.981359,Di Linh,Lâm Đồng,Xã Đinh Trang Thượng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11763,11.679496,107.981265,Di Linh,Lâm Đồng,Xã Đinh Trang Thượng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO11764,11.53918,107.765712,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11764,11.53918,107.765712,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11765,11.533731,107.876251,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11766,11.594242,108.052324,Di Linh,Lâm Đồng,Xã Di Linh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11767,11.527788,107.797673,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11768,11.531866,107.862928,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
-B.LDO11769,11.545387,107.921539,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11769,11.545387,107.921539,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO11770,11.78291,108.426341,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11772,11.78563,108.419471,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11773,11.777146,108.437135,Don Duong,Lâm Đồng,Xã Đơn Dương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6773,7 +6773,7 @@ B.LDO11788,11.553444,107.80775,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉ
 B.LDO11790,11.557779,107.801876,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO11791,12.002948,107.684959,Gia Nghia,Đắk Nông,Phường Bắc Gia Nghĩa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
 B.LDO11792,11.17925,108.562833,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
-B.LDO11819,11.525078,107.768186,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO11819,11.525078,107.768186,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12034,11.086685,107.692199,Tanh Linh,Bình Thuận,Xã Tánh Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO12035,11.114371,107.673995,Tanh Linh,Bình Thuận,Xã Tánh Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO12036,11.110105,107.674495,Tanh Linh,Bình Thuận,Xã Tánh Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
@@ -6792,8 +6792,8 @@ B.LDO12052,11.33212,107.48002,,,,,,
 B.LDO12061,11.592278,108.057048,Di Linh,Lâm Đồng,Xã Di Linh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12064,11.524356,107.789039,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12065,11.534259,107.807227,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
-B.LDO12066,11.540346,107.770315,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12068,11.554512,107.784998,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO12066,11.540346,107.770315,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12068,11.554512,107.784998,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12071,11.742047,108.517344,Don Duong,Lâm Đồng,Xã Quảng Lập,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12072,11.763871,108.189608,Lam Ha,Lâm Đồng,Xã Phúc Thọ Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12073,11.567299,108.442427,Duc Trong,Lâm Đồng,Xã Tà Năng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6809,11 +6809,11 @@ B.LDO12083,11.559668,107.846986,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,T�
 B.LDO12084,11.659749,108.312164,Duc Trong,Lâm Đồng,Xã Đức Trọng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12085,11.787926,108.250574,Lam Ha,Lâm Đồng,Xã Đinh Văn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12086,11.756176,108.391983,Duc Trong,Lâm Đồng,Xã Đức Trọng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12087,11.544605,107.768193,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO12087,11.544605,107.768193,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12088,11.557283,107.809361,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12089,11.54454,107.897135,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12091,11.548571,107.776579,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12092,11.538579,107.778739,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO12089,11.54454,107.897135,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12091,11.548571,107.776579,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12092,11.538579,107.778739,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12093,11.565057,108.438577,Duc Trong,Lâm Đồng,Xã Tà Năng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12094,11.797,108.261384,Lam Ha,Lâm Đồng,Xã Đinh Văn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12095,11.614544,107.956512,Di Linh,Lâm Đồng,Xã Hoà Ninh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6826,12 +6826,12 @@ B.LDO12115,11.783994,108.412156,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh
 B.LDO12116,11.587069,107.79381,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12117,11.587411,107.794576,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12118,11.568262,107.844831,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12119,11.507422,107.870563,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO12119,11.507422,107.870563,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12120,11.742254,108.365804,Duc Trong,Lâm Đồng,Xã Đức Trọng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12122,11.549133,107.773468,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO12122,11.549133,107.773468,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12124,11.659376,107.889047,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12125,11.560543,107.814933,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12126,11.524237,107.765892,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO12126,11.524237,107.765892,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12127,11.68098,107.934155,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12128,11.537781,107.952554,Di Linh,Lâm Đồng,Xã Hoà Ninh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12129,11.537218,107.941851,Di Linh,Lâm Đồng,Xã Hoà Ninh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6860,7 +6860,7 @@ B.LDO12151,11.838651,108.210979,Lam Ha,Lâm Đồng,Xã Phú Sơn Lâm Hà,Tỉn
 B.LDO12152,11.754392,108.180158,Lam Ha,Lâm Đồng,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12153,11.741928,108.207838,Lam Ha,Lâm Đồng,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12154,11.799805,108.211666,Lam Ha,Lâm Đồng,Xã Đinh Văn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12155,11.409937,107.863727,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO12155,11.409937,107.863727,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12156,11.789752,108.216468,Lam Ha,Lâm Đồng,Xã Đinh Văn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12157,11.790659,108.223351,Lam Ha,Lâm Đồng,Xã Đinh Văn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12158,11.819784,108.219828,Lam Ha,Lâm Đồng,Xã Phú Sơn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6899,16 +6899,16 @@ B.LDO12190,11.543271,107.818903,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,T�
 B.LDO12191,11.63923,107.827296,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12192,11.564397,107.814965,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12193,11.779966,108.421984,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12194,11.545714,107.919132,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO12194,11.545714,107.919132,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12195,11.554565,107.825946,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12196,11.569786,107.904399,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12197,11.546678,107.926121,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO12196,11.569786,107.904399,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12197,11.546678,107.926121,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12198,11.667313,107.916374,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12213,11.559206,107.901077,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO12213,11.559206,107.901077,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12214,11.605918,107.846179,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12215,11.577832,107.804483,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12216,11.577751,107.840551,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12217,11.541768,107.888578,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO12217,11.541768,107.888578,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12219,11.608054,107.801984,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12220,11.555485,107.845683,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12223,11.565135,107.796003,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6917,22 +6917,22 @@ B.LDO12225,11.490855,107.905522,Di Linh,Lâm Đồng,Xã Hoà Ninh,Tỉnh Lâm �
 B.LDO12226,11.612377,107.836787,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12227,11.661191,107.907318,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12228,11.571334,108.449228,Duc Trong,Lâm Đồng,Xã Tà Năng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12229,11.55713,107.901696,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO12229,11.55713,107.901696,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12230,11.659275,107.905129,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12231,11.654792,107.885,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12232,11.38014,107.531639,Da Huoai,Lâm Đồng,Xã Đạ Huoai,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12235,11.772437,108.401935,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12236,11.757675,108.118523,Lam Ha,Lâm Đồng,Xã Phúc Thọ Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12237,11.518469,107.853586,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
-B.LDO12238,11.544977,107.92066,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO12238,11.544977,107.92066,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12239,11.783417,108.418449,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12240,11.679129,107.981961,Di Linh,Lâm Đồng,Xã Đinh Trang Thượng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12241,11.673813,107.930128,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12242,11.462181,107.837492,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12243,11.501293,107.835203,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO12242,11.462181,107.837492,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12243,11.501293,107.835203,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12245,11.773469,108.442394,Don Duong,Lâm Đồng,Xã Đơn Dương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12246,11.738294,107.655459,Bao Lam,Lâm Đồng,Xã Bảo Lâm 5,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12247,11.549321,107.910295,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO12247,11.549321,107.910295,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12248,11.538145,107.946863,Di Linh,Lâm Đồng,Xã Hoà Ninh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12249,11.545657,107.954921,Di Linh,Lâm Đồng,Xã Hoà Ninh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12250,11.537622,107.952687,Di Linh,Lâm Đồng,Xã Hoà Ninh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6947,17 +6947,17 @@ B.LDO12259,11.652175,107.803839,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâ
 B.LDO12260,11.562554,107.847107,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12261,11.389231,107.535096,Da Huoai,Lâm Đồng,Xã Đạ Huoai,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12262,11.749215,108.422375,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12263,11.447933,107.835016,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12264,11.509291,107.869739,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO12263,11.447933,107.835016,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12264,11.509291,107.869739,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12265,11.701002,108.45362,Don Duong,Lâm Đồng,Xã Đơn Dương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12267,11.6113,107.913535,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO12267,11.6113,107.913535,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12268,11.737489,108.462236,Don Duong,Lâm Đồng,Xã Đơn Dương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12269,11.564287,107.804353,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12270,11.565283,107.784919,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12271,11.563314,107.809671,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12272,11.640609,107.825023,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12273,11.524746,107.869928,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
-B.LDO12274,11.547342,107.913698,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO12274,11.547342,107.913698,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12275,11.608487,107.798626,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12276,11.642446,107.816888,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12278,11.553169,107.798763,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -6982,18 +6982,18 @@ B.LDO12297,11.392043,107.518295,Da Huoai,Lâm Đồng,Xã Đạ Huoai,Tỉnh Lâ
 B.LDO12298,11.543888,107.826782,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12314,11.732014,107.650588,Bao Lam,Lâm Đồng,Xã Bảo Lâm 5,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12315,11.662259,107.967982,Di Linh,Lâm Đồng,Xã Đinh Trang Thượng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12316,11.563226,107.921328,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO12316,11.563226,107.921328,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12317,11.662928,107.878101,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12318,11.952839,108.424474,Da Lat,Lâm Đồng,Phường Cam Ly - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12319,11.547449,107.913235,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12320,11.609475,107.91482,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12322,11.542725,107.893945,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12324,11.613413,107.911163,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO12319,11.547449,107.913235,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12320,11.609475,107.91482,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12322,11.542725,107.893945,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12324,11.613413,107.911163,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12325,11.607733,107.899665,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12326,11.77892,108.431553,Don Duong,Lâm Đồng,Xã Đơn Dương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12327,11.710363,108.16167,Lam Ha,Lâm Đồng,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12328,11.738171,107.655385,Bao Lam,Lâm Đồng,Xã Bảo Lâm 5,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12329,11.611883,107.901105,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO12329,11.611883,107.901105,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12330,11.639754,107.83276,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12331,11.742565,108.199256,Lam Ha,Lâm Đồng,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12332,11.253,107.85775,Ham Thuan Bac,Bình Thuận,Xã La Dạ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
@@ -7008,9 +7008,9 @@ B.LDO12341,11.724878,108.470966,Don Duong,Lâm Đồng,Xã Quảng Lập,Tỉnh 
 B.LDO12342,11.74157,108.201212,Lam Ha,Lâm Đồng,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12343,11.723308,108.203691,Lam Ha,Lâm Đồng,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12344,11.577555,108.385429,Duc Trong,Lâm Đồng,Xã Tà Hine,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12346,11.613399,107.911012,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO12346,11.613399,107.911012,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12347,11.393661,107.518203,Da Huoai,Lâm Đồng,Xã Đạ Huoai,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12348,11.633922,107.894969,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO12348,11.633922,107.894969,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12349,11.741246,108.170309,Lam Ha,Lâm Đồng,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12350,11.780074,108.423992,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12351,11.758794,108.188082,Lam Ha,Lâm Đồng,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -7033,11 +7033,11 @@ B.LDO12368,11.778322,108.435467,Don Duong,Lâm Đồng,Xã Đơn Dương,Tỉnh 
 B.LDO12369,11.754743,108.524715,Don Duong,Lâm Đồng,Xã Ka Đô,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12370,11.764494,108.544175,Don Duong,Lâm Đồng,Xã Ka Đô,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12371,11.761434,108.475982,Don Duong,Lâm Đồng,Xã Đơn Dương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12372,11.609864,107.91477,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12373,11.609139,107.91413,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12374,11.612914,107.911348,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12375,11.601553,107.903765,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12376,11.602966,107.902032,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO12372,11.609864,107.91477,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12373,11.609139,107.91413,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12374,11.612914,107.911348,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12375,11.601553,107.903765,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12376,11.602966,107.902032,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12388,10.659065,107.77019,La Gi,Bình Thuận,Phường Phước Hội,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO12389,10.688137,107.747665,,,Phường La Gi,Tỉnh Lâm Đồng,,
 B.LDO12390,12.513241,107.856233,,,,,,
@@ -7107,9 +7107,9 @@ B.LDO12760,10.820778,107.720421,,,Xã Hàm Tân,Tỉnh Lâm Đồng,,
 B.LDO12761,11.156014,107.569915,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
 B.LDO12765,11.542784,107.790024,,,,,,
 B.LDO12766,11.713898,108.355392,,,Xã Đức Trọng,Tỉnh Lâm Đồng,,
-B.LDO12767,11.52096,107.78416,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12768,11.524106,107.794749,,,Phường B'Lao,Tỉnh Lâm Đồng,,
-B.LDO12769,11.532868,107.508934,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
+B.LDO12767,11.52096,107.78416,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12768,11.524106,107.794749,,,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12769,11.532868,107.508934,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12773,11.187527,107.570685,,,,,,
 B.LDO12774,11.079223,107.682118,,,,,LDO-BTH,Hứa Văn Thiện
 B.LDO12775,11.091849,107.675942,,,,,,
@@ -7137,16 +7137,16 @@ B.LDO12796,11.13612,107.739671,,,Xã Tánh Linh,Tỉnh Lâm Đồng,,
 B.LDO12797,11.12352,107.736313,,,Xã Đồng Kho,Tỉnh Lâm Đồng,,
 B.LDO12798,10.715023,107.939907,,,,,,
 B.LDO12798,,,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO12820,11.954525,108.430737,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
+B.LDO12820,11.954525,108.430737,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12823,11.949344,108.464079,,,Phường Lâm Viên - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12826,11.946932,108.490686,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
+B.LDO12826,11.946932,108.490686,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12832,12.051184,108.494428,,,Xã Lạc Dương,Tỉnh Lâm Đồng,,
 B.LDO12836,11.715973,108.453569,,,Xã Đơn Dương,Tỉnh Lâm Đồng,,
-B.LDO12838,11.844689,108.51923,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
+B.LDO12838,11.844689,108.51923,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12841,11.68395,108.330064,,,Xã Đức Trọng,Tỉnh Lâm Đồng,,
 B.LDO12842,11.695871,108.363159,,,Xã Đức Trọng,Tỉnh Lâm Đồng,,
 B.LDO12844,11.785173,108.413755,,,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,,
-B.LDO12849,11.91948,108.344923,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
+B.LDO12849,11.91948,108.344923,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12854,11.581952,108.076236,,,Xã Di Linh,Tỉnh Lâm Đồng,,
 B.LDO12855,11.574472,108.016832,,,Xã Di Linh,Tỉnh Lâm Đồng,,
 B.LDO12856,11.539356,107.943102,,,Xã Hòa Ninh,Tỉnh Lâm Đồng,,
@@ -7155,21 +7155,21 @@ B.LDO12859,11.610914,108.116014,,,Xã Bảo Thuận,Tỉnh Lâm Đồng,,
 B.LDO12860,11.567838,108.102165,,,Xã Bảo Thuận,Tỉnh Lâm Đồng,,
 B.LDO12862,11.410799,107.658196,,,Xã Đinh Trang Thượng,Tỉnh Lâm Đồng,,
 B.LDO12864,11.473746,107.902651,,,Xã Hòa Bắc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12865,11.5424,107.8116,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
-B.LDO12867,11.55886,107.805834,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO12869,11.533216,107.781308,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
-B.LDO12873,11.531128,107.86519,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
+B.LDO12865,11.5424,107.8116,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12867,11.55886,107.805834,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12869,11.533216,107.781308,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12873,11.531128,107.86519,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12874,11.628175,107.838024,,,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,,
 B.LDO12875,11.610363,107.813225,,,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,,
 B.LDO12876,11.624696,107.844559,,,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,,
-B.LDO12877,11.543352,107.89451,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
-B.LDO12878,11.421824,107.859802,,,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,,
-B.LDO12879,11.445486,107.83612,,,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO12877,11.543352,107.89451,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12878,11.421824,107.859802,,,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12879,11.445486,107.83612,,,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12880,11.698976,107.794816,,,Xã Bảo Lâm 4,Tỉnh Lâm Đồng,,
 B.LDO12881,11.742111,107.657527,,,Xã Bảo Lâm 5,Tỉnh Lâm Đồng,,
 B.LDO12883,11.535287,107.430214,,,Xã Đạ Tẻh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12885,11.520887,107.534143,,,Xã Đạ Tẻh 2,Tỉnh Lâm Đồng,,
-B.LDO12887,11.479252,107.484232,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
+B.LDO12887,11.479252,107.484232,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12889,11.50653,107.486463,,,Xã Đạ Tẻh,Tỉnh Lâm Đồng,,
 B.LDO12893,11.585125,107.359975,,,Xã Cát Tiên,Tỉnh Lâm Đồng,,
 B.LDO12896,11.634442,107.39397,,,Xã Cát Tiên,Tỉnh Lâm Đồng,,
@@ -7179,15 +7179,15 @@ B.LDO12921,11.739184,107.466419,,,Xã Cát Tiên 3,Tỉnh Lâm Đồng,,
 B.LDO12922,11.631417,107.369846,,,Xã Cát Tiên 3,Tỉnh Lâm Đồng,,
 B.LDO12923,11.385264,107.535285,Da Huoai,Lâm Đồng,Xã Đạ Huoai,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12927,11.410608,107.629304,,,Xã Đạ Huoai 2,Tỉnh Lâm Đồng,,
-B.LDO12928,11.787646,108.245272,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
-B.LDO12930,11.780052,108.261812,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
-B.LDO12932,11.789437,108.234676,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
-B.LDO12934,11.746862,108.196358,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
-B.LDO12935,11.70851,108.182431,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
-B.LDO12936,11.705852,108.139293,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
-B.LDO12937,11.809354,108.223841,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
+B.LDO12928,11.787646,108.245272,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12930,11.780052,108.261812,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12932,11.789437,108.234676,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12934,11.746862,108.196358,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12935,11.70851,108.182431,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12936,11.705852,108.139293,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO12937,11.809354,108.223841,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12938,11.836441,108.290357,,,Xã Nam Ban Lâm Hà,Tỉnh Lâm Đồng,,
-B.LDO12939,11.754462,108.102497,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
+B.LDO12939,11.754462,108.102497,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO12940,12.062612,108.148345,,,Xã Đam Rông 1,Tỉnh Lâm Đồng,,
 B.LDO12941,11.939834,108.136561,,,Xã Đam Rông 1,Tỉnh Lâm Đồng,,
 B.LDO12943,12.168418,108.234202,,,Xã Đam Rông 3,Tỉnh Lâm Đồng,,
@@ -7278,9 +7278,9 @@ B.LDO13156,11.58044,107.87426,,,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,,
 B.LDO13157,11.553583,107.838472,,,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,,
 B.LDO13159,11.625688,108.168449,,,Xã Gia Hiệp,Tỉnh Lâm Đồng,,
 B.LDO13161,11.667275,107.916252,,,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,,
-B.LDO13163,11.53322,107.800552,,,Phường B'Lao,Tỉnh Lâm Đồng,,
-B.LDO13164,11.503688,107.870688,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
-B.LDO13165,11.575944,107.894917,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
+B.LDO13163,11.53322,107.800552,,,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO13164,11.503688,107.870688,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO13165,11.575944,107.894917,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13166,11.545438,107.831688,,,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,,
 B.LDO13167,11.571188,107.820688,,,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,,
 B.LDO13168,11.643188,107.813313,,,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,,
@@ -7320,20 +7320,20 @@ B.LDO13218,11.473306,107.902077,,,Xã Hòa Bắc,Tỉnh Lâm Đồng,,
 B.LDO13219,11.492655,107.910701,,,Xã Hòa Ninh,Tỉnh Lâm Đồng,,
 B.LDO13220,11.480042,107.936038,,,Xã Hòa Bắc,Tỉnh Lâm Đồng,,
 B.LDO13221,11.500752,107.93802,,,Xã Hòa Ninh,Tỉnh Lâm Đồng,,
-B.LDO13224,11.534326,107.883868,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
+B.LDO13224,11.534326,107.883868,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13225,11.561555,107.803508,,,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,,
-B.LDO13226,11.538444,107.814722,,,Phường B'Lao,Tỉnh Lâm Đồng,,
-B.LDO13227,11.551312,107.778312,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
-B.LDO13228,11.532946,107.79997,,,Phường B'Lao,Tỉnh Lâm Đồng,,
-B.LDO13229,11.530379,107.84741,,,Phường B'Lao,Tỉnh Lâm Đồng,,
-B.LDO13230,11.530187,107.832562,,,Phường B'Lao,Tỉnh Lâm Đồng,,
+B.LDO13226,11.538444,107.814722,,,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO13227,11.551312,107.778312,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO13228,11.532946,107.79997,,,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO13229,11.530379,107.84741,,,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO13230,11.530187,107.832562,,,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13231,11.561062,107.806812,,,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,,
-B.LDO13233,11.538986,107.768834,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
-B.LDO13234,11.529812,107.839437,,,Phường B'Lao,Tỉnh Lâm Đồng,,
-B.LDO13235,11.534138,107.881222,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
+B.LDO13233,11.538986,107.768834,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO13234,11.529812,107.839437,,,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO13235,11.534138,107.881222,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13236,11.537736,107.849243,,,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,,
 B.LDO13237,11.739083,108.191166,,,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,,
-B.LDO13238,11.470484,107.838196,,,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,,
+B.LDO13238,11.470484,107.838196,,,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13239,11.744336,108.099192,,,Xã Đức Linh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO13240,11.758631,108.079046,Lam Ha,Lâm Đồng,Xã Nam Ban Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO13241,11.746666,108.079666,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
@@ -7342,17 +7342,17 @@ B.LDO13243,11.626611,107.852277,,,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,,
 B.LDO13244,11.5659655,107.8360966,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO13245,11.582777,107.867083,,,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO13247,10.920445,108.084435,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO13253,11.53233,107.782265,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
+B.LDO13253,11.53233,107.782265,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13254,11.701191,108.298052,,,Xã Tân Hội,Tỉnh Lâm Đồng,,
 B.LDO13255,11.708687,108.293646,,,Xã Tân Hội,Tỉnh Lâm Đồng,,
-B.LDO13256,11.53602,107.819397,,,Phường B'Lao,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+B.LDO13256,11.53602,107.819397,,,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13257,11.474948,107.89991,,,Xã Hòa Bắc,Tỉnh Lâm Đồng,,
 B.LDO13258,11.498509,107.930375,,,,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO13259,11.512999,107.834015,,,Phường B'Lao,Tỉnh Lâm Đồng,,
+B.LDO13259,11.512999,107.834015,,,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13260,11.549956,107.832634,,,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,,
 B.LDO13261,11.557816,107.796852,,,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,,
-B.LDO13262,11.605025,107.916817,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
-B.LDO13264,11.52908,107.787025,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
+B.LDO13262,11.605025,107.916817,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO13264,11.52908,107.787025,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13265,11.627192,108.288694,,,Xã Ninh Gia,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO13266,11.687972,108.337676,,,Xã Đức Trọng,Tỉnh Lâm Đồng,,
 B.LDO13267,11.667115,108.315257,,,Xã Đức Trọng,Tỉnh Lâm Đồng,,
@@ -7382,11 +7382,11 @@ B.LDO13296,11.911256,107.803658,,,Xã Quảng Khê,Tỉnh Lâm Đồng,,
 B.LDO13297,11.895336,107.821379,,,Xã Quảng Khê,Tỉnh Lâm Đồng,,
 B.LDO13298,11.900198,107.809438,,,Xã Quảng Khê,Tỉnh Lâm Đồng,,
 B.LDO13314,11.748638,108.052888,,,Xã Phúc Thọ Lâm Hà,Tỉnh Lâm Đồng,,
-B.LDO13315,11.534687,107.817937,,,Phường B'Lao,Tỉnh Lâm Đồng,,
-B.LDO13316,11.534289,107.880571,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
-B.LDO13318,11.534937,107.851062,,,Phường B'Lao,Tỉnh Lâm Đồng,,
+B.LDO13315,11.534687,107.817937,,,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO13316,11.534289,107.880571,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO13318,11.534937,107.851062,,,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13319,11.577312,107.804312,,,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,,
-B.LDO13320,11.532562,107.819687,,,Phường B'Lao,Tỉnh Lâm Đồng,,
+B.LDO13320,11.532562,107.819687,,,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13321,11.469454,107.904801,,,Xã Hòa Bắc,Tỉnh Lâm Đồng,,
 B.LDO13322,11.786166,108.102472,,,Xã Phúc Thọ Lâm Hà,Tỉnh Lâm Đồng,,
 B.LDO13323,11.689401,108.314275,,,Xã Đức Trọng,Tỉnh Lâm Đồng,,
@@ -7396,14 +7396,14 @@ B.LDO13327,11.702002,108.297637,,,Xã Tân Hội,Tỉnh Lâm Đồng,,
 B.LDO13328,11.44654,107.907008,,,Xã Hòa Bắc,Tỉnh Lâm Đồng,,
 B.LDO13329,11.687523,108.319908,,,Xã Đức Trọng,Tỉnh Lâm Đồng,,
 B.LDO13330,11.706313,108.370227,,,Xã Đức Trọng,Tỉnh Lâm Đồng,,
-B.LDO13332,11.534925,107.771049,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
+B.LDO13332,11.534925,107.771049,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13334,11.489921,107.913548,,,Xã Hòa Ninh,Tỉnh Lâm Đồng,,
 B.LDO13335,11.548802,107.814418,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO13340,11.745833,108.212055,,,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,,
 B.LDO13341,11.740899,108.192176,,,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO13342,11.741736,108.192527,,,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,,
 B.LDO13347,10.961376,108.120905,,,Phường Hàm Thắng,Tỉnh Lâm Đồng,,
-B.LDO13349,11.607558,107.813551,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
+B.LDO13349,11.607558,107.813551,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13350,11.895641,107.822138,,,Xã Quảng Khê,Tỉnh Lâm Đồng,,
 B.LDO13351,12.214678,107.458591,,,Xã Tuy Đức,Tỉnh Lâm Đồng,,
 B.LDO13352,12.200718,107.50568,,,Xã Tuy Đức,Tỉnh Lâm Đồng,,
@@ -7495,7 +7495,7 @@ B.LDO13469,11.609179,108.123265,,,Xã Bảo Thuận,Tỉnh Lâm Đồng,,
 B.LDO13470,11.553487,107.823316,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
 B.LDO13471,11.626016,108.177972,,,Xã Gia Hiệp,Tỉnh Lâm Đồng,,
 B.LDO13472,11.681681,107.977663,,,Xã Đinh Trang Thượng,Tỉnh Lâm Đồng,,
-B.LDO13473,11.607905,107.915541,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
+B.LDO13473,11.607905,107.915541,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13474,11.608486,107.813571,,,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,,
 B.LDO13475,11.617999,108.132327,,,Xã Bảo Thuận,Tỉnh Lâm Đồng,,
 B.LDO13476,11.780128,108.429788,,,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,,
@@ -7508,18 +7508,18 @@ B.LDO13482,11.608792,107.808079,,,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,,
 B.LDO13483,11.528306,107.866078,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
 B.LDO13484,11.743379,108.213271,,,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,,
 B.LDO13485,11.745344,108.175896,,,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,,
-B.LDO13486,11.612045,107.918061,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
+B.LDO13486,11.612045,107.918061,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13487,11.561825,107.842259,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
-B.LDO13488,11.605356,107.925193,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
+B.LDO13488,11.605356,107.925193,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13489,11.383923,107.535887,,,Xã Đạ Tẻh,Tỉnh Lâm Đồng,,
-B.LDO13490,11.606551,107.900784,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
+B.LDO13490,11.606551,107.900784,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13491,11.55441,107.813766,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
-B.LDO13492,11.629571,107.891978,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
+B.LDO13492,11.629571,107.891978,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13493,11.566193,107.840377,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
 B.LDO13494,11.555388,107.796779,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
 B.LDO13495,11.628914,108.187836,,,Xã Gia Hiệp,Tỉnh Lâm Đồng,,
 B.LDO13496,11.627159,108.180471,,,Xã Gia Hiệp,Tỉnh Lâm Đồng,,
-B.LDO13497,11.606471,107.899398,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
+B.LDO13497,11.606471,107.899398,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13498,11.62577,108.170323,,,Xã Gia Hiệp,Tỉnh Lâm Đồng,,
 B.LDO13516,11.625828,108.175341,,,Xã Gia Hiệp,Tỉnh Lâm Đồng,,
 B.LDO13517,11.563874,107.844368,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
@@ -7531,36 +7531,36 @@ B.LDO13522,11.629714,108.143829,,,Xã Bảo Thuận,Tỉnh Lâm Đồng,,
 B.LDO13523,11.555333,107.796387,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
 B.LDO13524,11.528444,107.846794,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
 B.LDO13525,11.555345,107.816605,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
-B.LDO13526,11.485993,107.875597,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
-B.LDO13527,11.629742,107.884123,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
+B.LDO13526,11.485993,107.875597,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO13527,11.629742,107.884123,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13528,11.231233,107.874667,,,Xã La Dạ,Tỉnh Lâm Đồng,,
 B.LDO13529,11.618405,108.132288,,,Xã Bảo Thuận,Tỉnh Lâm Đồng,,
 B.LDO13530,11.532528,107.816736,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
 B.LDO13531,11.748475,108.180693,,,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,,
 B.LDO13532,11.608897,108.122656,,,Xã Bảo Thuận,Tỉnh Lâm Đồng,,
 B.LDO13533,11.725423,107.647943,,,Xã Bảo Lâm 5,Tỉnh Lâm Đồng,,
-B.LDO13534,11.553169,107.924824,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
+B.LDO13534,11.553169,107.924824,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13536,11.77908,108.42839,,,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,,
-B.LDO13537,11.546929,107.913864,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
+B.LDO13537,11.546929,107.913864,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13538,11.385529,107.530573,,,Xã Đạ Huoai,Tỉnh Lâm Đồng,,
-B.LDO13539,11.629864,107.892483,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
+B.LDO13539,11.629864,107.892483,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13540,11.529785,107.843651,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
-B.LDO13541,11.625478,107.879471,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
+B.LDO13541,11.625478,107.879471,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13542,11.61149,107.808956,,,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,,
 B.LDO13543,11.248086,107.865621,,,Xã La Dạ,Tỉnh Lâm Đồng,,
-B.LDO13544,11.606489,107.920519,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
-B.LDO13545,11.60968,107.900564,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
+B.LDO13544,11.606489,107.920519,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO13545,11.60968,107.900564,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13546,11.231049,107.878513,,,Xã La Dạ,Tỉnh Lâm Đồng,,
-B.LDO13547,11.478099,107.838682,,,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,,
+B.LDO13547,11.478099,107.838682,,,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13548,11.67961,107.744617,,,Xã Bảo Lâm 4,Tỉnh Lâm Đồng,,
 B.LDO13549,11.686774,107.795083,,,Xã Bảo Lâm 4,Tỉnh Lâm Đồng,,
 B.LDO13550,11.654218,107.881646,,,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,,
 B.LDO13551,11.679311,107.746295,,,Xã Bảo Lâm 4,Tỉnh Lâm Đồng,,
-B.LDO13552,11.613934,107.918449,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
+B.LDO13552,11.613934,107.918449,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13554,11.54795,107.789706,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
 B.LDO13555,11.628218,107.742447,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
 B.LDO13556,11.8162,108.442974,,,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,,
-B.LDO13557,11.61604,107.925747,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
+B.LDO13557,11.61604,107.925747,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13558,11.724353,108.135708,,,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,,
 B.LDO13559,11.53879,108.073812,,,Xã Di Linh,Tỉnh Lâm Đồng,,
 B.LDO13560,11.76902,108.420879,,,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,,
@@ -7593,10 +7593,10 @@ B.LDO13587,11.829969,108.216486,,,Xã Phú Sơn Lâm Hà,Tỉnh Lâm Đồng,,
 B.LDO13588,11.573391,108.080558,,,Xã Di Linh,Tỉnh Lâm Đồng,,
 B.LDO13589,11.741413,108.466167,,,Xã Đơn Dương,Tỉnh Lâm Đồng,,
 B.LDO13590,11.578643,108.482658,,,Xã Tà Năng,Tỉnh Lâm Đồng,,
-B.LDO13591,11.475456,107.868258,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
+B.LDO13591,11.475456,107.868258,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13592,11.828568,108.596218,,,Xã Đơn Dương,Tỉnh Lâm Đồng,,
 B.LDO13593,11.77242,108.444118,,,Xã Đơn Dương,Tỉnh Lâm Đồng,,
-B.LDO13594,11.613866,107.925665,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,,
+B.LDO13594,11.613866,107.925665,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13595,11.764083,108.449202,,,Xã Đơn Dương,Tỉnh Lâm Đồng,,
 B.LDO13596,11.765759,108.449383,,,Xã Đơn Dương,Tỉnh Lâm Đồng,,
 B.LDO13597,11.783997,108.531475,,,Xã Ka Đô,Tỉnh Lâm Đồng,,
@@ -7640,8 +7640,8 @@ B.LDO13838,11.184306,107.566635,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
 B.LDO13839,11.200148,107.5402,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
 B.LDO13840,11.19299,107.566576,,,Xã Đức Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO13842,11.188312,107.570489,Duc Linh,Bình Thuận,Xã Đức Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
-B.LDO13843,11.535033,107.779452,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
-B.LDO13844,11.530093,107.770111,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,,
+B.LDO13843,11.535033,107.779452,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+B.LDO13844,11.530093,107.770111,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13845,11.998191,107.695727,,,Phường Đông Gia Nghĩa,Tỉnh Lâm Đồng,,
 B.LDO13846,11.98663,107.68738,,,Phường Đông Gia Nghĩa,Tỉnh Lâm Đồng,,
 B.LDO13847,11.993518,107.699759,,,Phường Đông Gia Nghĩa,Tỉnh Lâm Đồng,,
@@ -7866,7 +7866,7 @@ B.QNA00065,15.550503,108.514809,Nui Thanh,Quảng Nam,Xã Tam Xuân,Thành phố
 B.QNA00067,15.802622,108.110588,Duy Xuyen,Quảng Nam,Xã Thu Bồn,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
 B.QNA00068,15.803622,107.889137,Dai Loc,Quảng Nam,Xã Thượng Đức,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
 B.QNA00069,15.720712,108.376373,Thang Binh,Quảng Nam,Xã Thăng Bình,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
-B.QNA00071,15.927159,108.050476,Dai Loc,Đà Nẵng,Xã Đại Lộc,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Tâm
+B.QNA00071,15.927159,108.050476,Dai Loc,Đà Nẵng,Xã Đại Lộc,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
 B.QNA00072,15.507952,108.324005,Tien Phuoc,Quảng Nam,Xã Tiên Phước,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
 B.QNA00073,15.669604,108.211021,Que Son,Quảng Nam,Xã Quế Sơn,Thành phố Đà Nẵng,DNA-QNA,Nguyễn Bá Danh
 B.QNA00076,15.557379,108.479062,Tam Ky,Quảng Nam,Phường Tam Kỳ,Thành phố Đà Nẵng,DNA-QNA,Bùi Tấn Sơn
@@ -8292,9 +8292,9 @@ B.STR00048,9.582173,105.986931,Soc Trang,Sóc Trăng,Phường Phú Lợi,Thành
 B.STR00049,9.804134,105.866974,Ke Sach,Sóc Trăng,Xã Đại Hải,Thành phố Cần Thơ,Mtay,Lưu Văn Tề
 B.STR00052,9.623323,105.960632,Soc Trang,Sóc Trăng,Phường Sóc Trăng,Thành phố Cần Thơ,Mtay,Lưu Văn Tề
 B.STR00054,9.569353,105.953041,Soc Trang,Sóc Trăng,Phường Mỹ Xuyên,Thành phố Cần Thơ,Mtay,Lưu Văn Tề
-B.STR00055,9.904633,105.884717,,,Xã An Lạc Thôn,Thành phố Trung ương Cần Thơ,,
+B.STR00055,9.904633,105.884717,,,Xã An Lạc Thôn,Thành phố Trung ương Cần Thơ,Mtay,Lưu Văn Tề
 B.STR00057,9.502323,106.203079,Tran De,Sóc Trăng,Xã Trần Đề,Thành phố Cần Thơ,Mtay,Lưu Văn Tề
-B.STR00058,9.625957,106.239849,,,Xã An Thạnh,Thành phố Trung ương Cần Thơ,,
+B.STR00058,9.625957,106.239849,,,Xã An Thạnh,Thành phố Trung ương Cần Thơ,Mtay,Lưu Văn Tề
 B.STR00063,9.458109,105.595826,Soc Trang,Sóc Trăng,Phường Mỹ Xuyên,Thành phố Cần Thơ,Mtay,Lưu Văn Tề
 B.STR00064,9.607561,105.977066,Soc Trang,Sóc Trăng,Phường Sóc Trăng,Thành phố Cần Thơ,Mtay,Lưu Văn Tề
 B.STR00065,9.43127,105.970329,My Xuyen,Sóc Trăng,Xã Ngọc Tố,Thành phố Cần Thơ,Mtay,Lưu Văn Tề
@@ -13931,14 +13931,14 @@ C.LDO00001,11.574323,108.017052,Di Linh,Lâm Đồng,Xã Di Linh,Tỉnh Lâm Đ�
 C.LDO00002,11.543899,107.810974,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO00003,11.929808,108.42868,Da Lat,Lâm Đồng,Phường Xuân Hương - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO00005,11.665325,108.314445,Duc Trong,Lâm Đồng,Xã Đức Trọng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO00006,11.471877,107.734177,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO00006,11.471877,107.734177,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO00007,11.73712,108.373711,Duc Trong,Lâm Đồng,Xã Đức Trọng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO00009,11.408669,107.571548,Da Huoai,Lâm Đồng,Xã Đạ Huoai,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0001,11.574323,108.017052,Di Linh,Lâm Đồng,Xã Di Linh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO00010,11.555957,107.826134,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO00012,11.544106,107.811081,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO00013,11.736433,108.368385,Duc Trong,Lâm Đồng,Xã Đức Trọng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO00015,11.53415,107.883499,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO00015,11.53415,107.883499,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO00016,11.568274,108.032425,Di Linh,Lâm Đồng,Xã Di Linh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO00017,11.63688,108.020103,Di Linh,Lâm Đồng,Xã Đinh Trang Thượng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO00018,11.61361,108.109901,Di Linh,Lâm Đồng,Xã Bảo Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -13947,7 +13947,7 @@ C.LDO00022,12.086953,108.53244,Lac Duong,Lâm Đồng,Xã Lạc Dương,Tỉnh L
 C.LDO00025,12.15882,108.137001,Dam Rong,Lâm Đồng,Xã Đam Rông 3,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO00026,11.68023,107.9804,Di Linh,Lâm Đồng,Xã Đinh Trang Thượng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO00027,11.54859,108.348297,Duc Trong,Lâm Đồng,Xã Tà Hine,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO00029,11.543856,107.893494,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO00029,11.543856,107.893494,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO0003,11.929808,108.42868,Da Lat,Lâm Đồng,Phường Xuân Hương - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO00030,11.80672,108.225304,Lam Ha,Lâm Đồng,Xã Phú Sơn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO00031,11.79009,108.422997,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -13970,7 +13970,7 @@ C.LDO00055,11.575171,108.054344,Di Linh,Lâm Đồng,Xã Di Linh,Tỉnh Lâm Đ�
 C.LDO00056,11.750553,108.20031,Lam Ha,Lâm Đồng,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO00058,11.746561,107.654427,Bao Lam,Lâm Đồng,Xã Bảo Lâm 5,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO00059,11.63494,107.826775,Bao Lam,Lâm Đồng,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO0006,11.471877,107.734177,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO0006,11.471877,107.734177,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO00063,11.93864,108.457169,Da Lat,Lâm Đồng,Phường Xuân Hương - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0007,11.73712,108.373711,Duc Trong,Lâm Đồng,Xã Đức Trọng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO00071,11.562906,107.351402,Cat Tien,Lâm Đồng,Xã Cát Tiên 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -13987,8 +13987,8 @@ C.LDO00118,12.003837,108.415596,Lac Duong,Lâm Đồng,Phường Lang Biang - Đ
 C.LDO00119,11.9539,108.461502,Da Lat,Lâm Đồng,Phường Lâm Viên - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0012,11.544106,107.811081,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0013,11.736433,108.368385,Duc Trong,Lâm Đồng,Xã Đức Trọng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO00136,11.531522,107.786346,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO0015,11.53415,107.883499,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO00136,11.531522,107.786346,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO0015,11.53415,107.883499,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO0016,11.568274,108.032425,Di Linh,Lâm Đồng,Xã Di Linh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO00166,11.994424,107.68689,Gia Nghia,Đắk Nông,Phường Đông Gia Nghĩa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
 C.LDO00168,10.678653,107.753659,La Gi,Bình Thuận,Phường La Gi,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
@@ -14027,8 +14027,8 @@ C.LDO00251,11.066307,108.129341,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,T�
 C.LDO00253,10.93759,108.28537,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO00254,10.954316,108.246344,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO00255,10.50062,107.74614,La Gi,Bình Thuận,Phường Phước Hội,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
-C.LDO00256,11.546658,107.901604,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO00257,11.449925,107.834373,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO00256,11.546658,107.901604,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO00257,11.449925,107.834373,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO00258,11.586537,108.078346,Di Linh,Lâm Đồng,Xã Di Linh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO00259,11.727436,108.369751,Duc Trong,Lâm Đồng,Xã Đức Trọng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0026,11.68023,107.9804,Di Linh,Lâm Đồng,Xã Đinh Trang Thượng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -14036,7 +14036,7 @@ C.LDO00260,11.938828,108.43824,Da Lat,Lâm Đồng,Phường Xuân Hương - Đ�
 C.LDO00261,11.783008,108.410431,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO00262,11.887396,108.548325,Da Lat,Lâm Đồng,Phường Xuân Trường - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO00263,11.845556,108.601997,Don Duong,Lâm Đồng,Xã D'Ran,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO00264,11.535569,107.78495,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO00264,11.535569,107.78495,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO00265,11.74672,108.19606,Lam Ha,Lâm Đồng,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO00266,11.939346,108.136581,Dam Rong,Lâm Đồng,Xã Đam Rông 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO00267,12.590268,107.896889,Cu Jut,Đắk Nông,Xã Cư Jút,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
@@ -14044,7 +14044,7 @@ C.LDO0027,11.54859,108.348297,Duc Trong,Lâm Đồng,Xã Tà Hine,Tỉnh Lâm Đ
 C.LDO00274,11.882232,108.533562,Da Lat,Lâm Đồng,Phường Xuân Trường - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO00276,11.907762,107.798606,Dak Glong,Đắk Nông,Xã Quảng Khê,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
 C.LDO00278,11.93293,108.44236,Da Lat,Lâm Đồng,Phường Xuân Hương - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO0029,11.543856,107.893494,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO0029,11.543856,107.893494,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO0030,11.80672,108.225304,Lam Ha,Lâm Đồng,Xã Phú Sơn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO00302,11.849965,108.45752,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0031,11.79009,108.422997,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -14085,14 +14085,14 @@ C.LDO0065,11.544051,107.802612,Bao Loc,Lâm Đồng,Phường 2 Bảo Lộc,Tỉ
 C.LDO0069,11.742187,108.523232,Don Duong,Lâm Đồng,Xã Quảng Lập,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0070,11.943944,108.460526,Da Lat,Lâm Đồng,Phường Xuân Hương - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0071,11.562906,107.351402,Cat Tien,Lâm Đồng,Xã Cát Tiên 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO0072,11.491146,107.837044,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO0072,11.491146,107.837044,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO0073,11.943029,108.452957,Da Lat,Lâm Đồng,Phường Xuân Hương - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0074,11.946542,108.424469,Da Lat,Lâm Đồng,Phường Cam Ly - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0075,11.726848,108.372887,Duc Trong,Lâm Đồng,Xã Đức Trọng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0076,11.93409,108.447708,Da Lat,Lâm Đồng,Phường Xuân Hương - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0077,11.726869,108.372902,Duc Trong,Lâm Đồng,Xã Đức Trọng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0078,11.756799,108.378258,Duc Trong,Lâm Đồng,Xã Đức Trọng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO0084,11.538774,107.769409,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO0084,11.538774,107.769409,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO0085,11.554346,107.810905,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0086,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0087,11.958153,108.434898,Da Lat,Lâm Đồng,Phường Lâm Viên - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -14137,7 +14137,7 @@ C.LDO0132,11.959939,108.446312,Da Lat,Lâm Đồng,Phường Lâm Viên - Đà L
 C.LDO0133,11.63418,108.019859,Di Linh,Lâm Đồng,Xã Đinh Trang Thượng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0134,11.932574,108.439758,Da Lat,Lâm Đồng,Phường Xuân Hương - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0135,11.531364,107.82972,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
-C.LDO0136,11.531522,107.786346,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO0136,11.531522,107.786346,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO0137,11.538204,107.823425,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO0138,11.894082,108.540123,Da Lat,Lâm Đồng,Phường Xuân Trường - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0140,11.959816,108.442413,Da Lat,Lâm Đồng,Phường Lâm Viên - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -14152,7 +14152,7 @@ C.LDO0151,11.118411,108.155983,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận Bắ
 C.LDO0152,11.363804,107.675079,Da Huoai,Lâm Đồng,Xã Đạ Huoai 3,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0153,11.931083,108.447609,Da Lat,Lâm Đồng,Phường Xuân Hương - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0154,11.950076,108.470924,Da Lat,Lâm Đồng,Phường Lâm Viên - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO0155,11.542233,107.770599,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO0155,11.542233,107.770599,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO0156,11.955958,108.424606,Da Lat,Lâm Đồng,Phường Cam Ly - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0157,11.810074,108.329132,Lam Ha,Lâm Đồng,Xã Nam Ban Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0158,12.4493,107.617065,Dak Mil,Đắk Nông,Xã Đức Lập,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
@@ -14264,7 +14264,7 @@ C.LDO10075,11.969674,108.42759,Da Lat,Lâm Đồng,Phường Lang Biang - Đà L
 C.LDO10076,11.613507,108.111893,Di Linh,Lâm Đồng,Xã Bảo Thuận,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO10077,12.007394,108.417061,Lac Duong,Lâm Đồng,Phường Lang Biang - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO10078,11.535001,107.82329,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
-C.LDO10079,11.511954,107.749518,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO10079,11.511954,107.749518,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO10080,11.561457,107.839462,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO10081,11.633917,108.30674,Duc Trong,Lâm Đồng,Xã Ninh Gia,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO10082,11.790032,108.2418,Lam Ha,Lâm Đồng,Xã Đinh Văn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -14331,46 +14331,46 @@ C.LDO10258,11.989661,107.707428,Gia Nghia,Đắk Nông,Phường Đông Gia Ngh�
 C.LDO10262,11.887396,108.548328,Da Lat,Lâm Đồng,Phường Xuân Trường - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO10268,10.966052,108.127,Ham Thuan Bac,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO10269,11.05541,108.139763,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
-C.LDO10271,11.497545,107.743,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10272,11.497545,107.743,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10273,11.493384,107.746,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10274,11.50072,107.745,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10277,11.505767,107.745,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10278,11.496533,107.746,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO10271,11.497545,107.743,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10272,11.497545,107.743,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10273,11.493384,107.746,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10274,11.50072,107.745,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10277,11.505767,107.745,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10278,11.496533,107.746,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO10281,11.946386,107.545998,Dak Rlap,Đắk Nông,Xã Kiến Đức,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 C.LDO10282,10.941845,108.12262,Phan Thiet,Bình Thuận,Phường Phú Thuỷ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO10285,11.958856,108.429787,Da Lat,Lâm Đồng,Phường Lang Biang - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10286,11.489645,107.731,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10287,11.491804,107.736,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10288,11.49224,107.746,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO10286,11.489645,107.731,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10287,11.491804,107.736,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10288,11.49224,107.746,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO10290,11.10659,108.201393,Ham Thuan Bac,Bình Thuận,Xã Hồng Sơn,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO10291,11.939202,108.483551,Da Lat,Lâm Đồng,Phường Xuân Trường - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO10292,12.271571,107.997383,Krong No,Đắk Nông,Xã Quảng Phú,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
 C.LDO10293,11.156426,107.600922,Tanh Linh,Bình Thuận,Xã Tánh Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 C.LDO10294,10.844882,107.846863,Ham Thuan Nam,Bình Thuận,Xã Tân Lập,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-C.LDO10295,11.495877,107.74,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO10295,11.495877,107.74,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO10296,12.657804,107.865613,Cu Jut,Đắk Nông,Xã Nam Dong,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
 C.LDO10314,12.215899,107.445473,Tuy Duc,Đắk Nông,Xã Tuy Đức,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
 C.LDO10315,12.478068,107.86721,Krong No,Đắk Nông,Xã Nam Đà,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
-C.LDO10317,11.493618,107.7381,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10318,11.499162,107.744402,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10320,11.476342,107.737325,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10321,11.461491,107.767337,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10322,11.49864,107.74169,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10323,11.504978,107.74654,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10324,11.486407,107.752275,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO10317,11.493618,107.7381,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10318,11.499162,107.744402,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10320,11.476342,107.737325,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10321,11.461491,107.767337,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10322,11.49864,107.74169,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10323,11.504978,107.74654,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10324,11.486407,107.752275,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO10334,12.582574,107.894676,Cu Jut,Đắk Nông,Xã Cư Jút,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
-C.LDO10335,11.498846,107.746236,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10336,11.490167,107.73425,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10339,11.511359,107.749406,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10340,11.505821,107.741592,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10342,11.487882,107.742368,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10344,11.498299,107.746245,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10345,11.497978,107.744809,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10346,11.488026,107.750989,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10347,11.498372,107.743466,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10348,11.498676,107.743678,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10350,11.480541,107.758633,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO10335,11.498846,107.746236,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10336,11.490167,107.73425,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10339,11.511359,107.749406,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10340,11.505821,107.741592,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10342,11.487882,107.742368,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10344,11.498299,107.746245,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10345,11.497978,107.744809,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10346,11.488026,107.750989,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10347,11.498372,107.743466,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10348,11.498676,107.743678,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10350,11.480541,107.758633,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO10353,10.686175,107.750255,La Gi,Bình Thuận,Phường La Gi,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 C.LDO10359,12.147686,107.882256,Dak Glong,Đắk Nông,Xã Quảng Sơn,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
 C.LDO10360,11.052651,108.394858,Bac Binh,Bình Thuận,Xã Hoà Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
@@ -14385,15 +14385,15 @@ C.LDO10370,11.59376,108.079017,Di Linh,Lâm Đồng,Xã Di Linh,Tỉnh Lâm Đ�
 C.LDO10371,11.188382,108.573639,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO10372,11.215748,108.404831,Bac Binh,Bình Thuận,Xã Hồng Thái,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO10373,11.092563,107.67942,Tanh Linh,Bình Thuận,Xã Tánh Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
-C.LDO10376,11.502212,107.741234,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10377,11.497494,107.742121,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10378,11.490679,107.747196,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10379,11.495379,107.746407,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10380,11.492493,107.743035,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10382,11.498682,107.74221,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10383,11.479,107.766944,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10389,11.492685,107.746187,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10390,11.503971,107.744478,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO10376,11.502212,107.741234,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10377,11.497494,107.742121,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10378,11.490679,107.747196,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10379,11.495379,107.746407,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10380,11.492493,107.743035,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10382,11.498682,107.74221,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10383,11.479,107.766944,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10389,11.492685,107.746187,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10390,11.503971,107.744478,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO10396,12.276625,107.571442,Dak Song,Đắk Nông,Xã Đức An,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 C.LDO10412,11.952145,108.430107,Da Lat,Lâm Đồng,Phường Cam Ly - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO10413,11.93049,108.433348,Da Lat,Lâm Đồng,Phường Xuân Hương - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -14408,17 +14408,17 @@ C.LDO10424,12.396353,107.825974,Krong No,Đắk Nông,Xã Nâm Nung,Tỉnh Lâm 
 C.LDO10425,10.919408,108.091141,Phan Thiet,Bình Thuận,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO10426,10.820139,107.714943,Ham Tan,Bình Thuận,Xã Hàm Tân,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 C.LDO10427,11.235278,107.674782,Tanh Linh,Bình Thuận,Xã Nghị Đức,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
-C.LDO10429,11.511013,107.749388,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10430,11.497995,107.744338,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10431,11.4976,107.744373,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10432,11.485662,107.752406,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10433,11.489155,107.749348,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10435,11.503779,107.746302,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10437,11.492113,107.744484,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10438,11.491206,107.74644,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10442,11.515784,107.758597,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10446,11.49005,107.744896,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10447,11.477238,107.737944,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO10429,11.511013,107.749388,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10430,11.497995,107.744338,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10431,11.4976,107.744373,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10432,11.485662,107.752406,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10433,11.489155,107.749348,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10435,11.503779,107.746302,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10437,11.492113,107.744484,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10438,11.491206,107.74644,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10442,11.515784,107.758597,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10446,11.49005,107.744896,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10447,11.477238,107.737944,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO10450,,,Tanh Linh,Bình Thuận,Xã Suối Kiết,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 C.LDO10452,12.20723,107.4623,Tuy Duc,Đắk Nông,Xã Tuy Đức,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
 C.LDO10453,11.502087,107.48852,Da Teh,Lâm Đồng,Xã Đạ Tẻh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -14444,19 +14444,19 @@ C.LDO10535,11.583571,107.848027,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,T�
 C.LDO10536,11.582963,107.844307,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO10538,11.567307,107.81348,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO10540,11.531198,107.834494,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
-C.LDO10541,11.50579,107.746917,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10542,11.50503,107.746432,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO10541,11.50579,107.746917,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10542,11.50503,107.746432,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO10543,11.726762,108.367966,Duc Trong,Lâm Đồng,Xã Đức Trọng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10577,11.506419,107.742462,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10580,11.483047,107.753021,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10582,11.544009,107.752258,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10583,11.48132,107.750854,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10584,11.48842,107.750694,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10585,11.466949,107.775009,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO10577,11.506419,107.742462,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10580,11.483047,107.753021,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10582,11.544009,107.752258,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10583,11.48132,107.750854,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10584,11.48842,107.750694,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10585,11.466949,107.775009,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO10591,11.778998,108.534698,Don Duong,Lâm Đồng,Xã Ka Đô,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO10593,12.200876,107.518616,Tuy Duc,Đắk Nông,Xã Tuy Đức,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
-C.LDO10598,11.513689,107.74846,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10617,11.507397,107.745342,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO10598,11.513689,107.74846,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10617,11.507397,107.745342,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO10623,11.728877,108.377243,Duc Trong,Lâm Đồng,Xã Đức Trọng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO10625,11.886926,108.4235,Da Lat,Lâm Đồng,Phường Xuân Hương - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO10634,10.93697,108.102531,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
@@ -14473,13 +14473,13 @@ C.LDO10682,11.901007,107.803757,Dak Glong,Đắk Nông,Xã Quảng Khê,Tỉnh L
 C.LDO10683,11.991188,107.352257,Tuy Duc,Đắk Nông,Xã Quảng Tân,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
 C.LDO10694,10.924233,108.283279,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO10695,11.983013,107.525749,Dak Rlap,Đắk Nông,Xã Kiến Đức,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
-C.LDO10697,11.505662,107.746025,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10698,11.485929,107.752014,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO10697,11.505662,107.746025,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO10698,11.485929,107.752014,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO10718,11.556741,107.809402,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO10719,11.793116,108.239075,Lam Ha,Lâm Đồng,Xã Đinh Văn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO10720,11.514623,107.496628,Da Teh,Lâm Đồng,Xã Đạ Tẻh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO10721,11.419258,107.65966,Da Huoai,Lâm Đồng,Xã Đạ Huoai 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10728,11.481857,107.743256,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO10728,11.481857,107.743256,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO10746,11.840835,108.594065,Don Duong,Lâm Đồng,Xã D'Ran,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO10833,12.532091,107.779724,Dak Mil,Đắk Nông,Xã Đắk Mil,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 C.LDO10834,11.841545,108.302551,Lam Ha,Lâm Đồng,Xã Nam Hà Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -14493,7 +14493,7 @@ C.LDO10862,11.936366,108.140747,Dam Rong,Lâm Đồng,Xã Đam Rông 1,Tỉnh L�
 C.LDO10865,11.799403,108.328087,Lam Ha,Lâm Đồng,Xã Nam Ban Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO10866,11.761574,108.483879,Don Duong,Lâm Đồng,Xã Đơn Dương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO10867,11.694281,108.303383,Duc Trong,Lâm Đồng,Xã Tân Hội,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10868,11.394426,107.862648,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO10868,11.394426,107.862648,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO10869,11.769511,108.259361,Lam Ha,Lâm Đồng,Xã Đinh Văn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO10871,11.936326,108.463066,Da Lat,Lâm Đồng,Phường Xuân Hương - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO10873,11.716115,108.285431,Duc Trong,Lâm Đồng,Xã Tân Hội,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -14507,7 +14507,7 @@ C.LDO10887,12.270484,107.995735,Krong No,Đắk Nông,Xã Quảng Phú,Tỉnh L�
 C.LDO10894,11.865068,108.224106,Lam Ha,Lâm Đồng,Xã Phú Sơn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO10895,11.958008,108.474487,Da Lat,Lâm Đồng,Phường Lâm Viên - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO10920,11.765789,108.404381,Duc Trong,Lâm Đồng,Xã Hiệp Thạnh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10921,11.416471,107.863602,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO10921,11.416471,107.863602,Bao Lam,Lâm Đồng,Xã Bảo Lâm 3,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO10923,11.820011,108.337273,Lam Ha,Lâm Đồng,Xã Nam Ban Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO10925,11.568361,108.44722,Duc Trong,Lâm Đồng,Xã Tà Năng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO10935,12.018756,108.138298,Dam Rong,Lâm Đồng,Xã Đam Rông 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -14516,7 +14516,7 @@ C.LDO10945,12.467547,107.856438,Krong No,Đắk Nông,Xã Krông Nô,Tỉnh Lâm
 C.LDO10946,12.000262,107.383972,Tuy Duc,Đắk Nông,Xã Quảng Tân,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
 C.LDO10949,12.436543,107.667671,Dak Mil,Đắk Nông,Xã Đắk Sắk,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 C.LDO10950,11.719759,108.490974,Don Duong,Lâm Đồng,Xã Quảng Lập,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO10951,11.526015,107.77005,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO10951,11.526015,107.77005,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO10957,11.7489,108.4462,Don Duong,Lâm Đồng,Xã Đơn Dương,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO11030,10.598631,107.589706,Ham Tan,Bình Thuận,Xã Sơn Mỹ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO11034,11.943345,108.422821,Da Lat,Lâm Đồng,Phường Cam Ly - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -14556,10 +14556,10 @@ C.LDO11693,11.54533,107.81546,Bao Loc,Lâm Đồng,Phường 1 Bảo Lộc,Tỉn
 C.LDO11694,11.81822,108.221397,Lam Ha,Lâm Đồng,Xã Phú Sơn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO11695,11.540001,107.810013,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO11794,11.560166,107.350349,Cat Tien,Lâm Đồng,Xã Cát Tiên 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO11796,11.53049,107.779671,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO11796,11.53049,107.779671,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO11823,12.3972,107.886482,Krong No,Đắk Nông,Xã Nâm Nung,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
 C.LDO11826,11.6036,108.074966,Di Linh,Lâm Đồng,Xã Di Linh,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO11827,11.549036,107.908867,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO11827,11.549036,107.908867,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO11829,11.957528,107.565834,Dak Rlap,Đắk Nông,Xã Nhân Cơ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
 C.LDO11830,12.432167,107.627083,Dak Mil,Đắk Nông,Xã Đức Lập,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 C.LDO11831,12.006018,107.671432,Gia Nghia,Đắk Nông,Phường Nam Gia Nghĩa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
@@ -14576,7 +14576,7 @@ C.LDO11841,11.900519,107.530487,Dak Rlap,Đắk Nông,Xã Kiến Đức,Tỉnh L
 C.LDO11842,11.980998,107.585892,Dak Rlap,Đắk Nông,Xã Nhân Cơ,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
 C.LDO11843,12.008444,107.683945,Gia Nghia,Đắk Nông,Phường Bắc Gia Nghĩa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
 C.LDO11844,11.99,107.689774,Gia Nghia,Đắk Nông,Phường Đông Gia Nghĩa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
-C.LDO11845,11.53338,107.785378,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO11845,11.53338,107.785378,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO11849,10.685172,107.748322,La Gi,Bình Thuận,Phường La Gi,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 C.LDO11851,11.044208,108.140602,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 C.LDO11853,10.657531,107.750977,La Gi,Bình Thuận,Phường Phước Hội,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
@@ -14635,7 +14635,7 @@ C.LDO12031,10.72057,107.955986,Ham Thuan Nam,Bình Thuận,Xã Tân Thành,Tỉn
 C.LDO12032,10.72055,107.957291,Ham Thuan Nam,Bình Thuận,Xã Tân Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO12033,10.72007,107.954788,Ham Thuan Nam,Bình Thuận,Xã Tân Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 C.LDO12050,11.761811,108.155685,Lam Ha,Lâm Đồng,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO12051,11.53801,107.928879,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
+C.LDO12051,11.53801,107.928879,Bao Lam,Lâm Đồng,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO12056,11.78447,107.653954,Bao Lam,Lâm Đồng,Xã Bảo Lâm 5,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO12057,11.52707,107.85334,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO12063,11.72206,108.378258,Duc Trong,Lâm Đồng,Xã Đức Trọng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
