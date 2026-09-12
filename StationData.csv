@@ -617,7 +617,7 @@ B.BTH00056,10.91986,107.985252,Ham Thuan Nam,Bình Thuận,Xã Hàm Kiệm,Tỉn
 B.BTH00057,10.828603,107.882591,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.BTH00058,10.945202,108.137901,Ham Thuan Bac,Bình Thuận,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.BTH00060,10.971573,108.338196,Phan Thiet,Bình Thuận,Phường Mũi Né,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.BTH00063,11.179402,108.577812,,,,,LDO-BTH,Nguyễn Quốc Phi
+B.BTH00063,11.179402,108.577812,,,,,LDO-BTH,Lê Trần Đại Dương
 B.BTH00064,11.084331,107.687286,Tanh Linh,Bình Thuận,Xã Tánh Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.BTH00065,11.263002,107.644714,,,,,LDO-BTH,Nguyễn Quốc Phi
 B.BTH00066,11.163787,108.548775,Tuy Phong,Bình Thuận,Xã Phan Rí Cửa,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
@@ -6023,7 +6023,7 @@ B.LDO10014,11.032274,108.163188,Ham Thuan Bac,Bình Thuận,Xã Hàm Thuận,T�
 B.LDO10015,10.82384,107.72644,Ham Tan,Bình Thuận,Xã Hàm Tân,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO10016,11.04349,108.387981,Bac Binh,Bình Thuận,Xã Hoà Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO10017,11.311315,108.76225,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
-B.LDO10018,11.256969,107.641114,,,,,LDO-BTH,Nguyễn Quốc Phi
+B.LDO10018,11.256969,107.641114,,,,,LDO-BTH,Hứa Văn Thiện
 B.LDO10019,10.927954,108.041926,Ham Thuan Nam,Bình Thuận,Xã Tuyên Quang,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10020,11.152011,107.621715,,,,,LDO-BTH,Nguyễn Quốc Phi
 B.LDO10021,11.194018,108.284431,Bac Binh,Bình Thuận,Xã Sông Luỹ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
@@ -14104,7 +14104,7 @@ C.LDO0131,11.967504,108.431747,Da Lat,Lâm Đồng,Phường Lang Biang - Đà L
 C.LDO0132,11.959939,108.446312,Da Lat,Lâm Đồng,Phường Lâm Viên - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0133,11.63418,108.019859,Di Linh,Lâm Đồng,Xã Đinh Trang Thượng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0134,11.932574,108.439758,Da Lat,Lâm Đồng,Phường Xuân Hương - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-C.LDO0135,11.531364,107.82972,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
+C.LDO0135,11.531364,107.82972,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 C.LDO0136,11.531522,107.786346,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO0137,11.538204,107.823425,Bao Loc,Lâm Đồng,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 C.LDO0138,11.894082,108.540123,Da Lat,Lâm Đồng,Phường Xuân Trường - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
