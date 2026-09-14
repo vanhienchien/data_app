@@ -5764,7 +5764,7 @@ B.KHO11321,11.578215,108.951706,,,Xã Ninh Phước,Tỉnh Khánh Hòa,,
 B.KHO11328,11.619119,108.908537,,,Phường Đô Vinh,Tỉnh Khánh Hòa,,
 B.KHO11329,11.630842,108.892264,,,Phường Đô Vinh,Tỉnh Khánh Hòa,,
 B.KHO11330,11.586676,108.948424,,,Xã Ninh Phước,Tỉnh Khánh Hòa,,
-B.KHO11332,11.584374,108.986825,,,Phường Phan Rang,Tỉnh Khánh Hòa,,
+B.KHO11332,11.584374,108.986825,,,Phường Phan Rang,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
 B.KHO11342,12.254064,109.195942,,,Phường Nha Trang,Tỉnh Khánh Hòa,,
 B.KHO11348,12.257051,109.152625,,,Phường Tây Nha Trang,Tỉnh Khánh Hòa,,
 B.KHO11349,12.254805,109.162271,,,Phường Tây Nha Trang,Tỉnh Khánh Hòa,,
@@ -7272,7 +7272,7 @@ B.LDO13144,11.529429,107.835266,,,,,,
 B.LDO13145,11.534161,107.818445,,,,,,
 B.LDO13146,11.569549,107.831848,,,,,,
 B.LDO13147,11.513976,107.773941,,,,,,
-B.LDO13148,11.571702,107.831667,,,,,,
+B.LDO13148,11.571702,107.831667,,,,,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO13150,11.557243,107.797866,,,,,,
 B.LDO13152,11.645306,108.312545,,,,,,
 B.LDO13155,11.569638,107.809027,,,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,,
@@ -7316,7 +7316,7 @@ B.LDO13198,11.55032,107.833344,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
 B.LDO13213,11.579653,107.843048,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
 B.LDO13214,11.545555,107.831111,,,Xã Đức Linh,Tỉnh Lâm Đồng,,
 B.LDO13215,11.744261,108.102117,Lam Ha,Lâm Đồng,Xã Nam Ban Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO13216,11.742709,108.193676,,,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,,
+B.LDO13216,11.742709,108.193676,,,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO13217,11.786174,108.102469,,,Xã Phúc Thọ Lâm Hà,Tỉnh Lâm Đồng,,
 B.LDO13218,11.473306,107.902077,,,Xã Hòa Bắc,Tỉnh Lâm Đồng,,
 B.LDO13219,11.492655,107.910701,,,Xã Hòa Ninh,Tỉnh Lâm Đồng,,
@@ -7352,7 +7352,7 @@ B.LDO13257,11.474948,107.89991,,,Xã Hòa Bắc,Tỉnh Lâm Đồng,,
 B.LDO13258,11.498509,107.930375,,,,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO13259,11.512999,107.834015,,,Phường B'Lao,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13260,11.549956,107.832634,,,Phường 1 Bảo Lộc,Tỉnh Lâm Đồng,,
-B.LDO13261,11.557816,107.796852,,,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,,
+B.LDO13261,11.557816,107.796852,,,Phường 2 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13262,11.605025,107.916817,,,Xã Bảo Lâm 2,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13264,11.52908,107.787025,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
 B.LDO13265,11.627192,108.288694,,,Xã Ninh Gia,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -15927,3 +15927,5 @@ UBND xã Tân An,10.8074617,105.1897975,Tan Chau,An Giang,Xã Tân An,Tỉnh An 
 UBND_Xã Mỹ Hòa Hưng,,,,,,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
 UBNN Xã Phú Hữu An Giang,,,,,,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
 UBNN_Xã Châu Phú_An Giang,10.457,105.123,,,,,Mtay,Huỳnh Đặng Tứ Khá
+B.LDO14253,,,,,,,LDO-BTH,Nguyễn Phước Hạnh
+B.DLA11741,,,,,,,Tây Nguyên,Đắk Lắk
