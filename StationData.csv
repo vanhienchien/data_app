@@ -20,6 +20,7 @@ B.AGI00019,10.379272,104.955757,Tri Ton,An Giang,Xã Ô Lâm,Tỉnh An Giang,Mta
 B.AGI00020,10.36474,105.38602,Long Xuyen,An Giang,Xã Phú Hoà,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
 B.AGI00024,10.489027,105.022804,Tinh Bien,An Giang,Xã Núi Cấm,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
 B.AGI00025,10.626907,105.0093,Tinh Bien,An Giang,Phường Thới Sơn,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
+B.AGI10572,,,Thoai Son,An Giang,Xã Thoại Sơn,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
 B.AGI00026,10.27601,105.269035,Thoai Son,An Giang,Xã Thoại Sơn,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
 B.AGI00027,10.55829,105.296158,Phu Tan,An Giang,Xã Bình Thạnh Đông,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
 B.AGI00028,10.413509,105.497211,Cho Moi,An Giang,Xã Long Kiến,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
@@ -3785,7 +3786,7 @@ B.DNI12938,11.509612,106.932419,Dong Phu,Bình Phước,Xã Đồng Tâm,Thành 
 B.DNI12939,11.525643,106.855547,Dong Xoai,Bình Phước,Phường Đồng Xoài,Thành phố Đồng Nai,DNI-BPH,Huỳnh Thanh Long
 B.DNI12941,11.442611,106.866639,Dong Phu,Bình Phước,Phường Đồng Phú,Thành phố Đồng Nai,DNI-BPH,Huỳnh Thanh Long
 B.DNI12943,10.909478,107.234524,Long Khanh,Đồng Nai,Phường Hàng Gòn,Thành phố Đồng Nai,DNI-BPH,Trần Văn Xuyến
-B.DNI12944,11.211506,108.322979,Bac Binh,Bình Thuận,Xã Sông Luỹ,Tỉnh Lâm Đồng,LDO-BTH,Trần Văn Xuyến
+B.DNI12944,11.211506,108.322979,Bac Binh,Bình Thuận,Xã Sông Luỹ,Tỉnh Lâm Đồng,DNI-BPH,Trần Văn Xuyến
 B.DNI12945,10.866544,107.225242,Long Khanh,Đồng Nai,Phường Hàng Gòn,Thành phố Đồng Nai,DNI-BPH,Trần Văn Xuyến
 B.DNI12946,10.905605,107.229728,Long Khanh,Đồng Nai,Phường Hàng Gòn,Thành phố Đồng Nai,DNI-BPH,Trần Văn Xuyến
 B.DNI12947,10.939101,107.24723,Long Khanh,Đồng Nai,Phường Long Khánh,Thành phố Đồng Nai,DNI-BPH,Trần Văn Xuyến
@@ -7135,22 +7136,22 @@ B.LDO12778,11.064431,107.699362,,,,,,
 B.LDO12779,11.107953,107.733648,,,,,,
 B.LDO12780,11.083705,107.691044,,,,,,
 B.LDO12781,11.060166,107.687589,,,,,,
-B.LDO12782,11.213815,107.685797,,,Xã Bắc Ruộng,Tỉnh Lâm Đồng,,Hứa Văn Thiện
+B.LDO12782,11.213815,107.685797,,,Xã Bắc Ruộng,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO12783,11.147034,107.728123,,,Xã Đồng Kho,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12784,11.20882,107.695554,,,,,,
 B.LDO12785,11.100893,107.725595,,,Xã Tánh Linh,Tỉnh Lâm Đồng,,Hứa Văn Thiện
 B.LDO12786,11.108139,107.735833,,,Xã Đồng Kho,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO12787,11.207455,107.711133,Tanh Linh,Bình Thuận,Xã Bắc Ruộng,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
-B.LDO12788,11.203606,107.710577,,,Xã Bắc Ruộng,Tỉnh Lâm Đồng,,Hứa Văn Thiện
-B.LDO12789,11.137062,107.722658,,,Xã Đồng Kho,Tỉnh Lâm Đồng,,Hứa Văn Thiện
-B.LDO12790,10.925055,107.671153,,,Xã Suối Kiết,Tỉnh Lâm Đồng,,Hứa Văn Thiện
+B.LDO12788,11.203606,107.710577,,,Xã Bắc Ruộng,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
+B.LDO12789,11.137062,107.722658,,,Xã Đồng Kho,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
+B.LDO12790,10.925055,107.671153,,,Xã Suối Kiết,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO12791,11.083138,107.693785,,,,,,
-B.LDO12792,11.137474,107.723748,,,Xã Đồng Kho,Tỉnh Lâm Đồng,,Hứa Văn Thiện
-B.LDO12793,11.210223,107.702815,,,Xã Đồng Kho,Tỉnh Lâm Đồng,,Hứa Văn Thiện
-B.LDO12794,11.100906,107.727245,,,Xã Đồng Kho,Tỉnh Lâm Đồng,,Hứa Văn Thiện
-B.LDO12795,11.09527,107.719451,,,,,,
-B.LDO12796,11.13612,107.739671,,,Xã Tánh Linh,Tỉnh Lâm Đồng,,Hứa Văn Thiện
-B.LDO12797,11.12352,107.736313,,,Xã Đồng Kho,Tỉnh Lâm Đồng,,Hứa Văn Thiện
+B.LDO12792,11.137474,107.723748,,,Xã Đồng Kho,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
+B.LDO12793,11.210223,107.702815,,,Xã Đồng Kho,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
+B.LDO12794,11.100906,107.727245,,,Xã Đồng Kho,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
+B.LDO12795,11.09527,107.719451,,,,,LDO-BTH,Hứa Văn Thiện
+B.LDO12796,11.13612,107.739671,,,Xã Tánh Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
+B.LDO12797,11.12352,107.736313,,,Xã Đồng Kho,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO12798,10.715023,107.939907,,,,,,
 B.LDO12798,,,Ham Thuan Nam,Bình Thuận,Xã Hàm Thuận Nam,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO12820,11.954525,108.430737,,,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Trần Phước Hạnh
@@ -7258,7 +7259,7 @@ B.LDO13112,11.873869,107.925806,,,Xã Nâm Nung,Tỉnh Lâm Đồng,,Nguyễn S�
 B.LDO13113,12.587498,107.893898,,,Xã Cư Jút,Tỉnh Lâm Đồng,,Đắk Nông
 B.LDO13115,12.658826,107.868262,,,Xã Nam Dong,Tỉnh Lâm Đồng,,Đắk Nông
 B.LDO13116,12.688874,107.878542,,,Xã Đắk Wil,Tỉnh Lâm Đồng,,
-B.LDO13117,12.700058,107.826686,,,Xã Đắk Wil,Tỉnh Lâm Đồng,,
+B.LDO13117,12.700058,107.826686,,,Xã Đắk Wil,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.LDO13118,11.909844,107.795811,,,Xã Quảng Khê,Tỉnh Lâm Đồng,,Nguyễn Sơn Nam
 B.LDO13119,12.153789,107.87225,,,Xã Quảng Sơn,Tỉnh Lâm Đồng,,Nguyễn Sơn Nam
 B.LDO13121,11.873861,107.925737,,,Xã Tà Đùng,Tỉnh Lâm Đồng,,Đắk Nông
