@@ -4107,7 +4107,7 @@ B.DNI13928,10.816711,107.568599,Xuan Loc,Bình Thuận,Xã Xuân Hoà,Thành ph�
 B.DNI13929,10.9098,107.41088,Xuan Loc,Đồng Nai,Xã Xuân Hoà,Thành phố Đồng Nai,DNI-BPH,Đoàn Quốc Khánh
 B.DNI13930,10.9105,107.4105,Xuan Loc,Đồng Nai,Xã Xuân Hoà,Thành phố Đồng Nai,DNI-BPH,Đoàn Quốc Khánh
 B.DNI13931,10.9107,107.410667,,,Xã Xuân Hòa,Tỉnh Đồng Nai,DNI-BPH,Đoàn Quốc Khánh
-B.DNI13982,10.968755,107.32932,,,Xã Xuân Lộc,Tỉnh Đồng Nai,DNI-BPH,
+B.DNI13982,10.968755,107.32932,,,Xã Xuân Lộc,Tỉnh Đồng Nai,DNI-BPH,Đoàn Quốc Khánh
 B.DNI13983,11.546987,106.896851,,,Phường Bình Phước,Tỉnh Đồng Nai,DNI-BPH,Huỳnh Thanh Long
 B.DNI13984,11.543653,106.921277,,,Xã Đồng Tâm,Tỉnh Đồng Nai,DNI-BPH,Huỳnh Thanh Long
 B.DNI13985,11.515911,106.894343,,,Phường Bình Phước,Tỉnh Đồng Nai,DNI-BPH,Huỳnh Thanh Long
@@ -5976,7 +5976,7 @@ B.LDO00264,11.535398,107.784987,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,T�
 B.LDO00265,11.74672,108.19606,Lam Ha,Lâm Đồng,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00266,11.939346,108.136584,Dam Rong,Lâm Đồng,Xã Đam Rông 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO00267,12.590268,107.89689,Cu Jut,Đắk Nông,Xã Cư Jút,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
-B.LDO00275,11.019957,108.12554,,,,,LDO-BTH,Nguyễn Quốc Phi
+B.LDO00275,11.019957,108.12554,,,,,LDO-BTH,Lê Trần Đại Dương
 B.LDO00276,10.929877,108.100488,Phan Thiet,Bình Thuận,Phường Phan Thiết,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
 B.LDO00277,11.907722,107.798546,,,,,Tây Nguyên,Đắk Nông
 B.LDO00278,11.93293,108.44236,Da Lat,Lâm Đồng,Phường Xuân Hương - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -7224,7 +7224,7 @@ B.LDO12997,11.240166,107.596292,,,Xã Nam Thành,Tỉnh Lâm Đồng,LDO-BTH,H�
 B.LDO12998,11.239546,107.620346,,,Xã Nam Thành,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO13019,11.150751,107.393794,,,Xã Nghị Đức,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO13028,10.918702,108.087332,,,Phường Tiến Thành,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO13033,10.967358,108.130896,,,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
+B.LDO13033,10.967358,108.130896,,,Phường Hàm Thắng,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO13037,11.297757,108.446597,,,Xã Hải Ninh,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO13047,10.670972,107.774472,,,Phường Phước Hội,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO13048,10.647965,107.751136,,,Phường Phước Hội,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
@@ -7438,7 +7438,7 @@ B.LDO13369,11.731737,108.185138,,,Xã Tân Hà Lâm Hà,Tỉnh Lâm Đồng,LDO-
 B.LDO13370,11.789275,108.230077,,,Xã Đinh Văn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO13373,11.80571,108.230768,,,Xã Phú Sơn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO13374,11.792014,108.240491,,,Xã Đinh Văn Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO13375,11.776068,108.289393,,,Xã Đức Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
+B.LDO13375,11.776068,108.289393,,,Lâm Hà,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO13377,12.453624,107.631537,,,Xã Đức Lập,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.LDO13380,11.538528,107.77466,,,Xã Đức Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO13381,11.630966,107.881006,,,Xã Bảo Lâm 1,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
@@ -10095,7 +10095,7 @@ C.CMA10355,9.189737,105.312691,Gia Rai,Bạc Liêu,Xã Phong Thạnh,Tỉnh Cà 
 C.CMA10356,9.207923,105.17424,Ca Mau,Cà Mau,Phường An Xuyên,Tỉnh Cà Mau,Mtay,Hứa Ngọc Minh Trang
 C.CMA10382,9.229747,105.653488,Hoa Binh,Bạc Liêu,Xã Vĩnh Hậu,Tỉnh Cà Mau,Mtay,Nguyễn Như Ý
 C.CMA10398,9.194024,105.140686,Ca Mau,Cà Mau,Phường An Xuyên,Tỉnh Cà Mau,Mtay,Hứa Ngọc Minh Trang
-C.CMA10415,,,,,,,Mtay,Cao Văn Lộc
+C.CMA10415,10.191155,105.151009,,,,,Mtay,Cao Văn Lộc
 C.CMA10417,8.952359,105.054955,Cai Nuoc,Cà Mau,Xã Hưng Mỹ,Tỉnh Cà Mau,Mtay,Hứa Ngọc Minh Trang
 C.CMA10419,9.350473,105.159309,Thoi Binh,Cà Mau,Xã Thới Bình,Tỉnh Cà Mau,Mtay,Hứa Ngọc Minh Trang
 C.CMA10420,9.164084,105.147964,Ca Mau,Cà Mau,Phường Lý Văn Lâm,Tỉnh Cà Mau,Mtay,Hứa Ngọc Minh Trang
@@ -10486,7 +10486,7 @@ C.CTH10631,10.030009,105.60817,Thoi Lai,Cần Thơ,Xã Trường Thành,Thành p
 C.CTH10632,10.023548,105.617134,Thoi Lai,Cần Thơ,Xã Trường Thành,Thành phố Cần Thơ,Mtay,Nguyễn Quốc Cường
 C.CTH10659,10.13629,105.545097,Co Do,Cần Thơ,Xã Thới Hưng,Thành phố Cần Thơ,Mtay,Nguyễn Quốc Cường
 C.CTH10662,10.08525,105.699997,Binh Thuy,Cần Thơ,Phường Thới An Đông,Thành phố Cần Thơ,Mtay,Nguyễn Quốc Cường
-C.CTH10663,,,Binh Thuy,Cần Thơ,Phường Thới An Đông,Thành phố Cần Thơ,Mtay,Nguyễn Quốc Cường
+C.CTH10663,10.049653,105.745972,Binh Thuy,Cần Thơ,Phường Thới An Đông,Thành phố Cần Thơ,Mtay,Nguyễn Quốc Cường
 C.CTH10669,9.746967,105.548279,Vi Thuy,Hậu Giang,Xã Vị Thuỷ,Thành phố Cần Thơ,Mtay,Huỳnh Minh Triều
 C.CTH10670,10.080767,105.439072,Co Do,Cần Thơ,Xã Cờ Đỏ,Thành phố Cần Thơ,Mtay,Nguyễn Quốc Cường
 C.CTH10671,10.083514,105.653397,O Mon,Cần Thơ,Phường Phước Thới,Thành phố Cần Thơ,Mtay,Nguyễn Quốc Cường
@@ -12531,7 +12531,7 @@ C.DNI12267,10.89296,106.8498,Bien Hoa,Đồng Nai,Phường Long Hưng,Thành ph
 C.DNI12269,,,Dinh Quan,Đồng Nai,Xã La Ngà,Thành phố Đồng Nai,DNI-BPH,Đoàn Quốc Khánh
 C.DNI12270,10.98061,106.844482,Bien Hoa,Đồng Nai,Phường Tân Triều,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
 C.DNI12271,10.94773,107.260239,Long Khanh,Đồng Nai,Phường Bảo Vinh,Thành phố Đồng Nai,DNI-BPH,Trần Văn Xuyến
-C.DNI12272,,,Thong Nhat,Đồng Nai,Phường Dầu Giây,Thành phố Đồng Nai,DNI-BPH,Ngô Văn Cảnh
+C.DNI12272,10.870221,107.095772,Thong Nhat,Đồng Nai,Phường Dầu Giây,Thành phố Đồng Nai,DNI-BPH,Ngô Văn Cảnh
 C.DNI12280,10.988505,106.868462,Bien Hoa,Đồng Nai,Phường Trảng Dài,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
 C.DNI12319,10.970753,106.958656,Trang Bom,Đồng Nai,Xã Bình Minh,Thành phố Đồng Nai,DNI-BPH,Ngô Văn Cảnh
 C.DNI12320,10.98452,106.832733,Bien Hoa,Đồng Nai,Phường Tân Triều,Thành phố Đồng Nai,DNI-BPH,Phạm Quý Bôn
@@ -16004,3 +16004,4 @@ UBND xã Tân An,10.8074617,105.1897975,Tan Chau,An Giang,Xã Tân An,Tỉnh An 
 UBND_Xã Mỹ Hòa Hưng,,,,,,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
 UBNN Xã Phú Hữu An Giang,,,,,,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
 UBNN_Xã Châu Phú_An Giang,10.457,105.123,,,,,Mtay,Huỳnh Đặng Tứ Khá
+C.DNO00114,12.448393,107.624077,,,,,Tây Nguyên,Đắk Lắk
