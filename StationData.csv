@@ -3845,7 +3845,7 @@ B.DNI13147,10.749167,106.94443,,,,,DNI-BPH,Nguyễn Minh Thuận
 B.DNI13149,10.954191,106.995382,,,Xã Trảng Bom,Tỉnh Đồng Nai,DNI-BPH,
 B.DNI13150,10.990838,106.865887,,,Phường Trảng Dài,Tỉnh Đồng Nai,DNI-BPH,Phạm Quý Bôn
 B.DNI13151,10.991877,106.860563,,,Phường Trảng Dài,Tỉnh Đồng Nai,DNI-BPH,Nguyễn Viết Định
-B.DNI13152,10.991877,106.860563,,,,,DNI-BPH,
+B.DNI13152,10.991877,106.860563,,,,,DNI-BPH,Nguyễn Viết Định
 B.DNI13153,11.025299,107.062841,,,,,DNI-BPH,
 B.DNI13155,10.794076,106.936358,,,Xã An Phước,Tỉnh Đồng Nai,DNI-BPH,Nguyễn Minh Thuận
 B.DNI13156,10.750601,106.917921,,,Xã Nhơn Trạch,Tỉnh Đồng Nai,DNI-BPH,
@@ -3923,6 +3923,7 @@ B.DNI13395,10.864871,106.967001,Trang Bom,Đồng Nai,Phường Tam Phước,Th�
 B.DNI13396,10.773994,107.35153,,,,,DNI-BPH,Trần Văn Xuyến
 B.DNI13396,,,Cam My,Đồng Nai,Xã Cẩm Mỹ,Thành phố Đồng Nai,DNI-BPH,Trần Văn Xuyến
 B.DNI13415,10.915509,106.823739,,,,,DNI-BPH,
+B.DNI11639,,,,,Phường Tân Triều,Tỉnh Đồng Nai,DNI-BPH,Phạm Quý Bôn
 B.DNI13416,10.974119,106.845619,,,Phường Tân Triều,Tỉnh Đồng Nai,DNI-BPH,Phạm Quý Bôn
 B.DNI13417,11.419425,106.615352,Chon Thanh,Bình Phước,Phường Chơn Thành,Thành phố Đồng Nai,DNI-BPH,Võ Hồng Khanh
 B.DNI13418,11.5414386,106.8941798,Dong Xoai,Bình Phước,Phường Bình Phước,Thành phố Đồng Nai,DNI-BPH,Huỳnh Thanh Long
@@ -3944,6 +3945,7 @@ B.DNI13459,10.95397,106.88968,,,Phường Long Bình,Tỉnh Đồng Nai,DNI-BPH,
 B.DNI13460,11.912977,106.703971,,,Xã Tân Tiến,Tỉnh Đồng Nai,DNI-BPH,Võ Hồng Khanh
 B.DNI13461,10.95738,106.80619,Bien Hoa,Đồng Nai,Phường Trấn Biên,Thành phố Đồng Nai,DNI-BPH,Nguyễn Viết Định
 B.DNI13482,10.803691,106.928527,,,Xã An Phước,Tỉnh Đồng Nai,DNI-BPH,Nguyễn Minh Thuận
+B.DNI14272,,,Trang Bom,Đồng Nai,Phường Tam Phước,Thành phố Đồng Nai,DNI-BPH,Nguyễn Viết Định
 B.DNI13483,10.865899,106.969336,Trang Bom,Đồng Nai,Phường Tam Phước,Thành phố Đồng Nai,DNI-BPH,Nguyễn Viết Định
 B.DNI13485,10.965912,107.311556,,,Phường Bảo Vinh,Tỉnh Đồng Nai,DNI-BPH,Trần Văn Xuyến
 B.DNI13486,10.767832,107.23916,,,Xã Cẩm Mỹ,Tỉnh Đồng Nai,DNI-BPH,Trần Văn Xuyến
@@ -5053,6 +5055,7 @@ B.HUG00001,9.828288,105.810966,Nga Bay,Hậu Giang,Phường Ngã Bảy,Thành p
 B.HUG00004,9.783982,105.469842,Vi Thanh,Hậu Giang,Phường Vị Tân,Thành phố Cần Thơ,Mtay,Huỳnh Minh Triều
 B.HUG00008,9.754137,105.4177,Vi Thanh,Hậu Giang,Phường Vị Thanh,Thành phố Cần Thơ,Mtay,Huỳnh Minh Triều
 B.HUG00011,9.768325,105.507852,Vi Thuy,Hậu Giang,Xã Vị Thuỷ,Thành phố Cần Thơ,Mtay,Huỳnh Minh Triều
+B.CTH11639,,,Chau Thanh A,Cần Thơ,Xã Thạnh Xuân,Thành phố Cần Thơ,Mtay,Nguyễn Quốc Cường
 B.HUG00012,9.955017,105.733246,Chau Thanh A,Cần Thơ,Xã Thạnh Xuân,Thành phố Cần Thơ,Mtay,Nguyễn Quốc Cường
 B.HUG00013,10.84349,106.8423,,,,,Mtay,Huỳnh Minh Triều
 B.HUG00015,9.923635,105.725288,Chau Thanh A,Cần Thơ,Xã Đông Phước,Thành phố Cần Thơ,Mtay,Huỳnh Minh Triều
@@ -6041,7 +6044,7 @@ B.LDO10016,11.04349,108.387981,Bac Binh,Bình Thuận,Xã Hoà Thắng,Tỉnh L�
 B.LDO10017,11.311315,108.76225,Tuy Phong,Bình Thuận,Xã Vĩnh Hảo,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO10018,11.256969,107.641114,,,,,LDO-BTH,Hứa Văn Thiện
 B.LDO10019,10.927954,108.041926,Ham Thuan Nam,Bình Thuận,Xã Tuyên Quang,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Quốc Phi
-B.LDO10020,11.152011,107.621715,,,,,LDO-BTH,Nguyễn Quốc Phi
+B.LDO10020,11.152011,107.621715,,,,,LDO-BTH,Hứa Văn Thiện
 B.LDO10021,11.194018,108.284431,Bac Binh,Bình Thuận,Xã Sông Luỹ,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO10022,11.193948,108.550731,Bac Binh,Bình Thuận,Xã Bắc Bình,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
 B.LDO10023,11.233234,108.74247,Tuy Phong,Bình Thuận,Xã Liên Hương,Tỉnh Lâm Đồng,LDO-BTH,Lê Trần Đại Dương
@@ -6417,7 +6420,7 @@ B.LDO10828,12.000291,108.416273,Da Lat,Lâm Đồng,Phường Lang Biang - Đà 
 B.LDO10829,11.974023,108.474603,Da Lat,Lâm Đồng,Phường Lâm Viên - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10830,11.940688,108.51492,Da Lat,Lâm Đồng,Phường Xuân Trường - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10831,11.934104,108.512773,Da Lat,Lâm Đồng,Phường Xuân Trường - Đà Lạt,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
-B.LDO10843,11.995891,107.686691,Gia Nghia,Đắk Nông,Phường Đông Gia Nghĩa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
+B.LDO10843,11.995891,107.686691,Gia Nghia,Đắk Nông,Phường Đông Gia Nghĩa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Hải Nguyên
 B.LDO10844,11.993223,107.689296,Gia Nghia,Đắk Nông,Phường Đông Gia Nghĩa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
 B.LDO10845,11.994276,107.686333,Gia Nghia,Đắk Nông,Phường Đông Gia Nghĩa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
 B.LDO10846,11.994337,107.686313,Gia Nghia,Đắk Nông,Phường Đông Gia Nghĩa,Tỉnh Lâm Đồng,LDO-BTH,Nguyễn Sơn Nam
