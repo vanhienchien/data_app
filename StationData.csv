@@ -4252,9 +4252,6 @@ B.DNO00138,12.449055,107.628807,Dak Mil,Đắk Nông,Xã Đức Lập,Tỉnh Lâ
 B.DNO00140,12.474441,107.86216,Krong No,Đắk Nông,Xã Nam Đà,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.DNO00143,12.004888,107.694023,Gia Nghia,Đắk Nông,Phường Bắc Gia Nghĩa,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 B.DNO00144,12.009767,107.684678,,,Phường Bắc Gia Nghĩa,Tỉnh Lâm Đồng,Tây Nguyên,Nguyễn Sơn Nam
-B.DTH00030,10.84349,106.8423,,,,,Mtay,
-B.DTH10032,10.310082,105.53626,,,,,Mtay,
-B.DTH10196,10.383861,105.013,Tri Ton,An Giang,Xã Cô Tô,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
 B.GLA00005,14.041732,107.986717,Pleiku,Gia Lai,Phường Thống Nhất,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 B.GLA00008,13.976425,108.479721,Dak Po,Gia Lai,Xã Đak Pơ,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 B.GLA00009,13.985324,108.008156,Pleiku,Gia Lai,Phường Pleiku,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
@@ -7741,8 +7738,6 @@ B.LDO14381,,,,,Xã Đức Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO14386,,,Duc Linh,Bình Thuận,Xã Đức Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
 B.LDO9999,,,,,,,LDO-BTH,Nguyễn Hải Nguyên
 B.LOD10128,11.078630924,107.6950575,Tanh Linh,Bình Thuận,Xã Tánh Linh,Tỉnh Lâm Đồng,LDO-BTH,Hứa Văn Thiện
-B.NBI,20.3493,105.8798,,,,,Mtay,
-B.NBI10450,10.196975,106.052339,Mang Thit,Vĩnh Long,Xã Bình Phước,Tỉnh Vĩnh Long,Mtay,Trường Giang
 B.NTH00004,11.563978,109.008957,Phan Rang-Thap Cham,Ninh Thuận,Phường Đông Hải,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
 B.NTH00006,11.560732,108.976387,Ninh Phuoc,Ninh Thuận,Xã Ninh Phước,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
 B.NTH00007,11.575199,109.02401,Phan Rang-Thap Cham,Ninh Thuận,Phường Đông Hải,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
@@ -12858,23 +12853,6 @@ C.DNO0142,11.966166,107.709076,Gia Nghia,Đắk Nông,Phường Đông Gia Nghĩ
 C.DNO0143,12.004888,107.694023,Gia Nghia,Đắk Nông,Phường Bắc Gia Nghĩa,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 C.DNO0144,12.009777,107.684639,Gia Nghia,Đắk Nông,Phường Bắc Gia Nghĩa,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
 C.DNO0145,12.262444,107.611473,Dak Song,Đắk Nông,Xã Đức An,Tỉnh Lâm Đồng,Tây Nguyên,Đắk Nông
-C.DTH00151,10.23186,106.202667,Cho Lach,Bến Tre,Xã Chợ Lách,Tỉnh Vĩnh Long,Mtay,Lê Minh Tiến
-C.DTH00169,11.505821,107.741,Bao Loc,Lâm Đồng,Phường 3 Bảo Lộc,Tỉnh Lâm Đồng,DNI-BPH,Nguyễn Hải Nguyên
-C.DTH00170,10.813041,105.089,An Phu,An Giang,Xã An Phú,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
-C.DTH10196,10.383861,105.013,Tri Ton,An Giang,Xã Cô Tô,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
-C.DTH10845,10.16066,105.500732,Co Do,Cần Thơ,Xã Trung Hưng,Thành phố Cần Thơ,Mtay,Nguyễn Quốc Cường
-C.DTH10847,10.25402,105.382301,Thoai Son,Cần Thơ,Xã Phú Hoà,Tỉnh An Giang,Mtay,Nguyễn Quốc Cường
-C.DTH10849,10.39063,105.382492,Long Xuyen,An Giang,Phường Bình Đức,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
-C.DTH10851,10.31121,105.503677,Thot Not,Cần Thơ,Phường Thốt Nốt,Thành phố Cần Thơ,Mtay,Nguyễn Quốc Cường
-C.DTH10854,10.27496,105.41507,Thoai Son,Cần Thơ,Xã Phú Hoà,Tỉnh An Giang,Mtay,Nguyễn Quốc Cường
-C.DTH10858,10.20082,105.365013,Vinh Thanh,Cần Thơ,Xã Thạnh Quới,Thành phố Cần Thơ,Mtay,Nguyễn Quốc Cường
-C.DTH10859,10.48487,105.20417,Chau Phu,An Giang,Xã Bình Mỹ,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
-C.DTH10861,10.28263,105.380692,Thoai Son,An Giang,Xã Phú Hoà,Tỉnh An Giang,Mtay,Huỳnh Đặng Tứ Khá
-C.DTH10862,10.2719,105.380959,Thoai Son,Cần Thơ,Xã Phú Hoà,Tỉnh An Giang,Mtay,Nguyễn Quốc Cường
-C.DTH10866,10.24451,105.43129,Vinh Thanh,Cần Thơ,Xã Vĩnh Thạnh,Thành phố Cần Thơ,Mtay,Nguyễn Quốc Cường
-C.DTH10893,10.24551,105.32589,Vinh Thanh,Cần Thơ,Xã Thạnh Quới,Thành phố Cần Thơ,Mtay,Nguyễn Quốc Cường
-C.DTH10923,10.27132,105.391747,Thoai Son,Cần Thơ,Xã Phú Hoà,Tỉnh An Giang,Mtay,Nguyễn Quốc Cường
-C.DTH11257,9.596441,105.357582,Go Quao,Bạc Liêu,Xã Vĩnh Tuy,Tỉnh An Giang,Mtay,Nguyễn Như Ý
 C.ESKY,,,,Bình Phước,,,DNI-BPH,Huỳnh Thanh Long
 C.GLA00010,13.662765,108.11937,Chu Se,Gia Lai,Xã Chư Sê,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
 C.GLA00011,13.974888,108.734383,An Khe,Gia Lai,Xã Cửu An,Tỉnh Gia Lai,Tây Nguyên,Gia Lai
@@ -14718,26 +14696,6 @@ C.NAN10438,10.917719,107.672974,Tanh Linh,Bình Thuận,Xã Suối Kiết,Tỉnh
 C.NAN10589,9.96048,105.924843,Tra On,Vĩnh Long,Xã Trà Ôn,Tỉnh Vĩnh Long,Mtay,Trường Giang
 C.NAN11017,11.82527,106.965004,Phuoc Long,Bình Phước,Phường Phước Bình,Thành phố Đồng Nai,DNI-BPH,Võ Hồng Khanh
 C.NAN11240,15.82822,108.177063,Duy Xuyen,Quảng Nam,Xã Thu Bồn,Thành phố Đà Nẵng,DNA-QNA,Lê Văn Thi
-C.NBI0128,10.07032,106.064552,Tra On,Vĩnh Long,Xã Hoà Bình,Tỉnh Vĩnh Long,Mtay,Trường Giang
-C.NBI5027,9.611137,105.111137,U Minh Thuong,Kiên Giang,Xã U Minh Thượng,Tỉnh An Giang,Mtay,Cao Văn Lộc
-C.NBI5035,9.611145,105.111145,U Minh Thuong,Kiên Giang,Xã U Minh Thượng,Tỉnh An Giang,Mtay,Cao Văn Lộc
-C.NBI5093,9.611203,105.111206,U Minh Thuong,Kiên Giang,Xã U Minh Thượng,Tỉnh An Giang,Mtay,Cao Văn Lộc
-C.NBI5099,9.611209,105.111206,U Minh Thuong,Kiên Giang,Xã U Minh Thượng,Tỉnh An Giang,Mtay,Cao Văn Lộc
-C.NBI5104,9.611214,105.111214,U Minh Thuong,Kiên Giang,Xã U Minh Thượng,Tỉnh An Giang,Mtay,Cao Văn Lộc
-C.NBI5111,9.611221,105.111221,U Minh Thuong,Kiên Giang,Xã U Minh Thượng,Tỉnh An Giang,Mtay,Cao Văn Lộc
-C.NBI5120,9.61123,105.111229,U Minh Thuong,Kiên Giang,Xã U Minh Thượng,Tỉnh An Giang,Mtay,Cao Văn Lộc
-C.NBI5161,9.611271,105.111275,U Minh Thuong,Kiên Giang,Xã U Minh Thượng,Tỉnh An Giang,Mtay,Cao Văn Lộc
-C.NBI5169,9.611279,105.111282,U Minh Thuong,Kiên Giang,Xã U Minh Thượng,Tỉnh An Giang,Mtay,Cao Văn Lộc
-C.NBI5195,9.611305,105.111305,U Minh Thuong,Kiên Giang,Xã U Minh Thượng,Tỉnh An Giang,Mtay,Cao Văn Lộc
-C.NBI5201,9.611311,105.111313,U Minh Thuong,Kiên Giang,Xã U Minh Thượng,Tỉnh An Giang,Mtay,Cao Văn Lộc
-C.NBI5230,9.61134,105.111343,U Minh Thuong,Kiên Giang,Xã U Minh Thượng,Tỉnh An Giang,Mtay,Cao Văn Lộc
-C.NBI5271,9.611381,105.111382,U Minh Thuong,Kiên Giang,Xã U Minh Thượng,Tỉnh An Giang,Mtay,Cao Văn Lộc
-C.NBI5287,9.611397,105.111397,U Minh Thuong,Kiên Giang,Xã U Minh Thượng,Tỉnh An Giang,Mtay,Cao Văn Lộc
-C.NBI5296,9.611406,105.111404,U Minh Thuong,Kiên Giang,Xã U Minh Thượng,Tỉnh An Giang,Mtay,Cao Văn Lộc
-C.NBI5303,9.611413,105.111412,U Minh Thuong,Kiên Giang,Xã U Minh Thượng,Tỉnh An Giang,Mtay,Cao Văn Lộc
-C.NBI5315,9.611425,105.111427,U Minh Thuong,Kiên Giang,Xã U Minh Thượng,Tỉnh An Giang,Mtay,Cao Văn Lộc
-C.NBI5318,9.611428,105.111427,U Minh Thuong,Kiên Giang,Xã U Minh Thượng,Tỉnh An Giang,Mtay,Cao Văn Lộc
-C.NBI5350,9.61146,105.111458,U Minh Thuong,Kiên Giang,Xã U Minh Thượng,Tỉnh An Giang,Mtay,Cao Văn Lộc
 C.NTH00004,11.563978,109.008957,Phan Rang-Thap Cham,Ninh Thuận,Phường Đông Hải,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
 C.NTH00006,11.561313,108.976151,Ninh Phuoc,Ninh Thuận,Xã Ninh Phước,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
 C.NTH00012,11.602336,108.989754,Phan Rang-Thap Cham,Ninh Thuận,Phường Bảo An,Tỉnh Khánh Hòa,LDO-BTH,Nguyễn Thanh Tuấn
